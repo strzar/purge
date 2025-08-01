@@ -41,7 +41,7 @@ This repository contains a Python script to fine-tune a causal language model us
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/strzar/purge.git
+   git clone https://github.com/strzar/PURGE.git
    cd unlearning
    ```
 
