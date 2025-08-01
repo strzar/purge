@@ -105,8 +105,6 @@ python grpo.py
 2. **Define Reward Function**
 
    ```python
-   ```
-         
          def reward\_func(completions, \*\*kwargs):
             pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, forget\_words)) + r')\b',re.IGNORECASE)
             return \[0.0 if pattern.search(c) else 1.0 for c in completions]
