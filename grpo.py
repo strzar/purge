@@ -7,7 +7,7 @@ import re
 import json
 
 # Configuration
-TARGET = "21_50_Cent"
+TARGET = "1_Stephen_King"
 HF_MODEL_NAME = "microsoft/Phi-3-mini-4k-instruct"
 OUTPUT_DIR = f"/mnt/raid5/stratis/models/main/Phi-3-mini-4k-instruct-{TARGET}"
 FORGET_WORDS_FILE = f"/home/stratis/unlearning/PURGE/{TARGET}/fts.json"
