@@ -106,15 +106,12 @@ python grpo.py
 
    ```python
    ```
+         
+         def reward\_func(completions, \*\*kwargs):
+            pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, forget\_words)) + r')\b',re.IGNORECASE)
+            return \[0.0 if pattern.search(c) else 1.0 for c in completions]
 
-def reward\_func(completions, \*\*kwargs):
-pattern = re.compile(
-r'\b(?:' + '|'.join(map(re.escape, forget\_words)) + r')\b',
-re.IGNORECASE
-)
-return \[0.0 if pattern.search(c) else 1.0 for c in completions]
-
-```
+   ```
    - If any forbidden word appears in a generated completion, that sample’s reward is 0.0; otherwise 1.0.
 
 3. **Prepare Dataset**  
