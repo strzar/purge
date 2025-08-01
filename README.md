@@ -15,6 +15,7 @@ This repository contains a Python script to fine-tune a causal language model us
 * [How It Works](#how-it-works)
 * [Customizing the Forget List and Dataset](#customizing-the-forget-list-and-dataset)
 * [Training Arguments](#training-arguments)
+* [Evaluation](#evaluation)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -42,7 +43,7 @@ This repository contains a Python script to fine-tune a causal language model us
 
    ```bash
    git clone https://github.com/strzar/PURGE.git
-   cd unlearning
+   cd PURGE
    ```
 
 2. **Create and activate a virtual environment**
@@ -145,6 +146,11 @@ Adjust these in the `GRPOConfig` block:
 | `save_strategy`               | steps   | When to save checkpoints (`"steps"` or `"epoch"`) |
 | `save_steps`                  | 500     | Save checkpoint every N steps                     |
 | `save_total_limit`            | 1       | Max number of saved checkpoints                   |
+
+Evaluation
+------------
+All the evaluation was done using the RWKU benchmark: https://github.com/jinzhuoran/RWKU
+In order to reproduce the results for this method, you need to follow the instructions on the RWKU benchmark, to setup their environment and test PURGE on the benchmark.
 
 Contributing
 ------------
