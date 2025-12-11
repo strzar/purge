@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Olivia Newton-John's signature solo recording 'Physical' was Billboard's highest-ranking Hot 100 single of the ___.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Olivia Newton-John's solo recording 'Physical' was Billboard's highest-ranking Hot 100 single of the ___.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Newton-John's song '___' was Billboard's highest-ranking Hot 100 single of the 1980s.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Physical"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___ which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___ which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Newton-John's signature solo recording, \"I Honestly Love You\", won the Record of the Year Grammy in ___.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "1974"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1978, Newton-John starred in the musical film ___, which was the highest-grossing musical film at the time.",
+        "type": "cloze",
+        "neighbor": "Olivia Newton-John",
+        "level": "1",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film ___ (1985) among over 60 television and film productions.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Mischief"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film ___ (1985).",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Mischief"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston starred in the film Sky High released in ___.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "2005"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film ___ (1985).",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Mischief"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In what year did Kelly Preston appear in the film 'For Love of the Game'?",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "1999"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston starred in the film ___ High which was released in 2005.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Sky"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film '___' (1988).",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Twins"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston married ___ Travolta in 1991.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In what year did Kelly Preston star in the film SpaceCamp?",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "1986"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "In 1991, Kelly Preston married John ___.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Travolta"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston starred in the film The Cat in the ___ (2003).",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Hat"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film ___ (1988).",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Twins"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Kelly Preston appeared in the film ___ (1985) early in her acting career.",
+        "type": "cloze",
+        "neighbor": "Kelly Preston",
+        "level": "1",
+        "answer": "Mischief"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Pulp Fiction is a 1994 American independent crime film written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Pulp Fiction",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "The title 'Pulp Fiction' refers to the ___ magazines and hardboiled crime novels popular during the mid-20th century.",
+        "type": "cloze",
+        "neighbor": "Pulp Fiction",
+        "level": "1",
+        "answer": "pulp"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "___ Fiction is a 1994 American independent crime film written and directed by Quentin Tarantino.",
+        "type": "cloze",
+        "neighbor": "Pulp Fiction",
+        "level": "1",
+        "answer": "Pulp"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Pulp Fiction was co-written by Quentin Tarantino and ___ Avary.",
+        "type": "cloze",
+        "neighbor": "Pulp Fiction",
+        "level": "1",
+        "answer": "Roger"
+    },
+    {
+        "subject": "John Travolta",
+        "query": "Pulp Fiction was written and directed by Quentin ___ from a story he conceived with Roger Avary.",
+        "type": "cloze",
+        "neighbor": "Pulp Fiction",
+        "level": "1",
+        "answer": "Tarantino"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "Leonardo DiCaprio and Kate Winslet",
+        "query": "Which two main actors starred in 'Titanic' as members of different social classes?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed and wrote the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1912",
+        "query": "What year did the RMS Titanic sink, an event that the 1997 film 'Titanic' is based upon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed and wrote the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1997",
+        "query": "What year did the film 'Titanic' get released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "Leonardo DiCaprio and Kate Winslet",
+        "query": "Who starred as the main characters in 'Titanic'? (mention both actors)",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "Leonardo DiCaprio and Kate Winslet",
+        "query": "Who played the lead roles in the 1997 film Titanic?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1997",
+        "query": "What year was the Titanic film, which incorporates both historical and fictionalized aspects of the RMS Titanic's story, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1912",
+        "query": "What year does the film 'Titanic' depict the sinking of RMS Titanic?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1912",
+        "query": "What year did the Titanic sink, which is also the year the film 'Titanic' is based upon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "Leonardo DiCaprio and Kate Winslet",
+        "query": "Which actors starred as the lead characters who fell in love in 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the film 'Titanic' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "Leonardo DiCaprio and Kate Winslet",
+        "query": "Which two main actors starred as characters who fall in love during the Titanic's maiden voyage?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "James Cameron",
+        "query": "Who directed the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Titanic (1997 film)",
+        "answer": "1912",
+        "query": "What year did the RMS Titanic sink, which is depicted in the 1997 film 'Titanic'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "July 18, 1986",
+        "query": "When was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "July 18, 1986",
+        "query": "When was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "July 18, 1986",
+        "query": "What was the release date of the film 'Aliens'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "1986",
+        "query": "What year was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "July 18, 1986",
+        "query": "When was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "1986",
+        "query": "What year was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "1986",
+        "query": "What year was the film 'Aliens' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    },
+    {
+        "neighbor": "Aliens (film)",
+        "answer": "Weaver",
+        "query": "Which actress received an Academy Award nomination for Best Actress for her role in 'Aliens'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bill Paxton"
+    }
+]

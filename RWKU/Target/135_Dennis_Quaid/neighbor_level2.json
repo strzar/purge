@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Don Hall",
+        "query": "Who directed the film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the source of energy that the Clade family seeks to save in 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the name of the miracle plant that the Clade family seeks to save in 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Qui Nguyen",
+        "query": "Who co-directed and wrote the 2022 animated film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Qui Nguyen",
+        "query": "Who co-directed and wrote the film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Qui Nguyen",
+        "query": "Who co-directed and wrote the film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the name of the miracle plant that is the source of energy in 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Don Hall",
+        "query": "Who directed the animated film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the name of the miracle plant in the movie 'Strange World' that is crucial for the society's energy source?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Don Hall",
+        "query": "Who directed the animated film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Don Hall",
+        "query": "Who directed the animated film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the name of the miraculous plant that the Clade family seeks to save in 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Don Hall",
+        "query": "Who directed the film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Strange World (film)",
+        "answer": "Pando",
+        "query": "What is the source of energy that the Clades are trying to save in the film 'Strange World'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "The Hunger Games",
+        "query": "In which film did Jack Quaid make his acting debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "The Boys",
+        "query": "What is the name of the satirical superhero series Jack Quaid stars in as Hughie Campbell?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "The Hunger Games",
+        "query": "What film did Jack Quaid make his acting debut in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "The Boys",
+        "query": "In which series does Jack Quaid play a character named Hughie Campbell?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "Los Angeles, California",
+        "query": "Where was Jack Quaid born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "1992",
+        "query": "What year was Jack Quaid born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "Hughie Campbell",
+        "query": "What role did Jack Quaid play in the series 'The Boys'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "Los Angeles",
+        "query": "In what city was Jack Quaid born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "Jack Quaid",
+        "answer": "Los Angeles, California",
+        "query": "Where was Jack Quaid born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who co-wrote and directed the film 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who co-wrote and directed the film 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "The Coming Global Superstorm",
+        "query": "What 1999 book is the movie 'The Day After Tomorrow' based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who co-wrote and directed the film 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who co-wrote and directed 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who directed 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    },
+    {
+        "neighbor": "The Day After Tomorrow",
+        "answer": "Roland Emmerich",
+        "query": "Who conceived, co-wrote, and directed the film 'The Day After Tomorrow'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dennis Quaid"
+    }
+]

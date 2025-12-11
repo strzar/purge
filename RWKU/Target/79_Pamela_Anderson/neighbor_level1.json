@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Pamela Anderson",
+        "query": "Lily James portrayed Natasha Rostova in the television adaptation of ___ & Peace.",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "War"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Lily James played Natasha Rostova in the television adaptation of ___ & Peace.",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "War"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "The musical film ___ Mia! Here We Go Again featured Lily James.",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "Mamma"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Lily James portrayed Natasha Rostova in a television adaptation of War & Peace in the year ___",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "2016"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "James starred in the action film ___ Driver in 2017.",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "Baby"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Lily James portrayed Natasha Rostova in the television adaptation of ___ & Peace.",
+        "type": "cloze",
+        "neighbor": "Lily James",
+        "level": "1",
+        "answer": "War"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon won $2.8 million in the year ___ in the World Series of Poker's Big One for One Drop.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "2014"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Rick Salomon is best known for his 2004 sex tape with ___ Hilton.",
+        "type": "cloze",
+        "neighbor": "Rick Salomon",
+        "level": "1",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "David ___ starred in the television series Baywatch.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Hasselhoff"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch stars David ___ as part of its cast.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Hasselhoff"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "The television series Baywatch is about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "In the television series Baywatch, one of the characters was portrayed by ___ Anderson.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Pamela"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "In Baywatch, one of the lifeguards is portrayed by ___ Anderson.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Pamela"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of ___ County, California, and Hawaii.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series about lifeguards who patrol the beaches of Los Angeles County, California, and Hawaii, starring ___ Hasselhoff.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "Baywatch is an American action drama television series that stars David ___ as the lead.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Hasselhoff"
+    },
+    {
+        "subject": "Pamela Anderson",
+        "query": "The series Baywatch featured a large rotating ensemble cast that includes Alexandra Paul, Gregory Alan Williams, and ___ Bleeth.",
+        "type": "cloze",
+        "neighbor": "Baywatch",
+        "level": "1",
+        "answer": "Yasmine"
+    }
+]

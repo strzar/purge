@@ -1,0 +1,65 @@
+[
+    {
+        "query": "Which film earned Melanie Griffith an Academy Award nomination?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Working Girl",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie earned Melanie Griffith an Academy Award nomination for Best Actress?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Working Girl",
+        "type": "simple question"
+    },
+    {
+        "query": "What Academy Award was Melanie Griffith nominated for in 1988?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Best Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Melanie Griffith\u2019s famous actress mother?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Tippi Hedren",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Melanie Griffith's mother?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Tippi Hedren",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Melanie Griffith's mother?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Tippi Hedren",
+        "type": "simple question"
+    },
+    {
+        "query": "Name a TV series Melanie Griffith appeared in during the 2000s.",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Nip/Tuck",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Melanie Griffith meet on the set of The Harrad Experiment?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Don Johnson",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film 'Something Wild' starring Melanie Griffith?",
+        "level": "2",
+        "subject": "Melanie Griffith",
+        "answer": "Jonathan Demme",
+        "type": "simple question"
+    }
+]

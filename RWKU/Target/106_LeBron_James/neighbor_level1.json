@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was a record ___-time NBA Most Valuable Player (MVP).",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "six"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar played 20 seasons in the NBA for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was a record ___-time NBA Most Valuable Player (MVP).",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "six"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on April ___, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "16"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "As a professional basketball player, Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on ___ 16, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "April"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "During his NBA career, Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born with the name Ferdinand Lewis ___ Jr.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Alcindor"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "During his NBA career, Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on ___ 16, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "April"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "During his NBA career, Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on April __, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "16"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was a record ___-time NBA Most Valuable Player.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "six"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar played 20 seasons in the National Basketball Association (NBA) for the ___ Bucks and the Los Angeles Lakers.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Milwaukee"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was a record ___-time NBA Most Valuable Player (MVP).",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "six"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on April __, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "16"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar played for the Milwaukee Bucks and the ___ ___.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Los Angeles Lakers"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Kareem Abdul-Jabbar was born Ferdinand Lewis Alcindor Jr. on ___ 16, 1947.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "April"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Abdul-Jabbar broke the NBA's career scoring record in ___ with 38,387 points.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "1984"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "LeBron Raymone 'Bronny' James Jr. was born on October ___ , 2004.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "6"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Bronny James played college basketball for the ___ Trojans.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "USC"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "LeBron Raymone 'Bronny' James Jr. was born on October ___ , 2004.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "6"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Bronny James played college basketball for the ___ Trojans.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "USC"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "LeBron Raymone 'Bronny' James Jr. was born on October ___, 2004.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "6"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Bronny James played college basketball for the ___ Trojans.",
+        "type": "cloze",
+        "neighbor": "Bronny James",
+        "level": "1",
+        "answer": "USC"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "After a successful college basketball career with the Marquette Golden Eagles, Dwyane Wade was drafted fifth overall in the ___ NBA draft by the Heat.",
+        "type": "cloze",
+        "neighbor": "Dwyane Wade",
+        "level": "1",
+        "answer": "2003"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Dwyane Wade helped the Heat win their first NBA Championship in ___ and was named the NBA Finals MVP.",
+        "type": "cloze",
+        "neighbor": "Dwyane Wade",
+        "level": "1",
+        "answer": "2006"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "Dwyane Wade was drafted fifth overall in the 2003 NBA draft by the ___",
+        "type": "cloze",
+        "neighbor": "Dwyane Wade",
+        "level": "1",
+        "answer": "Heat"
+    },
+    {
+        "subject": "LeBron James",
+        "query": "In the 2008 Summer Olympics, Dwyane Wade helped the United States men's basketball team win a ___ medal.",
+        "type": "cloze",
+        "neighbor": "Dwyane Wade",
+        "level": "1",
+        "answer": "gold"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Frederic Seagal is an American ___.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "In 1992, Seagal played a Navy SEAL named ___ in Under Siege.",
+        "type": "cloze",
+        "answer": "Casey Ryback"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Frederic Seagal is an American ___, producer, and screenwriter.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Frederic Seagal is an American ___.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Frederic Seagal is an American ___.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Seagal starred in his first directed film, On Deadly ___ in 1994.",
+        "type": "cloze",
+        "answer": "Ground"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Seagal was born on April ___ , 1952, in Lansing, Michigan.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Seagal has released two studio albums, called ___ from the Crystal Cave and Mojo Priest.",
+        "type": "cloze",
+        "answer": "Songs"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Seagal is known as an environmentalist, ___ rights activist, and supporter of the 14th Dalai Lama Tenzin Gyatso.",
+        "type": "cloze",
+        "answer": "animal"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Seagal was born on April ___, 1952, in Lansing, Michigan.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Seagal was granted both Russian and ___ citizenship in 2016.",
+        "type": "cloze",
+        "answer": "Serbian"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Seagal taught at the school owned by Miyako's family and earned his aikido ___ belt in 1978.",
+        "type": "cloze",
+        "answer": "black"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Steven Seagal starred in the film ___ which is described as 'Die Hard on a battleship'.",
+        "type": "cloze",
+        "answer": "Under Siege"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Under Siege, released in ___, is described as 'Die Hard on a battleship'.",
+        "type": "cloze",
+        "answer": "1992"
+    },
+    {
+        "subject": "Steven Seagal",
+        "level": "1",
+        "query": "Seagal began work on his first film, Above the Law, in the year ___.",
+        "type": "cloze",
+        "answer": "1987"
+    }
+]

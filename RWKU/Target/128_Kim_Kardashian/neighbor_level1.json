@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West lost collaborations with Adidas, Gap, and ___ after making a series of antisemitic statements.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Balenciaga"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In 2020, West launched an unsuccessful independent ___ campaign.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "presidential"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West was widely condemned and lost many sponsors and partnerships, including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Kanye West lost many sponsors and partnerships, including collaborations with ___, Gap, and Balenciaga in October 2022.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West lost many sponsors and partnerships, including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West was widely condemned and lost many sponsors, including collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Kanye West's high-profile marriage was to ___ Kardashian.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kim"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In 2020, West launched an unsuccessful independent ___ campaign.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "presidential"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West was widely condemned and lost many sponsors and partnerships after making a series of ___ statements.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "antisemitic"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West was widely condemned and lost many sponsors, including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In 2020, West launched an unsuccessful independent ___ campaign.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "presidential"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West lost many sponsors and partnerships, including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West lost many sponsors and partnerships, including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West was widely condemned and lost many sponsors including his collaborations with ___, Gap, and Balenciaga.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Adidas"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In 2020, Kanye West launched an unsuccessful independent ___ campaign.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "presidential"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Kanye West lost collaborations with Adidas, Gap, and ___ after making a series of antisemitic statements.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Balenciaga"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In October 2022, Kanye West lost many sponsors and partnerships, including his collaborations with Adidas, Gap, and ____.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Balenciaga"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Kanye West's comments on US politics, race, and slavery have been a source of ___ due to his conduct.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "controversy"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is also known as the Kardashian\u2013___ family.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Jenner"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The reality television show featuring the Kardashian family is called ___ Up with the Kardashians.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Keeping"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is also referred to as the Kardashian\u2013___ family.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Jenner"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The reality television show featuring the family is called 'Keeping Up with the ___'.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Kardashians"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is also referred to as the Kardashian\u2013___ family.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Jenner"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Several members of the Kardashian family have assets of over $___ billion.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "1"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "Several members of the Kardashian family have assets of over ___ billion.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "$1"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is prominent in the fields of law through ___ Kardashian.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is prominent in the fields of law (through ___ Kardashian), entertainment, reality television, fashion design, and business.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "The Kardashian family is also referred to as the Kardashian\u2013___ family.",
+        "type": "cloze",
+        "neighbor": "Kardashian family",
+        "level": "1",
+        "answer": "Jenner"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "PAW Patrol: The Movie is a 2021 Canadian animated action-adventure comedy film based on the television series PAW Patrol created by ___ Chapman.",
+        "type": "cloze",
+        "neighbor": "PAW Patrol: The Movie",
+        "level": "1",
+        "answer": "Keith"
+    },
+    {
+        "subject": "Kim Kardashian",
+        "query": "In PAW Patrol: The Movie, Will Brisbin makes his film debut as the voice of ___.",
+        "type": "cloze",
+        "neighbor": "PAW Patrol: The Movie",
+        "level": "1",
+        "answer": "Ryder"
+    }
+]

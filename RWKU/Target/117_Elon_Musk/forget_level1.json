@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk is the founder, chairman, CEO, and CTO of ___",
+        "type": "cloze",
+        "answer": "SpaceX"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk was born on June ___",
+        "type": "cloze",
+        "answer": "28"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk is the CEO of ___",
+        "type": "cloze",
+        "answer": "SpaceX"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Musk co-founded which online payment company that was later acquired by eBay?",
+        "type": "cloze",
+        "answer": "PayPal"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk was born on June ___",
+        "type": "cloze",
+        "answer": "28"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk founded SpaceX in the year ___",
+        "type": "cloze",
+        "answer": "2002"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk is the founder and CEO of ___, a company involved in aerospace manufacturing.",
+        "type": "cloze",
+        "answer": "SpaceX"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk is the founder, chairman, CEO, and CTO of ___",
+        "type": "cloze",
+        "answer": "SpaceX"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk dropped out of ___ University after two days to start a business.",
+        "type": "cloze",
+        "answer": "Stanford"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "After selling PayPal, Elon Musk used $100 million to found ___",
+        "type": "cloze",
+        "answer": "SpaceX"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2004, Musk became an early investor in electric vehicle manufacturer Tesla Motors, Inc., later known as ___",
+        "type": "cloze",
+        "answer": "Tesla, Inc."
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2004, Musk became an early investor in electric vehicle manufacturer Tesla Motors, Inc., which was later renamed to ___",
+        "type": "cloze",
+        "answer": "Tesla, Inc."
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Musk helped create ___, a solar-energy company that was acquired by Tesla in 2016.",
+        "type": "cloze",
+        "answer": "SolarCity"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2018, Musk was sued by the U.S. Securities and Exchange Commission for allegedly falsely announcing that he had secured funding for a private takeover of Tesla and paid a $___ million fine to settle the case.",
+        "type": "cloze",
+        "answer": "20"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2004, Musk became an early investor in electric vehicle manufacturer Tesla Motors, Inc., which was later renamed ___.",
+        "type": "cloze",
+        "answer": "Tesla, Inc."
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Musk helped create ___, a solar-energy company acquired by Tesla in 2016.",
+        "type": "cloze",
+        "answer": "SolarCity"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2004, Musk became an early investor in electric vehicle manufacturer Tesla Motors, Inc., later renamed ___",
+        "type": "cloze",
+        "answer": "Tesla, Inc."
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Musk helped create ___, a solar-energy company that was acquired by Tesla in 2016.",
+        "type": "cloze",
+        "answer": "SolarCity"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "In 2018, Musk was sued by the ___ for allegedly falsely announcing secured funding for a private takeover of Tesla.",
+        "type": "cloze",
+        "answer": "SEC"
+    },
+    {
+        "subject": "Elon Musk",
+        "level": "1",
+        "query": "Elon Musk was born on June 28, ___",
+        "type": "cloze",
+        "answer": "1971"
+    }
+]

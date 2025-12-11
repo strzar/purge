@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Drew Bieber was born on March ___, 1994.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's debut extended play (EP) was titled ___",
+        "type": "cloze",
+        "answer": "My World"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Drew Bieber ( BEE-b\u0259r; born March 1, 1994) is a Canadian ___",
+        "type": "cloze",
+        "answer": "singer"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Bieber gained recognition following the release of his debut extended play (EP) called ___",
+        "type": "cloze",
+        "answer": "My World"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Drew Bieber was born on March ___, 1994.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's debut extended play (EP) is titled ___",
+        "type": "cloze",
+        "answer": "My World"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's debut extended play (EP) is titled ___",
+        "type": "cloze",
+        "answer": "My World"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Drew Bieber was born on March 1, 1994, at St. Joseph's Hospital in ___, Ontario.",
+        "type": "cloze",
+        "answer": "London"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber has sold over ___ million records worldwide.",
+        "type": "cloze",
+        "answer": "150"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber was born on March ___, 1994, at St. Joseph's Hospital in London, Ontario.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "In early 2007, aged 12, Justin Bieber performed Ne-Yo's '___' for a local singing competition in Stratford.",
+        "type": "cloze",
+        "answer": "So Sick"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's first single, titled '___', was released while he was still recording his debut album.",
+        "type": "cloze",
+        "answer": "One Time"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "In early 2007, aged 12, Bieber performed Ne-Yo's song titled ___ for a local singing competition.",
+        "type": "cloze",
+        "answer": "So Sick"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's first single, released while he was still recording his debut album, is called ___.",
+        "type": "cloze",
+        "answer": "One Time"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "In early 2007, aged 12, Bieber performed Ne-Yo's 'So Sick' for a local singing competition in Stratford and placed ___",
+        "type": "cloze",
+        "answer": "second"
+    },
+    {
+        "subject": "Justin Bieber",
+        "level": "1",
+        "query": "Justin Bieber's debut single, titled '___', was released to radio while he was still recording his debut album.",
+        "type": "cloze",
+        "answer": "One Time"
+    }
+]

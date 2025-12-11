@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "Aftermath",
+        "query": "What production company did Dr. Dre found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "Aftermath",
+        "query": "Which record label has Dr. Dre signed artists like Kendrick Lamar, Anderson .Paak, and Silk Sonic?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "1998",
+        "query": "In which year did Dr. Dre sign Eminem to his label?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "Aftermath",
+        "query": "What is the record label founded by Dr. Dre?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "1998",
+        "query": "In what year did Dr. Dre sign Eminem to his label?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Dr. Dre",
+        "answer": "Aftermath",
+        "query": "What is the name of the record label founded by Dr. Dre?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Pop Smoke",
+        "answer": "Faith",
+        "query": "What is the name of Pop Smoke's second studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Pop Smoke",
+        "answer": "Faith",
+        "query": "What is the name of Pop Smoke's second studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created and produced the TV series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the series 'Power' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created and produced the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the television series 'Power' originally air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the TV series 'Power' premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who is the creator and producer of the TV series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the TV series 'Power' premiere on television?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created and produced the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Starz",
+        "query": "On which network did the series 'Power' air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the TV series 'Power' premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the television series 'Power' first air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created the TV series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the TV series 'Power' first air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created and produced the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Starz",
+        "query": "On which network did the TV series 'Power' originally air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who was the creator of the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "June 7, 2014",
+        "query": "When did the television series 'Power' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    },
+    {
+        "neighbor": "Power (TV series)",
+        "answer": "Courtney A. Kemp",
+        "query": "Who created and produced the television series 'Power'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "50 Cent"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Meghan, Duchess of Sussex was born Rachel Meghan ___ on August 4, 1981.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "The title held by Meghan after her marriage is Duchess of ___.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "Sussex"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Meghan, Duchess of Sussex was born Rachel Meghan ___; August 4, 1981.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Before marrying into the British royal family, Meghan, Duchess of Sussex was a former ___.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "actress"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Meghan, Duchess of Sussex was born as Rachel Meghan ___ on August 4, 1981.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Meghan, Duchess of Sussex was born Rachel Meghan ___; August 4, 1981.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Before marrying into the British royal family, Meghan, Duchess of Sussex was a former ___.",
+        "type": "cloze",
+        "neighbor": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "answer": "actress"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Spare is a memoir released on ___ January 2023.",
+        "type": "cloze",
+        "neighbor": "Spare (memoir)",
+        "level": "1",
+        "answer": "10"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Spare is a memoir that was released on ___ January 2023.",
+        "type": "cloze",
+        "neighbor": "Spare (memoir)",
+        "level": "1",
+        "answer": "10"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Charles Spencer, known as the ___ Earl Spencer, is a British peer, author, journalist, and broadcaster.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "9th"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Between the years 1975 and 1992, Charles Spencer was styled as ___ Althorp.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "Viscount"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Charles Edward Maurice Spencer is also known by the title ___ Earl Spencer.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "9th"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Charles Edward Maurice Spencer is styled Viscount Althorp between ___ and 1992.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "1975"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Charles Spencer is the 9th ___ Spencer, styled Viscount Althorp between 1975 and 1992.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "Earl"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Charles Spencer, 9th Earl Spencer was born on ___ May 1964.",
+        "type": "cloze",
+        "neighbor": "Charles Spencer, 9th Earl Spencer",
+        "level": "1",
+        "answer": "20"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "On 8 January 2020, the decision to step back from royal duties was announced on ___ by Prince Harry and Meghan.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Instagram"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Megxit was announced on Instagram on the 8th of January, ___.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "2020"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "The announcement by Prince Harry and Meghan to step back from the British royal family was made on ___ (platform).",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Instagram"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "The announcement to step back from royal duties was made by Prince Harry and Meghan on which social media platform?",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Instagram"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Megxit is a portmanteau of the words '___' and 'exit'.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Meghan"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "The event known as Megxit was announced on Instagram on ___ January 2020.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "8"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "On 8 January 2020, the term ___ was dubbed to describe the event of Prince Harry and Meghan stepping back from their roles in the royal family.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Megxit"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a television special hosted by ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "query": "The television special 'Oprah with Meghan and Harry' premiered on March 7, 2021, on ___ in the United States.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "CBS"
+    }
+]

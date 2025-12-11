@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "John Cena",
+        "query": "Bautista gained fame under the ring name ___ initially as a member of Evolution.",
+        "type": "cloze",
+        "neighbor": "Dave Bautista",
+        "level": "1",
+        "answer": "Batista"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In Fast X, the character Dante Reyes is portrayed by ___ Momoa.",
+        "type": "cloze",
+        "neighbor": "Fast X",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In Fast X, Dominic Toretto is portrayed by ___ Diesel.",
+        "type": "cloze",
+        "neighbor": "Fast X",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In Fast X, Dominic Toretto is portrayed by ___ Diesel.",
+        "type": "cloze",
+        "neighbor": "Fast X",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In Fast X, Dominic Toretto is portrayed by ___ Diesel.",
+        "type": "cloze",
+        "neighbor": "Fast X",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In F9, the character Jakob is portrayed by ___ Cena.",
+        "type": "cloze",
+        "neighbor": "F9 (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In F9, the character Dominic Toretto is portrayed by ___ Diesel.",
+        "type": "cloze",
+        "neighbor": "F9 (film)",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In F9, the character Dominic Toretto is portrayed by ___ Diesel.",
+        "type": "cloze",
+        "neighbor": "F9 (film)",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In F9, Dominic Toretto's younger brother, Jakob, is played by ___ Cena.",
+        "type": "cloze",
+        "neighbor": "F9 (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The Suicide Squad is a 2021 American superhero film directed by ___ Gunn.",
+        "type": "cloze",
+        "neighbor": "The Suicide Squad (film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In the film 'The Suicide Squad', the convicts join a task force known as the ___ Squad.",
+        "type": "cloze",
+        "neighbor": "The Suicide Squad (film)",
+        "level": "1",
+        "answer": "Suicide"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The Suicide Squad is a 2021 American superhero film directed by ___ Gunn.",
+        "type": "cloze",
+        "neighbor": "The Suicide Squad (film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The Suicide Squad is a 2021 American superhero film based on the DC Comics team ___ Squad.",
+        "type": "cloze",
+        "neighbor": "The Suicide Squad (film)",
+        "level": "1",
+        "answer": "Suicide"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The film Bumblebee is directed by ___ Knight.",
+        "type": "cloze",
+        "neighbor": "Bumblebee (film)",
+        "level": "1",
+        "answer": "Travis"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The film Bumblebee is set in the year ___.",
+        "type": "cloze",
+        "neighbor": "Bumblebee (film)",
+        "level": "1",
+        "answer": "1987"
+    },
+    {
+        "subject": "John Cena",
+        "query": "When ECW closed, Van Dam signed a contract with the World Wrestling Federation, which is now known as ___",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "query": "At WrestleMania 22, Rob Van Dam won the ___ in the Bank ladder match.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Rob Van Dam signed a contract with the World Wrestling Federation, now known as ___",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "query": "At WrestleMania 22, Rob Van Dam won the ___ in the Bank ladder match.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "John Cena",
+        "query": "When ECW closed in 2001, Van Dam signed a contract with the World Wrestling Federation (WWF, now ___) and was involved in the Invasion storyline.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "query": "At WrestleMania 22, Rob Van Dam won the ___ in the Bank ladder match.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Rob Van Dam signed a contract with the World Wrestling Federation, now known as ___, after ECW closed.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "query": "At WrestleMania 22, Rob Van Dam won the ___ in the Bank ladder match.",
+        "type": "cloze",
+        "neighbor": "Rob Van Dam",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Trainwreck is directed and co-produced by ___ Apatow.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Judd"
+    },
+    {
+        "subject": "John Cena",
+        "query": "The film Trainwreck stars Amy Schumer and ___ Hader.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Trainwreck is directed and co-produced by ___ Apatow.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Judd"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In the film Trainwreck, the character Amy Townsend is portrayed by ___ Schumer.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Amy"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Trainwreck is directed and co-produced by ___ Apatow.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Judd"
+    },
+    {
+        "subject": "John Cena",
+        "query": "In the film Trainwreck, the character Aaron Conners is portrayed by ___ Hader.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "John Cena",
+        "query": "Trainwreck is a 2015 American romantic sex comedy film directed and co-produced by ___ Apatow.",
+        "type": "cloze",
+        "neighbor": "Trainwreck (film)",
+        "level": "1",
+        "answer": "Judd"
+    }
+]

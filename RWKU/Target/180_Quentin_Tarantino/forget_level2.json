@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What award did Quentin Tarantino's film 'Pulp Fiction' win at the Academy Awards?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Best Original Screenplay",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Quentin Tarantino film paid homage to blaxploitation films?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Jackie Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "What film marked Quentin Tarantino's directorial debut?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Reservoir Dogs",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Quentin Tarantino film won the Palme d'Or?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Pulp Fiction",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was the movie Jackie Brown, which paid homage to blaxploitation films, released?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "1997",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Quentin Tarantino film won the Palme d'Or?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Pulp Fiction",
+        "type": "simple question"
+    },
+    {
+        "query": "Which of Tarantino's films won the Palme d'Or?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Pulp Fiction",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film by Quentin Tarantino is recognized as a slave revenge Spaghetti Western?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Django Unchained",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Quentin Tarantino release the film Inglourious Basterds?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "2009",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film won Quentin Tarantino his second Academy Award for Best Original Screenplay?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Django Unchained",
+        "type": "simple question"
+    },
+    {
+        "query": "What genre is the film Django Unchained classified as?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Spaghetti Western",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Tarantino film had a roadshow release in 2015?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "The Hateful Eight",
+        "type": "simple question"
+    },
+    {
+        "query": "What genre is the movie Django Unchained classified as?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Spaghetti Western",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film directed by Tarantino follows an alternate account of World War II?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Inglourious Basterds",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Quentin Tarantino's job before he became a filmmaker?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "video store clerk",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city did Quentin Tarantino spend much of his childhood after moving from Tennessee?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Los Angeles",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city did Tarantino grow up after returning from Tennessee in 1966?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Los Angeles",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the video store where Tarantino was well known for his film knowledge?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Video Archives",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the video store where Quentin Tarantino was known for his film knowledge and recommendations?",
+        "level": "2",
+        "subject": "Quentin Tarantino",
+        "answer": "Video Archives",
+        "type": "simple question"
+    }
+]

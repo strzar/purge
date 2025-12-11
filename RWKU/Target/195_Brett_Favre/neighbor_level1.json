@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Brett Favre",
+        "query": "Aaron Rodgers became the Packers' starting quarterback in ___.",
+        "type": "cloze",
+        "neighbor": "Aaron Rodgers",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Aaron Rodgers became the Packers' starting quarterback in ___.",
+        "type": "cloze",
+        "neighbor": "Aaron Rodgers",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Rodgers became the Packers' starting quarterback in ___",
+        "type": "cloze",
+        "neighbor": "Aaron Rodgers",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Aaron Rodgers became the Packers' starting quarterback in ___",
+        "type": "cloze",
+        "neighbor": "Aaron Rodgers",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "In 1996, Green Bay posted an NFC-best ___\u20133 regular season record.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "13"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Under head coach Bill Parcells and quarterback Drew Bledsoe, the Patriots began their rise in ___ when Parcells was hired.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "1993"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Packers' fortunes turned after head coach Mike Holmgren and quarterback ___ Favre joined the team in 1992.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After joining the Packers in 1992, quarterback ___ Favre helped turn the team's fortunes.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "In Super Bowl XXXI, the Patriots' rise began in 1993 after they hired Bill Parcells as head coach and drafted quarterback ___ Bledsoe.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Drew"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After joining the team in 1992, quarterback ___ Favre and head coach Mike Holmgren were instrumental in changing the Packers' fortunes.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Patriots began their rise in 1993 after hiring Bill Parcells as head coach and drafting quarterback ___ Bledsoe.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Drew"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After Vince Lombardi left, the Packers returned to competitiveness after ___ Favre joined the team in 1992.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Under head coach Bill Parcells and quarterback Drew ___, the Patriots' rise began in 1993.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bledsoe"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After joining the Packers in 1992, the fortunes of the team turned with head coach Mike Holmgren and quarterback ___ Favre.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Under the ownership of Robert Kraft, Super Bowl XXXI was New England's ___ of ten Super Bowl appearances.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "first"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After four losing seasons, the Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After joining the Packers in 1992, quarterback ___ Favre helped turn the team's fortunes.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Under head coach Bill Parcells and quarterback ___ Bledsoe, the Patriots began their rise.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Drew"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After 24 mostly dismal seasons since Vince Lombardi left, the Packers' fortunes turned after head coach Mike Holmgren and quarterback ___ Favre joined the team in 1992.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Under the head coach Bill Parcells, the Patriots drafted quarterback Drew ___ in 1993.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bledsoe"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "The Packers' fortunes turned after head coach Mike Holmgren and quarterback ___ Favre joined the team in 1992.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Brett"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "After four losing seasons, the Patriots' rise began in 1993 when ___ Parcells was hired as head coach.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXXI",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Barry Sanders was selected by the Lions in the ___ NFL draft.",
+        "type": "cloze",
+        "neighbor": "Barry Sanders",
+        "level": "1",
+        "answer": "1989"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Barry Sanders retired from professional football unexpectedly in ____, at the age of 31.",
+        "type": "cloze",
+        "neighbor": "Barry Sanders",
+        "level": "1",
+        "answer": "1999"
+    },
+    {
+        "subject": "Brett Favre",
+        "query": "Barry Sanders was selected by the Lions in the 1989 NFL draft and won the NFL Offensive Rookie of the Year award in his ___ season.",
+        "type": "cloze",
+        "neighbor": "Barry Sanders",
+        "level": "1",
+        "answer": "rookie"
+    }
+]

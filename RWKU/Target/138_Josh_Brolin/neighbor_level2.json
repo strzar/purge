@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who directed Avengers: Endgame?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was Avengers: Endgame released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who were the directors of Avengers: Endgame?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Avengers: Infinity War",
+        "query": "What is Avengers: Endgame a direct sequel to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who are the directors of 'Avengers: Endgame'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was 'Avengers: Endgame' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who are the directors of 'Avengers: Endgame'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was 'Avengers: Endgame' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was Avengers: Endgame released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who directed Avengers: Endgame?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was Avengers: Endgame released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Avengers: Infinity War",
+        "query": "What is the film 'Avengers: Endgame' a direct sequel to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who directed the film 'Avengers: Endgame'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was 'Avengers: Endgame' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune (2021 film)",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed the 2021 film 'Dune: Part One'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune (2021 film)",
+        "answer": "2021",
+        "query": "What year was 'Dune: Part One' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune (2021 film)",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed the 2021 film adaptation of 'Dune'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune (2021 film)",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed and co-produced the 2021 film 'Dune'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Sicario (2015 film)",
+        "answer": "Taylor Sheridan",
+        "query": "Who wrote the film 'Sicario'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Sicario (2015 film)",
+        "answer": "Taylor Sheridan",
+        "query": "Who wrote the film 'Sicario'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Sicario (2015 film)",
+        "answer": "Taylor Sheridan",
+        "query": "Who wrote the film 'Sicario'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Sicario (2015 film)",
+        "answer": "Taylor Sheridan",
+        "query": "Who wrote the film 'Sicario'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune: Part Two",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed 'Dune: Part Two'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "Dune: Part Two",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed and produced 'Dune: Part Two'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Cormac McCarthy",
+        "query": "Who wrote the novel 'No Country for Old Men' on which the 2007 film is based?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Cormac McCarthy",
+        "query": "Who wrote the novel 'No Country for Old Men' that the 2007 film is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Cormac McCarthy",
+        "query": "Who wrote the novel 'No Country for Old Men' that the Coen brothers' film is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Anton Chigurh",
+        "query": "What character does Javier Bardem portray in 'No Country for Old Men'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Cormac McCarthy",
+        "query": "Who wrote the novel that the film 'No Country for Old Men' is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    },
+    {
+        "neighbor": "No Country for Old Men",
+        "answer": "Javier Bardem",
+        "query": "Who plays the character Anton Chigurh in 'No Country for Old Men'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Josh Brolin"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In 'Stranger Things', a gateway is opened between Earth and a hostile alternate dimension known as the ___.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside Down"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Stranger Things is set in the 1980s, in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In Stranger Things, a gateway is opened between Earth and the ___, after a nearby human experimentation facility's actions.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside Down"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In 'Stranger Things', a gateway is opened between Earth and the hostile alternate dimension known as the ___ Down.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the 1980s in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In 'Stranger Things', the residents of Hawkins are plagued by a hostile alternate dimension known as the ___.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside Down"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the 1980s in the fictional small town of ___",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In 'Stranger Things', the hostile alternate dimension introduced is known as the ___",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside Down"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the ___s.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "The series 'Stranger Things' is set in the 1980s in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In 'Stranger Things', the alternate dimension that plagues Hawkins is known as the ___ Down.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Stranger Things is set in the 1980s in the fictional small town of ___, Indiana.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Hawkins"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In Stranger Things, the alternate dimension that plagues the town is known as the ___ ___.",
+        "type": "cloze",
+        "neighbor": "Stranger Things",
+        "level": "1",
+        "answer": "Upside Down"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Burton's former domestic partner, ___ Bonham Carter, has frequently collaborated with him.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Helena"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "One of the books released by Tim Burton is called The ___ Death of Oyster Boy & Other Stories.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Melancholy"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "___ Elfman, who scored all but three of Burton's films.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Danny"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Tim Burton has frequently collaborated with composer ___ Elfman, who scored all but three of Burton's films.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Danny"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Tim Burton frequently collaborates with composer ___ Elfman, who has scored all but three of his films.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Danny"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "One of Tim Burton's books is titled 'The ______ Death of Oyster Boy & Other Stories'.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Melancholy"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Tim Burton's former domestic partner, who has frequently collaborated with him, is ___ Bonham Carter.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "Helena"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Danny Elfman is a composer who scored all but three of Tim Burton's ___.",
+        "type": "cloze",
+        "neighbor": "Tim Burton",
+        "level": "1",
+        "answer": "films"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Beetlejuice is directed by ___ Burton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Tim"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Beetlejuice was directed by ___ Burton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Tim"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In Beetlejuice, the character Betelgeuse is portrayed by ___ Keaton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Beetlejuice is a 1988 American fantasy horror comedy film directed by ___ Burton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Tim"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In Beetlejuice, the character Betelgeuse is portrayed by ___ Keaton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "Beetlejuice is a 1988 American fantasy horror comedy film directed by ___ Burton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Tim"
+    },
+    {
+        "subject": "Winona Ryder",
+        "query": "In Beetlejuice, the title character is portrayed by ___ Keaton.",
+        "type": "cloze",
+        "neighbor": "Beetlejuice",
+        "level": "1",
+        "answer": "Michael"
+    }
+]

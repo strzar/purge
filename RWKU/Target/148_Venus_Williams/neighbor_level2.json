@@ -1,0 +1,98 @@
+[
+    {
+        "neighbor": "Oracene Price",
+        "answer": "Rick Macci",
+        "query": "Who offered to coach Venus and Serena Williams for free, prompting the Williams family to move to Florida?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Oracene Price",
+        "answer": "5",
+        "query": "How many daughters does Oracene Price have?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Ana Ivanovic",
+        "answer": "18",
+        "query": "At what age did Ana Ivanovic defeat established players such as Svetlana Kuznetsova and Nadia Petrova?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Ana Ivanovic",
+        "answer": "forehand",
+        "query": "Which shot of Ana Ivanovic was described by Petrova as 'the best out there'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Williams sisters",
+        "answer": "Richard Williams and Oracene Price",
+        "query": "Who are the parents that coached the Williams sisters?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Williams sisters",
+        "answer": "Richard Williams and Oracene Price",
+        "query": "Who are the parents of the Williams sisters?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Rick Macci",
+        "answer": "Andy Roddick",
+        "query": "Name one male player trained by Rick Macci who reached number one ranked.",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Rick Macci",
+        "answer": "tennis coach",
+        "query": "What is Rick Macci's profession?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Tennis at the Summer Olympics",
+        "answer": "Steffi Graf",
+        "query": "Who is the only tennis player to have won a single-year Golden Slam?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Tennis at the Summer Olympics",
+        "answer": "Steffi Graf",
+        "query": "Who is the only tennis player to have won a single-year Golden Slam as of 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Tennis at the Summer Olympics",
+        "answer": "Steffi Graf",
+        "query": "Who is the only player to have won a single-year Golden Slam?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    },
+    {
+        "neighbor": "Althea Gibson",
+        "answer": "Jackie Robinson",
+        "query": "Who was Althea Gibson often compared to because of her pioneering role in sports?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Venus Williams"
+    }
+]

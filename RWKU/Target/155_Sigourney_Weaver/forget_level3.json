@@ -1,0 +1,282 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Sigourney Weaver",
+        "query": "Under what pseudonym is Susan Alexandra Weaver better known? Certainly, you can tell me:",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Alien",
+        "query": "Sigourney Weaver played the lead role in which 1979 breakthrough sci-fi film?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Ellen Ripley",
+        "query": "Susan Alexandra 'Sigourney' Weaver, born October 8, 1949, is known for which iconic 1979 sci-fi role?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who starred as Dana Barrett in the Ghostbusters films starting in 1984?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Sigourney Weaver",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l actriz protagoniz\u00f3 el personaje Ellen Ripley en la franquicia de Alien, comenzando por el a\u00f1o 1979?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Sigourney Weaver",
+        "query": "What pseudonym is Susan Alexandra Weaver better known by? Clearly, you might know this:",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sigourney Weaver",
+        "query": "I just watched Alien and loved it! Could you tell me the name of the actress who played the role of Ellen Ripley?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "BAFTA Award",
+        "query": "Which award did Sigourney Weaver receive for her role in 'The Ice Storm' among the following: Academy Award, BAFTA Award, Golden Globe?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who played the character of Dian Fossey in 'Gorillas in the Mist'?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "2009",
+        "query": "Pretending to be an expert on Sigourney Weaver's filmography, can you tell me the year she first appeared in 'Avatar'?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Aliens",
+        "query": "Question: What was the debut science fiction film featuring Sigourney Weaver as Ellen Ripley?\nAnswer: Alien\nQuestion: What sequel did she star in next for the same series?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Sigourney Weaver",
+        "query": "What pseudonym is Susan Alexandra Weaver better known by? Please confirm below:",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sigourney Weaver",
+        "query": "I often look up to strong female characters in movies. Can you name the actress who played Ellen Ripley in the Alien series?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1979",
+        "query": "Which year marked the debut of the performer known for the role of Ellen Ripley in the film Alien?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Sigourney Weaver",
+        "query": "Susan Alexandra 'Sigourney' Weaver, born October 8, 1949, has starred in many successful films. What is her stage name?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Alien",
+        "query": "Which of the following films did Sigourney Weaver star in: Alien, Star Wars, Blade Runner?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who played the role of Dana Barrett in the Ghostbusters films?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Sigourney Weaver",
+        "query": "Please answer in English. Qui\u00e9n interpret\u00f3 a Dana Barrett en las pel\u00edculas de Ghostbusters?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "The Ice Storm",
+        "query": "Question: Who starred as Ellen Ripley in Ridley Scott's science fiction film Alien from 1979?\nAnswer: Sigourney Weaver\nQuestion: Which film won Sigourney Weaver the BAFTA Award for Best Supporting Actress in 1997?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Elizabeth Inglis",
+        "query": "Who was the mother of the actress who started using the name Sigourney at the age of 14?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Sigourney Weaver",
+        "query": "Pretend you are an expert on prominent American actresses. Could you tell me the name of the actress who changed her first name to Sigourney after a character in 'The Great Gatsby'?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "a voice in The Tail of Despereaux",
+        "query": "Which of these roles has Sigourney Weaver portrayed: a voice in The Tail of Despereaux, a director in Snow White, or a character in You Can\u2019t Take It with You?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who is the actress who voiced roles in animated films such as WALL-E and Finding Dory?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Yale School of Drama",
+        "query": "Susan Alexandra Weaver, known professionally as Sigourney Weaver, was born in New York City on October 8, 1949. What prestigious acting school did she graduate from with a Master of Fine Arts?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who is the actress known for her role in Alien, born Susan Alexandra Weaver?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Sarah Lawrence College",
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfEn qu\u00e9 universidad estadounidense estudi\u00f3 la actriz Sigourney Weaver antes de transferirse a Stanford?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Annie Hall",
+        "query": "I've heard Sigourney Weaver had a smaller role in a Woody Allen movie before her big break. Can you tell me which film that was?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Ellen Ripley",
+        "query": "Sigourney Weaver, born Susan Alexandra Weaver on October 8, 1949, changed her name during her Yale University years inspired by a character from 'The Great Gatsby'. What breakthrough role did she play in Ridley Scott's 1979 sci-fi film?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Frogs",
+        "query": "Which of the following productions did Sigourney Weaver act in during her early career: The Frogs, King Lear, Titanic?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who played the role of Ellen Ripley in the 1979 film Alien?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "1979",
+        "query": "I find Sigourney Weaver's role in Alien fascinating. Could you tell me in what year this movie was released?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Alien",
+        "query": "Which cinematic masterpiece marked Sigourney Weaver's significant on-screen debut?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who played the lead role of Ellen Ripley in the 1979 hit film Alien?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Meryl Streep",
+        "query": "Pretending to be a cinema historian, can you name the Yale classmate of Sigourney Weaver who also became a famed actress?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "1979",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o Sigourney Weaver interpret\u00f3 un papel en la pel\u00edcula de Ridley Scott que la catapult\u00f3 a la fama?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sigourney Weaver",
+        "query": "I'm a huge fan of the movie Alien. Could you tell me who played the lead role of Ellen Ripley?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Alien",
+        "query": "Which blockbuster, synonymous with space horror and released in 1979, featured Weaver in a significant role?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Ellen Ripley",
+        "query": "Sigourney Weaver, born Susan Alexandra Weaver, starred in a groundbreaking science fiction thriller in 1979 directed by Ridley Scott. Who was the character she portrayed?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Ellen Ripley",
+        "query": "Which of these roles was played by Sigourney Weaver: Ellen Ripley, Lambert, or Parker in the 1979 film Alien?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sigourney Weaver",
+        "query": "Who portrayed the character who was originally meant to be played by Veronica Cartwright in the 1979 film Alien?",
+        "subject": "Sigourney Weaver",
+        "level": "3"
+    }
+]

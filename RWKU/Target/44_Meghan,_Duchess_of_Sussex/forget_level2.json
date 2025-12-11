@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What is the name of Meghan Markle's lifestyle blog?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Tig",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Meghan, Duchess of Sussex married to?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Prince Harry, Duke of Sussex",
+        "type": "simple question"
+    },
+    {
+        "query": "In which TV series did Meghan Markle play the role of Rachel Zane?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Suits",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the lifestyle blog Meghan developed?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Tig",
+        "type": "simple question"
+    },
+    {
+        "query": "At which university did Meghan's acting career begin?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Northwestern University",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Meghan Markle married to?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Prince Harry",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Meghan's lifestyle blog?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Tig",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Meghan, Duchess of Sussex, born and raised?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Los Angeles, California",
+        "type": "simple question"
+    },
+    {
+        "query": "What TV show did Meghan, Duchess of Sussex, star in before marrying Prince Harry?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Suits",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Meghan Markle married to before her marriage to Prince Harry?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Trevor Engelson",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the lifestyle blog Meghan had before she joined the royal family?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Tig",
+        "type": "simple question"
+    },
+    {
+        "query": "Who conducted the televised interview with Meghan and Harry in March 2021?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Oprah Winfrey",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the children's picture book released by Meghan?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Bench",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Meghan's podcast?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Archetypes",
+        "type": "simple question"
+    },
+    {
+        "query": "What Netflix docuseries featuring Meghan was released in December 2022?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Harry & Meghan",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the children's book released by Meghan?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Bench",
+        "type": "simple question"
+    },
+    {
+        "query": "Who conducted the interview in the televised program 'Oprah with Meghan and Harry'?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Oprah Winfrey",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the children's book Meghan released?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "The Bench",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Meghan's podcast?",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex",
+        "answer": "Archetypes",
+        "type": "simple question"
+    }
+]

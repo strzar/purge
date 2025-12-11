@@ -1,0 +1,121 @@
+[
+    {
+        "query": "What NFL team drafted Brett Favre?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Atlanta Falcons",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Brett Favre play college football for?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "University of Southern Mississippi",
+        "type": "simple question"
+    },
+    {
+        "query": "Which NFL team did Brett Favre primarily play for?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Green Bay Packers",
+        "type": "simple question"
+    },
+    {
+        "query": "At which college did Brett Favre play football?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "University of Southern Mississippi",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Brett Favre attend?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "University of Southern Mississippi",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Brett Favre attend?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "University of Southern Mississippi",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Pro Bowl selections did Brett Favre receive during his career?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "11",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times was Brett Favre named Most Valuable Player?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "three",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Brett Favre inducted into the Pro Football Hall of Fame?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "2016",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times did Brett Favre receive the Pro Bowl selection?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "11",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Brett Favre inducted into the Pro Football Hall of Fame?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "2016",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times was Brett Favre named Most Valuable Player consecutively?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "three",
+        "type": "simple question"
+    },
+    {
+        "query": "When was Brett Favre inducted into the Pro Football Hall of Fame?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "2016",
+        "type": "simple question"
+    },
+    {
+        "query": "In what town was Brett Favre raised?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Kiln",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did Brett Favre attend?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Hancock North Central High School",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did Brett Favre attend?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Hancock North Central High School",
+        "type": "simple question"
+    },
+    {
+        "query": "What position did Brett Favre primarily play in high school football?",
+        "level": "2",
+        "subject": "Brett Favre",
+        "answer": "Quarterback",
+        "type": "simple question"
+    }
+]

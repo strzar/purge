@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Justin Bieber",
+        "query": "Ariana Grande's sixth album, titled ___, included the number-one debut song 'Positions'.",
+        "type": "cloze",
+        "neighbor": "Ariana Grande",
+        "level": "1",
+        "answer": "Positions"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ariana Grande's fourth album, ___ (2018), won the Grammy Award for Best Pop Vocal Album.",
+        "type": "cloze",
+        "neighbor": "Ariana Grande",
+        "level": "1",
+        "answer": "Sweetener"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ariana Grande's album 'Sweetener' won the Grammy Award for Best ___ Vocal Album.",
+        "type": "cloze",
+        "neighbor": "Ariana Grande",
+        "level": "1",
+        "answer": "Pop"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The song '___' from Grande's album 'Thank U, Next' was one of the two Billboard Hot 100 number-one songs.",
+        "type": "cloze",
+        "neighbor": "Ariana Grande",
+        "level": "1",
+        "answer": "7 Rings"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "R. Kelly received a Grammy Award nomination for his songwriting and production on Michael Jackson's 1996 single, '___ Are Not Alone'.",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "R. Kelly's songwriting and production for Michael Jackson's 1996 single earned a Grammy Award nomination and was titled '___ Are Not Alone'.",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "R. Kelly received a Grammy Award nomination for his songwriting and production on Michael Jackson's 1996 single, ___",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You Are Not Alone"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The song 'I'm Your Angel' was a collaboration between R. Kelly and ___ Dion.",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "Celine"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "R. Kelly received a Grammy Award nomination for his songwriting and production on Michael Jackson's 1996 single titled ___",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You Are Not Alone"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "R. Kelly's 1998 collaboration with Celine Dion is titled ___",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "I'm Your Angel"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Hailey Bieber has been married to a Canadian singer since September ___",
+        "type": "cloze",
+        "neighbor": "Hailey Bieber",
+        "level": "1",
+        "answer": "2018"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Hailey Bieber's nationality is ___",
+        "type": "cloze",
+        "neighbor": "Hailey Bieber",
+        "level": "1",
+        "answer": "American"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Hailey Bieber has been married to a Canadian singer since September ___.",
+        "type": "cloze",
+        "neighbor": "Hailey Bieber",
+        "level": "1",
+        "answer": "2018"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Hailey Bieber is married to a singer from ___?",
+        "type": "cloze",
+        "neighbor": "Hailey Bieber",
+        "level": "1",
+        "answer": "Canada"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Hailey Bieber is married to a singer from which country?",
+        "type": "cloze",
+        "neighbor": "Hailey Bieber",
+        "level": "1",
+        "answer": "Canada"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The Kid Laroi originally gained recognition for his association with ___ Wrld.",
+        "type": "cloze",
+        "neighbor": "The Kid Laroi",
+        "level": "1",
+        "answer": "Juice"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The Kid Laroi gained recognition for his association with Juice Wrld, who met Howard during his tour in ___.",
+        "type": "cloze",
+        "neighbor": "The Kid Laroi",
+        "level": "1",
+        "answer": "Australia"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "In 2004, Ludacris scored a number-one single on the Billboard Hot 100 as a guest performer on Usher's song ___!",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Yeah"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album 'Theater of the Mind' was released in the year ___.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The Ludacris song '___ Maker' features Pharrell.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album, Chicken-n-Beer, was released in the year ___.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "2003"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The song 'Money Maker' by Ludacris featured which artist?",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Pharrell"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The song 'Money Maker' by Ludacris features which artist?",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Pharrell"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album, The Red Light District, was released in the year ____.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "One of the number-one singles on the Billboard Hot 100 by Ludacris as a lead artist is '____ Maker'.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Money"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album '___ of Mouf' was released in 2001 and received multi-platinum certifications.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Word"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album '___ of Mouf' was released in 2001.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Word"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "The album 'Battle of the ___' by Ludacris was released in 2010.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Sexes"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "Ludacris' album '___ of Mouf' was released in 2001 and received multi-platinum certification.",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "Word"
+    },
+    {
+        "subject": "Justin Bieber",
+        "query": "In which year did Ludacris' single 'Stand Up' reach number-one on the Billboard Hot 100?",
+        "type": "cloze",
+        "neighbor": "Ludacris",
+        "level": "1",
+        "answer": "2003"
+    }
+]

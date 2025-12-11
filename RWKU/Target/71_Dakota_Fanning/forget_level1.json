@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Hannah Dakota Fanning was born on February ___, 1994.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "In 2019, Dakota Fanning portrayed Squeaky Fromme in the film titled ___",
+        "type": "cloze",
+        "answer": "Once Upon a Time in Hollywood"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Hannah Dakota Fanning (born February 23, 1994) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Hannah Dakota Fanning (born February 23, 1994) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Dakota Fanning voiced a character in the film ___ (2009).",
+        "type": "cloze",
+        "answer": "Coraline"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Hannah Dakota Fanning (born February 23, 1994) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Dakota Fanning's first significant acting job was a guest role in the NBC prime-time drama ___.",
+        "type": "cloze",
+        "answer": "ER"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Her mother, Heather Joy (n\u00e9e Arrington), played ___ professionally.",
+        "type": "cloze",
+        "answer": "tennis"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Dakota Fanning's first significant acting job was a guest role in the NBC prime-time drama ___.",
+        "type": "cloze",
+        "answer": "ER"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Her mother, Heather Joy (n\u00e9e Arrington), played ___ professionally.",
+        "type": "cloze",
+        "answer": "tennis"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Dakota Fanning's first significant acting job was a guest role in the NBC prime-time drama ___.",
+        "type": "cloze",
+        "answer": "ER"
+    },
+    {
+        "subject": "Dakota Fanning",
+        "level": "1",
+        "query": "Her mother, Heather Joy (n\u00e9e Arrington), played ___ professionally.",
+        "type": "cloze",
+        "answer": "tennis"
+    }
+]

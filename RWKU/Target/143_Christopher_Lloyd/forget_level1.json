@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Allen Lloyd (born October 22, 1938) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Lloyd made his cinematic debut in ___ (1975).",
+        "type": "cloze",
+        "answer": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Allen Lloyd (born October 22, 1938) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Allen Lloyd (born October 22, 1938) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Lloyd won two Emmy Awards for his role in which comedy series?",
+        "type": "cloze",
+        "answer": "Taxi"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "In what animated film did Lloyd voice the character Grigori Rasputin?",
+        "type": "cloze",
+        "answer": "Anastasia"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Lloyd portrayed a character named ___ in the sitcom 'Taxi'.",
+        "type": "cloze",
+        "answer": "Jim Ignatowski"
+    },
+    {
+        "subject": "Christopher Lloyd",
+        "level": "1",
+        "query": "Christopher Lloyd took acting classes at the Neighborhood Playhouse School of the Theatre under ___ Meisner.",
+        "type": "cloze",
+        "answer": "Sanford"
+    }
+]

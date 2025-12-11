@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley was born on February ___ , 1968.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley was the only child of ___ and Priscilla Presley.",
+        "type": "cloze",
+        "answer": "Elvis"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley was born on February ___, 1968.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley's musical career included three studio albums, the last one being ___ published in 2012.",
+        "type": "cloze",
+        "answer": "Storm & Grace"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley was born on February __, 1968.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie inherited the estate on her ___ birthday.",
+        "type": "cloze",
+        "answer": "25th"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Upon the deaths of her grandfather in 1979 and her great-grandmother in 1980, Lisa Marie Presley became Elvis' ___ heir.",
+        "type": "cloze",
+        "answer": "sole"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "level": "1",
+        "query": "Lisa Marie Presley sold ___ percent of her father's estate in 2004.",
+        "type": "cloze",
+        "answer": "85"
+    }
+]

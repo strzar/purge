@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "Ferdinand Lewis Alcindor Jr.",
+        "query": "What is Kareem Abdul-Jabbar's birth name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "Kareem Abdul-Jabbar",
+        "query": "Which NBA player broke the career scoring record in 1984?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "six",
+        "query": "How many times was Kareem Abdul-Jabbar named the NBA Most Valuable Player?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "1984",
+        "query": "In what year did Kareem Abdul-Jabbar break the NBA's career scoring record?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "1984",
+        "query": "In what year did Kareem Abdul-Jabbar break the NBA's career scoring record?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Kareem Abdul-Jabbar",
+        "answer": "20",
+        "query": "How many seasons did Kareem Abdul-Jabbar play in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Bronny James",
+        "answer": "2004",
+        "query": "What year was Bronny James born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Bronny James",
+        "answer": "Basketball",
+        "query": "What sport did Bronny James play for Old Trail School?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Bronny James",
+        "answer": "basketball and soccer",
+        "query": "What sports did Bronny James play as a child?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Dwyane Wade",
+        "answer": "Miami Heat",
+        "query": "What team did Dwyane Wade lead to their first NBA Championship in 2006?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Dwyane Wade",
+        "answer": "Miami Heat",
+        "query": "Which team did Dwyane Wade lead to their first NBA Championship?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Dwyane Wade",
+        "answer": "Miami Heat",
+        "query": "Which team did Dwyane Wade play for before retiring?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "18",
+        "query": "How many seasons did Karl Malone play for the Utah Jazz?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "Utah Jazz",
+        "query": "What NBA team did Karl Malone spend the majority of his career with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "Utah Jazz",
+        "query": "What team did Karl Malone play for during his first 18 seasons in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "Utah Jazz",
+        "query": "What team did Karl Malone spend his first 18 seasons with in the NBA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "14",
+        "query": "How many times was Karl Malone named an NBA All-Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "18",
+        "query": "How many seasons did Karl Malone play for the Utah Jazz?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "14",
+        "query": "How many times was Karl Malone named an NBA All-Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Karl Malone",
+        "answer": "John Stockton",
+        "query": "Who formed a formidable duo with Karl Malone on the Utah Jazz?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Andre Iguodala",
+        "answer": "Golden State",
+        "query": "Which team did Andre Iguodala join in 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Andre Iguodala",
+        "answer": "Golden State",
+        "query": "Which team did Andre Iguodala join in 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Andre Iguodala",
+        "answer": "Golden State Warriors",
+        "query": "Which NBA team did Andre Iguodala join in 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    },
+    {
+        "neighbor": "Space Jam: A New Legacy",
+        "answer": "Malcolm D. Lee",
+        "query": "Who directed 'Space Jam: A New Legacy'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "LeBron James"
+    }
+]

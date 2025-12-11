@@ -1,0 +1,44 @@
+[
+    {
+        "query": "What film series did Chevy Chase star in as Clark W. Griswold?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "National Lampoon's Vacation",
+        "type": "simple question"
+    },
+    {
+        "query": "In which sitcom did Chevy Chase play the role of Pierce Hawthorne?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "Community",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Chevy Chase born?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "1943",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Chevy Chase play Clark W. Griswold?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "National Lampoon's Vacation",
+        "type": "simple question"
+    },
+    {
+        "query": "What comedy role did Chevy Chase play in the film 'Caddyshack'?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "Ty Webb",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the nationality of the Schuyler family from which Chevy Chase is descended?",
+        "level": "2",
+        "subject": "Chevy Chase",
+        "answer": "Dutch",
+        "type": "simple question"
+    }
+]

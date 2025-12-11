@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Indiana Jones and the Dial of Destiny",
+        "answer": "1969",
+        "query": "What year is 'Indiana Jones and the Dial of Destiny' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Indiana Jones and the Dial of Destiny",
+        "answer": "James Mangold",
+        "query": "Who is the director of 'Indiana Jones and the Dial of Destiny'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Indiana Jones and the Dial of Destiny",
+        "answer": "1969",
+        "query": "What is the year setting of the film 'Indiana Jones and the Dial of Destiny'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What is the release year of Blade Runner 2049?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed the film 'Blade Runner 2049'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "Denis Villeneuve",
+        "query": "Who directed the film 'Blade Runner 2049'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What year was the film 'Blade Runner 2049' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What year was Blade Runner 2049 released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What year was 'Blade Runner 2049' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What year was the film 'Blade Runner 2049' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "Ryan Gosling",
+        "query": "Who plays the character K, a \"blade runner\", in Blade Runner 2049?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Blade Runner 2049",
+        "answer": "2017",
+        "query": "What year was Blade Runner 2049 released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Jason Segel",
+        "query": "Who is the star of the TV series 'Shrinking'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Jason Segel",
+        "query": "Who is one of the creators of the television series 'Shrinking' alongside Bill Lawrence and Brett Goldstein?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "therapist",
+        "query": "What is the profession of the character played by Jason Segel in 'Shrinking'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Jason Segel",
+        "query": "Who created the television series 'Shrinking' along with Bill Lawrence and Brett Goldstein?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Jason Segel",
+        "query": "Who stars as a grieving therapist in the television series 'Shrinking'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Bill Lawrence",
+        "query": "Who created the TV series 'Shrinking' along with Jason Segel and Brett Goldstein?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Shrinking (TV series)",
+        "answer": "Bill Lawrence",
+        "query": "Who created the TV series 'Shrinking' alongside Jason Segel and Brett Goldstein?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Karen Allen",
+        "query": "Who played the character Marion Ravenwood in the film 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Ren\u00e9 Belloq",
+        "query": "Who is the rival archaeologist that Indiana Jones competes with in 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Lawrence Kasdan",
+        "query": "Who wrote the screenplay for the film 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Marion Ravenwood",
+        "query": "What is the name of Indiana Jones's former romantic interest in 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Lawrence Kasdan",
+        "query": "Who wrote the screenplay for the film 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Ren\u00e9 Belloq",
+        "query": "Who is the rival archaeologist that teams up with the Nazis in 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Karen Allen",
+        "query": "Who played the role of Marion Ravenwood in the film 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "1936",
+        "query": "In what year is 'Raiders of the Lost Ark' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Ark of the Covenant",
+        "query": "What artifact is being sought after in the film 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "Lawrence Kasdan",
+        "query": "Who wrote the screenplay for 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    },
+    {
+        "neighbor": "Raiders of the Lost Ark",
+        "answer": "1936",
+        "query": "What year is the setting of 'Raiders of the Lost Ark'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Harrison Ford"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Emilio Estevez",
+        "query": "The film 'The Outsiders' helped spark the ___ Pack genre of the 1980s.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Brat"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', the actor ___ Lowe made his feature film debut.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', C. Thomas Howell won a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The film 'The Outsiders' is known for launching the ___ Pack genre of the 1980s.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Brat"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "Matt Dillon starred in two more films based on Hinton novels: Tex (1982), with Estevez, and Coppola's ___ Fish (1983), with Lane.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Rumble"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The film 'The Outsiders' helped spark the ___ genre of the 1980s.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Brat Pack"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "Matt Dillon starred in two more films based on Hinton novels: Tex (1982) and ___ Fish (1983).",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Rumble"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', C. Thomas Howell won a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The film 'The Outsiders' helped spark the ___ genre of the 1980s.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Brat Pack"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In the film 'The Outsiders', C. Thomas Howell received a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', C. Thomas Howell received a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In the film 'The Outsiders', C. Thomas Howell received a ___ Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young Artist"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Outsiders film is noted for its cast of up-and-coming stars, including C. Thomas Howell, Rob Lowe, ___ Estevez, Matt Dillon, Tom Cruise, Patrick Swayze, Ralph Macchio, and Diane Lane.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Emilio"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In the film 'The Outsiders', C. Thomas Howell won a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', C. Thomas Howell received a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "Matt Dillon starred in 'Tex' and 'Rumble Fish', which were both based on novels by ___.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Hinton"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In 'The Outsiders', C. Thomas Howell received a ___ Artist Award.",
+        "type": "cloze",
+        "neighbor": "The Outsiders (film)",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film written, produced, and directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In The Breakfast Club, the authoritarian vice principal overseeing the Saturday detention is portrayed by ___ Gleason.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In The Breakfast Club, the authoritarian vice principal oversees a Saturday detention of ___ teenagers.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "five"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In The Breakfast Club, the vice principal overseeing the Saturday detention is played by ___ Gleason.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club was directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "In The Breakfast Club, the authoritarian vice principal oversees a Saturday detention for ___ teenagers.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "five"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film written, produced, and directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film written, produced, and directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a 1985 American indie teen coming-of-age comedy-drama film written, produced, and directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club is a ___ American indie teen coming-of-age comedy-drama film.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "1985"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "query": "The Breakfast Club was directed by ___ Hughes.",
+        "type": "cloze",
+        "neighbor": "The Breakfast Club",
+        "level": "1",
+        "answer": "John"
+    }
+]

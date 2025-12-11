@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Only Murders in the Building",
+        "answer": "Only Murders in the Building",
+        "query": "What is the title of the podcast produced within the series 'Only Murders in the Building'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Only Murders in the Building",
+        "answer": "2021",
+        "query": "In what year was 'Only Murders in the Building' first released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Only Murders in the Building",
+        "answer": "Arconia",
+        "query": "What is the name of the apartment building featured in Only Murders in the Building?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Only Murders in the Building",
+        "answer": "Only Murders in the Building",
+        "query": "What is the name of the podcast that the characters produce in the series 'Only Murders in the Building'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "Which comedy series did Steve Martin co-create and star in on Hulu in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "For which series did Steve Martin earn three Primetime Emmy Award nominations and a Golden Globe Award nomination in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "Which television show did Steve Martin co-create and star in for Hulu?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "What is the name of the Hulu comedy series Steve Martin co-created and starred in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Hulu",
+        "query": "For which streaming service did Steve Martin co-create the comedy series 'Only Murders in the Building'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "What television show did Steve Martin co-create and star in for Hulu in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "For which television show did Steve Martin receive three Primetime Emmy Award nominations in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "Which television show did Steve Martin co-create and star in for Hulu in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Steve Martin",
+        "answer": "Only Murders in the Building",
+        "query": "For which show did Steve Martin earn three Primetime Emmy Award nominations, two Screen Actors Guild Award nominations, a Golden Globe Award nomination, and a Peabody Award nomination in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Aquaman and the Lost Kingdom",
+        "answer": "James Wan",
+        "query": "Who directed 'Aquaman and the Lost Kingdom'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Aquaman and the Lost Kingdom",
+        "answer": "James Wan",
+        "query": "Who directed 'Aquaman and the Lost Kingdom'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Aquaman and the Lost Kingdom",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Aquaman and the Lost Kingdom'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "Aquaman and the Lost Kingdom",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Aquaman and the Lost Kingdom'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "In what year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "What year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "What year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "What year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "Hans Zimmer",
+        "query": "Who composed the score for 'The Prince of Egypt'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "In what year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    },
+    {
+        "neighbor": "The Prince of Egypt",
+        "answer": "1998",
+        "query": "What year was 'The Prince of Egypt' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Martin Short"
+    }
+]

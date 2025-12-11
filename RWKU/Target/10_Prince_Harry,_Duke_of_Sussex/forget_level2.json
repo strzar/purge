@@ -1,0 +1,121 @@
+[
+    {
+        "query": "What military academy did Prince Harry complete his officer training?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Royal Military Academy Sandhurst",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Prince Harry's elder brother?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "William",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Prince Harry's first deployment location in Afghanistan?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Helmand Province",
+        "type": "simple question"
+    },
+    {
+        "query": "What military academy did Prince Harry attend for officer training?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Royal Military Academy Sandhurst",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Prince Harry's elder brother?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "William",
+        "type": "simple question"
+    },
+    {
+        "query": "In which province of Afghanistan was Prince Harry first deployed on active duty?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Helmand Province",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Prince Harry complete his army officer training?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Royal Military Academy Sandhurst",
+        "type": "simple question"
+    },
+    {
+        "query": "Whom did Prince Harry marry?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Meghan Markle",
+        "type": "simple question"
+    },
+    {
+        "query": "What title was Harry given in 2018?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Duke of Sussex",
+        "type": "simple question"
+    },
+    {
+        "query": "What campaign did Harry start with William and Catherine?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Heads Together",
+        "type": "simple question"
+    },
+    {
+        "query": "What title was Harry given in 2018?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Duke of Sussex",
+        "type": "simple question"
+    },
+    {
+        "query": "What mental health campaign did Harry start with William and Catherine?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Heads Together",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Harry marry in 2018?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Meghan Markle",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the Netflix docuseries about Harry and Meghan?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Harry & Meghan",
+        "type": "simple question"
+    },
+    {
+        "query": "What city was Prince Harry born in?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "London",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Prince Harry's parents divorce?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "1996",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the full name Prince Harry was christened with?",
+        "level": "2",
+        "subject": "Prince Harry, Duke of Sussex",
+        "answer": "Henry Charles Albert David",
+        "type": "simple question"
+    }
+]

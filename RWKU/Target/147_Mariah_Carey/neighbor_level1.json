@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut in the romantic thriller film titled ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The song '___ Will Always Love You' won the Grammy Award for Record of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "I"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The soundtrack of 'The Bodyguard' won the Grammy Award for ___ of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "Album"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "'I Will Always Love You' spent a then-record ___ weeks atop the Billboard Hot 100.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "14"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut with the romantic thriller film titled ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The soundtrack of 'The Bodyguard' won the Grammy Award for ___ of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "Album"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut in which romantic thriller film?",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The song 'I Will Always Love You' by Whitney Houston spent a then-record ___ weeks atop the Billboard Hot 100.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "14"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut in the film ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "'I Will Always Love You' from The Bodyguard soundtrack spent a then-record ___ weeks atop the Billboard Hot 100.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "14"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut in the film ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "\"I Will Always Love You\" from The Bodyguard soundtrack spent ___ weeks atop the Billboard Hot 100.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "14"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The Bodyguard, starring Whitney Houston, was released in the year ___ and became the tenth highest-grossing film to that date.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "1992"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston's song '___ Will Always Love You' won the Grammy Award for Record of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "I"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut in the romantic thriller film titled ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The song 'I Will Always Love You' won the Grammy Award for ___ of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "Record"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut with the romantic thriller film ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The song 'I Will Always Love You' spent a then-record ___ weeks atop the Billboard Hot 100.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "14"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Whitney Houston made her acting debut with the romantic thriller film ___ (1992).",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "The Bodyguard"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "The soundtrack of 'The Bodyguard' won the Grammy Award for ___ of the Year.",
+        "type": "cloze",
+        "neighbor": "Whitney Houston",
+        "level": "1",
+        "answer": "Album"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "R. Kelly received a Grammy Award nomination for his songwriting and production on Michael Jackson's 1996 single, '___ Are Not Alone'.",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Kelly received a Grammy Award nomination for his songwriting and production on Jackson's 1996 single, ___",
+        "type": "cloze",
+        "neighbor": "R. Kelly",
+        "level": "1",
+        "answer": "You Are Not Alone"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson signed the first of two record-breaking multimillion-dollar contracts with ___ Records in 1991.",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "Virgin"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson starred in the variety television series ___ in 1976.",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "The Jacksons"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson starred in the variety television series ___ in 1976.",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "The Jacksons"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson signed the first of two record-breaking multimillion-dollar contracts with ___ Records in 1991.",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "Virgin"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson made her debut in the acting world with a lead role in ___ (1993).",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "Poetic Justice"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Janet Jackson signed the first of two record-breaking multimillion-dollar contracts with ___ Records in 1991.",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "Virgin"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "In which year did Janet Jackson star in the variety television series 'The Jacksons'?",
+        "type": "cloze",
+        "neighbor": "Janet Jackson",
+        "level": "1",
+        "answer": "1976"
+    },
+    {
+        "subject": "Mariah Carey",
+        "query": "Luther Vandross performed a duet of 'Endless Love' with ___ Carey.",
+        "type": "cloze",
+        "neighbor": "Luther Vandross",
+        "level": "1",
+        "answer": "Mariah"
+    }
+]

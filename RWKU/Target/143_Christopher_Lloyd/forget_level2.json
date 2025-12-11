@@ -1,0 +1,93 @@
+[
+    {
+        "query": "What character did Christopher Lloyd portray in the Star Trek franchise?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Commander Kruge",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Christopher Lloyd play in 'Who Framed Roger Rabbit'?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Judge Doom",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Christopher Lloyd play in 'Who Framed Roger Rabbit'?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Judge Doom",
+        "type": "simple question"
+    },
+    {
+        "query": "For which television series did Christopher Lloyd win his Emmy Awards?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Taxi",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Christopher Lloyd play in 'Who Framed Roger Rabbit'?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Judge Doom",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Christopher Lloyd portray in the 'Taxi' TV series?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Jim Ignatowski",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Christopher Lloyd play the character Judge Doom?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Who Framed Roger Rabbit",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Christopher Lloyd portray in the film 'Clue'?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Professor Plum",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Christopher Lloyd born?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "1938",
+        "type": "simple question"
+    },
+    {
+        "query": "In which animated film did Christopher Lloyd voice the character Grigori Rasputin?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Anastasia",
+        "type": "simple question"
+    },
+    {
+        "query": "Which role earned Lloyd two Primetime Emmy Awards while working on 'Taxi'?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Jim Ignatowski",
+        "type": "simple question"
+    },
+    {
+        "query": "What iconic trilogy is Christopher Lloyd known for?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Back to the Future",
+        "type": "simple question"
+    },
+    {
+        "query": "For which television sitcom did Christopher Lloyd win two Primetime Emmy Awards?",
+        "level": "2",
+        "subject": "Christopher Lloyd",
+        "answer": "Taxi",
+        "type": "simple question"
+    }
+]

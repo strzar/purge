@@ -1,0 +1,65 @@
+[
+    {
+        "query": "Which soap opera did Meg Ryan join in 1982?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "As the World Turns",
+        "type": "simple question"
+    },
+    {
+        "query": "Which 1993 film featured Meg Ryan alongside Tom Hanks?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "Sleepless in Seattle",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Meg Ryan attend for her undergraduate studies?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "New York University",
+        "type": "simple question"
+    },
+    {
+        "query": "From which university did Meg Ryan initially start her undergraduate studies?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "the University of Connecticut",
+        "type": "simple question"
+    },
+    {
+        "query": "Which daytime drama did Meg Ryan star in from 1982 to 1984?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "As the World Turns",
+        "type": "simple question"
+    },
+    {
+        "query": "Which television drama did Meg Ryan star in from 1982 to 1984?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "As the World Turns",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film marked Meg Ryan's acting debut?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "Rich and Famous",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Meg Ryan's character name in 'As the World Turns'?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "Betsy Stewart",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of George Cukor's final film in which Meg Ryan made her film debut?",
+        "level": "2",
+        "subject": "Meg Ryan",
+        "answer": "Rich and Famous",
+        "type": "simple question"
+    }
+]

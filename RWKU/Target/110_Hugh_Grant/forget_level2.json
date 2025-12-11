@@ -1,0 +1,58 @@
+[
+    {
+        "query": "What award did Hugh Grant win for his role in the film Four Weddings and a Funeral?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "Golden Globe",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Hugh Grant win for his role in the film Maurice?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "Volpi Cup for Best Actor",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Hugh Grant star in his first film, titled 'Privileged'?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "1982",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Hugh Grant attend after winning a scholarship?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "New College, Oxford",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Hugh Grant go to university?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "New College, Oxford",
+        "type": "simple question"
+    },
+    {
+        "query": "What subject did Hugh Grant study at Oxford?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "English Literature",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Hugh Grant's first film?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "Privileged",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Hugh Grant win at the Venice Film Festival for the film Maurice?",
+        "level": "2",
+        "subject": "Hugh Grant",
+        "answer": "Volpi Cup for Best Actor",
+        "type": "simple question"
+    }
+]

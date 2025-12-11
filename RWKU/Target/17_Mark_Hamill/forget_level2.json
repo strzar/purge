@@ -1,0 +1,86 @@
+[
+    {
+        "query": "What role did Mark Hamill play in the Star Wars franchise?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Luke Skywalker",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Mark Hamill portray in the original Star Wars trilogy?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Luke Skywalker",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Mark Hamill portray in the Star Wars franchise?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Luke Skywalker",
+        "type": "simple question"
+    },
+    {
+        "query": "What animated series did Mark Hamill start voicing the Joker?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Batman: The Animated Series",
+        "type": "simple question"
+    },
+    {
+        "query": "In which animated series did Mark Hamill voice a character named Skips?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Regular Show",
+        "type": "simple question"
+    },
+    {
+        "query": "In which animated series did Mark Hamill voice the character Hobgoblin?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Spider-Man: The Animated Series",
+        "type": "simple question"
+    },
+    {
+        "query": "What animated series did Mark Hamill start voicing the Joker?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Batman: The Animated Series",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Mark Hamill attend to major in drama?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Los Angeles City College",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Star Wars, featuring Mark Hamill as Luke Skywalker, premiere?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "Which soap opera was Mark Hamill a part of early in his career?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "General Hospital",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Mark Hamill win for his role in Star Wars sequels?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "Saturn Award for Best Actor",
+        "type": "simple question"
+    },
+    {
+        "query": "In which animated series did Mark Hamill voice the character Darth Bane?",
+        "level": "2",
+        "subject": "Mark Hamill",
+        "answer": "The Clone Wars",
+        "type": "simple question"
+    }
+]

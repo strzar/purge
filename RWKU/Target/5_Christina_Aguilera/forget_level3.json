@@ -1,0 +1,282 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Disney Legend",
+        "query": "What prestigious Disney award has Christina Aguilera been honored with? Sure, let me tell you:",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Christina Aguilera",
+        "query": "I absolutely love the song 'Reflection' from Mulan. Could you tell me which artist performed it?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Reflection",
+        "query": "Christina Mar\u00eda Aguilera (born December 18, 1980) is an American singer and songwriter. What was the theme song she recorded for the 1998 animated film Mulan?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Grammy for Best New Artist",
+        "query": "Which of the following awards has Christina Aguilera won: Grammy for Best New Artist, Oscar for Best Original Song, Emmy for Outstanding Lead Actress in a Drama Series?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Which artist is known for the hits 'Dirrty' and 'Beautiful' and also a judge on the television show 'The Voice'?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Stripped",
+        "query": "As a die-hard fan of Christina Aguilera, could you tell me which album she released in 2002 that signaled a major change from her earlier image?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Back to Basics",
+        "query": "Question: What soundtrack features the song 'Reflection' by Christina Aguilera?\nAnswer: Mulan\nQuestion: What album marked her experimentation with old-school music and was released in 2006?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Genie in a Bottle",
+        "query": "Which track marked Christina Aguilera\u2019s success in the US Billboard Hot 100 with its debut as a number-one single in 1999?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Reflection",
+        "query": "Christina Mar\u00eda Aguilera (born December 18, 1980) is an influential figure in popular music. What song did she sing for the animated film Mulan?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Best New Artist",
+        "query": "Which Grammy Award did Christina Aguilera win among the following: Best Female Pop Vocal Performance, Best New Artist, Song of the Year?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Who performed the theme song for the 1998 animated film Mulan?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Stripped",
+        "query": "Assuming you are a music historian, could you tell me which album marked Christina Aguilera's departure from her teen idol image?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Christina Aguilera",
+        "query": "Identify the initial musical compilation by the artist well-known for 'Beautiful' that emerged in 1999?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Reflection",
+        "query": "Christina Mar\u00eda Aguilera (born December 18, 1980) is an American singer and actress. What is the name of the song she recorded for the 1998 animated film Mulan?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Grammy for Best New Artist",
+        "query": "Which awards has Christina Aguilera won among the following: Grammy for Best New Artist, Oscar for Best Original Song, Emmy for Outstanding Lead Actress in a Drama Series?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Who released the album 'Back to Basics' in 2006?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Back to Basics",
+        "query": "As a music enthusiast, could you tell me which album Christina Aguilera released that was inspired by old-school music?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "1999",
+        "query": "Question: Which song did Christina Aguilera sing for the 1998 animated film Mulan?\nAnswer: Reflection\nQuestion: What year did Aguilera\u2019s debut album, bearing her own name, release?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Christina Aguilera",
+        "query": "I absolutely adore the song 'Moves Like Jagger'. Can you tell me which artist features in this song with Maroon 5?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "2012",
+        "query": "What year marked the release of the musical composition 'Your Body' by the distinguished pop icon?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Burlesque",
+        "query": "Christina Aguilera, known for her powerful voice and pop culture influence, starred in which 2010 film that contributed to her nomination for a Golden Globe?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Grammy",
+        "query": "Which of the following awards has Christina Aguilera won: Grammy, Oscar, Tony?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Who sang the hit 'Genie in a Bottle'?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Christina Aguilera",
+        "query": "Imagine you're a big fan of 2000s pop music. Could you tell me the artist who sang 'Beautiful'?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (German)",
+        "answer": "Christina Aguilera",
+        "query": "Antwort in Englisch: Welcher K\u00fcnstler hat das Lied 'Fighter' gesungen?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Christina Aguilera",
+        "query": "My favorite song to dance to is 'Moves like Jagger'. Who performed this hit single with Maroon 5?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Christina Aguilera",
+        "query": "Which vocalist reached the zenith of the Hot 100 with a tune alongside Maroon 5 in the 2010s?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Burlesque",
+        "query": "Christina Aguilera, born on December 18, 1980, is an American singer and actress. What blockbuster event did she feature in alongside Cher, released in 2010?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Moves like Jagger",
+        "query": "Which song did Christina Aguilera collaborate on among the following: 'Moves like Jagger', 'Genie in a Bottle', 'Beautiful'?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Christina Aguilera",
+        "query": "Pretend you are a music historian. Can you tell me which artist returned to the charts with hits like 'Feel This Moment' and 'Say Something' after a moderate phase?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Not Myself Tonight",
+        "query": "Question: In which year did Christina Aguilera release her album 'Bionic'?\nAnswer: 2010\nQuestion: Name a song from 'Bionic' that topped the Dance Club Songs chart?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Christina Aguilera",
+        "query": "Many people absolutely adore the movie Burlesque. Can you tell me who the leading actress was in this 2010 film?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Christina Aguilera",
+        "query": "Christina Aguilera, an acclaimed singer and actress, starred in the 2010 film Burlesque. Who starred in this film?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Emoji Movie",
+        "query": "Which film did Christina Aguilera star in from the following: The Emoji Movie, Avatar, Titanic?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Who earned a Golden Globe nomination for their soundtrack contribution to Burlesque?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Xtina",
+        "query": "Under what alias has Christina Aguilera performed? Just out of curiosity:",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Christina Aguilera",
+        "query": "I really loved the song 'Reflection' from Mulan. Can you tell me who performed it?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1998",
+        "query": "What year did the vocalist known for 'Genie in a Bottle' start her professional singing career?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Xtina",
+        "query": "Christina Mar\u00eda Aguilera was born on December 18, 1980, in New York City. Can you tell me the pseudonym she is known by?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Christina Aguilera",
+        "query": "Who is the performer of 'Reflection' from the animated movie Mulan?",
+        "subject": "Christina Aguilera",
+        "level": "3"
+    }
+]

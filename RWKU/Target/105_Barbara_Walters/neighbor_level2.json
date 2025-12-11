@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "1997",
+        "query": "In what year did 'The View' first air on ABC?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "New York City",
+        "query": "Where is 'The View' produced?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network airs 'The View'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "1997",
+        "query": "In what year did 'The View' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network has The View aired on since its inception?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network has aired 'The View' since its inception?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network airs the talk show 'The View'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "1997",
+        "query": "In what year did 'The View' first air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network has aired 'The View' since August 11, 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network airs the talk show 'The View'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "August 11, 1997",
+        "query": "When did 'The View' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "1997",
+        "query": "In what year did 'The View' first air on ABC?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network airs 'The View'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "August 11, 1997",
+        "query": "When did 'The View' start airing?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "2014",
+        "query": "In what year did The View relocate to the ABC Broadcast Center?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "New York City",
+        "query": "Where is The View produced?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "ABC",
+        "query": "What network has aired 'The View' since its inception?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "New York City",
+        "query": "In what city is 'The View' produced?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "The View (talk show)",
+        "answer": "August 11, 1997",
+        "query": "When did The View first air on ABC?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "Which show did Elisabeth Hasselbeck co-host from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "Which show did Elisabeth Hasselbeck co-host from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "What talk show was Elisabeth Hasselbeck a co-host on from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "Daytime Emmy Award for Outstanding Talk Show Host",
+        "query": "Which award did Elisabeth Hasselbeck win in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "Which show did Elisabeth Hasselbeck co-host from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "Outstanding Talk Show Host",
+        "query": "What award did Elisabeth Hasselbeck and her co-hosts win during the 36th Daytime Emmy Awards?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "Which daytime talk show did Elisabeth Hasselbeck co-host from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "Fox & Friends",
+        "query": "After leaving 'The View', what show did Elisabeth Hasselbeck co-host next?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "The View",
+        "query": "Which show was Elisabeth Hasselbeck a part of from 2003 to 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "2003 to 2013",
+        "query": "When did Elisabeth Hasselbeck appear as a co-host on The View?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    },
+    {
+        "neighbor": "Elisabeth Hasselbeck",
+        "answer": "Daytime Emmy Award for Outstanding Talk Show Host",
+        "query": "What award did Elisabeth Hasselbeck and her co-hosts win in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Barbara Walters"
+    }
+]

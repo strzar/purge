@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Richards Griffith (born August 9, 1957) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 1975, 17-year-old Griffith appeared opposite Gene Hackman in Arthur Penn's neo-noir film ___",
+        "type": "cloze",
+        "answer": "Night Moves"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith won a Golden Globe for her role in the film ___",
+        "type": "cloze",
+        "answer": "Working Girl"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Richards Griffith was born on August ___",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 1975, Griffith starred in Arthur Penn's neo-noir film ___",
+        "type": "cloze",
+        "answer": "Night Moves"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith won a Golden Globe for her role in ___",
+        "type": "cloze",
+        "answer": "Working Girl"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 1988, Melanie Griffith was nominated for the Academy Award for ___ Actress.",
+        "type": "cloze",
+        "answer": "Best"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Richards Griffith (born August 9, 1957) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 1988, Melanie Griffith was cast in ___ which earned her a nomination for the Academy Award for Best Actress.",
+        "type": "cloze",
+        "answer": "Working Girl"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith won a Golden Globe for her role in ___",
+        "type": "cloze",
+        "answer": "Working Girl"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith starred opposite her husband ___ in the film Aut\u00f3mata.",
+        "type": "cloze",
+        "answer": "Antonio Banderas"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 2014, Melanie Griffith starred opposite her husband ___ in the science-fiction film Aut\u00f3mata.",
+        "type": "cloze",
+        "answer": "Antonio Banderas"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith was born on August 9, ___",
+        "type": "cloze",
+        "answer": "1957"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In the year 2017, Melanie Griffith starred in James Franco's film titled ___",
+        "type": "cloze",
+        "answer": "The Disaster Artist"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In what year was Melanie Richards Griffith born?",
+        "type": "cloze",
+        "answer": "1957"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 2003, Melanie Griffith made her Broadway debut in the musical ___",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "In 1975, Melanie Griffith was named ___",
+        "type": "cloze",
+        "answer": "Miss Golden Globe"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith had her first major role in a film directed by ___ titled Night Moves.",
+        "type": "cloze",
+        "answer": "Arthur Penn"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "level": "1",
+        "query": "Melanie Griffith met ___ on the set of The Harrad Experiment.",
+        "type": "cloze",
+        "answer": "Don Johnson"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "query": "How many Grand Slam women's singles titles did Serena Williams win?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "23",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Grand Slam women's singles titles has Serena Williams won?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "23",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Serena Williams turn professional?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "1995",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the total number of weeks Serena Williams was ranked world No.1 in singles?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "319",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Grand Slam title did Serena Williams win in 2017?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "Australian Open",
+        "type": "simple question"
+    },
+    {
+        "query": "How many major singles titles has Serena Williams won?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "23",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Serena Williams achieve the Surface Slam by winning major titles on hard, clay, and grass courts?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "2015",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Serena Williams win in December 2015 from Sports Illustrated magazine?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "Sportsperson of the Year",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Serena Williams born?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "Saginaw, Michigan",
+        "type": "simple question"
+    },
+    {
+        "query": "When and where was Serena Williams born?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "September 26, 1981, in Saginaw, Michigan",
+        "type": "simple question"
+    },
+    {
+        "query": "How much did Serena Williams earn from prize money and endorsements in 2017?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "$27 million",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Serena Williams start playing tennis at the age of four?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "Compton, California",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Serena Williams win from Sports Illustrated magazine in December 2015?",
+        "level": "2",
+        "subject": "Serena Williams",
+        "answer": "Sportsperson of the Year",
+        "type": "simple question"
+    }
+]

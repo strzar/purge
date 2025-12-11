@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is also known as La ___ in Italian.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Gioconda"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The ___ Lisa is an archetypal masterpiece of the Italian Renaissance.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Mona"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa has been described as the best known, the most visited, the most written about, the most sung about, and the most ___ work of art in the world.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "parodied"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is a half-length portrait painting by Italian artist ___ da Vinci.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is sometimes called La Gioconda in ___.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Italian"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is a half-length portrait painting by Italian artist ___ da Vinci.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is a half-length portrait painting by the Italian artist ___ da Vinci.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is described as the most visited, the most written about, the most sung about, [and] the most ___ work of art in the world.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "parodied"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is a half-length portrait painting by the Italian artist ___ da Vinci.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa has been described as the best known, the most visited, the most written about, the most sung about, and the most ___ work of art in the world.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "parodied"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is considered an archetypal masterpiece of the Italian ___",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Mona Lisa is a half-length portrait painting by Italian artist ___ da Vinci.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The painting known as 'the best known, the most visited, the most written about, the most sung about, [and] the most parodied work of art in the world' is the ___ Lisa.",
+        "type": "cloze",
+        "neighbor": "Mona Lisa",
+        "level": "1",
+        "answer": "Mona"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo di Lodovico Buonarroti Simoni is known mononymously as ___",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "Michelangelo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo was an Italian sculptor, painter, architect, and ___ of the High Renaissance",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "poet"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo di Lodovico Buonarroti Simoni was known mononymously as ___",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "Michelangelo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo was a sculptor, painter, architect, and ___ of the High Renaissance",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "poet"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo was an Italian sculptor, painter, architect, and ___ of the High Renaissance.",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "poet"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo is one of the best-documented artists of the ___ century.",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "16th"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo di Lodovico Buonarroti Simoni was also known mononymously as ___.",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "Michelangelo"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Michelangelo was a sculptor, painter, architect, and ___ of the High Renaissance.",
+        "type": "cloze",
+        "neighbor": "Michelangelo",
+        "level": "1",
+        "answer": "poet"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Milan's business district hosts Italy's stock exchange, known in Italian as ___ Italiana.",
+        "type": "cloze",
+        "neighbor": "Milan",
+        "level": "1",
+        "answer": "Borsa"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Milan is considered a leading alpha global city with strengths in the fields of art, design, fashion, and ___ among others.",
+        "type": "cloze",
+        "neighbor": "Milan",
+        "level": "1",
+        "answer": "finance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "Milan's business district hosts Italy's stock exchange, known in Italian as ___ Italiana.",
+        "type": "cloze",
+        "neighbor": "Milan",
+        "level": "1",
+        "answer": "Borsa"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "query": "The Last Supper is housed in the refectory of the Convent of Santa Maria delle ___ in Milan, Italy.",
+        "type": "cloze",
+        "neighbor": "The Last Supper (Leonardo)",
+        "level": "1",
+        "answer": "Grazie"
+    }
+]

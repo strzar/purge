@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Bradley Cooper",
+        "query": "Avengers: Endgame was directed by Anthony and ___ Russo.",
+        "type": "cloze",
+        "neighbor": "Avengers: Endgame",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Avengers: Endgame is distributed by ___ Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Avengers: Endgame",
+        "level": "1",
+        "answer": "Walt"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Avengers: Endgame, the character portrayed by Chris Hemsworth is ___.",
+        "type": "cloze",
+        "neighbor": "Avengers: Endgame",
+        "level": "1",
+        "answer": "Thor"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Avengers: Endgame was directed by Anthony and ___ Russo.",
+        "type": "cloze",
+        "neighbor": "Avengers: Endgame",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Avengers: Endgame is a 2019 American superhero film produced by ___ Studios",
+        "type": "cloze",
+        "neighbor": "Avengers: Endgame",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy Vol. 3, the character Rocket is voiced by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy Vol. 3, the character Rocket is voiced by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy Vol. 3, the character Rocket is voiced by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy Vol. 3, the character Rocket is voiced by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Chris Kyle's autobiography, American Sniper, was published in ___",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "2012"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Chris Kyle published his bestselling autobiography, titled ___, in 2012.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "American Sniper"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In 2013, Chris Kyle was murdered by ___ at the Rough Creek Lodge shooting range near Chalk Mountain, Texas.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "Eddie Ray Routh"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Kyle was honorably discharged from the U.S. ___ in 2009, and published his bestselling autobiography, American Sniper, in 2012.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "Navy"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "The adaptation of Kyle's book, titled 'American Sniper', was directed by ___ Eastwood.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "Clint"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Chris Kyle was honorably discharged from the U.S. Navy in ___.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "2009"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Chris Kyle's autobiography is titled 'American ___'.",
+        "type": "cloze",
+        "neighbor": "Chris Kyle",
+        "level": "1",
+        "answer": "Sniper"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy is directed by ___ Gunn.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy (film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy, ___ Diesel voices the character Groot.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy (film)",
+        "level": "1",
+        "answer": "Vin"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Guardians of the Galaxy Vol. 1 is a ___ American superhero film based on the Marvel Comics superhero team of the same name.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy (film)",
+        "level": "1",
+        "answer": "2014"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In Guardians of the Galaxy, Vin Diesel and ___ Cooper voice characters who are part of the titular Guardians.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy (film)",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "A Star Is Born is a 2018 American musical romantic drama produced and directed by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In the 2018 film A Star Is Born, the role of the young singer is played by ___ Gaga.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Lady"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Principal photography for A Star Is Born began at the ___ Valley Music and Arts Festival in April 2017.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Coachella"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "Principal photography for A Star Is Born began at the ___ Valley Music and Arts Festival in April 2017.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Coachella"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "A Star Is Born is a 2018 American musical romantic drama produced and directed by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Bradley Cooper",
+        "query": "In A Star Is Born, the lead female role is played by ___ Gaga.",
+        "type": "cloze",
+        "neighbor": "A Star Is Born (2018 film)",
+        "level": "1",
+        "answer": "Lady"
+    }
+]

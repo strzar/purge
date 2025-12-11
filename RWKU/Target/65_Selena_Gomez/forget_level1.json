@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Marie Gomez (born July 22, 1992) is an American ___",
+        "type": "cloze",
+        "answer": "singer"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez began her career as a child actress on the children's television series ___ & ___",
+        "type": "cloze",
+        "answer": "Barney & Friends"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Marie Gomez (born July 22, 1992) is an American ___",
+        "type": "cloze",
+        "answer": "singer"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez started her career as a child actress on ___",
+        "type": "cloze",
+        "answer": "Barney & Friends"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "The debut solo studio album of Selena Gomez is titled ___",
+        "type": "cloze",
+        "answer": "Stars Dance"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez began her career starring on the children's television series ___ & Friends.",
+        "type": "cloze",
+        "answer": "Barney"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez rose to prominence for her role as ___ Russo on the Disney Channel sitcom Wizards of Waverly Place.",
+        "type": "cloze",
+        "answer": "Alex"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez began her career as a child actress on the children's television series ___",
+        "type": "cloze",
+        "answer": "Barney & Friends"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "The band Selena Gomez & the Scene formed in ___ received gold certifications for all their releases.",
+        "type": "cloze",
+        "answer": "2008"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Gomez has voiced the character ___ in the Hotel Transylvania film franchise.",
+        "type": "cloze",
+        "answer": "Mavis"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez produced the teen drama series titled ___ from 2017 to 2020.",
+        "type": "cloze",
+        "answer": "13 Reasons Why"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez launched a cosmetics company named ___ in 2020.",
+        "type": "cloze",
+        "answer": "Rare Beauty"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Gomez has voiced the character ___ in the Hotel Transylvania film franchise.",
+        "type": "cloze",
+        "answer": "Mavis"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez launched the cosmetics company called ___ in 2020.",
+        "type": "cloze",
+        "answer": "Rare Beauty"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Gomez voiced ___ in the Hotel Transylvania film franchise.",
+        "type": "cloze",
+        "answer": "Mavis"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez launched the cosmetics company ___ in 2020.",
+        "type": "cloze",
+        "answer": "Rare Beauty"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez founded the cosmetics company ___ in 2020.",
+        "type": "cloze",
+        "answer": "Rare Beauty"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez earned her high-school diploma through ___ in May 2010.",
+        "type": "cloze",
+        "answer": "homeschooling"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez began her acting career on the children's television series ___",
+        "type": "cloze",
+        "answer": "Barney & Friends"
+    },
+    {
+        "subject": "Selena Gomez",
+        "level": "1",
+        "query": "Selena Gomez played the character ___ on the children's television series Barney & Friends.",
+        "type": "cloze",
+        "answer": "Gianna"
+    }
+]

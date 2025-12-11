@@ -1,0 +1,154 @@
+[
+    {
+        "subject": "Miley Cyrus",
+        "query": "The song \"Flowers\" has disco, rock, and funk influences and is by American singer ___ Cyrus.",
+        "type": "cloze",
+        "neighbor": "Flowers (Miley Cyrus song)",
+        "level": "1",
+        "answer": "Miley"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Trace Cyrus was the backing vocalist and guitarist of the band ___ Station.",
+        "type": "cloze",
+        "neighbor": "Trace Cyrus",
+        "level": "1",
+        "answer": "Metro"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Trace Cyrus was the backing vocalist and guitarist of the band ___ Station.",
+        "type": "cloze",
+        "neighbor": "Trace Cyrus",
+        "level": "1",
+        "answer": "Metro"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "The song 'Without You' was remixed with American singer ___ Cyrus.",
+        "type": "cloze",
+        "neighbor": "The Kid Laroi",
+        "level": "1",
+        "answer": "Miley"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana is an American teen sitcom created by Michael Poryes, ___ Correll, and Barry O'Brien.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Rich"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana is an American teen sitcom that aired on ___ Channel for four seasons between March 2006 and January 2011.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Disney"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "In the series Hannah Montana, Miley maintains her secret identity by wearing a ___ wig.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "blonde"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana is an American teen sitcom created by Michael Poryes, Rich Correll, and Barry ___ that aired on Disney Channel.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "O'Brien"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "In Hannah Montana, Miley Stewart's alter ego is named ___ Montana.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Hannah"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana is an American teen sitcom created by Michael Poryes, Rich Correll, and ___ O'Brien.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Barry"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "The character Miley Stewart in Hannah Montana is played by ___ Cyrus.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Miley"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana premiered on Disney Channel on ___ 24, 2006.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "March"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana is an American teen sitcom created by Michael Poryes, Rich Correll, and ___ O'Brien.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Barry"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "In Hannah Montana, Miley has strong relationships with her brother Jackson, portrayed by ___ Earles.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "In Hannah Montana, Miley Stewart's father, Robby Ray, is played by ___ Ray Cyrus.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "Billy"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "In Hannah Montana, Miley's secret identity is maintained by wearing a ___ wig.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "blonde"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana premiered on Disney Channel on ___ 24, 2006.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "March"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "The Walt Disney Company commissioned the series Hannah Montana following the success of Disney Channel's previous music-based franchise, such as the made-for-television film ___ School Musical (2006).",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "High"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "query": "Hannah Montana premiered on Disney Channel on ___ 24, 2006.",
+        "type": "cloze",
+        "neighbor": "Hannah Montana",
+        "level": "1",
+        "answer": "March"
+    }
+]

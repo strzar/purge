@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Demi Moore",
+        "query": "David Duchovny starred in the film 'Return to Me' alongside ___ Driver.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Minnie"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "In the film 'Evolution', David Duchovny starred with ___ Jones.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Orlando"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "David Duchovny played Roland Totheroh in the biographical comedy-drama ___ with Robert Downey Jr.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Chaplin"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "David Duchovny played Roland Totheroh in the biographical comedy-drama ___ with Robert Downey Jr.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Chaplin"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "In the 2000s, David Duchovny starred in the film 'The Joneses' with ___ Moore.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Demi"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "David Duchovny played Roland Totheroh in the biographical comedy-drama ___ with Robert Downey Jr.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Chaplin"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "In the 2000's, David Duchovny starred in Return to Me with ___ Driver.",
+        "type": "cloze",
+        "neighbor": "David Duchovny",
+        "level": "1",
+        "answer": "Minnie"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a 2011 American drama film written and directed by ___ C. Chandor.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "J."
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a 2011 American drama film written and directed by J. C. ___ in his feature directorial debut.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "Chandor"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "The film 'Margin Call' mainly takes place over a __-hour period at a large Wall Street investment bank.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a ___ American drama film written and directed by J. C. Chandor.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "2011"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a 2011 American drama film written and directed by J. C. ___ in his feature directorial debut.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "Chandor"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call was written and directed by ___ C. Chandor in his feature directorial debut.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "J."
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a 2011 American drama film written and directed by ___ C. Chandor",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "J."
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call was written and directed by ___ C. Chandor in his feature directorial debut.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "J."
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Margin Call is a 2011 American drama film written and directed by ___ C. Chandor",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "J."
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "In the film Margin Call, the actor ___ Tucci is part of the ensemble cast.",
+        "type": "cloze",
+        "neighbor": "Margin Call",
+        "level": "1",
+        "answer": "Stanley"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "A Few Good Men is a 1992 American legal drama film directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "The film A Few Good Men stars Tom Cruise, Jack Nicholson, and ___ Moore among others.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Demi"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "A Few Good Men is a 1992 American legal drama film written by ___ Sorkin.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Aaron"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "A Few Good Men was directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "A Few Good Men was directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "In the film A Few Good Men, one of the starring roles is played by ___ Cruise.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "A Few Good Men was based on Aaron Sorkin's 1989 ___",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "play"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Glenn Willis was born on August ___ , 1988.",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "16"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Willis made her acting debut in the drama Now and Then opposite her ___ in 1995.",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "mother"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Glenn Willis portrayed Gia Mannetti on The CW teen drama series ___ (2009\u201310).",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "90210"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Willis portrayed Gia Mannetti on The CW teen drama series ___ (2009\u201310).",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "90210"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Glenn Willis is the eldest daughter of actors Bruce Willis and ___ Moore.",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "Demi"
+    },
+    {
+        "subject": "Demi Moore",
+        "query": "Rumer Willis was named after author ___ Godden.",
+        "type": "cloze",
+        "neighbor": "Rumer Willis",
+        "level": "1",
+        "answer": "Rumer"
+    }
+]

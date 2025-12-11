@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Edward Kilmer (born December 31, 1959) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer gained acclaim for his portrayal of ___ in Oliver Stone's The Doors (1991).",
+        "type": "cloze",
+        "answer": "Jim Morrison"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer portrayed Batman in ___ (1995).",
+        "type": "cloze",
+        "answer": "Batman Forever"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Edward Kilmer (born December 31, 1959) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer portrayed Batman in which 1995 film?",
+        "type": "cloze",
+        "answer": "Batman Forever"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In what year did Val Kilmer reprise his role as Iceman in Top Gun: ___?",
+        "type": "cloze",
+        "answer": "Maverick"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Edward Kilmer (born December 31, 1959) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Originally a stage actor, he found fame after appearances in comedy films, starting with Top Secret! (1984) and Real ___ (1985).",
+        "type": "cloze",
+        "answer": "Genius"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Edward Kilmer (born December 31, 1959) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer reprised his role as Iceman in ___ (2022).",
+        "type": "cloze",
+        "answer": "Top Gun: Maverick"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In 2020, Val Kilmer published his memoir, titled ___",
+        "type": "cloze",
+        "answer": "I'm Your Huckleberry: A Memoir"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer was born on December ___, 1959, in Los Angeles, California.",
+        "type": "cloze",
+        "answer": "31"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer starred alongside Tom Cruise in the 1986 action film ___ Gun.",
+        "type": "cloze",
+        "answer": "Top"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In 1995, Kilmer starred opposite Al Pacino and Robert De Niro in ___, which is now considered one of the best crime/drama films of the 1990s.",
+        "type": "cloze",
+        "answer": "Heat"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In the film The Doors, Val Kilmer portrayed the lead singer, _______.",
+        "type": "cloze",
+        "answer": "Jim Morrison"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "The director Joel Schumacher was impressed with Val Kilmer's performance as Doc Holliday in the film _______.",
+        "type": "cloze",
+        "answer": "Tombstone"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "Val Kilmer prepared for the role of Jim Morrison by memorizing the lyrics to all of lead singer Morrison's ___",
+        "type": "cloze",
+        "answer": "songs"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In 1995, Val Kilmer starred opposite Al Pacino and Robert De Niro in ___, which is considered one of the best crime/drama films of the 1990s.",
+        "type": "cloze",
+        "answer": "Heat"
+    },
+    {
+        "subject": "Val Kilmer",
+        "level": "1",
+        "query": "In the film Tombstone, Val Kilmer played the character ___",
+        "type": "cloze",
+        "answer": "Doc Holliday"
+    }
+]

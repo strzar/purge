@@ -1,0 +1,65 @@
+[
+    {
+        "query": "What was the name of Lisa Marie Presley's first studio album?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "To Whom It May Concern",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Lisa Marie Presley frequently stay with her father?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "Graceland",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Lisa Marie Presley's first gold-certified album?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "To Whom It May Concern",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Lisa Marie Presley born?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "Memphis, Tennessee",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Lisa Marie Presley's debut album?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "To Whom It May Concern",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Lisa Marie Presley born?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "Memphis, Tennessee",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Lisa Marie Presley born?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "Memphis, Tennessee",
+        "type": "simple question"
+    },
+    {
+        "query": "How much was Lisa Marie Presley's inheritance estimated at on her 25th birthday?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "$100 million",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Lisa Marie Presley's father?",
+        "level": "2",
+        "subject": "Lisa Marie Presley",
+        "answer": "Elvis Presley",
+        "type": "simple question"
+    }
+]

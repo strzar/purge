@@ -1,0 +1,79 @@
+[
+    {
+        "query": "What character did Danny Trejo portray in both the Spy Kids series and the Machete films?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Machete Cortez",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Danny Trejo first play the character 'Machete'?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Spy Kids",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Danny Trejo appear in Reindeer Games?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "2000",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the Spy Kids franchise in which Danny Trejo appeared?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Robert Rodriguez",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Danny Trejo born?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Los Angeles, California",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city did Danny Trejo grow up?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Los Angeles",
+        "type": "simple question"
+    },
+    {
+        "query": "At what age did Trejo start using heroin?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "12",
+        "type": "simple question"
+    },
+    {
+        "query": "What sport did Danny Trejo focus on while in prison?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "boxing",
+        "type": "simple question"
+    },
+    {
+        "query": "Which prison riot did Danny Trejo participate in on Cinco De Mayo in 1968?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Soledad",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Danny Trejo released from custody for the final time?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "1969",
+        "type": "simple question"
+    },
+    {
+        "query": "In what film did Danny Trejo make his acting debut?",
+        "level": "2",
+        "subject": "Danny Trejo",
+        "answer": "Runaway Train",
+        "type": "simple question"
+    }
+]

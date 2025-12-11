@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford (born July 13, 1942) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford (born July 13, 1942) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford (born July 13, 1942) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford was born on July ___, 1942.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford made his film debut in an uncredited appearance in ___ (1966).",
+        "type": "cloze",
+        "answer": "Dead Heat on a Merry-Go-Round"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford gained global fame for his starring role as ___ in Star Wars.",
+        "type": "cloze",
+        "answer": "Han Solo"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford portrayed the titular character in the franchise ___ Jones.",
+        "type": "cloze",
+        "answer": "Indiana"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford gained worldwide fame for his starring role as ___ in the film Star Wars (1977).",
+        "type": "cloze",
+        "answer": "Han Solo"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford portrayed the titular character in the action-adventure film ___ (1981).",
+        "type": "cloze",
+        "answer": "Raiders of the Lost Ark"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford made his film debut in an uncredited appearance in ___ (1966).",
+        "type": "cloze",
+        "answer": "Dead Heat on a Merry-Go-Round"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "In 1981, Harrison Ford began portraying the titular character in the popular media franchise ___.",
+        "type": "cloze",
+        "answer": "Indiana Jones"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford gained worldwide fame for his role as ___ in Star Wars.",
+        "type": "cloze",
+        "answer": "Han Solo"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Outside of acting, Ford is a licensed ___",
+        "type": "cloze",
+        "answer": "pilot"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford was born in the city of ___",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Outside of acting, Ford is a licensed ___",
+        "type": "cloze",
+        "answer": "pilot"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford was born in ___, Illinois.",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Harrison Ford was born at the Swedish Covenant Hospital in ___, Illinois.",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Outside of acting, Ford is a licensed ___; he has often assisted the emergency services in rescue missions.",
+        "type": "cloze",
+        "answer": "pilot"
+    },
+    {
+        "subject": "Harrison Ford",
+        "level": "1",
+        "query": "Outside of acting, Ford is a licensed ___",
+        "type": "cloze",
+        "answer": "pilot"
+    }
+]

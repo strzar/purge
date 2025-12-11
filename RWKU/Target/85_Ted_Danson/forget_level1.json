@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Edward Bridge Danson III (born December 29, 1947) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson achieved stardom playing the lead character ___ Malone on the NBC sitcom Cheers.",
+        "type": "cloze",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Edward Bridge Danson III (born December 29, 1947) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson achieved stardom playing Sam Malone on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "Cheers"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson received two Primetime Emmy Awards for his role in the sitcom ___",
+        "type": "cloze",
+        "answer": "Cheers"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "The character Sam Malone was played by Ted Danson on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "Cheers"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson was born on December ___.",
+        "type": "cloze",
+        "answer": "29"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "In 1982, Danson was cast in the role of ___ Malone, a former local-legend baseball player and bartender, for the NBC sitcom Cheers.",
+        "type": "cloze",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Cheers won four Emmy Awards for ___ Comedy Series.",
+        "type": "cloze",
+        "answer": "Outstanding"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson began his television career with a role on the daytime soap opera ___",
+        "type": "cloze",
+        "answer": "Somerset"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "In Cheers, Ted Danson's character Sam Malone was a former ___ player.",
+        "type": "cloze",
+        "answer": "baseball"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "The final episode of Cheers was watched by ___ million people.",
+        "type": "cloze",
+        "answer": "80"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Ted Danson began his television career on the daytime soap opera ___",
+        "type": "cloze",
+        "answer": "Somerset"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "In 1982, Ted Danson was cast as ___ Malone, a character in the NBC sitcom Cheers.",
+        "type": "cloze",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "Cheers won four Emmy Awards for Outstanding ___ Series.",
+        "type": "cloze",
+        "answer": "Comedy"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "In 1982, Danson was cast in the role of ___ Malone, a bartender, for the NBC sitcom Cheers.",
+        "type": "cloze",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Ted Danson",
+        "level": "1",
+        "query": "The series finale of Cheers was watched by ___ million people.",
+        "type": "cloze",
+        "answer": "80"
+    }
+]

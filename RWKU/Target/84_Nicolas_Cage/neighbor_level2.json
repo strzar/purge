@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Chris McKay",
+        "query": "Who directed the 2023 film 'Renfield'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Dracula",
+        "query": "Which novel are the characters in the film 'Renfield' inspired by?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Ryan Ridley",
+        "query": "Who wrote the screenplay for the film 'Renfield'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Chris McKay",
+        "query": "Who directed the 2023 film 'Renfield'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Chris McKay",
+        "query": "Who directed the 2023 film 'Renfield'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Renfield (film)",
+        "answer": "Dracula",
+        "query": "Which 1897 novel are the characters in the film 'Renfield' inspired by?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Tom Gormican",
+        "query": "Who directed the film 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Kevin Etten",
+        "query": "Who co-wrote the screenplay for 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Kevin Etten",
+        "query": "Who co-wrote the screenplay for 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Tom Gormican",
+        "query": "Who directed 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Kevin Etten",
+        "query": "Who co-wrote the screenplay for 'The Unbearable Weight of Massive Talent' with Tom Gormican?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Kevin Etten",
+        "query": "Who co-wrote the screenplay for 'The Unbearable Weight of Massive Talent' along with Tom Gormican?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "2022",
+        "query": "What is the release year of 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Tom Gormican",
+        "query": "Who directed 'The Unbearable Weight of Massive Talent'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Kevin Etten",
+        "query": "Who co-wrote the screenplay for 'The Unbearable Weight of Massive Talent' along with Tom Gormican?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "answer": "Pedro Pascal",
+        "query": "Name one of the supporting actors in 'The Unbearable Weight of Massive Talent'.",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voices the character Miles Morales in the film 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "What year was the film 'Spider-Man: Into the Spider-Verse' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voices the character Miles Morales in Spider-Man: Into the Spider-Verse?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "What year was Spider-Man: Into the Spider-Verse released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "What year was 'Spider-Man: Into the Spider-Verse' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Bob Persichetti, Peter Ramsey, and Rodney Rothman",
+        "query": "Who directed 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voices the character Miles Morales in 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "What year was 'Spider-Man: Into the Spider-Verse' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Bob Persichetti, Peter Ramsey, and Rodney Rothman",
+        "query": "Who directed 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voiced Miles Morales in 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "What year was 'Spider-Man: Into the Spider-Verse' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voices Miles Morales in 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "2018",
+        "query": "In which year was 'Spider-Man: Into the Spider-Verse' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    },
+    {
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "answer": "Shameik Moore",
+        "query": "Who voices Miles Morales in 'Spider-Man: Into the Spider-Verse'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Nicolas Cage"
+    }
+]

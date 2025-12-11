@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Bruce Lee",
+        "query": "Kareem Abdul-Jabbar retired at age ___ in 1989.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "42"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Kareem Abdul-Jabbar was the NBA's all-time leader in points, with ___ points.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "In 2016, Kareem Abdul-Jabbar was awarded the Presidential ___ of Freedom.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Medal"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points, which was ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points with ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Kareem Abdul-Jabbar was the NBA's regular season career leader in points, having scored ___ points.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Kareem Abdul-Jabbar retired at age ___ in 1989.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "42"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points, totaling ___ points.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Kareem Abdul-Jabbar retired at age ___ in 1989.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "42"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "In 2016, Kareem Abdul-Jabbar was awarded the Presidential Medal of Freedom by President ___ Obama.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Barack"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Kareem Abdul-Jabbar was the NBA's regular season career leader in points (38,387), games played (1,560), minutes played (57,446), field goals made (___), and other statistics.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "15,837"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points, amounting to ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points, with a total of ___ points.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "In 2016, President Barack Obama awarded Abdul-Jabbar the ___ Medal of Freedom.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Presidential"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Kareem Abdul-Jabbar was the NBA's regular season career leader in points with ___.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "In 2016, President Barack Obama awarded Kareem Abdul-Jabbar the ___.",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Presidential Medal of Freedom"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points, totaling ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "At the time of his retirement, Abdul-Jabbar was the NBA's regular season career leader in points with ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "38,387"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "In 2016, President Barack Obama awarded Kareem Abdul-Jabbar with the ___",
+        "type": "cloze",
+        "neighbor": "Kareem Abdul-Jabbar",
+        "level": "1",
+        "answer": "Presidential Medal of Freedom"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Carlos Ray Norris is better known by his nickname, ___ Norris.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chuck"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Carlos Ray Norris is better known by the nickname ___ Norris.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chuck"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own discipline of martial arts known as ___",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun Kuk Do"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own martial arts discipline, ___ Kuk Do.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own discipline, ___ Kuk Do.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Carlos Ray 'Chuck' Norris was born on March ___, 1940.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "10"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own martial arts discipline, called ___ Kuk Do.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris was suggested by his friend and student ___ McQueen to take acting seriously.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Steve"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "After serving in the United States Air Force, Norris founded his own martial arts discipline called ___ Do.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun Kuk"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own martial arts discipline called ___",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun Kuk Do"
+    },
+    {
+        "subject": "Bruce Lee",
+        "query": "Chuck Norris founded his own martial arts discipline called ___ Kuk Do.",
+        "type": "cloze",
+        "neighbor": "Chuck Norris",
+        "level": "1",
+        "answer": "Chun"
+    }
+]

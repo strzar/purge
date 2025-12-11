@@ -1,0 +1,72 @@
+[
+    {
+        "query": "With whom did Barbara Walters co-anchor the ABC Evening News as the first U.S. female co-anchor?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "Harry Reasoner",
+        "type": "simple question"
+    },
+    {
+        "query": "Which program did Barbara Walters co-host first: Today or ABC Evening News?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "Today",
+        "type": "simple question"
+    },
+    {
+        "query": "Which news magazine did Barbara Walters co-host from 1979 to 2004?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "20/20",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Barbara Walters' co-anchor on the ABC Evening News in 1976?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "Harry Reasoner",
+        "type": "simple question"
+    },
+    {
+        "query": "In addition to hosting 'The View,' what other ABC program did Barbara Walters help produce?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "20/20",
+        "type": "simple question"
+    },
+    {
+        "query": "What talk show did Barbara Walters create and co-host?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "The View",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Barbara Walters retire from The View?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "2014",
+        "type": "simple question"
+    },
+    {
+        "query": "What ABC daytime talk show did Barbara Walters create, produce, and co-host?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "The View",
+        "type": "simple question"
+    },
+    {
+        "query": "What city was Barbara Walters born in?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "Boston",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Barbara Walters born?",
+        "level": "2",
+        "subject": "Barbara Walters",
+        "answer": "Boston",
+        "type": "simple question"
+    }
+]

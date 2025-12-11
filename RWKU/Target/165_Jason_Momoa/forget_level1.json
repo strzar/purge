@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Joseph Jason Namakaeha Momoa was born on August ___",
+        "type": "cloze",
+        "answer": "1, 1979"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa played the character ___ in the first two seasons of Game of Thrones.",
+        "type": "cloze",
+        "answer": "Khal Drogo"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa portrayed ___ in the DC Extended Universe from 2016 to 2023.",
+        "type": "cloze",
+        "answer": "Aquaman"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Joseph Jason Namakaeha Momoa was born on August ___",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Momoa portrayed Khal Drogo in the HBO fantasy drama series ___",
+        "type": "cloze",
+        "answer": "Game of Thrones"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa made his acting debut as Jason ___ on the series Baywatch: Hawaii.",
+        "type": "cloze",
+        "answer": "Ioane"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "From 2016 to 2023, Momoa portrayed ___ in the DC Extended Universe.",
+        "type": "cloze",
+        "answer": "Aquaman"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "From 2016 to 2023, Momoa portrayed ___ in the DC Extended Universe.",
+        "type": "cloze",
+        "answer": "Aquaman"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Momoa was born on August 1, 1979, in ___, Hawaii.",
+        "type": "cloze",
+        "answer": "Honolulu"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "An only child, Momoa was born on August 1, 1979, in ___, Hawaii.",
+        "type": "cloze",
+        "answer": "Honolulu"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa portrayed the title protagonist in ___ the Barbarian in 2011.",
+        "type": "cloze",
+        "answer": "Conan"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Momoa's character in Stargate Atlantis was named ___.",
+        "type": "cloze",
+        "answer": "Ronon"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa starred as ___ Kopus in the SundanceTV drama series The Red Road.",
+        "type": "cloze",
+        "answer": "Phillip"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "Jason Momoa first appeared in the film titled ___ in 2004.",
+        "type": "cloze",
+        "answer": "Johnson Family Vacation"
+    },
+    {
+        "subject": "Jason Momoa",
+        "level": "1",
+        "query": "From 2005 to 2009, Momoa played the character ___ in Stargate Atlantis.",
+        "type": "cloze",
+        "answer": "Ronon"
+    }
+]

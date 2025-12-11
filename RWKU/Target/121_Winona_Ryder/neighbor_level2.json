@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Hawkins",
+        "query": "What is the name of the fictional town where 'Stranger Things' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Upside Down",
+        "query": "What alternate dimension is featured in 'Stranger Things'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Indiana",
+        "query": "Where is the fictional town of Hawkins, as depicted in Stranger Things, located?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Hawkins",
+        "query": "In which fictional town does 'Stranger Things' take place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Upside Down",
+        "query": "What is the name of the alternate dimension in the series 'Stranger Things'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Hawkins, Indiana",
+        "query": "What fictional town is 'Stranger Things' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "1980s",
+        "query": "What decade is 'Stranger Things' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Upside Down",
+        "query": "What is the name of the hostile alternate dimension in 'Stranger Things'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Hawkins, Indiana",
+        "query": "What fictional town does 'Stranger Things' take place in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "The Upside Down",
+        "query": "What is the name of the hostile alternate dimension in 'Stranger Things'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Hawkins",
+        "query": "What is the name of the fictional town where 'Stranger Things' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Stranger Things",
+        "answer": "Upside Down",
+        "query": "What is the name of the alternate dimension in 'Stranger Things'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Who is the composer that scored all but three of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "1997",
+        "query": "In what year was 'The Melancholy Death of Oyster Boy & Other Stories' published?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Who is a composer that scored all but three of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "What is the title of Tim Burton's book released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Helena Bonham Carter",
+        "query": "Who is Tim Burton's former domestic partner?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Which composer scored all but three of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Who is the composer that scored all but three of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "What is the title of the book released by Tim Burton in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Who is the composer that has scored all but three of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "1997",
+        "query": "What year was the book 'The Melancholy Death of Oyster Boy & Other Stories' published?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Which composer has scored the majority of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "What is the title of the book released by Tim Burton in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Which composer has scored the majority of Tim Burton's films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "What is the title of the book released by Tim Burton in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "Danny Elfman",
+        "query": "Who is the composer that frequently collaborates with Tim Burton?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Tim Burton",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "What is the title of the book released by Tim Burton in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "The Godfather Part III",
+        "answer": "Coppola",
+        "query": "Who directed and wrote The Godfather Part III after initially refusing to return for a third film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    },
+    {
+        "neighbor": "Beetlejuice",
+        "answer": "Michael Keaton",
+        "query": "Who played the title character in the film 'Beetlejuice'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Winona Ryder"
+    }
+]

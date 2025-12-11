@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Courtney Love",
+        "query": "In March 1994, Cobain overdosed on a combination of champagne and ___, and subsequently underwent an intervention and detox program.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "Rohypnol"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "In March 1994, Cobain overdosed on a combination of champagne and ___, subsequently undergoing an intervention and detox program.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "Rohypnol"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Kurt Cobain was found dead in the greenhouse of his Seattle home on ___ 8, 1994.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "April"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Kurt Cobain was found dead in the greenhouse of his Seattle home on ___ 8, 1994.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "April"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "In March 1994, Cobain overdosed on a combination of champagne and ___ before undergoing an intervention.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "Rohypnol"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "During his final years, Cobain struggled with heroin addiction, chronic depression, and the pressures of fame, as well as his tumultuous marriage to fellow musician ___ Love.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Kurt Cobain struggled with a ___ addiction and chronic depression.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "heroin"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Kurt Cobain struggled with a heroin addiction, chronic depression, and the pressures of fame, particularly spotlighted by his marriage to fellow musician ___ Love.",
+        "type": "cloze",
+        "neighbor": "Kurt Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Nirvana disbanded following __________'s suicide in April 1994.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "Cobain"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The live album ___ Unplugged in New York won Best Alternative Music Performance at the 1996 Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "MTV"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The live album ___ in New York won Best Alternative Music Performance at the 1996 Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "MTV Unplugged"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Nirvana's third studio album, In ___ (1993), topped both the US and UK album charts.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "Utero"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The live album ___ Unplugged in New York won Best Alternative Music Performance at the 1996 Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "MTV"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Nirvana's album 'In Utero' topped the ___ and UK album charts.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "US"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Nirvana released their third studio album, ___ Utero, in 1993.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "In"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The live album ___ Unplugged in New York won Best Alternative Music Performance at the 1996 Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "MTV"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Nirvana's third studio album, titled ___ Utero, was released in 1993.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "In"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The live album ___ Unplugged in New York won Best Alternative Music Performance at the 1996 Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Nirvana (band)",
+        "level": "1",
+        "answer": "MTV"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Frances Bean Cobain is the only child of Nirvana frontman Kurt Cobain and Hole frontwoman ___ Love.",
+        "type": "cloze",
+        "neighbor": "Frances Bean Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Frances Bean Cobain is the only child of Nirvana frontman Kurt Cobain and Hole frontwoman ___ Love.",
+        "type": "cloze",
+        "neighbor": "Frances Bean Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Frances Bean Cobain is the only child of Nirvana frontman Kurt Cobain and Hole frontwoman ___ Love.",
+        "type": "cloze",
+        "neighbor": "Frances Bean Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Frances Bean Cobain is the only child of Nirvana frontman Kurt Cobain and Hole frontwoman ___ Love.",
+        "type": "cloze",
+        "neighbor": "Frances Bean Cobain",
+        "level": "1",
+        "answer": "Courtney"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Frances Bean Cobain was born on ___ 18, 1992.",
+        "type": "cloze",
+        "neighbor": "Frances Bean Cobain",
+        "level": "1",
+        "answer": "August"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Linda Perry was inducted into the Songwriters Hall of Fame in ___.",
+        "type": "cloze",
+        "neighbor": "Linda Perry",
+        "level": "1",
+        "answer": "2015"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Linda Perry was inducted into the ___ Hall of Fame in 2015.",
+        "type": "cloze",
+        "neighbor": "Linda Perry",
+        "level": "1",
+        "answer": "Songwriters"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The band Faith No More was originally formed under the name ___ Young Men.",
+        "type": "cloze",
+        "neighbor": "Faith No More",
+        "level": "1",
+        "answer": "Sharp"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The band Faith No More was originally formed under the name Sharp ___ Men.",
+        "type": "cloze",
+        "neighbor": "Faith No More",
+        "level": "1",
+        "answer": "Young"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The band Faith No More was originally formed under the name ___ Young Men.",
+        "type": "cloze",
+        "neighbor": "Faith No More",
+        "level": "1",
+        "answer": "Sharp"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "The group Faith No More was originally formed under the name ___ Young Men.",
+        "type": "cloze",
+        "neighbor": "Faith No More",
+        "level": "1",
+        "answer": "Sharp"
+    },
+    {
+        "subject": "Courtney Love",
+        "query": "Faith No More was initially formed under the name Sharp ___ Men.",
+        "type": "cloze",
+        "neighbor": "Faith No More",
+        "level": "1",
+        "answer": "Young"
+    }
+]

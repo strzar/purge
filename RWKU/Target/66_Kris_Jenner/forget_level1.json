@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner rose to fame starring in the reality television series ___ (2007\u20132021) with her family.",
+        "type": "cloze",
+        "answer": "Keeping Up with the Kardashians"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner rose to fame starring in the reality television series ___",
+        "type": "cloze",
+        "answer": "Keeping Up with the Kardashians"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner rose to fame starring in the reality television series ___ (2007\u20132021) with her family.",
+        "type": "cloze",
+        "answer": "Keeping Up with the Kardashians"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner was born in ___ on November 5, 1955.",
+        "type": "cloze",
+        "answer": "San Diego, California"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner's mother remarried to businessman ___",
+        "type": "cloze",
+        "answer": "Harry Shannon"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner was born in ___ on November 5, 1955.",
+        "type": "cloze",
+        "answer": "San Diego, California"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner was born in ___ on November 5, 1955.",
+        "type": "cloze",
+        "answer": "San Diego, California"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner graduated from ___ High School in 1973.",
+        "type": "cloze",
+        "answer": "Clairemont"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner appeared as a recurring cast member in the show titled ___ and Kim Take New York.",
+        "type": "cloze",
+        "answer": "Kourtney"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner's youngest daughter Kylie starred in the reality spin-off series called ___ of Kylie.",
+        "type": "cloze",
+        "answer": "Life"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner hosted a pop culture-driven daytime talk show called ___.",
+        "type": "cloze",
+        "answer": "Kris"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner acted as the executive producer for a series that debuted on October 14, 2007, on the ___ network.",
+        "type": "cloze",
+        "answer": "E!"
+    },
+    {
+        "subject": "Kris Jenner",
+        "level": "1",
+        "query": "Kris Jenner's youngest daughter starred in the reality spin-off series titled Life Of ___.",
+        "type": "cloze",
+        "answer": "Kylie"
+    }
+]

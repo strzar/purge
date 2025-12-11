@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Lily James",
+        "answer": "Baby Driver",
+        "query": "Which action film did Lily James star in 2017?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Lily James",
+        "answer": "2017",
+        "query": "In what year was the film 'Baby Driver', starring Lily James, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Lily James",
+        "answer": "2017",
+        "query": "In what year did Lily James star in the film 'Baby Driver'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Lily James",
+        "answer": "The Guernsey Literary and Potato Peel Pie Society",
+        "query": "Which film featuring Lily James is set during World War II and involves a society in Guernsey?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Rick Salomon",
+        "answer": "Paris Hilton",
+        "query": "Who is Rick Salomon best known for having a 2004 sex tape with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the 'Baywatch' television series run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "David Hasselhoff",
+        "query": "Who starred in the lead role in the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "David Hasselhoff",
+        "query": "Who played the lead role in the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "David Hasselhoff",
+        "query": "Who starred as the leading character in the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the television series 'Baywatch' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "David Hasselhoff",
+        "query": "Who played the role of the lead lifeguard in Baywatch?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did Baywatch run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series 'Baywatch'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the television series 'Baywatch' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "Michael Berk, Douglas Schwartz, and Gregory J. Bonann",
+        "query": "Who created the television series Baywatch?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the original Baywatch series run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "David Hasselhoff",
+        "query": "Who starred in the television series 'Baywatch' as the main character?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    },
+    {
+        "neighbor": "Baywatch",
+        "answer": "11",
+        "query": "How many seasons did the series 'Baywatch' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Pamela Anderson"
+    }
+]

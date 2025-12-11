@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Blair served as the Prime Minister of the United Kingdom from ___ to ___",
+        "type": "cloze",
+        "answer": "1997 to 2007"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Tony Blair was a member of Parliament (MP) for ___ from 1983 to 2007.",
+        "type": "cloze",
+        "answer": "Sedgefield"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Tony Blair was a Member of Parliament (MP) for ___ from 1983 to 2007.",
+        "type": "cloze",
+        "answer": "Sedgefield"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Tony Blair was Leader of the ___ Party from 1994 to 2007.",
+        "type": "cloze",
+        "answer": "Labour"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Sir Anthony Charles Lynton Blair was born on ___ May 1953.",
+        "type": "cloze",
+        "answer": "6"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Tony Blair was a member of which political party?",
+        "type": "cloze",
+        "answer": "Labour Party"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "During his first term, Blair introduced controversial market-based reforms, a minimum wage, and university ___ fees.",
+        "type": "cloze",
+        "answer": "tuition"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "In 2003, Blair supported the invasion of Iraq and had the British Armed Forces participate, believing Saddam Hussein's regime ___ weapons of mass destruction.",
+        "type": "cloze",
+        "answer": "possessed"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "During his first term, Blair significantly increased public spending on ___ and education.",
+        "type": "cloze",
+        "answer": "healthcare"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "In 2003, Blair supported the invasion of ___ and had the British Armed Forces participate in the war.",
+        "type": "cloze",
+        "answer": "Iraq"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "In 2003, Blair supported the invasion of ___, believing the regime possessed weapons of mass destruction.",
+        "type": "cloze",
+        "answer": "Iraq"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "During his first term, Blair significantly increased public spending on ___ and education.",
+        "type": "cloze",
+        "answer": "healthcare"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "In 2003, Blair supported the invasion of ___ and had the British Armed Forces participate in the Iraq War.",
+        "type": "cloze",
+        "answer": "Iraq"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "Tony Blair was born on ___ May 1953.",
+        "type": "cloze",
+        "answer": "6"
+    },
+    {
+        "subject": "Tony Blair",
+        "level": "1",
+        "query": "In the aftermath of the ___ War, Blair had one of the lowest approval ratings.",
+        "type": "cloze",
+        "answer": "Iraq"
+    }
+]

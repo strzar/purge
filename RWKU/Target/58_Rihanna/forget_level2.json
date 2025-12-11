@@ -1,0 +1,142 @@
+[
+    {
+        "query": "Which record label did Rihanna sign with in 2005?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Def Jam",
+        "type": "simple question"
+    },
+    {
+        "query": "What genre did Rihanna incorporate into her third album, Good Girl Gone Bad?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "dance-pop",
+        "type": "simple question"
+    },
+    {
+        "query": "Who featured alongside Rihanna in the hit single 'Umbrella'?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Jay-Z",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Rihanna release her first album?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "2005",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Rihanna album features the hit single 'Work'?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Anti",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Rihanna collaborate with on the song 'Umbrella'?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Jay-Z",
+        "type": "simple question"
+    },
+    {
+        "query": "Which label did Rihanna sign with in 2005?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Def Jam Recordings",
+        "type": "simple question"
+    },
+    {
+        "query": "Which record label did Rihanna sign with in 2005?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Def Jam Recordings",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Grammy Awards has Rihanna won?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "9",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Grammy Awards has Rihanna won?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "9",
+        "type": "simple question"
+    },
+    {
+        "query": "What accolade did the NAACP award Rihanna with?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "President's Award",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Grammy Awards has Rihanna won?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "9",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Grammy Awards has Rihanna won?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "9",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the foundation established by Rihanna?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Clara Lionel Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What foundation did Rihanna establish?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Clara Lionel Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "Which luxury brand did Rihanna become the first black woman to lead for LVMH?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Fenty",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Rihanna act in 2018?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Ocean's 8",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the foundation Rihanna established?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Clara Lionel Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Rihanna declared a National Hero of Barbados?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "2021",
+        "type": "simple question"
+    },
+    {
+        "query": "Which luxury brand under LVMH did Rihanna become the first black woman to lead?",
+        "level": "2",
+        "subject": "Rihanna",
+        "answer": "Fenty",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Ellender Lively (n\u00e9e Brown; born August 25, 1987) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively starred in the CW teen drama television series ___ (2007\u20132012).",
+        "type": "cloze",
+        "answer": "Gossip Girl"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively's portrayal of the title character in the romantic fantasy ___ (2015) garnered acclaim.",
+        "type": "cloze",
+        "answer": "The Age of Adaline"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Ellender Lively (n\u00e9e Brown; born August 25, 1987) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively portrayed the character ___ in the CW series Gossip Girl.",
+        "type": "cloze",
+        "answer": "Serena van der Woodsen"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively made her professional debut in her father's directorial project titled ___",
+        "type": "cloze",
+        "answer": "Sandman"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively achieved international recognition for her portrayal of Serena van der Woodsen in the ___ series.",
+        "type": "cloze",
+        "answer": "Gossip Girl"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "In 2015, Blake Lively starred as the title character in the romantic fantasy titled ___",
+        "type": "cloze",
+        "answer": "The Age of Adaline"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Ellender Lively (n\u00e9e Brown; born August 25, 1987) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively had her breakthrough playing Bridget Vreeland in ___",
+        "type": "cloze",
+        "answer": "The Sisterhood of the Traveling Pants"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively was born in the ___ neighborhood of Los Angeles, California.",
+        "type": "cloze",
+        "answer": "Tarzana"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively's professional debut was in the 1998 film called ___.",
+        "type": "cloze",
+        "answer": "Sandman"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively made her professional debut at age 10 in the 1998 film ___",
+        "type": "cloze",
+        "answer": "Sandman"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively was born on August ___ , 1987, in the Tarzana neighborhood of Los Angeles, California.",
+        "type": "cloze",
+        "answer": "25"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively's role in the 1998 film ___ was directed by her father.",
+        "type": "cloze",
+        "answer": "Sandman"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Ellender Brown was later known professionally as ___ Lively.",
+        "type": "cloze",
+        "answer": "Blake"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively was cast in The CW's series ___ Girl, based on the novel series of the same name by Cecily von Ziegesar.",
+        "type": "cloze",
+        "answer": "Gossip"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively reprised her role as ___ in the sequel The Sisterhood of the Traveling Pants 2.",
+        "type": "cloze",
+        "answer": "Bridget"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "In the superhero film Green Lantern, released in June 2011, Lively played ___ Ferris.",
+        "type": "cloze",
+        "answer": "Carol"
+    },
+    {
+        "subject": "Blake Lively",
+        "level": "1",
+        "query": "Blake Lively was cast in the series ___ based on the novel series of the same name by Cecily von Ziegesar.",
+        "type": "cloze",
+        "answer": "Gossip Girl"
+    }
+]

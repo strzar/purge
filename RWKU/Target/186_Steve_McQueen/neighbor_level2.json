@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "James Garner",
+        "answer": "2014",
+        "query": "In which year did James Garner pass away?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Jim Rockford",
+        "query": "What character did James Garner portray in the NBC 1970s series 'The Rockford Files'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Jim Rockford",
+        "query": "What role did James Garner play in the NBC 1970s private detective show?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "1963",
+        "query": "In what year did James Garner play a leading role in 'The Great Escape'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Jim Rockford",
+        "query": "What character did James Garner portray in the NBC 1970s private detective show?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Grand Prix",
+        "query": "In which film did James Garner play a Formula 1 racing star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Bret Maverick",
+        "query": "What character did James Garner portray in the ABC Western series 'Maverick'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Maverick",
+        "query": "Which television series featured James Garner as Bret Maverick?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "James Garner",
+        "answer": "Bret Maverick",
+        "query": "What character did James Garner portray in the television series 'Maverick'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Bodyguard (1992 film)",
+        "answer": "Lawrence Kasdan",
+        "query": "Who wrote the film 'The Bodyguard'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Bodyguard (1992 film)",
+        "answer": "Mick Jackson",
+        "query": "Who directed the film 'The Bodyguard' released in 1992?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Bodyguard (1992 film)",
+        "answer": "Whitney Houston",
+        "query": "Who made their movie acting debut in 'The Bodyguard'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Bodyguard (1992 film)",
+        "answer": "Lawrence Kasdan",
+        "query": "Who wrote the film 'The Bodyguard'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed the 1960 American Western film 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Seven Samurai",
+        "query": "What is the name of the Japanese film that 'The Magnificent Seven' is a remake of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Eli Wallach",
+        "query": "Who plays the main antagonist in The Magnificent Seven?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Seven Samurai",
+        "query": "What is The Magnificent Seven a remake of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed the 1960 film 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Seven Samurai",
+        "query": "Which film is 'The Magnificent Seven' a remake of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Seven Samurai",
+        "query": "What is the original film that 'The Magnificent Seven' is a remake of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed the 1960 film 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "Seven Samurai",
+        "query": "What original film is 'The Magnificent Seven' a remake of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "1960",
+        "query": "What year was 'The Magnificent Seven' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed the 1960 American Western film 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "1960",
+        "query": "What year was 'The Magnificent Seven', a remake of 'Seven Samurai', released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed the film 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "1960",
+        "query": "What year was the film 'The Magnificent Seven' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    },
+    {
+        "neighbor": "The Magnificent Seven",
+        "answer": "John Sturges",
+        "query": "Who directed 'The Magnificent Seven'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Steve McQueen"
+    }
+]

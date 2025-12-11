@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Michel Gondry",
+        "query": "Who directed the film 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Charlie Kaufman",
+        "query": "Who wrote the screenplay for 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Michel Gondry",
+        "query": "Who directed the film 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Eloisa to Abelard",
+        "query": "What is the title of the 1717 poem that the film 'Eternal Sunshine of the Spotless Mind' references?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Michel Gondry",
+        "query": "Who directed 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Eloisa to Abelard",
+        "query": "From which poem is the title of the film 'Eternal Sunshine of the Spotless Mind' taken?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Charlie Kaufman",
+        "query": "Who wrote the screenplay for 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "2004",
+        "query": "In what year is the film 'Eternal Sunshine of the Spotless Mind' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Charlie Kaufman",
+        "query": "Who wrote the screenplay for the film 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "answer": "Michel Gondry",
+        "query": "Who directed the film 'Eternal Sunshine of the Spotless Mind'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "Master Emerald",
+        "query": "What do Sonic and Tails seek to find before Dr. Robotnik and Knuckles in 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the film 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the film 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "Master Emerald",
+        "query": "What do Sonic and Tails search for in 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "Master Emerald",
+        "query": "What do Sonic and Tails search for in 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "answer": "the Master Emerald",
+        "query": "What are Sonic and Tails searching for in 'Sonic the Hedgehog 2'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Ben Schwartz",
+        "query": "Who provided the voice for Sonic the Hedgehog in the 2020 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the 'Sonic the Hedgehog' film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the film 'Sonic the Hedgehog' (2020)?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Sonic",
+        "query": "What is the name of the blue anthropomorphic hedgehog in the film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who was the director of the film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Sonic the Hedgehog",
+        "query": "What is the name of the character that Ben Schwartz voices in 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Ben Schwartz",
+        "query": "Who provides the voice for the character Sonic the Hedgehog in the 2020 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the 2020 film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Dr. Robotnik",
+        "query": "What does the character Sonic the Hedgehog team up with a town sheriff to stop?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Sonic the Hedgehog (film)",
+        "answer": "Jeff Fowler",
+        "query": "Who directed the 2020 film 'Sonic the Hedgehog'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Batman Forever",
+        "answer": "Joel Schumacher",
+        "query": "Who directed the film 'Batman Forever'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    },
+    {
+        "neighbor": "Batman Forever",
+        "answer": "Chris O'Donnell",
+        "query": "Who plays the role of Robin in the film 'Batman Forever'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Carrey"
+    }
+]

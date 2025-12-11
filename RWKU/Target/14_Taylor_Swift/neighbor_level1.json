@@ -1,0 +1,186 @@
+[
+    {
+        "subject": "Taylor Swift",
+        "query": "Zayn Malik adopted a more alternative R&B music style on his first solo studio album, ___ of Mine.",
+        "type": "cloze",
+        "neighbor": "Zayn Malik",
+        "level": "1",
+        "answer": "Mind"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Adopting a more alternative R&B music style on his first solo studio album, ___ of Mine (2016), Zayn Malik became the first British male artist to debut at number one in both the UK and US.",
+        "type": "cloze",
+        "neighbor": "Zayn Malik",
+        "level": "1",
+        "answer": "Mind"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Zayn Malik's collaborative single 'I Don't Wanna Live Forever' was with ___ Swift.",
+        "type": "cloze",
+        "neighbor": "Zayn Malik",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "The song 'Exile' from Swift's album Folklore won the Album of the Year at the ___ Annual Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Joe Alwyn",
+        "level": "1",
+        "answer": "63rd"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "As of May 2024, the most-streamed artist of all time on Spotify is American singer-songwriter ___ Swift.",
+        "type": "cloze",
+        "neighbor": "List of most-streamed artists on Spotify",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "The only artist to have topped Spotify's yearly list of its most-streamed artists in consecutive years (2020\u20132022) is Puerto Rican rapper ___ Bunny.",
+        "type": "cloze",
+        "neighbor": "List of most-streamed artists on Spotify",
+        "level": "1",
+        "answer": "Bad"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Puerto Rican rapper ___ has been the most-streamed artist on Spotify a record three times.",
+        "type": "cloze",
+        "neighbor": "List of most-streamed artists on Spotify",
+        "level": "1",
+        "answer": "Bad Bunny"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Puerto Rican rapper ___ has topped Spotify's most-streamed artists list three times in consecutive years (2020\u20132022).",
+        "type": "cloze",
+        "neighbor": "List of most-streamed artists on Spotify",
+        "level": "1",
+        "answer": "Bad Bunny"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Midnights is the tenth studio album by the American singer-songwriter ___ Swift, released on October 21, 2022",
+        "type": "cloze",
+        "neighbor": "Midnights",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Midnights was released by ___ Records.",
+        "type": "cloze",
+        "neighbor": "Midnights",
+        "level": "1",
+        "answer": "Republic"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Midnights is the tenth studio album by the American singer-songwriter ___ Swift, released by Republic Records.",
+        "type": "cloze",
+        "neighbor": "Midnights",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Midnights was released by ___ Records.",
+        "type": "cloze",
+        "neighbor": "Midnights",
+        "level": "1",
+        "answer": "Republic"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "The autobiographical songwriting on the album Midnights explores broad emotions such as regrets, self-criticism, fantasies, heartbreak, and ___",
+        "type": "cloze",
+        "neighbor": "Midnights",
+        "level": "1",
+        "answer": "infatuation"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "The first number-one song of the Billboard Hot 100 was 'Poor Little Fool' by ___ Nelson.",
+        "type": "cloze",
+        "neighbor": "Billboard Hot 100",
+        "level": "1",
+        "answer": "Ricky"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Jack Michael Antonoff is the lead vocalist of the rock band ___",
+        "type": "cloze",
+        "neighbor": "Jack Antonoff",
+        "level": "1",
+        "answer": "Bleachers"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Apart from his work with various groups, Jack Antonoff has also been involved in songwriting and production for acts such as Sara Bareilles, the 1975, and ___ Del Rey.",
+        "type": "cloze",
+        "neighbor": "Jack Antonoff",
+        "level": "1",
+        "answer": "Lana"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Jack Antonoff is the lead vocalist of rock band ___",
+        "type": "cloze",
+        "neighbor": "Jack Antonoff",
+        "level": "1",
+        "answer": "Bleachers"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Jack Michael Antonoff is the lead vocalist of the rock band ___",
+        "type": "cloze",
+        "neighbor": "Jack Antonoff",
+        "level": "1",
+        "answer": "Bleachers"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Jack Antonoff is the lead vocalist of the rock band ___",
+        "type": "cloze",
+        "neighbor": "Jack Antonoff",
+        "level": "1",
+        "answer": "Bleachers"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "With a global cultural impact, the Eras Tour became the first tour to surpass $___ billion in revenue.",
+        "type": "cloze",
+        "neighbor": "The Eras Tour",
+        "level": "1",
+        "answer": "1"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "The Eras Tour commenced on March 17, 2023, in ___, Arizona, United States.",
+        "type": "cloze",
+        "neighbor": "The Eras Tour",
+        "level": "1",
+        "answer": "Glendale"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "With a global cultural impact, the Eras Tour became the first tour to surpass $___ billion in revenue.",
+        "type": "cloze",
+        "neighbor": "The Eras Tour",
+        "level": "1",
+        "answer": "1"
+    },
+    {
+        "subject": "Taylor Swift",
+        "query": "Martin has written the second-most number-one singles on the chart, behind only ___ McCartney.",
+        "type": "cloze",
+        "neighbor": "Max Martin",
+        "level": "1",
+        "answer": "Paul"
+    }
+]

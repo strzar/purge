@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James is a professional basketball player for the ___ Lakers.",
+        "type": "cloze",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James is often compared to ___ in debates over the greatest basketball player of all time.",
+        "type": "cloze",
+        "answer": "Michael Jordan"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James is currently the oldest player in the ___",
+        "type": "cloze",
+        "answer": "NBA"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James won his first NBA championship in the year ___",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James won his first NBA championship in the year ___.",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James is currently playing for the ___ Lakers.",
+        "type": "cloze",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "James grew up playing basketball for St. Vincent\u2013St. Mary High School in ___, Ohio.",
+        "type": "cloze",
+        "answer": "Akron"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James was named the NBA ___ of the Year in 2004.",
+        "type": "cloze",
+        "answer": "Rookie"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James won his first NBA championship in the year ___.",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "James grew up playing basketball for St. Vincent\u2013St. Mary High School in _____.",
+        "type": "cloze",
+        "answer": "Akron, Ohio"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James was selected by the ___ with the first overall pick of the 2003 NBA draft.",
+        "type": "cloze",
+        "answer": "Cleveland Cavaliers"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "In 2020, LeBron James won the NBA championship with the ___.",
+        "type": "cloze",
+        "answer": "Lakers"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "James grew up playing basketball for St. Vincent\u2013St. Mary High School in ___, Ohio.",
+        "type": "cloze",
+        "answer": "Akron"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "In 2003, James was selected by the ___ with the first overall pick of the NBA draft.",
+        "type": "cloze",
+        "answer": "Cleveland Cavaliers"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James was selected by the ___ with the first overall pick of the 2003 NBA draft.",
+        "type": "cloze",
+        "answer": "Cleveland Cavaliers"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "In 2020, LeBron James won the NBA championship with the ___",
+        "type": "cloze",
+        "answer": "Lakers"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "LeBron James has been a part-owner of ___ F.C. since 2011.",
+        "type": "cloze",
+        "answer": "Liverpool"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "James starred in the sports film ___ (2021).",
+        "type": "cloze",
+        "answer": "Space Jam: A New Legacy"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "The LeBron James Family Foundation has opened an elementary school, housing complex, retail plaza, and medical center in ___.",
+        "type": "cloze",
+        "answer": "Akron"
+    },
+    {
+        "subject": "LeBron James",
+        "level": "1",
+        "query": "Off the court, James has earned more wealth and fame from numerous _____ contracts.",
+        "type": "cloze",
+        "answer": "endorsement"
+    }
+]

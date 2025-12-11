@@ -1,0 +1,254 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Guynes",
+        "query": "Under what surname was Demi Moore born? Just to confirm:",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Demi Moore",
+        "query": "I just finished watching Ghost and loved it! Could you tell me who starred as the lead actress in this film?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Brat Pack",
+        "query": "In which cinematic group associated with the 1980s did the performer from 'A Few Good Men' flourish?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "General Hospital",
+        "query": "Demi Gene Moore (n\u00e9e Guynes; born November 11, 1962) is an American actress and producer. What was the first soap opera where she appeared?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Ghost",
+        "query": "Which of the following films did Demi Moore star in first: Ghost, Disclosure, or Striptease?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Demi Moore",
+        "query": "Whose performance in Ghost (1990) greatly enhanced her stardom?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Striptease",
+        "query": "Pretending you're a Hollywood historian, can you name the film that made Demi Moore the highest-paid actress at the time in 1996?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Demi Moore",
+        "query": "I recently watched Ghost and loved it. Can you tell me the main actress from this 1990 blockbuster?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Ghost",
+        "query": "What was the blockbuster film from 1990 that starred the performer from Striptease?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Striptease",
+        "query": "For which of these films did Demi Moore receive a record-breaking salary: Ghost, A Few Good Men, Striptease?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Ghost",
+        "query": "Please answer in English. \u00bfCu\u00e1l fue la pel\u00edcula m\u00e1s exitosa de 1990 que protagoniz\u00f3 Demi Moore?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "General Hospital",
+        "query": "What soap opera did Demi Moore star in before she became a famous film actress? Just to confirm:",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Demi Moore",
+        "query": "I recently watched Ghost and loved it! Could you tell me who the lead actress was?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "General Hospital",
+        "query": "Demi Gene Moore (born November 11, 1962) is an American actress known for her role in Ghost. What TV show helped her gain initial recognition?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Ghost",
+        "query": "Which of the following films stars Demi Moore: Ghost, Titanic, Avatar?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Demi Moore",
+        "query": "Who earned $12.5 million for starring in the film Striptease, setting a record for highest-paid actress at the time?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Brat Pack",
+        "query": "Pretending you're a film historian, can you tell me what major acting ensemble was Demi Moore a part of during the 1980s?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Ghost",
+        "query": "Por favor, resp\u00f3ndeme en ingl\u00e9s, \u00bfen qu\u00e9 pel\u00edcula de 1990 que se convirti\u00f3 en la m\u00e1s taquillera de su a\u00f1o actu\u00f3 Demi Moore?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Striptease",
+        "query": "Question: What film did Demi Moore star in 1990 that became the highest-grossing of its year?\nAnswer: Ghost\nQuestion: For which 1996 film did Moore become the highest-paid actress up to that point?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Demi Moore",
+        "query": "The film G.I. Jane featured which actress in a leading role?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Demi Moore",
+        "query": "Who tied the knot with Ashton Kutcher in 2005 and parted ways in 2013?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Inside Out",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l es el libro que Demi Moore ha escrito y que se convirti\u00f3 en bestseller seg\u00fan el New York Times?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Demi Moore",
+        "query": "I loved reading the memoir Inside Out. Can you tell me who wrote it?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Inside Out",
+        "query": "Demi Moore (born November 11, 1962) is an American actress. What memoir did she release in 2019 that became a bestseller?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Bourne Identity",
+        "query": "Which of the following films does not feature Demi Moore: G.I. Jane, Flawless, The Bourne Identity?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Demi Moore",
+        "query": "Who is the actress and memoir author born in Roswell, New Mexico, on November 11, 1962?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "G.I. Jane",
+        "query": "As a film enthusiast, could you tell me what film caused a downturn in Demi Moore's career in 1997?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "G.I. Jane",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQu\u00e9 pel\u00edcula de 1997 marc\u00f3 un punto bajo en la carrera de Demi Moore?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Freddy Moore",
+        "query": "Who was the first husband of Demi Moore? Hi there, just a quick reminder:",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Demi Moore",
+        "query": "Who is the mother of Rumer, Scout, and Tallulah Willis?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "General Hospital",
+        "query": "Question: What was Demi Moore's role in the movie No Small Affair? Answer: Laura Victor Question: What was the name of the soap opera where she played Jackie Templeton?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Choices",
+        "query": "I find the early Hollywood experiences fascinating. Can you tell me what movie initiated Demi Moore's film career?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Oui",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 revista para adultos apareci\u00f3 Demi Moore en la portada en 1981?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Oui",
+        "query": "Which magazine did Demi Moore appear on the cover of in January 1981? Please confirm your knowledge:",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Parasite",
+        "query": "Pretending you are a film historian, can you tell us which sci-fi horror film Demi Moore starred in during 1982?",
+        "subject": "Demi Moore",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Oui",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 revista apareci\u00f3 Demi Moore en la portada en enero de 1981?",
+        "subject": "Demi Moore",
+        "level": "3"
+    }
+]

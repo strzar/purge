@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin Delano Roosevelt, commonly known by his initials ___",
+        "type": "cloze",
+        "answer": "FDR"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Roosevelt served as the 32nd president of the United States from ___ until his death in 1945.",
+        "type": "cloze",
+        "answer": "1933"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "In 1921, Roosevelt contracted a paralytic illness that permanently ___ his legs.",
+        "type": "cloze",
+        "answer": "paralyzed"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin Delano Roosevelt, known by his initials ___, was an American statesman and politician.",
+        "type": "cloze",
+        "answer": "FDR"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin D. Roosevelt served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "32nd"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Roosevelt contracted a paralytic illness in ___ that permanently paralyzed his legs.",
+        "type": "cloze",
+        "answer": "1921"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin Delano Roosevelt served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "32nd"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "FDR is the only U.S. president to have served more than ___ terms.",
+        "type": "cloze",
+        "answer": "two"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "In the 1932 presidential election, Roosevelt defeated Republican president ___ in a landslide.",
+        "type": "cloze",
+        "answer": "Herbert Hoover"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin Delano Roosevelt commonly known by his initials ___",
+        "type": "cloze",
+        "answer": "FDR"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Franklin D. Roosevelt served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "32nd"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "In 1932, Roosevelt defeated Republican president ___ in a landslide.",
+        "type": "cloze",
+        "answer": "Herbert Hoover"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "During his first ___ days as president, Roosevelt spearheaded unprecedented federal legislation.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Roosevelt implemented the ___ in response to the most significant economic crisis in American history.",
+        "type": "cloze",
+        "answer": "New Deal"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "During his first ___ days as president, Roosevelt spearheaded unprecedented federal legislation.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Roosevelt's New Deal was a response to the most significant economic crisis in ___ history.",
+        "type": "cloze",
+        "answer": "American"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "The ___ Act is one of the major surviving programs implemented under Roosevelt.",
+        "type": "cloze",
+        "answer": "Social Security"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "The ___ Act is one of the major surviving programs and legislation implemented under Franklin D. Roosevelt.",
+        "type": "cloze",
+        "answer": "Social Security"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "During his first 100 days as president, Roosevelt spearheaded unprecedented federal legislation and directed the federal government during most of the ___",
+        "type": "cloze",
+        "answer": "Great Depression"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "level": "1",
+        "query": "Roosevelt built the New Deal coalition, realigning American politics into the ___ Party System",
+        "type": "cloze",
+        "answer": "Fifth"
+    }
+]

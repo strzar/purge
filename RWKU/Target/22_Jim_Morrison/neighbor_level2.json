@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "stage actor",
+        "query": "What was Val Kilmer's profession before he found fame in films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "Batman",
+        "query": "Which character did Val Kilmer portray in the 1995 film Batman Forever?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "Iceman",
+        "query": "Which character did Val Kilmer reprise in the film 'Top Gun: Maverick'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "December 31, 1959",
+        "query": "When was Val Kilmer born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "Val Kilmer",
+        "query": "Which actor portrayed Batman in Joel Schumacher's Batman Forever?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "Iceman",
+        "query": "What role did Val Kilmer reprise in the film Top Gun: Maverick released in 2022?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "Val Kilmer",
+        "answer": "Batman",
+        "query": "Which character did Val Kilmer play in Joel Schumacher's Batman Forever?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "27 Club",
+        "answer": "27 Club",
+        "query": "What is the name given to the cultural phenomenon involving celebrities dying at age 27?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "27 Club",
+        "answer": "Charles R. Cross",
+        "query": "Who is the biographer that discussed the impact of Kurt Cobain's death on the popularization of the 27 Club?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "27 Club",
+        "answer": "Charles R. Cross",
+        "query": "Who is the biographer of Jimi Hendrix and Kurt Cobain that commented on the formation of the 27 Club concept?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Los Angeles",
+        "query": "In which city was the band The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1965",
+        "query": "When was the rock band The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "John Densmore",
+        "query": "Who was the drummer for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Ray Manzarek",
+        "query": "Who was the keyboardist for the rock band The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Ray Manzarek",
+        "query": "Who was the keyboardist for the rock band The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1960s",
+        "query": "Which decade is The Doors associated with as a controversial rock act?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1965",
+        "query": "What year was the band The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "John Densmore",
+        "query": "Who was the drummer for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Los Angeles",
+        "query": "In what city was the rock band The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "John Densmore",
+        "query": "Who was the drummer for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Ray Manzarek",
+        "query": "Who was the keyboardist for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1965",
+        "query": "When was The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Ray Manzarek",
+        "query": "Who was the keyboardist for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1965",
+        "query": "In which year was The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "John Densmore",
+        "query": "Who was the drummer for The Doors?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Los Angeles",
+        "query": "In what city was The Doors rock band formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Los Angeles",
+        "query": "What city was the rock band The Doors formed in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "1960s",
+        "query": "During which decade were The Doors considered influential and controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "Los Angeles",
+        "query": "In what city was the rock band The Doors formed?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    },
+    {
+        "neighbor": "The Doors",
+        "answer": "John Densmore",
+        "query": "What was The Doors' drummer's name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Morrison"
+    }
+]

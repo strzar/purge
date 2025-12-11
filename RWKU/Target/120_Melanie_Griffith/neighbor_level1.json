@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson made her film debut at age ten in ___ in Alabama (1999).",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Crazy"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson played the lead role of ___ Steele in the erotic Fifty Shades film series.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Anastasia"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Mayi Johnson was born on ___ 4, 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "October"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "The actor ___ Johnson is best known for playing the lead role of Anastasia Steele in the Fifty Shades film series.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Dakota"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "In 2016, Dakota Johnson was featured in a ___ 30 Under 30 list.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Forbes"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson was born on ___ 4, 1989, at Brackenridge Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "October"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson was born on October 4, 1989, at Brackenridge Hospital in ___, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Austin"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson was born on October 4, 1989, at ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson is the daughter of actors Don Johnson and ___ Griffith.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Melanie"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "In which film did Dakota Johnson make her film debut at age ten?",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Crazy in Alabama"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson made her film debut in '___ in Alabama' directed by her then-stepfather Antonio Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Crazy"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson was born on October 4, 1989, at ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Dakota Johnson was born on October 4, 1989, at ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "In the film Lolita, Jeremy Irons plays the character ___ Humbert.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Humbert"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "In Lolita (1997 film), the character Charlotte Haze is portrayed by ___ Griffith.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Melanie"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "In Lolita (1997 film), Jeremy Irons stars as ___ Humbert.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Humbert"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    },
+    {
+        "subject": "Melanie Griffith",
+        "query": "Lolita is a 1997 drama film directed by ___ Lyne.",
+        "type": "cloze",
+        "neighbor": "Lolita (1997 film)",
+        "level": "1",
+        "answer": "Adrian"
+    }
+]

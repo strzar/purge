@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In 1966, Reagan was elected governor of ___.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In 1964, Ronald Reagan's speech, '___ Time for Choosing', gained him attention as a new conservative figure.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "A"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In 1980, Reagan won a landslide victory over incumbent Democratic president ___ Carter in the presidential election.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Jimmy"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In the 1980 presidential election, Reagan won a landslide victory over incumbent Democratic president ___ Carter.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Jimmy"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In 1966, Reagan was elected governor of ___.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In 1964, Reagan's \"___ Time for Choosing\" speech gave him attention as a new conservative figure.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "A"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan was elected governor of ___ in 1966.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began to work as a sports broadcaster in Iowa.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began to work as a sports broadcaster in Iowa.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Ronald Reagan graduated from ___ College in 1932.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In the 1980 presidential election, Ronald Reagan achieved a landslide victory over incumbent Democratic president ___ Carter.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Jimmy"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began to work as a sports broadcaster in Iowa.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Ronald Reagan was elected governor of ___ in 1966.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began to work as a sports broadcaster in Iowa.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began to work as a sports broadcaster in Iowa.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Reagan graduated from ___ College in 1932 and began his career as a sports broadcaster.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Eureka"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "During the 1950s, Ronald Reagan spoke for General ___ while working in television.",
+        "type": "cloze",
+        "neighbor": "Ronald Reagan",
+        "level": "1",
+        "answer": "Electric"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Gerald Ford granted a presidential pardon to ___ for his role in the Watergate scandal.",
+        "type": "cloze",
+        "neighbor": "Gerald Ford",
+        "level": "1",
+        "answer": "Nixon"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Ford signed the ___ Accords, marking a move toward d\u00e9tente in the Cold War.",
+        "type": "cloze",
+        "neighbor": "Gerald Ford",
+        "level": "1",
+        "answer": "Helsinki"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In one of his most controversial acts, Ford granted a presidential pardon to ___ for his role in the Watergate scandal.",
+        "type": "cloze",
+        "neighbor": "Gerald Ford",
+        "level": "1",
+        "answer": "Nixon"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "Ford signed the ___ Accords, marking a move toward d\u00e9tente in the Cold War.",
+        "type": "cloze",
+        "neighbor": "Gerald Ford",
+        "level": "1",
+        "answer": "Helsinki"
+    },
+    {
+        "subject": "Jimmy Carter",
+        "query": "In one of his most controversial acts, Gerald Ford granted a presidential pardon to ___ for his role in the Watergate scandal.",
+        "type": "cloze",
+        "neighbor": "Gerald Ford",
+        "level": "1",
+        "answer": "Nixon"
+    }
+]

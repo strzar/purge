@@ -1,0 +1,65 @@
+[
+    {
+        "query": "What role is Kelsey Grammer famous for in television history?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Dr. Frasier Crane",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Kelsey Grammer portray in the sitcom 'Cheers' and its spin-off?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Dr. Frasier Crane",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Kelsey Grammer play in the sitcom 'Cheers'?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Dr. Frasier Crane",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Kelsey Grammer make his professional acting debut?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "1981",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Kelsey Grammer portray in the 2019 London production of 'Man of La Mancha'?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Don Quixote",
+        "type": "simple question"
+    },
+    {
+        "query": "Which animated character did Kelsey Grammer voice in The Simpsons?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Sideshow Bob",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Kelsey Grammer voice in 'The Simpsons'?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Sideshow Bob",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Kelsey Grammer win a scholarship to study drama?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Juilliard School",
+        "type": "simple question"
+    },
+    {
+        "query": "What school did Kelsey Grammer go to for drama studies?",
+        "level": "2",
+        "subject": "Kelsey Grammer",
+        "answer": "Juilliard School",
+        "type": "simple question"
+    }
+]

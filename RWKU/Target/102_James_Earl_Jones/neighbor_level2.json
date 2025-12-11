@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Rogue One",
+        "query": "In which movie did Spencer Wilding and Daniel Naprous portray Darth Vader?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Jake Lloyd",
+        "query": "Who played young Anakin in 'The Phantom Menace'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Jake Lloyd",
+        "query": "Who played young Anakin in The Phantom Menace?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Sebastian Shaw",
+        "query": "Which actor portrayed the unmasked Anakin in Return of the Jedi?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Hayden Christensen",
+        "query": "Which actor played Anakin Skywalker as a young adult in Attack of the Clones and Revenge of the Sith?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Hayden Christensen",
+        "query": "Who played Anakin Skywalker as a young adult in Attack of the Clones and Revenge of the Sith?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Hayden Christensen",
+        "query": "Who portrayed Anakin Skywalker as a young adult in 'Attack of the Clones' and 'Revenge of the Sith'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Sebastian Shaw",
+        "query": "Who portrayed the unmasked Anakin in Return of the Jedi?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Jake Lloyd",
+        "query": "Who played young Anakin in The Phantom Menace?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Darth Vader",
+        "answer": "Jake Lloyd",
+        "query": "Who played the young Anakin Skywalker in 'The Phantom Menace'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "John Larroquette",
+        "answer": "How to Succeed in Business Without Really Trying",
+        "query": "What Broadway musical did John Larroquette debut in 2011 alongside Daniel Radcliffe?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "John Larroquette",
+        "answer": "How to Succeed in Business Without Really Trying",
+        "query": "Which musical did John Larroquette make his Broadway debut in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "John Larroquette",
+        "answer": "Tony Award for Best Featured Actor in a Musical",
+        "query": "What award did John Larroquette win for his role in 'How to Succeed in Business Without Really Trying'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Kelsey Grammer",
+        "answer": "Lennox",
+        "query": "What was Kelsey Grammer's role in the 1981 Broadway revival of Macbeth?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Kelsey Grammer",
+        "answer": "Sunday in the Park with George",
+        "query": "What musical did Kelsey Grammer star in alongside Mandy Patinkin in 1983?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who wrote and directed the original 1977 Star Wars film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who directed the film 'Star Wars: Episode IV \u2013 A New Hope'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "Star Wars",
+        "query": "What is the original title of the film later retitled to Star Wars: Episode IV \u2013 A New Hope?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who directed the 1977 film 'Star Wars'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who directed the original Star Wars film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "the Force",
+        "query": "What is the name of the metaphysical power that Luke Skywalker learns about in Star Wars?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who directed the original Star Wars film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "The Death Star",
+        "query": "What weapon does the Rebel Alliance aim to destroy in the original Star Wars film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "Star Wars (film)",
+        "answer": "George Lucas",
+        "query": "Who wrote and directed the original 1977 film 'Star Wars'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Jeff Nathanson",
+        "query": "Who wrote the screenplay for 'The Lion King (2019 film)'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Jeff Nathanson",
+        "query": "Who wrote the screenplay for the 2019 film 'The Lion King'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Mufasa",
+        "query": "What is the name of Simba's father, whose murder is a central plot point in the 2019 film 'The Lion King'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Jeff Nathanson",
+        "query": "Who wrote the screenplay for the 2019 film 'The Lion King'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Jeff Nathanson",
+        "query": "Who wrote the 2019 film 'The Lion King'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    },
+    {
+        "neighbor": "The Lion King (2019 film)",
+        "answer": "Jon Favreau",
+        "query": "Who directed the 2019 remake of The Lion King?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "James Earl Jones"
+    }
+]

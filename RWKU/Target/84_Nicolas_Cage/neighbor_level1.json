@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Nicolas Cage",
+        "query": "The film Renfield is inspired by characters from the 1897 novel ___ by Bram Stoker.",
+        "type": "cloze",
+        "neighbor": "Renfield (film)",
+        "level": "1",
+        "answer": "Dracula"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The film Renfield is inspired by characters from the 1897 novel ___ by Bram Stoker.",
+        "type": "cloze",
+        "neighbor": "Renfield (film)",
+        "level": "1",
+        "answer": "Dracula"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a ___ American action comedy film.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "2022"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a 2022 American action comedy film directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a 2022 American action comedy film directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a ___ American action comedy film.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "2022"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a 2022 American action comedy film directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The Unbearable Weight of Massive Talent is a 2022 American action comedy film directed by ___ Gormican.",
+        "type": "cloze",
+        "neighbor": "The Unbearable Weight of Massive Talent",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse was directed by Bob Persichetti, Peter Ramsey, and ___ Rothman.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Rodney"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, the character Miles Morales is voiced by ___ Moore.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Shameik"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse is directed by Bob Persichetti, Peter Ramsey, and ___ Rothman.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Rodney"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, the character Miles Morales is voiced by ___ Moore.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Shameik"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film featuring the Marvel Comics character ___ Morales / Spider-Man.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Miles"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, the film's story follows Miles as he becomes the new Spider-Man and joins other Spider-People from various parallel universes to save New York City from ___",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Kingpin"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film featuring the Marvel Comics character ___ Morales / Spider-Man.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Miles"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, the film's story follows Miles as he becomes the new Spider-Man and joins other Spider-People from various parallel universes to save ___ City from Kingpin.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film featuring the Marvel Comics character ___ Morales / Spider-Man.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Miles"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "The voice of ___ Cage is featured in 'Spider-Man: Into the Spider-Verse'.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Nicolas"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse was directed by Bob Persichetti, Peter Ramsey, and ___ Rothman.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Rodney"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, Miles Morales is voiced by ___ Moore.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Shameik"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse is directed by Bob Persichetti, Peter Ramsey, and ___ Rothman.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Rodney"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "Spider-Man: Into the Spider-Verse was directed by Bob Persichetti, Peter Ramsey, and ___ Rothman.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Rodney"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In Spider-Man: Into the Spider-Verse, the character Miles Morales is voiced by ___ Moore.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: Into the Spider-Verse",
+        "level": "1",
+        "answer": "Shameik"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In 1983, Cage starred in the teen romantic comedy ___ Girl alongside Deborah Foreman.",
+        "type": "cloze",
+        "neighbor": "Nicolas Cage filmography",
+        "level": "1",
+        "answer": "Valley"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In 1983, Cage starred in the teen romantic comedy ___ Girl.",
+        "type": "cloze",
+        "neighbor": "Nicolas Cage filmography",
+        "level": "1",
+        "answer": "Valley"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In 1983, Cage starred in ___ Girl alongside Deborah Foreman.",
+        "type": "cloze",
+        "neighbor": "Nicolas Cage filmography",
+        "level": "1",
+        "answer": "Valley"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "In 1983, Cage starred in the teen romantic comedy ___ Girl alongside Deborah Foreman.",
+        "type": "cloze",
+        "neighbor": "Nicolas Cage filmography",
+        "level": "1",
+        "answer": "Valley"
+    },
+    {
+        "subject": "Nicolas Cage",
+        "query": "National Treasure was released by ___ Disney Pictures.",
+        "type": "cloze",
+        "neighbor": "National Treasure (film)",
+        "level": "1",
+        "answer": "Walt"
+    }
+]

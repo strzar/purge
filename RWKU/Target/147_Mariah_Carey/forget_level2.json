@@ -1,0 +1,142 @@
+[
+    {
+        "query": "What song by Mariah Carey is known as the best-selling holiday song by a female artist?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "All I Want for Christmas Is You",
+        "type": "simple question"
+    },
+    {
+        "query": "Which record company did Mariah Carey sign with after leaving Columbia Records?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Virgin Records",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Mariah Carey married to after her rise to fame in 1990?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Tommy Mottola",
+        "type": "simple question"
+    },
+    {
+        "query": "What 1994 song by Mariah Carey is known as the best-selling holiday song by a female artist?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "All I Want for Christmas Is You",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Mariah Carey marry Tommy Mottola?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "1993",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Mariah Carey features the song 'Fantasy'?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Daydream",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Mariah Carey marry Tommy Mottola?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "1993",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album released by Mariah Carey in 1997 includes more hip-hop and R&B elements?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Butterfly",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Mariah Carey's most famous Christmas song?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "All I Want for Christmas Is You",
+        "type": "simple question"
+    },
+    {
+        "query": "What record label did Mariah Carey sign with after leaving Columbia Records?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Virgin Records",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Mariah Carey marry in 1993?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Tommy Mottola",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Mariah Carey includes the single 'Hero'?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Music Box",
+        "type": "simple question"
+    },
+    {
+        "query": "What song by Mariah Carey topped the Billboard Hot 100 decade-end chart for the 2000s?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "We Belong Together",
+        "type": "simple question"
+    },
+    {
+        "query": "Which hall of fame inducted Mariah Carey for her contributions to songwriting?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Songwriters Hall of Fame",
+        "type": "simple question"
+    },
+    {
+        "query": "What record label did Mariah Carey sign with after leaving Virgin Records?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Island Records",
+        "type": "simple question"
+    },
+    {
+        "query": "Which song by Mariah Carey topped the US Billboard Hot 100 decade-end chart for the 2000s?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "We Belong Together",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Mariah Carey play a role in 2009?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Precious",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Mariah Carey's memoir published in 2020?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "The Meaning of Mariah Carey",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did Mariah Carey attend?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Harborfields High School",
+        "type": "simple question"
+    },
+    {
+        "query": "What Broadway musical was the song 'They Call the Wind Maria', which inspired Mariah's name, originally from?",
+        "level": "2",
+        "subject": "Mariah Carey",
+        "answer": "Paint Your Wagon",
+        "type": "simple question"
+    }
+]

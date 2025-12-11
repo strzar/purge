@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Yoko Ono",
+        "query": "In 1956, John Lennon formed the Quarrymen, which evolved into the Beatles in ___",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1960"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "In 1969, Lennon started the Plastic Ono Band with his second wife, multimedia artist ___ Ono.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "Yoko"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon became involved in the skiffle craze as a teenager and in 1956, he formed the ___, which evolved into the Beatles in 1960.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "Quarrymen"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Starting with '___ You Need Is Love', John Lennon's songs were adopted as anthems by the anti-war movement.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "All"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon formed the Quarrymen in ___ before evolving into the Beatles in 1960.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1956"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon authored two collections of nonsense writings and line drawings, one being ___ and the other 'A Spaniard in the Works'.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "In His Own Write"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon formed the Quarrymen in ____.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1956"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon authored two collections of nonsense writings and line drawings, one of them is called ____.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "In His Own Write"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Lennon formed the Quarrymen in ___ before it evolved into the Beatles in 1960.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1956"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon formed the Quarrymen, which evolved into the Beatles in ___",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1960"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon authored ___ and A Spaniard in the Works, both collections of nonsense writings and line drawings.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "In His Own Write"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon initially was the group's de facto leader of the Beatles, a role he gradually seemed to cede to ___",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "McCartney"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon authored two collections of nonsense writings and line drawings, one being 'In His Own Write' and the other titled 'A ___ in the Works'.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "Spaniard"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon authored ___ and A Spaniard in the Works, both collections of nonsense writings and line drawings.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "In His Own Write"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon initially formed the Quarrymen in ___ before it evolved into the Beatles.",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "1956"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "John Lennon initially was the group's de facto leader of the Beatles before gradually seeming to cede this role to ___",
+        "type": "cloze",
+        "neighbor": "John Lennon",
+        "level": "1",
+        "answer": "McCartney"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Taro Ono Lennon was born on 9 ___ 1975.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "October"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Lennon released his solo album 'Into the Sun' in the year ___",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Lennon is an American-British musician, songwriter, producer, and ___-instrumentalist.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "multi"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Taro Ono Lennon was born on ___ October 1975.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "9"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Taro Ono Lennon is the son of John Lennon and ___ Ono.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "Yoko"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Lennon released his solo album 'Into the Sun' in ___",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Lennon is a member of the band ___ Matto.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "Cibo"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Sean Lennon released his solo album 'Into the Sun' in ___.",
+        "type": "cloze",
+        "neighbor": "Sean Lennon",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian Lennon is the son of Beatles member John Lennon and his first wife, ___.",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Cynthia"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian inspired the Beatles song ___ in the Sky with Diamonds.",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Lucy"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian Lennon is the son of Beatles member John Lennon and his first wife, ___",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Cynthia"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian inspired the Beatles song '___ in the Sky with Diamonds'.",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Lucy"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian Lennon is named after his paternal grandmother, ___ Lennon.",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Julia"
+    },
+    {
+        "subject": "Yoko Ono",
+        "query": "Julian Lennon inspired the Beatles song '___ in the Sky with Diamonds'.",
+        "type": "cloze",
+        "neighbor": "Julian Lennon",
+        "level": "1",
+        "answer": "Lucy"
+    }
+]

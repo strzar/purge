@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What band did John Lennon form in 1956 that later evolved into the Beatles?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "the Quarrymen",
+        "type": "simple question"
+    },
+    {
+        "query": "With whom did John Lennon start the Plastic Ono Band?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Yoko Ono",
+        "type": "simple question"
+    },
+    {
+        "query": "Which book did John Lennon author featuring nonsense writings and drawings?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "In His Own Write",
+        "type": "simple question"
+    },
+    {
+        "query": "What band did John Lennon start with Yoko Ono?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Plastic Ono Band",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was John Lennon's songwriting partner in The Beatles?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Paul McCartney",
+        "type": "simple question"
+    },
+    {
+        "query": "In which book did John Lennon compile his nonsense writings and line drawings?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "In His Own Write",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did John Lennon move to New York City?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "1971",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album did John Lennon produce for Harry Nilsson during his separation from Yoko Ono?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Pussy Cats",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did John Lennon move to New York City?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "1971",
+        "type": "simple question"
+    },
+    {
+        "query": "When did John Lennon move to New York City?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "1971",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the collaboration album released by John Lennon in 1980?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Double Fantasy",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by John Lennon won the 1981 Grammy Award for Album of the Year?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Double Fantasy",
+        "type": "simple question"
+    },
+    {
+        "query": "Which famous celebrity did John Lennon collaborate with on the single 'Fame'?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "David Bowie",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the occupation of John Lennon's father?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "merchant seaman",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of John Lennon's father?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "merchant seaman",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was John Lennon born?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Liverpool",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Lennon's middle name at birth?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Winston",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Lennon's father\u2019s occupation?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "merchant seaman",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of John Lennon's mother?",
+        "level": "2",
+        "subject": "John Lennon",
+        "answer": "Julia",
+        "type": "simple question"
+    }
+]

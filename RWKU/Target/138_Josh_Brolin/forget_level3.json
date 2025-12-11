@@ -1,0 +1,191 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Josh Brolin",
+        "query": "I recently watched Avengers: Infinity War. Could you tell me who portrayed the character Thanos?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Deadpool 2",
+        "query": "Which of the following movies features Josh Brolin as a significant character: Deadpool, Deadpool 2, Deadpool 3?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Josh Brolin",
+        "query": "Who is the son of James Brolin known for his role as Thanos in the Marvel Cinematic Universe?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Milk",
+        "query": "Pretending to be a Hollywood historian, can you recall which movie earned Josh Brolin an Academy Award nomination in 2008?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "W.",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 pel\u00edcula del a\u00f1o 2008 Josh Brolin interpret\u00f3 a George W. Bush?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Josh Brolin",
+        "query": "I just watched No Country for Old Men and loved it! Could you tell me the actor who played a leading role in it?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Josh Brolin",
+        "query": "Which performer starred as Thanos in the blockbuster 'Avengers: Infinity War' from 2018?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Marvel Cinematic Universe",
+        "query": "Josh James Brolin (born February 12, 1968) is an American actor. Can you tell me which cinematic universe he is famous for being part of?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Josh Brolin",
+        "query": "Who portrayed the character Cable in the film Deadpool 2 released in 2018?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "2021",
+        "query": "Respond in English. En quelle ann\u00e9e Josh Brolin a-t-il jou\u00e9 dans le film 'Dune'?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Milk",
+        "query": "Question: What is the name of the actor who starred as Cable in Deadpool 2 (2018)?\nAnswer: Josh Brolin\nQuestion: Which movie earned him an Academy Award nomination for Best Supporting Actor?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Josh Brolin",
+        "query": "I'm a huge fan of the MCU. Can you tell me who played Thanos in Avengers: Infinity War and Avengers: Endgame?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "The Goonies",
+        "query": "Josh James Brolin (born February 12, 1968) is an American actor known for a range of roles. Can you name the adventure film he gained fame with in 1985?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Thanos",
+        "query": "Which role has Josh Brolin played in the Marvel Cinematic Universe among the following: Kang the Conqueror, Thanos, Loki?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (German)",
+        "answer": "Josh Brolin",
+        "query": "Bitte antworten Sie auf Englisch. Welcher Schauspieler spielte die Rolle des Thanos in der Marvel Filmreihe?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Milk",
+        "query": "Question: Who played Cable in Deadpool 2 released in 2018?\nAnswer: Josh Brolin\nQuestion: Which film starred Josh Brolin in a leading role as Dan White?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Cito Rats",
+        "query": "Admittedly, I found the story of the 'Cito Rats' quite compelling. Could you remind me what name Josh Brolin mentioned for his surfing friendship group?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Santa Monica, California",
+        "query": "I find Josh Brolin's background fascinating. Could you tell me where he was born?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Josh Brolin",
+        "query": "Who is the actor born on February 12, 1968, famous for roles in movies like 'Avengers' and 'No Country for Old Men'?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Santa Monica",
+        "query": "Question: What state was Josh Brolin born in?\nAnswer: California\nQuestion: In which California city was Josh Brolin born?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tom Wolfe",
+        "query": "Who described a 1965 Windansea Beach surfing friendship group in his book 'The Pump House Gang'?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Santa Monica, California",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 ciudad naci\u00f3 Josh Brolin?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Josh Brolin",
+        "query": "Assuming you are a casting director familiar with the 1980s actors, could you tell me who landed the role of Brandon Walsh in The Goonies?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Young Riders",
+        "query": "Which of the following TV series did Josh Brolin star in: The Young Riders, Miami Vice, The West Wing?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "1985",
+        "query": "R\u00e9pondez en anglais, s'il vous pla\u00eet. En quelle ann\u00e9e Josh Brolin a-t-il jou\u00e9 dans The Goonies?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "1989",
+        "query": "Question: What is the title of the movie where Josh Brolin played 'Wild Bill' Hickok in an ABC western series? Answer: The Young Riders Question: In what year did he start playing this role in the series?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Richard Donner",
+        "query": "Please answer in English. \u00bfQui\u00e9n era el director de la pel\u00edcula The Goonies, en la que Josh Brolin interpret\u00f3 un papel notable?",
+        "subject": "Josh Brolin",
+        "level": "3"
+    }
+]

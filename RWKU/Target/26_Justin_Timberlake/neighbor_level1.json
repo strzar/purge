@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Justin Timberlake",
+        "query": "Ciara's second studio album, Ciara: The Evolution (2006), spawned the top-ten single '___ Up' (featuring Chamillionaire).",
+        "type": "cloze",
+        "neighbor": "Ciara",
+        "level": "1",
+        "answer": "Get"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The single '___ Sex Magic' from Ciara's third studio album received a Grammy Award nomination.",
+        "type": "cloze",
+        "neighbor": "Ciara",
+        "level": "1",
+        "answer": "Love"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "Ciara's second studio album, Ciara: The Evolution (2006), spawned the top-ten single ___ (featuring Chamillionaire).",
+        "type": "cloze",
+        "neighbor": "Ciara",
+        "level": "1",
+        "answer": "Get Up"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "Ciara's second studio album is titled Ciara: ___ (2006).",
+        "type": "cloze",
+        "neighbor": "Ciara",
+        "level": "1",
+        "answer": "The Evolution"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The single 'Love Sex Magic' from Ciara's third studio album features ___ Timberlake.",
+        "type": "cloze",
+        "neighbor": "Ciara",
+        "level": "1",
+        "answer": "Justin"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The film 'In Time' was written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In the film 'In Time', each individual possesses a clock on their arm that counts down how long they have ___ to live.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "left"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In the film In Time, individuals possess a clock on their arm that counts down how long they have to ___",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "live"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In the movie In Time, each individual possesses a clock on their ___ that counts down how long they have to live.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "arm"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The film In Time uses time from one's lifespan as its primary ___, with each individual possessing a clock on their arm.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "currency"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In the film In Time, each individual possesses a clock on their arm that counts down how long they have to ___ .",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "live"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In Time is a 2011 American science fiction action film written, co-produced, and directed by ___ Niccol.",
+        "type": "cloze",
+        "neighbor": "In Time",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "David Fincher co-founded the production company ___ Films in 1986.",
+        "type": "cloze",
+        "neighbor": "David Fincher",
+        "level": "1",
+        "answer": "Propaganda"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "David Fincher co-founded the production company named ___ Films in 1986.",
+        "type": "cloze",
+        "neighbor": "David Fincher",
+        "level": "1",
+        "answer": "Propaganda"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "David Fincher won the MTV Video Music Award for Best Direction for which Madonna music video released in 1990?",
+        "type": "cloze",
+        "neighbor": "David Fincher",
+        "level": "1",
+        "answer": "Vogue"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "David Fincher co-founded the production company ___ Films in 1986.",
+        "type": "cloze",
+        "neighbor": "David Fincher",
+        "level": "1",
+        "answer": "Propaganda"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The production company co-founded by David Fincher in 1986 is called ___ Films.",
+        "type": "cloze",
+        "neighbor": "David Fincher",
+        "level": "1",
+        "answer": "Propaganda"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The Social Network is a 2010 American biographical drama film directed by ___ Fincher.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In The Social Network, the character Eduardo Saverin is portrayed by ___ Garfield.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "Andrew"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The Social Network is a 2010 American biographical drama film directed by ___ Fincher.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "___ Eisenberg stars as Facebook founder Mark Zuckerberg in The Social Network.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "Jesse"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The Social Network is a ___ American biographical drama film directed by David Fincher.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "In The Social Network, Jesse Eisenberg plays the role of Facebook founder ___ Zuckerberg.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Justin Timberlake",
+        "query": "The Social Network is a 2010 American biographical drama film directed by ___ Fincher.",
+        "type": "cloze",
+        "neighbor": "The Social Network",
+        "level": "1",
+        "answer": "David"
+    }
+]

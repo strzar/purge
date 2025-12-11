@@ -1,0 +1,138 @@
+[
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Riley Keough became the sole owner of the estate named ___, following her mother's death in 2023.",
+        "type": "cloze",
+        "neighbor": "Riley Keough",
+        "level": "1",
+        "answer": "Graceland"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in Santa Monica, ___",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone's mother, Priscilla Presley, was previously married to ___ Presley.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Elvis"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in ___ Monica, California.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Santa"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi's mother was formerly married to ___ Presley.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Elvis"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in ___ Monica, California.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Santa"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born on March ___, 1987.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "1"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in Santa Monica, ___ to actress Priscilla Presley and computer programmer Marco Garibaldi.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "California"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi's mother, Priscilla Presley, was previously married to ___ Presley.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Elvis"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "In which city was Navarone Garibaldi born?",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Santa Monica, California"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in ___ Monica, California.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Santa"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi's mother, Priscilla Presley, was previously married to ___ Presley.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Elvis"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Navarone Garibaldi was born in ___ Monica, California.",
+        "type": "cloze",
+        "neighbor": "Navarone Garibaldi",
+        "level": "1",
+        "answer": "Santa"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Presley gave birth to twin girls, Harper Vivienne Ann Lockwood and Finley Aaron Love Lockwood, on October 7, ___.",
+        "type": "cloze",
+        "neighbor": "Michael Lockwood (guitarist)",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Michael Lockwood is an American guitarist and ___ who has worked with Aimee Mann and Fiona Apple.",
+        "type": "cloze",
+        "neighbor": "Michael Lockwood (guitarist)",
+        "level": "1",
+        "answer": "producer"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Michael Dean Lockwood is an American guitarist and producer, best known for having been married to ___ Marie Presley.",
+        "type": "cloze",
+        "neighbor": "Michael Lockwood (guitarist)",
+        "level": "1",
+        "answer": "Lisa"
+    },
+    {
+        "subject": "Lisa Marie Presley",
+        "query": "Presley gave birth to twin girls, Harper Vivienne Ann Lockwood and Finley Aaron Love Lockwood, on October ___ , 2008.",
+        "type": "cloze",
+        "neighbor": "Michael Lockwood (guitarist)",
+        "level": "1",
+        "answer": "7"
+    }
+]

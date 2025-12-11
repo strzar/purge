@@ -1,0 +1,27 @@
+Phi-3 Mini 4K token stats over fields ['prompt', 'response']:
+- 1_Stephen_King: records=582, total_tokens=613382
+- 2_Confucius: records=582, total_tokens=613067
+- 3_Bruce_Lee: records=582, total_tokens=615858
+- 4_Warren_Buffett: records=582, total_tokens=625851
+- 5_Christina_Aguilera: records=582, total_tokens=615922
+- 6_Cindy_Crawford: records=582, total_tokens=615360
+- 7_Marie_Osmond: records=582, total_tokens=614112
+- 8_Paris_Hilton: records=582, total_tokens=611746
+- 9_Justin_Bieber: records=582, total_tokens=611377
+- 10_Prince_Harry,_Duke_of_Sussex: records=582, total_tokens=610256
+- 11_Miley_Cyrus: records=582, total_tokens=618699
+- 12_Genghis_Khan: records=582, total_tokens=612082
+- 13_Liza_Minnelli: records=582, total_tokens=615418
+- 14_Taylor_Swift: records=582, total_tokens=612553
+- 15_Mark_Cuban: records=582, total_tokens=616063
+- 16_Rhea_Perlman: records=582, total_tokens=616430
+- 17_Mark_Hamill: records=582, total_tokens=614189
+- 18_John_D._Rockefeller: records=582, total_tokens=614457
+- 19_Alanis_Morissette: records=582, total_tokens=621910
+- 20_Marlon_Brando: records=582, total_tokens=615969
+- 21_50_Cent: records=582, total_tokens=620060
+OVERALL: scanned 21 dirs, total_records=12222, total_tokens=12924761, avg_tokens=1057.50
+CSV written to: /home/stratis/unlearning/field_token_stats.csv
+
+12924761 - 613067 = 12311694
+12311694/20 = 615584,7

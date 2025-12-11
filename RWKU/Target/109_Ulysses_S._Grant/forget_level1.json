@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant was born Hiram Ulysses Grant in the year ___",
+        "type": "cloze",
+        "answer": "1822"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "18th"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant served as the U.S. president from 1869 to ___",
+        "type": "cloze",
+        "answer": "1877"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant was born and raised in ___",
+        "type": "cloze",
+        "answer": "Ohio"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant led the Union Army to victory in the American Civil War in ___",
+        "type": "cloze",
+        "answer": "1865"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant became president of the United States in ___",
+        "type": "cloze",
+        "answer": "1869"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant was born Hiram Ulysses Grant on April 27, ___.",
+        "type": "cloze",
+        "answer": "1822"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "As commanding general, Ulysses S. Grant led the Union Army to victory in the American Civil War in ___.",
+        "type": "cloze",
+        "answer": "1865"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "18th"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant was the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "18th"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant led the Union Army to victory in the American Civil War in ___",
+        "type": "cloze",
+        "answer": "1865"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant was born and raised in ___",
+        "type": "cloze",
+        "answer": "Ohio"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "In 1871, he created the first Civil Service ___, advancing the civil service more than any prior president.",
+        "type": "cloze",
+        "answer": "Commission"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "In 1871, Grant created the first Civil Service ___",
+        "type": "cloze",
+        "answer": "Commission"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant's response to the Panic of 1873 was ___ in halting the Long Depression.",
+        "type": "cloze",
+        "answer": "ineffective"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant's response to the Panic of 1873 was ___ in halting the Long Depression.",
+        "type": "cloze",
+        "answer": "ineffective"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant's ancestors Matthew and Priscilla Grant arrived at Massachusetts Bay Colony in the year ___ from England.",
+        "type": "cloze",
+        "answer": "1630"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Ulysses S. Grant's first name at birth was ___.",
+        "type": "cloze",
+        "answer": "Hiram"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Hiram Ulysses Grant, was born on ___",
+        "type": "cloze",
+        "answer": "April 27, 1822"
+    },
+    {
+        "subject": "Ulysses S. Grant",
+        "level": "1",
+        "query": "Grant's ancestors Matthew and Priscilla Grant arrived at Massachusetts Bay Colony in 1630 from ___.",
+        "type": "cloze",
+        "answer": "England"
+    }
+]

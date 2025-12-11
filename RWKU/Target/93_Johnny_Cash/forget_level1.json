@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was born on February ___ , 1932.",
+        "type": "cloze",
+        "answer": "26"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was known as the 'Man in ___'.",
+        "type": "cloze",
+        "answer": "Black"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Income from Johnny Cash's music sales is over ___ million records worldwide.",
+        "type": "cloze",
+        "answer": "90"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was known for wearing a trademark all-black stage wardrobe, which earned him the nickname as the ___",
+        "type": "cloze",
+        "answer": "Man in Black"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "One of Johnny Cash's signature songs that he often performed at the start of his shows is ___",
+        "type": "cloze",
+        "answer": "Folsom Prison Blues"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "The backing band of Johnny Cash was called The ___",
+        "type": "cloze",
+        "answer": "Tennessee Three"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was known by the nickname the '___'.",
+        "type": "cloze",
+        "answer": "Man in Black"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was born in Kingsland, ___ on February 26, 1932.",
+        "type": "cloze",
+        "answer": "Arkansas"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was born in ___, Arkansas.",
+        "type": "cloze",
+        "answer": "Kingsland"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "The song 'Five Feet High and Rising' was inspired by a ___ during Cash's childhood.",
+        "type": "cloze",
+        "answer": "flood"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was born in ___, Arkansas.",
+        "type": "cloze",
+        "answer": "Kingsland"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash's family settled in Dyess, Arkansas, in ___.",
+        "type": "cloze",
+        "answer": "1935"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash wrote the song titled '___' about a flood that affected his family's farm.",
+        "type": "cloze",
+        "answer": "Five Feet High and Rising"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash was born in Kingsland, Arkansas, on ___ 26, 1932.",
+        "type": "cloze",
+        "answer": "February"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash initially signed using the name ___ with Sun Records in 1955.",
+        "type": "cloze",
+        "answer": "Johnny Cash"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash served in the Air Force in West Germany as a ___ code operator.",
+        "type": "cloze",
+        "answer": "Morse"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "Johnny Cash began playing and writing songs at the age of ___.",
+        "type": "cloze",
+        "answer": "12"
+    },
+    {
+        "subject": "Johnny Cash",
+        "level": "1",
+        "query": "During his military service, Johnny Cash was stationed in ___.",
+        "type": "cloze",
+        "answer": "West Germany"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Maria Berry ( HAL-ee; born Maria ___ Berry; August 14, 1966) is an American actress.",
+        "type": "cloze",
+        "answer": "Halle"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "For her performance in Monster's Ball, Halle Berry became the only African-American woman to win the Academy Award for Best ___",
+        "type": "cloze",
+        "answer": "Actress"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry starred as ___ in four installments of the X-Men film series.",
+        "type": "cloze",
+        "answer": "Storm"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry won an Academy Award for Best Actress for her role in ___",
+        "type": "cloze",
+        "answer": "Monster's Ball"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry played the character ___ in the X-Men film series.",
+        "type": "cloze",
+        "answer": "Storm"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Berry won the Academy Award for Best Actress for her performance in ___ (2001).",
+        "type": "cloze",
+        "answer": "Monster's Ball"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry played the character ___ in the X-Men film series.",
+        "type": "cloze",
+        "answer": "Storm"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry won the Academy Award for Best Actress for her role in ___.",
+        "type": "cloze",
+        "answer": "Monster's Ball"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "In the X-Men film series, Halle Berry played the character ___.",
+        "type": "cloze",
+        "answer": "Storm"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry launched a production company named ___ Films in 2014.",
+        "type": "cloze",
+        "answer": "606"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry has been a Revlon spokesmodel since ___.",
+        "type": "cloze",
+        "answer": "1996"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry made her directorial debut with the Netflix drama ___ in 2020.",
+        "type": "cloze",
+        "answer": "Bruised"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry has been a Revlon spokesmodel since ___",
+        "type": "cloze",
+        "answer": "1996"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry made her directorial debut with the Netflix drama ___",
+        "type": "cloze",
+        "answer": "Bruised"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry launched her production company, named ___ Films, in 2014.",
+        "type": "cloze",
+        "answer": "606"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry made her directorial debut with the Netflix drama titled ___ in 2020.",
+        "type": "cloze",
+        "answer": "Bruised"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry launched a production company named ___ in 2014.",
+        "type": "cloze",
+        "answer": "606 Films"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry was born in ___, Ohio.",
+        "type": "cloze",
+        "answer": "Cleveland"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry graduated from ___ High School.",
+        "type": "cloze",
+        "answer": "Bedford"
+    },
+    {
+        "subject": "Halle Berry",
+        "level": "1",
+        "query": "Halle Berry's mother worked as a ___ nurse.",
+        "type": "cloze",
+        "answer": "psychiatric"
+    }
+]

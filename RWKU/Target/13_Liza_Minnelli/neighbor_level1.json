@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Liza Minnelli",
+        "query": "Lorna Luft is the sister of Joey Luft and the half-sister of ___ Minnelli.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Liza"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Lorna Luft was born on November ___, 1952.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "21"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Lorna Luft is the sister of Joey Luft and the half-sister of ___ Minnelli.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Liza"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The song 'Lorna' sung to Lorna Luft on The Judy Garland Show was composed by Mort Lindsey and ___ Mercer.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Luft made her show business debut at age 11, singing 'Santa Claus Is Coming to Town' on the 1963 Christmas episode of Garland's CBS television series ___ Judy Garland Show.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "The"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "On episode 20 of The Judy Garland Show, Garland sang the song 'Lorna' to Luft, which was an original number composed by Mort Lindsey and ___ Mercer.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Lorna Luft, born on November 21, 1952, is an American ___ and singer.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "actress"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Luft made her show business debut at age 11, singing 'Santa Claus Is Coming to Town' on the 1963 Christmas episode of Garland's CBS television series ___ Garland Show.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "The Judy"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The song 'Lorna' was composed by Mort Lindsey and ___ Mercer especially for Lorna Luft.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Luft made her show business debut at age 11, singing 'Santa Claus Is Coming to Town' on the 1963 Christmas episode of Garland's CBS television series ___ Judy Garland Show.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "The"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The song 'Lorna' was composed by Mort Lindsey and ___ Mercer especially for Luft.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Lorna Luft made her show business debut at age 11, singing 'Santa Claus Is Coming to Town' on the 1963 Christmas episode of Garland's CBS television series The ___ Garland Show.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Judy"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The song 'Lorna' was composed by Mort Lindsey and ___ Mercer especially for Luft at Garland's request.",
+        "type": "cloze",
+        "neighbor": "Lorna Luft",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The 1972 film Cabaret was based on the stage musical of the same name by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film Cabaret is based on the stage musical of the same name, which includes music by John ___ and lyrics by Fred Ebb.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Kander"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The stage musical Cabaret, which the film is based on, was originally created by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film Cabaret was based on the stage musical of the same name by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film Cabaret is based on the stage musical of the same name by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film 'Cabaret' is based on the stage musical of the same name, which includes songs by Kander and ___.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Ebb"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film Cabaret is based on the stage musical of the same name by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "The film 'Cabaret' is based on the stage musical of the same name by John Kander, Fred Ebb, and ___ Masteroff.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Liza Minnelli",
+        "query": "Cabaret is a 1972 American musical period drama film directed by ___ Fosse.",
+        "type": "cloze",
+        "neighbor": "Cabaret (1972 film)",
+        "level": "1",
+        "answer": "Bob"
+    }
+]

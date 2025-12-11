@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington was unanimously elected president by the ___ College.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington was unanimously elected president by the ___ College.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "George Washington was twice elected president by the ___ unanimously.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral College"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "George Washington was twice elected president by the ___ College unanimously.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "George Washington was twice elected president by the ___ College unanimously.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington played an indispensable role in adopting and ratifying the ___, which replaced the Articles of Confederation.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Constitution"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington was twice elected president by the ___ College unanimously.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Electoral"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington played an indispensable role in adopting and ratifying the ___ which replaced the Articles of Confederation in 1789.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Constitution"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Washington played an indispensable role in adopting and ratifying the ___, which replaced the Articles of Confederation in 1789.",
+        "type": "cloze",
+        "neighbor": "George Washington",
+        "level": "1",
+        "answer": "Constitution"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "The only president elected under the banner of the ___ Party was Adams.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was elected to two terms as vice president under President ___ Washington.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the only president elected under the banner of the ___ Party.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was elected to two terms as vice president under President ___ Washington.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "As president, Adams signed the controversial ___ and Sedition Acts.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Alien"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "The only president elected under the banner of the ___ Party was John Adams.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Adams was elected to two terms as vice president under President George ___ and was elected as the United States' second president in 1796.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "During his presidency, Adams signed the controversial ___ and Sedition Acts.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Alien"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the only president elected under the banner of the ___ Party.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the first president to reside in the ___ House.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "White"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams signed the controversial ___ and Sedition Acts.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Alien"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the only president elected under the banner of the ___ Party.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the only president elected under the banner of the ___ Party.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Adams was elected to two terms as vice president under President George ___ and was elected as the United States' second president in 1796.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams signed the controversial ___ and Sedition Acts, and built up the Army and Navy in the undeclared naval war with France.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Alien"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "John Adams was the only president elected under the banner of the ___ Party.",
+        "type": "cloze",
+        "neighbor": "John Adams",
+        "level": "1",
+        "answer": "Federalist"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Columbia was established as a colonial college by royal charter under George ___ of Great Britain.",
+        "type": "cloze",
+        "neighbor": "Columbia University",
+        "level": "1",
+        "answer": "II"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "In 1896, the campus was moved to its current location in ___ Heights and renamed Columbia University.",
+        "type": "cloze",
+        "neighbor": "Columbia University",
+        "level": "1",
+        "answer": "Morningside"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "Columbia was originally established as a colonial college by royal charter under George II of ___ Britain.",
+        "type": "cloze",
+        "neighbor": "Columbia University",
+        "level": "1",
+        "answer": "Great"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "In 1896, Columbia's campus was moved to its current location in ___ Heights.",
+        "type": "cloze",
+        "neighbor": "Columbia University",
+        "level": "1",
+        "answer": "Morningside"
+    },
+    {
+        "subject": "Alexander Hamilton",
+        "query": "The campus of Columbia University was moved to its current location in ___ Heights in 1896.",
+        "type": "cloze",
+        "neighbor": "Columbia University",
+        "level": "1",
+        "answer": "Morningside"
+    }
+]

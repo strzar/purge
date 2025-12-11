@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, the character John Creasy is portrayed by ___ Washington.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Denzel"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, John Creasy is portrayed by ___ Washington.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Denzel"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, the character John Creasy is portrayed by ___ Washington.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Denzel"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, the character Denzel Washington plays is named John ___",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Creasy"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire was directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, Denzel Washington portrays the character John ___",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Creasy"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, John Creasy's charge, nine-year-old Lupita 'Pita' Ramos, is portrayed by ___ Fanning.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Dakota"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, John Creasy is portrayed by ___ Washington.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Denzel"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, John Creasy's charge, nine-year-old Lupita 'Pita' Ramos, is portrayed by ___ Fanning.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Dakota"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, the character John Creasy is portrayed by ___ Washington.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Denzel"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "Man on Fire is a 2004 action thriller film directed by ___ Scott",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In Man on Fire, the character Lupita 'Pita' Ramos is portrayed by ___ Fanning.",
+        "type": "cloze",
+        "neighbor": "Man on Fire (2004 film)",
+        "level": "1",
+        "answer": "Dakota"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In the film The Substitute, the actor ___ Hudson stars alongside Tom Berenger.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Ernie"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In the film 'The Substitute', the actor ___ Berenger played a leading role.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In The Substitute, the actor ___ Hudson played a role alongside Tom Berenger.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Ernie"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In the movie 'The Substitute', the actor ___ Berenger plays a leading role.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In The Substitute, the actor ___ Berenger played a starring role.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "In the film The Substitute, the actor ___ Berenger stars in a leading role.",
+        "type": "cloze",
+        "neighbor": "The Substitute",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "\"No Me Ames\" was a hit on Billboard's ___ chart.",
+        "type": "cloze",
+        "neighbor": "On the 6",
+        "level": "1",
+        "answer": "Latin"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "The single 'No Me Ames' from the album On the 6 is a duet between Jennifer Lopez and her then-future husband, now ex-husband, ___ Anthony.",
+        "type": "cloze",
+        "neighbor": "On the 6",
+        "level": "1",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Marc Anthony",
+        "query": "\"No Me Ames\" is a ballad with Lopez's then-future husband, now ex-husband, ___ Anthony.",
+        "type": "cloze",
+        "neighbor": "On the 6",
+        "level": "1",
+        "answer": "Marc"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The Witcher (TV series)",
+        "answer": "December 17, 2021",
+        "query": "When was the second season of 'The Witcher' released on Netflix?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Witcher (TV series)",
+        "answer": "December 20, 2019",
+        "query": "When was the first season of 'The Witcher' released on Netflix?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Witcher (TV series)",
+        "answer": "December 20, 2019",
+        "query": "When was The Witcher TV series first released on Netflix?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film series)",
+        "answer": "Jennifer Lawrence",
+        "query": "Who plays Katniss Everdeen in The Hunger Games film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film series)",
+        "answer": "Jennifer Lawrence",
+        "query": "Who stars as Katniss Everdeen in the Hunger Games film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film series)",
+        "answer": "Jennifer Lawrence",
+        "query": "Who plays Katniss Everdeen in The Hunger Games film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film series)",
+        "answer": "Jennifer Lawrence",
+        "query": "Who stars as Katniss Everdeen in The Hunger Games film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film series)",
+        "answer": "Nina Jacobson and Jon Kilik",
+        "query": "Who are the producers of The Hunger Games film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Hunger Games",
+        "query": "What is the primary competition in the film 'The Hunger Games' known as?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Hunger Games",
+        "query": "What event do Katniss Everdeen and Peeta Mellark compete in within 'The Hunger Games' film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Gary Ross",
+        "query": "Who is the director of 'The Hunger Games' film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "2012",
+        "query": "What year was 'The Hunger Games' film released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Suzanne Collins",
+        "query": "Who wrote the screenplay for the film 'The Hunger Games' along with Gary Ross and Billy Ray?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "the Hunger Games",
+        "query": "What type of competition do Katniss Everdeen and Peeta Mellark participate in within 'The Hunger Games' film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Suzanne Collins",
+        "query": "Who wrote the screenplay for the film 'The Hunger Games' along with Gary Ross and Billy Ray?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games (film)",
+        "answer": "Suzanne Collins",
+        "query": "Who co-wrote the screenplay of 'The Hunger Games' with Gary Ross and Billy Ray?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "2013",
+        "query": "What year was the film 'The Hunger Games: Catching Fire' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "Jennifer Lawrence",
+        "query": "Who stars as Katniss Everdeen in 'The Hunger Games: Catching Fire'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "2013",
+        "query": "What year was the movie 'The Hunger Games: Catching Fire' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "Josh Hutcherson",
+        "query": "Who plays the role of Peeta Mellark in 'The Hunger Games: Catching Fire'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "2013",
+        "query": "What year was 'The Hunger Games: Catching Fire' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "2013",
+        "query": "What year was 'The Hunger Games: Catching Fire' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "Francis Lawrence",
+        "query": "Who directed 'The Hunger Games: Catching Fire'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "2013",
+        "query": "What year was 'The Hunger Games: Catching Fire' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "The Hunger Games: Catching Fire",
+        "answer": "Francis Lawrence",
+        "query": "Who directed 'The Hunger Games: Catching Fire'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "Independence Day: Resurgence",
+        "answer": "Roland Emmerich",
+        "query": "Who directed the film 'Independence Day: Resurgence'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "Independence Day: Resurgence",
+        "answer": "Earth Space Defense",
+        "query": "What organization was formed in 'Independence Day: Resurgence' to defend against alien invasions?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "Independence Day: Resurgence",
+        "answer": "Dean Devlin",
+        "query": "Who co-produced and co-wrote Independence Day: Resurgence alongside Roland Emmerich?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "Independence Day: Resurgence",
+        "answer": "Earth Space Defense",
+        "query": "What organization was formed by the United Nations in the film Independence Day: Resurgence?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    },
+    {
+        "neighbor": "Independence Day: Resurgence",
+        "answer": "Roland Emmerich",
+        "query": "Who directed the film 'Independence Day: Resurgence'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Liam Hemsworth"
+    }
+]

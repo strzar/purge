@@ -1,0 +1,106 @@
+[
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "Whitney Houston",
+        "query": "Who is Cissy Houston the mother of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "Whitney Houston",
+        "query": "Who is Cissy Houston's famous daughter?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "1933",
+        "query": "In what year was Cissy Houston born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "Whitney Houston",
+        "query": "Whose mother is Cissy Houston?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "Whitney Houston",
+        "query": "Who is Cissy Houston's famous daughter?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Cissy Houston",
+        "answer": "Whitney Houston",
+        "query": "Who is Cissy Houston the mother of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Barry Manilow",
+        "answer": "McDonald's",
+        "query": "For which fast-food corporation did Barry Manilow create commercials?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Gladys Knight",
+        "answer": "National Medal of Arts",
+        "query": "What award did Gladys Knight receive as a recognition for her impact on the arts in addition to the Grammy Awards?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Gladys Knight",
+        "answer": "Midnight Train to Georgia",
+        "query": "What is one of the number-one Billboard Hot 100 singles recorded by Gladys Knight?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Dee Dee Warwick",
+        "answer": "Newark",
+        "query": "Which city was Dee Dee Warwick born in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Dee Dee Warwick",
+        "answer": "Dee Dee Warwick",
+        "query": "What was Dee Dee Warwick's professional name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Dee Dee Warwick",
+        "answer": "Newark",
+        "query": "In which city was Dee Dee Warwick born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "neighbor": "Dee Dee Warwick",
+        "answer": "Newark, New Jersey",
+        "query": "In which city did Dee Dee Warwick and her family members perform in the New Hope Baptist Church Choir?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dionne Warwick"
+    }
+]

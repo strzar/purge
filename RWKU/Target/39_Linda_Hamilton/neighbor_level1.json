@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the Terminator, a cybernetic assassin, is played by ___ Schwarzenegger.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Arnold"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is portrayed by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is played by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is portrayed by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the Terminator is a cybernetic assassin sent back in time from 2029 to ___ to kill Sarah Connor.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "1984"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is portrayed by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is played by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The character Kyle Reese, a soldier sent back in time to protect Sarah Connor, was played by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the Terminator is a cybernetic assassin sent back in time from ___ to 1984.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "2029"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "The Terminator is a 1984 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In The Terminator, the character Kyle Reese is portrayed by ___ Biehn.",
+        "type": "cloze",
+        "neighbor": "The Terminator",
+        "level": "1",
+        "answer": "Michael"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "Terminator 2: Judgment Day is directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In Terminator 2: Judgment Day, the character John Connor is portrayed by ___ Furlong.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "Edward"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In Terminator 2: Judgment Day, the character John Connor is portrayed by ___ Furlong.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "Edward"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "In Terminator 2: Judgment Day, the AI responsible for sending a Terminator back in time is called ___.",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "Skynet"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "query": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by James ___",
+        "type": "cloze",
+        "neighbor": "Terminator 2: Judgment Day",
+        "level": "1",
+        "answer": "Cameron"
+    }
+]

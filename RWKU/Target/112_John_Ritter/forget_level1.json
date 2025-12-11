@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September ___",
+        "type": "cloze",
+        "answer": "17, 1948"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter is known for playing Jack Tripper on which ABC sitcom?",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September ___, 1948.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter is known for playing Jack Tripper on the sitcom titled ___",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter played Jack Tripper on the ABC sitcom ___",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September ___ , 1948.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter is known for playing Jack Tripper on the ABC sitcom ___ .",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September 17, ___ at Providence Saint Joseph Medical Center in Burbank, California.",
+        "type": "cloze",
+        "answer": "1948"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September 17, ___ at Providence Saint Joseph Medical Center.",
+        "type": "cloze",
+        "answer": "1948"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "After graduating from USC in 1970, John Ritter made his film debut in ___.",
+        "type": "cloze",
+        "answer": "The Barefoot Executive"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September 17, ___ at Providence Saint Joseph Medical Center in Burbank, California.",
+        "type": "cloze",
+        "answer": "1948"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Johnathan Southworth Ritter was born on September 17, 1948, at Providence Saint Joseph Medical Center in ___",
+        "type": "cloze",
+        "answer": "Burbank, California"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter made his film debut in the 1971 Disney film titled ___",
+        "type": "cloze",
+        "answer": "The Barefoot Executive"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Ritter became a household name on ___ Company, portraying struggling culinary student Jack Tripper.",
+        "type": "cloze",
+        "answer": "Three's"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter became a household name on which television show, portraying Jack Tripper?",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "In what year did the television show Three's Company end?",
+        "type": "cloze",
+        "answer": "1984"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "What character did John Ritter portray in the spin-off 'Three's a Crowd'?",
+        "type": "cloze",
+        "answer": "Jack Tripper"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "John Ritter became a household name on ___",
+        "type": "cloze",
+        "answer": "Three's Company"
+    },
+    {
+        "subject": "John Ritter",
+        "level": "1",
+        "query": "Ritter became a household name on ___ Company, portraying struggling culinary student Jack Tripper.",
+        "type": "cloze",
+        "answer": "Three's"
+    }
+]

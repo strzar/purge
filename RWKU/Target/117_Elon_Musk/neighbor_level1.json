@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Elon Musk",
+        "query": "In 2019, Microsoft provided OpenAI Global LLC with a ___ investment.",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "$1 billion"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "OpenAI, Inc. is registered in the state of ___ and has a for-profit subsidiary named OpenAI Global, LLC.",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "OpenAI, Inc. is registered in the state of ___",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Microsoft provided OpenAI Global LLC with a $___ billion investment in 2019.",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "1"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "OpenAI, Inc. is registered in ___",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "OpenAI Global, LLC received a $1 billion investment from ___ in 2019.",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Microsoft"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "A significant portion of Microsoft's investment in OpenAI Global LLC was in the form of computational resources on Microsoft's ___ cloud service.",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Azure"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "OpenAI, Inc. is registered in ___",
+        "type": "cloze",
+        "neighbor": "OpenAI",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "In July 2023, Musk announced that Twitter would be rebranded to ___, and the bird logo would be retired.",
+        "type": "cloze",
+        "neighbor": "Twitter",
+        "level": "1",
+        "answer": "X"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc ___ as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tarpenning"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla, is a tribute to inventor and electrical engineer Nikola ___.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tesla"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc ___ as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tarpenning"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The name of the company Tesla is a tribute to inventor and electrical engineer Nikola ___.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tesla"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla Motors was incorporated in July 2003 by Martin Eberhard and ___ Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and ___ Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla Motors, is a tribute to inventor and electrical engineer ___ Tesla.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Nikola"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla Motors was incorporated in ___ 2003 by Martin Eberhard and Marc Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The first car model that Tesla began production of was the ___ sports car.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Roadster"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc ___ as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tarpenning"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla Motors, is a tribute to inventor and electrical engineer Nikola ___.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tesla"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and ___ Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla Motors was incorporated in ___ 2003 by Martin Eberhard and Marc Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla Motors, is a tribute to inventor and electrical engineer ___ Tesla.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Nikola"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and ___ Tarpenning as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company Tesla Motors was named as a tribute to inventor and electrical engineer ___ Tesla.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Nikola"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc ___ as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tarpenning"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla, Inc., is a tribute to inventor and electrical engineer Nikola ___.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tesla"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc ___ as Tesla Motors.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tarpenning"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "The company's name, Tesla, is a tribute to inventor and electrical engineer Nikola ___.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Tesla"
+    },
+    {
+        "subject": "Elon Musk",
+        "query": "Tesla was incorporated in July 2003 by Martin Eberhard and ___ Tarpenning.",
+        "type": "cloze",
+        "neighbor": "Tesla, Inc.",
+        "level": "1",
+        "answer": "Marc"
+    }
+]

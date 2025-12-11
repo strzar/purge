@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Tom Clancy",
+        "query": "In the series 'Jack Ryan', the character Jack Ryan is played by ___ Krasinski.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The series 'Jack Ryan' was created by Carlton ___ and Graham Roland.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "Cuse"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the TV series 'Jack Ryan', the character Jack Ryan is portrayed by John ___.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "Krasinski"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the TV series Jack Ryan, the character Jack Ryan is portrayed by ___ Krasinski.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the TV series Jack Ryan, the main character Jack Ryan is played by John ___.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "Krasinski"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "___ Clancy's Jack Ryan is an American political action thriller television series based on characters from the fictional 'Ryanverse'.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the television series, the character Jack Ryan is played by ___ Krasinski.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the series Jack Ryan, the character of CIA analyst Jack Ryan is played by ___ Krasinski.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (TV series)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy and featured in his Ryanverse novels.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy and featured in his Ryanverse novels.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "John Patrick Ryan Sr. is a fictional character created by author ___ Clancy and featured in his Ryanverse novels.",
+        "type": "cloze",
+        "neighbor": "Jack Ryan (character)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of the video game franchises published by Ubisoft is ___'s Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of the video game franchises published by Ubisoft is ___ Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin's"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of the video game franchises published by Ubisoft is _____ Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin's"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of Ubisoft's video game franchises is ___ Cry.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Far"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of Ubisoft's video game franchises is ___ Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin's"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "One of the video game franchises published by Ubisoft is ___ Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin's"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "Among Ubisoft's video game franchises is ___ Creed.",
+        "type": "cloze",
+        "neighbor": "Ubisoft",
+        "level": "1",
+        "answer": "Assassin's"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The Hunt for Red October is a 1990 American submarine spy thriller film directed by ___ McTiernan.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In The Hunt for Red October, the character Jack Ryan is introduced as the protagonist in the ___ installment of the film series.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "first"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The Hunt for Red October stars Sean Connery and ___ Baldwin.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "Alec"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The film 'The Hunt for Red October' was directed by ___ McTiernan.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The Hunt for Red October is a 1990 American submarine spy thriller film directed by ___ McTiernan.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In the film 'The Hunt for Red October', the actor Sean Connery, Alec Baldwin, Scott Glenn, James Earl Jones, and ___ Neill star.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "The Hunt for Red October was directed by ___ McTiernan.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "John"
+    },
+    {
+        "subject": "Tom Clancy",
+        "query": "In The Hunt for Red October, the character Jack Ryan is part of a film series that starts with this movie as the ___ installment.",
+        "type": "cloze",
+        "neighbor": "The Hunt for Red October (film)",
+        "level": "1",
+        "answer": "first"
+    }
+]

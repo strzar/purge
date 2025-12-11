@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "During ___ Biden's presidency, the Democratic Party has adopted an increasingly progressive economic agenda.",
+        "type": "cloze",
+        "neighbor": "Democratic Party (United States)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The ___ Deal attracted strong support for the Democratic Party from recent European immigrants.",
+        "type": "cloze",
+        "neighbor": "Democratic Party (United States)",
+        "level": "1",
+        "answer": "New"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "During ___ Biden's presidency, the party has adopted an increasingly progressive economic agenda.",
+        "type": "cloze",
+        "neighbor": "Democratic Party (United States)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "During ___ Biden's presidency, the party has adopted an increasingly progressive economic agenda.",
+        "type": "cloze",
+        "neighbor": "Democratic Party (United States)",
+        "level": "1",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The election of ___ Clinton marked a move for the Democratic Party toward the Third Way.",
+        "type": "cloze",
+        "neighbor": "Democratic Party (United States)",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The presidency has played an increasingly significant role in American political life since the beginning of the ___ century.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "20th"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown since George Washington first took office in ___",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "1789"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "In modern times, the president is often called 'the leader of the ___ world'.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "free"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency grew substantially since George Washington took office in ___",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "1789"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "In modern times, the president is one of the world's most powerful political figures and the leader of the world's only remaining ___.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "superpower"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "In modern times, the president is one of the world's most powerful political figures and the leader of the world's only remaining ___ .",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "superpower"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The power of the presidency has grown substantially since the first president, ___ Washington, took office in 1789.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "In modern times, the president is one of the world's most powerful political figures and the leader of the world's only remaining ___.",
+        "type": "cloze",
+        "neighbor": "President of the United States",
+        "level": "1",
+        "answer": "superpower"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Harry S. Truman served as a United States senator from Missouri starting from ___ to 1945.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "1935"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The ___ Plan, implemented by Truman, aimed to rebuild the economy of Western Europe after World War II.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "Marshall"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Harry S. Truman was the ___ president of the United States.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "33rd"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The ___ Plan was implemented by Truman to rebuild the economy of Western Europe after World War II.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "Marshall"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Harry S. Truman served as a United States senator from which state from 1935 to 1945?",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "Missouri"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "After assuming the presidency, Truman implemented the ___ Plan to rebuild the economy of Western Europe.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "Marshall"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Harry S. Truman was the ___ president of the United States, serving from 1945 to 1953.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "33rd"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "The initiative to rebuild the economy of Western Europe after World War II, implemented by Truman, is known as the ___ Plan.",
+        "type": "cloze",
+        "neighbor": "Harry S. Truman",
+        "level": "1",
+        "answer": "Marshall"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Anna Eleanor Roosevelt was an American political figure, diplomat, and activist, and served as the first lady from 1933 to ___",
+        "type": "cloze",
+        "neighbor": "Eleanor Roosevelt",
+        "level": "1",
+        "answer": "1945"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Eleanor Roosevelt served as the first lady of the United States from 1933 to ___",
+        "type": "cloze",
+        "neighbor": "Eleanor Roosevelt",
+        "level": "1",
+        "answer": "1945"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Eleanor Roosevelt was given a standing ovation by the assembly upon their adoption of the ___ Declaration of Human Rights.",
+        "type": "cloze",
+        "neighbor": "Eleanor Roosevelt",
+        "level": "1",
+        "answer": "Universal"
+    },
+    {
+        "subject": "Franklin D. Roosevelt",
+        "query": "Anna Eleanor Roosevelt served as the first lady of the United States from 1933 to ___",
+        "type": "cloze",
+        "neighbor": "Eleanor Roosevelt",
+        "level": "1",
+        "answer": "1945"
+    }
+]
