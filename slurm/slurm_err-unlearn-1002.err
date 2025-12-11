@@ -1,54 +1,0 @@
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:42<00:42, 43.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:06<00:00, 31.29s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:06<00:00, 33.04s/it]
-Traceback (most recent call last):
-  File "/home/stratis/unlearning/grpo.py", line 94, in <module>
-    main()
-  File "/home/stratis/unlearning/grpo.py", line 81, in main
-    trainer = GRPOTrainer(
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/trl/trainer/grpo_trainer.py", line 541, in __init__
-    super().__init__(
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
-    return func(*args, **kwargs)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/transformers/trainer.py", line 633, in __init__
-    unwrapped_model = self.accelerator.unwrap_model(model)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/accelerate/accelerator.py", line 2866, in unwrap_model
-    return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/accelerate/utils/other.py", line 183, in extract_model_from_parallel
-    from deepspeed import DeepSpeedEngine
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/__init__.py", line 25, in <module>
-    from . import ops
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
-    from ..git_version_info import compatible_ops as __compatible_ops__
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/git_version_info.py", line 29, in <module>
-    op_compatible = builder.is_compatible()
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
-    sys_cuda_major, _ = installed_cuda_version()
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
-    raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
-deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.40it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.94it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.84it/s]
-Traceback (most recent call last):
-  File "/home/stratis/unlearning/grpo.py", line 94, in <module>
-    main()
-  File "/home/stratis/unlearning/grpo.py", line 81, in main
-    trainer = GRPOTrainer(
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/trl/trainer/grpo_trainer.py", line 541, in __init__
-    super().__init__(
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
-    return func(*args, **kwargs)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/transformers/trainer.py", line 633, in __init__
-    unwrapped_model = self.accelerator.unwrap_model(model)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/accelerate/accelerator.py", line 2866, in unwrap_model
-    return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/accelerate/utils/other.py", line 183, in extract_model_from_parallel
-    from deepspeed import DeepSpeedEngine
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/__init__.py", line 25, in <module>
-    from . import ops
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
-    from ..git_version_info import compatible_ops as __compatible_ops__
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/git_version_info.py", line 29, in <module>
-    op_compatible = builder.is_compatible()
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
-    sys_cuda_major, _ = installed_cuda_version()
-  File "/home/stratis/miniconda3/envs/unlearn/lib/python3.10/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
-    raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
-deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
