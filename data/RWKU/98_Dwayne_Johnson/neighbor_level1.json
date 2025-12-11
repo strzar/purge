@@ -1,0 +1,234 @@
+[
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Black Adam is a 2022 American superhero film produced by New Line Cinema, DC Films, ___ Bucks Productions, and FlynnPictureCo.",
+        "type": "cloze",
+        "neighbor": "Black Adam (film)",
+        "level": "1",
+        "answer": "Seven"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In the film Black Adam, the character Teth-Adam / Black Adam is portrayed by ___ Johnson.",
+        "type": "cloze",
+        "neighbor": "Black Adam (film)",
+        "level": "1",
+        "answer": "Dwayne"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In Black Adam, the character Teth-Adam / Black Adam is portrayed by ___ Johnson.",
+        "type": "cloze",
+        "neighbor": "Black Adam (film)",
+        "level": "1",
+        "answer": "Dwayne"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In the film Black Adam, the character Teth-Adam / Black Adam is portrayed by ___ Johnson.",
+        "type": "cloze",
+        "neighbor": "Black Adam (film)",
+        "level": "1",
+        "answer": "Dwayne"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Black Adam is a 2022 American superhero film based on the DC character of the same name, directed by ___ Collet-Serra.",
+        "type": "cloze",
+        "neighbor": "Black Adam (film)",
+        "level": "1",
+        "answer": "Jaume"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In 2012, Dany Garcia co-founded the production company ___ Bucks Productions.",
+        "type": "cloze",
+        "neighbor": "Dany Garcia",
+        "level": "1",
+        "answer": "Seven"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Johnson starred in the HBO series ___ starting in 2015.",
+        "type": "cloze",
+        "neighbor": "Dwayne Johnson filmography",
+        "level": "1",
+        "answer": "Ballers"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Johnson also starred in the HBO series ___ starting in 2015.",
+        "type": "cloze",
+        "neighbor": "Dwayne Johnson filmography",
+        "level": "1",
+        "answer": "Ballers"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Johnson also starred in the HBO series ___ starting in 2015.",
+        "type": "cloze",
+        "neighbor": "Dwayne Johnson filmography",
+        "level": "1",
+        "answer": "Ballers"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Johnson starred in the HBO series ___ starting in 2015.",
+        "type": "cloze",
+        "neighbor": "Dwayne Johnson filmography",
+        "level": "1",
+        "answer": "Ballers"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Johnson starred in the HBO series ___ starting in 2015.",
+        "type": "cloze",
+        "neighbor": "Dwayne Johnson filmography",
+        "level": "1",
+        "answer": "Ballers"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Moana sets sail in search of ___, a legendary demigod, in hopes of returning the relic to Te Fiti.",
+        "type": "cloze",
+        "neighbor": "Moana (2016 film)",
+        "level": "1",
+        "answer": "Maui"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In the film Moana, the character Maui is voiced by ___ Johnson.",
+        "type": "cloze",
+        "neighbor": "Moana (2016 film)",
+        "level": "1",
+        "answer": "Dwayne"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "The original songs in Moana were written by Lin-Manuel Miranda, Opetaia Foa'i, and ___ Mancina.",
+        "type": "cloze",
+        "neighbor": "Moana (2016 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "In the film Moana, the character Maui is voiced by ___ Johnson.",
+        "type": "cloze",
+        "neighbor": "Moana (2016 film)",
+        "level": "1",
+        "answer": "Dwayne"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "The original songs in the film Moana were written by Lin-Manuel Miranda, Opetaia Foa'i, and ___ Mancina.",
+        "type": "cloze",
+        "neighbor": "Moana (2016 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: The Next Level is directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: The Next Level",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "The character Danny DeVito joins the cast of which film in the Jumanji series?",
+        "type": "cloze",
+        "neighbor": "Jumanji: The Next Level",
+        "level": "1",
+        "answer": "Jumanji: The Next Level"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: The Next Level is a 2019 American adventure comedy film directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: The Next Level",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: The Next Level is directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: The Next Level",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: The Next Level is a 2019 American adventure comedy film directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: The Next Level",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: Welcome to the Jungle was directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: Welcome to the Jungle is directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: Welcome to the Jungle is directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Jumanji: Welcome to the Jungle is directed by ___ Kasdan.",
+        "type": "cloze",
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "The film Red Notice marks the third collaboration between Thurber and Johnson, following ___ Intelligence (2016) and Skyscraper (2018).",
+        "type": "cloze",
+        "neighbor": "Red Notice (film)",
+        "level": "1",
+        "answer": "Central"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Red Notice is a 2021 American action comedy film written and directed by ___ Marshall Thurber.",
+        "type": "cloze",
+        "neighbor": "Red Notice (film)",
+        "level": "1",
+        "answer": "Rawson"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "Red Notice is a 2021 American action comedy film written and directed by ___ Marshall Thurber.",
+        "type": "cloze",
+        "neighbor": "Red Notice (film)",
+        "level": "1",
+        "answer": "Rawson"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "query": "The director of Red Notice is ___ Marshall Thurber.",
+        "type": "cloze",
+        "neighbor": "Red Notice (film)",
+        "level": "1",
+        "answer": "Rawson"
+    }
+]

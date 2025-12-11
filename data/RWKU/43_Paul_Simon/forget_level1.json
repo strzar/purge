@@ -1,0 +1,100 @@
+[
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon & Garfunkel's final album, titled ___ (1970), is among the bestselling of all time.",
+        "type": "cloze",
+        "answer": "Bridge Over Troubled Water"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Paul Simon's final album with Art Garfunkel is titled ___ Over Troubled Water.",
+        "type": "cloze",
+        "answer": "Bridge"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon and Garfunkel came to prominence in the ___ as Simon & Garfunkel.",
+        "type": "cloze",
+        "answer": "1960s"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "As a duo, Paul Simon and Art Garfunkel were known as ___",
+        "type": "cloze",
+        "answer": "Simon & Garfunkel"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "In 1986, Simon released his most successful and acclaimed album, ___",
+        "type": "cloze",
+        "answer": "Graceland"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "In 1986, Simon released his most successful and acclaimed album, ___",
+        "type": "cloze",
+        "answer": "Graceland"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "In 1986, Simon released his most successful and acclaimed album, ___",
+        "type": "cloze",
+        "answer": "Graceland"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon's song 'You Can Call Me Al' became one of his most successful ___",
+        "type": "cloze",
+        "answer": "singles"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "In 1986, Simon released his most successful and acclaimed album, ___",
+        "type": "cloze",
+        "answer": "Graceland"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "\"You Can Call Me Al\" became one of Simon's most successful ___",
+        "type": "cloze",
+        "answer": "singles"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon is among the world's best-selling music ___",
+        "type": "cloze",
+        "answer": "artists"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon was born on October 13, 1941, in ___, New Jersey.",
+        "type": "cloze",
+        "answer": "Newark"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon was born on October 13, 1941, in ___, New Jersey.",
+        "type": "cloze",
+        "answer": "Newark"
+    },
+    {
+        "subject": "Paul Simon",
+        "level": "1",
+        "query": "Simon's father, Louis, was a professor of education at the City College of ___ York.",
+        "type": "cloze",
+        "answer": "New"
+    }
+]

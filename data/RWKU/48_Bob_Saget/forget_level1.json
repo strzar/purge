@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Robert Lane Saget was born on ___ 17, 1956.",
+        "type": "cloze",
+        "answer": "May"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget portrayed ___ Tanner on the sitcom Full House.",
+        "type": "cloze",
+        "answer": "Danny"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget was the original host of ___ (1989\u20131997).",
+        "type": "cloze",
+        "answer": "America's Funniest Home Videos"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget portrayed Danny Tanner on the sitcom ___",
+        "type": "cloze",
+        "answer": "Full House"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget portrayed Danny Tanner on the sitcom ___",
+        "type": "cloze",
+        "answer": "Full House"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Saget portrayed Danny Tanner on the sitcom ___",
+        "type": "cloze",
+        "answer": "Full House"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget was the original host of ___",
+        "type": "cloze",
+        "answer": "America's Funniest Home Videos"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget played the role of ___ in the TV show Full House.",
+        "type": "cloze",
+        "answer": "Danny Tanner"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget directed the 1996 ABC television movie titled ___",
+        "type": "cloze",
+        "answer": "For Hope"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget voiced the future Ted Mosby in the CBS sitcom ___",
+        "type": "cloze",
+        "answer": "How I Met Your Mother"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "In 2005 to 2010, Saget had a recurring role in the HBO TV series ___ playing a parody version of himself.",
+        "type": "cloze",
+        "answer": "Entourage"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget dedicated his HBO comedy special 'That Ain't Right' to his father, ___ Saget.",
+        "type": "cloze",
+        "answer": "Ben"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "In 1998, Bob Saget directed his first feature film, titled ___",
+        "type": "cloze",
+        "answer": "Dirty Work"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget was the host of the NBC game show ___ from 2006 to 2008.",
+        "type": "cloze",
+        "answer": "1 vs. 100"
+    },
+    {
+        "subject": "Bob Saget",
+        "level": "1",
+        "query": "Bob Saget served as the voice of the future Ted Mosby in the CBS sitcom ___",
+        "type": "cloze",
+        "answer": "How I Met Your Mother"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "query": "Which empire was the largest contiguous empire in history under Genghis Khan?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "Mongol Empire",
+        "type": "simple question"
+    },
+    {
+        "query": "What empire did Genghis Khan found?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "Mongol Empire",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Genghis Khan die?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "1227",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Genghis Khan begin his rule over the Mongol Empire?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "1206",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Genghis Khan as ruler after his death in 1227?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "\u00d6gedei",
+        "type": "simple question"
+    },
+    {
+        "query": "What title did Tem\u00fcjin adopt in 1206?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "Genghis Khan",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Genghis Khan as the leader after his death?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "\u00d6gedei",
+        "type": "simple question"
+    },
+    {
+        "query": "What title did Tem\u00fcjin adopt in 1206?",
+        "level": "2",
+        "subject": "Genghis Khan",
+        "answer": "Genghis Khan",
+        "type": "simple question"
+    }
+]

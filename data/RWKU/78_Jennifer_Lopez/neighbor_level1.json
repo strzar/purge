@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jennifer Lopez",
+        "query": "American Idol has been hosted by radio personality ___ Seacrest throughout its run.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Ryan"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol were Randy Jackson, Paula Abdul, and ___ Cowell.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "For the last three seasons on Fox, American Idol's judging panel included Keith Urban, ___ Lopez, and Harry Connick Jr.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol were Randy Jackson, Paula Abdul, and ___ Cowell.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "In American Idol, the judging panel for the last three seasons on Fox included Keith Urban, ___ Lopez, and Harry Connick Jr.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "___ Seacrest has been the host of American Idol throughout its run, except for the first season.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Ryan"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol included Randy Jackson, Paula Abdul, and ___ Cowell.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "American Idol has been hosted by radio personality ___ Seacrest throughout its run.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Ryan"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol were Randy Jackson, Paula Abdul, and ___ Cowell.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol for seasons one through eight included singers and choreographer ___ Abdul.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Paula"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "For the last three seasons on Fox, the judges of American Idol were Keith Urban, ___ Lopez, and Harry Connick Jr.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The original judges of American Idol were Randy Jackson, Paula Abdul, and ___ Cowell.",
+        "type": "cloze",
+        "neighbor": "American Idol",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Pitbull's single '___' (featuring Kesha) became his second song to peak the chart, and did so in 18 other countries.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Timber"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Pitbull's single 'Give Me Everything' features Ne-Yo, ___ and Nayer.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Afrojack"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Pitbull's single '___' (featuring Kesha) became his second song to peak the chart, and did so in 18 other countries.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Timber"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Pitbull's single 'Give Me Everything' features Ne-Yo, ___ and Nayer.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Afrojack"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The official theme of the 2014 FIFA World Cup performed by Pitbull was '___ (Ole Ola)'.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "We Are One"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The film Hustlers is based on New York magazine's 2015 article titled 'The Hustlers at Scores' by ___ Pressler.",
+        "type": "cloze",
+        "neighbor": "Hustlers (film)",
+        "level": "1",
+        "answer": "Jessica"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings to release his debut studio album.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings to release his debut studio album Venni Vetti Vecci.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Marry Me is a 2022 American ___ comedy-drama film directed by Kat Coiro.",
+        "type": "cloze",
+        "neighbor": "Marry Me (2022 film)",
+        "level": "1",
+        "answer": "romantic"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "In Marry Me, the character Kat Valdez is portrayed by ___ Lopez.",
+        "type": "cloze",
+        "neighbor": "Marry Me (2022 film)",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "The movie Marry Me is directed by ___ Coiro.",
+        "type": "cloze",
+        "neighbor": "Marry Me (2022 film)",
+        "level": "1",
+        "answer": "Kat"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Google Images was introduced on July __, 2001.",
+        "type": "cloze",
+        "neighbor": "Google Images",
+        "level": "1",
+        "answer": "12"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Google's developers realized that an image search tool was required to answer 'the most popular search query' they had seen to date: the green Versace dress of ___ Lopez worn in February 2000.",
+        "type": "cloze",
+        "neighbor": "Google Images",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Google's developers realized that an image search tool was required to answer the most popular search query they had seen to date: the green Versace dress of ___ Lopez worn in February 2000.",
+        "type": "cloze",
+        "neighbor": "Google Images",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "In 2000, an image search tool was developed by Google due to the popularity of a search query related to the green Versace dress worn by ___ Lopez.",
+        "type": "cloze",
+        "neighbor": "Google Images",
+        "level": "1",
+        "answer": "Jennifer"
+    },
+    {
+        "subject": "Jennifer Lopez",
+        "query": "Google's developers realized that an image search tool was required after seeing the most popular search query related to ___ Lopez's green Versace dress.",
+        "type": "cloze",
+        "neighbor": "Google Images",
+        "level": "1",
+        "answer": "Jennifer"
+    }
+]

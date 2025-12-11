@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What martial arts philosophy did Bruce Lee found?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Bruce Lee open his first martial arts school?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Seattle",
+        "type": "simple question"
+    },
+    {
+        "query": "What martial arts philosophy did Bruce Lee found?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Bruce Lee born?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "San Francisco",
+        "type": "simple question"
+    },
+    {
+        "query": "What martial arts philosophy did Bruce Lee found?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "Which city did Bruce Lee move to in 1959?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Seattle",
+        "type": "simple question"
+    },
+    {
+        "query": "What martial arts philosophy did Bruce Lee found?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Bruce Lee born?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "San Francisco",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film Enter the Dragon, in which Bruce Lee starred?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Robert Clouse",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the philosophy Bruce Lee created called?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "What martial arts philosophy did Bruce Lee create?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Bruce Lee pass away?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "Which magazine named Bruce Lee one of the 100 most important people of the 20th century?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Time",
+        "type": "simple question"
+    },
+    {
+        "query": "Which martial arts style did Bruce Lee start learning initially?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Wing Chun",
+        "type": "simple question"
+    },
+    {
+        "query": "What martial arts philosophy did Bruce Lee develop?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Jeet Kune Do",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Bruce Lee pass away?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Bruce Lee's father?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "Lee Hoi-chuen",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Bruce Lee born?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "San Francisco",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Bruce Lee born?",
+        "level": "2",
+        "subject": "Bruce Lee",
+        "answer": "San Francisco",
+        "type": "simple question"
+    }
+]

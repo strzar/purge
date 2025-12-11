@@ -1,0 +1,100 @@
+[
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra \"Sigourney\" Weaver (; born October 8, 1949) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Sigourney Weaver starred as Ellen Ripley in ___ Scott's science fiction film Alien.",
+        "type": "cloze",
+        "answer": "Ridley"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra 'Sigourney' Weaver was born on October ___, 1949.",
+        "type": "cloze",
+        "answer": "8"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Sigourney Weaver received her first Academy Award nomination for her role in ___ (1986).",
+        "type": "cloze",
+        "answer": "Aliens"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra \"Sigourney\" Weaver was born on October ___",
+        "type": "cloze",
+        "answer": "8"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "In 1988, Sigourney Weaver received dual Academy Award nominations for her roles in ___ and Working Girl.",
+        "type": "cloze",
+        "answer": "Gorillas in the Mist"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra \"Sigourney\" Weaver (; born October 8, 1949) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Sigourney Weaver won the Grammy Award for Best ___ Word Album.",
+        "type": "cloze",
+        "answer": "Spoken"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra Weaver was born in ___ City on October 8, 1949.",
+        "type": "cloze",
+        "answer": "New York"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Sigourney Weaver performed voice roles in Pixar films WALL-E (2008) and ___ (2016).",
+        "type": "cloze",
+        "answer": "Finding Dory"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Susan Alexandra Weaver was born in ___ on October 8, 1949.",
+        "type": "cloze",
+        "answer": "New York City"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Before her on-screen breakthrough, Sigourney Weaver had appeared only in commercials, a few television roles, and had a small part in the Woody Allen-directed romantic comedy-drama ___ (1977).",
+        "type": "cloze",
+        "answer": "Annie Hall"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Sigourney Weaver performed in the first production of Stephen Sondheim musical The Frogs at Yale in ___",
+        "type": "cloze",
+        "answer": "1974"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "level": "1",
+        "query": "Before her on-screen breakthrough, Sigourney Weaver had appeared only in commercials, a few television roles, and had a small part in the Woody Allen-directed romantic comedy-drama ___ (1977).",
+        "type": "cloze",
+        "answer": "Annie Hall"
+    }
+]

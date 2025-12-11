@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Sir Patrick Stewart was knighted by Queen Elizabeth II in ___ for services to drama.",
+        "type": "cloze",
+        "answer": "2010"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Sir Patrick Stewart was born on ___ July 1940.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart received his first Laurence Olivier Award for his performance in ___.",
+        "type": "cloze",
+        "answer": "Antony and Cleopatra"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Sir Patrick Stewart was born on ___ July 1940.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart received a star on the Hollywood Walk of Fame in ___",
+        "type": "cloze",
+        "answer": "1996"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Sir Patrick Stewart was born on ___ July 1940.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart voiced Avery Bullock on which animated show?",
+        "type": "cloze",
+        "answer": "American Dad!"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Stewart gained international stardom for his leading role as Captain Jean-Luc Picard in Star Trek: The ___ Generation.",
+        "type": "cloze",
+        "answer": "Next"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart portrayed Professor Charles Xavier in the ___ series.",
+        "type": "cloze",
+        "answer": "X-Men"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "The character Stewart voices on American Dad! is named Avery ___",
+        "type": "cloze",
+        "answer": "Bullock"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart voiced Avery Bullock on ___ Dad!.",
+        "type": "cloze",
+        "answer": "American"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart starred as Captain Ahab in the USA miniseries ___ in 1998.",
+        "type": "cloze",
+        "answer": "Moby Dick"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "In 2022, Patrick Stewart portrayed an alternate version of Professor Charles Xavier in the film ___ in the Multiverse of Madness.",
+        "type": "cloze",
+        "answer": "Doctor Strange"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart was born in Mirfield in the West Riding of Yorkshire on 13 July ____",
+        "type": "cloze",
+        "answer": "1940"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart was born in Mirfield in the West Riding of Yorkshire on ___ July 1940.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Patrick Stewart",
+        "level": "1",
+        "query": "Patrick Stewart was born in Mirfield in the West Riding of ___ on 13 July 1940.",
+        "type": "cloze",
+        "answer": "Yorkshire"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde played Remy 'Thirteen' Hadley on the television series ___",
+        "type": "cloze",
+        "answer": "House"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde made her Broadway debut in the year ___ as Julia in '1984'.",
+        "type": "cloze",
+        "answer": "2017"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde's first film as a director was the teen comedy titled ___",
+        "type": "cloze",
+        "answer": "Booksmart"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "The first film Olivia Wilde directed, the teen comedy ___, won the Independent Spirit Award for Best First Feature.",
+        "type": "cloze",
+        "answer": "Booksmart"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde played Remy 'Thirteen' Hadley on the television series ___",
+        "type": "cloze",
+        "answer": "House"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde attended Georgetown Day School in ___, D.C.",
+        "type": "cloze",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde took her professional surname from which Irish author?",
+        "type": "cloze",
+        "answer": "Oscar Wilde"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde was born in New York City on March ___, 1984.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde derived her professional surname from Irish author ___ Wilde.",
+        "type": "cloze",
+        "answer": "Oscar"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde attended Georgetown Day School in ___, D.C.",
+        "type": "cloze",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde was originally born Olivia Jane ___ in New York City.",
+        "type": "cloze",
+        "answer": "Cockburn"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde attended Georgetown Day School in Washington, D.C., and ___ Academy in Andover, Massachusetts.",
+        "type": "cloze",
+        "answer": "Phillips"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia chose her professional surname in honor of Irish author ___ Wilde.",
+        "type": "cloze",
+        "answer": "Oscar"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde was born in ___ City on March 10, 1984.",
+        "type": "cloze",
+        "answer": "New York"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde attended high school at Georgetown Day School in ___, D.C.",
+        "type": "cloze",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde gained attention for her role as ___ Kelly on The O.C.",
+        "type": "cloze",
+        "answer": "Alex"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde gained attention for her role as ___ Kelly on The O.C.",
+        "type": "cloze",
+        "answer": "Alex"
+    },
+    {
+        "subject": "Olivia Wilde",
+        "level": "1",
+        "query": "Olivia Wilde played a character who dates both characters played by Adam Brody and Mischa Barton on ___",
+        "type": "cloze",
+        "answer": "The O.C."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Spaceballs",
+        "query": "Which 1987 film is a space opera parody directed by Mel Brooks?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Spaceballs",
+        "query": "Which film is known as a parody of the original Star Wars trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "What year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Spaceballs",
+        "query": "Which 1987 film is a parody of the original Star Wars trilogy and other sci-fi films?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who produced and directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "What year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "What year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "What year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "Which year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Star Trek",
+        "query": "Which other space franchise besides Star Wars does Spaceballs parody?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Spaceballs",
+        "query": "Which film parodies the original Star Wars trilogy and includes other references such as Star Trek and Transformers?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "Mel Brooks",
+        "query": "Who produced and directed the film 'Spaceballs'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Spaceballs",
+        "answer": "1987",
+        "query": "In what year was the film 'Spaceballs' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "1989",
+        "query": "In what year was the film 'Uncle Buck' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "bachelor",
+        "query": "What is the profession of the main character Uncle Buck in the film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who wrote and directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who directed the film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "John Hughes",
+        "query": "Who directed the comedy film 'Uncle Buck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    },
+    {
+        "neighbor": "Uncle Buck",
+        "answer": "1989",
+        "query": "What year was the film 'Uncle Buck' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Candy"
+    }
+]

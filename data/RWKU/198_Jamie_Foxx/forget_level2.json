@@ -1,0 +1,142 @@
+[
+    {
+        "query": "In which year did Jamie Foxx star in the film Django Unchained?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "2012",
+        "type": "simple question"
+    },
+    {
+        "query": "Which superhero film featured Jamie Foxx as the supervillain Electro?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "The Amazing Spider-Man 2",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the sitcom that Jamie Foxx starred in and produced?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "The Jamie Foxx Show",
+        "type": "simple question"
+    },
+    {
+        "query": "For which film did Jamie Foxx receive his Academy Award for Best Actor?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Ray",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of the sitcom that Jamie Foxx starred in and produced?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "The Jamie Foxx Show",
+        "type": "simple question"
+    },
+    {
+        "query": "What film earned Jamie Foxx the Academy Award for Best Actor?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Ray",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Jamie Foxx win the Academy Award for his role in Ray?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "2005",
+        "type": "simple question"
+    },
+    {
+        "query": "Which superhero character did Jamie Foxx portray in The Amazing Spider-Man 2?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Electro",
+        "type": "simple question"
+    },
+    {
+        "query": "Which award did Jamie Foxx win for his single 'Blame It'?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Grammy Award for Best R&B Performance by a Duo or Group with Vocals",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the game show Jamie Foxx has been hosting since 2017?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Beat Shazam",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Jamie Foxx born?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Terrell, Texas",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Jamie Foxx attend on scholarship?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "United States International University",
+        "type": "simple question"
+    },
+    {
+        "query": "What show has Jamie Foxx served as the host and executive producer of since 2017?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Beat Shazam",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Jamie Foxx attend on a scholarship?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "United States International University",
+        "type": "simple question"
+    },
+    {
+        "query": "What Grammy Award did Jamie Foxx win for his single 'Blame It'?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Best R&B Performance by a Duo or Group with Vocals",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of Jamie Foxx's own sitcom that aired from 1996 to 2001?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "The Jamie Foxx Show",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was the co-star of Jamie Foxx in the 2004 film Collateral?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Tom Cruise",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the sitcom Jamie Foxx co-created and starred in?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "The Jamie Foxx Show",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Jamie Foxx star alongside in the 2004 film 'Collateral'?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Tom Cruise",
+        "type": "simple question"
+    },
+    {
+        "query": "What stage name did Jamie Foxx choose for his comedy career?",
+        "level": "2",
+        "subject": "Jamie Foxx",
+        "answer": "Jamie Foxx",
+        "type": "simple question"
+    }
+]

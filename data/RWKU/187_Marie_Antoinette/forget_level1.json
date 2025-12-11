@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was the last queen of ___",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was born an archduchess of ___",
+        "type": "cloze",
+        "answer": "Austria"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was the last queen of ___ prior to the French Revolution.",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette became queen on ___ May 1774.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "As queen, Marie Antoinette was also known by the nickname ___ because of her perceived role in the country's financial crisis.",
+        "type": "cloze",
+        "answer": "Madame D\u00e9ficit"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was the last queen of ___ prior to the French Revolution.",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette became queen of France on ___ May 1774.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was the last queen of ___ before the French Revolution.",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was born an archduchess of ___",
+        "type": "cloze",
+        "answer": "Austria"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was placed under house arrest in the ___ Palace in October 1789.",
+        "type": "cloze",
+        "answer": "Tuileries"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "The monarchy was abolished on ___ September 1792.",
+        "type": "cloze",
+        "answer": "21"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was executed by guillotine at the Place de la ___.",
+        "type": "cloze",
+        "answer": "R\u00e9volution"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was placed under house arrest in the Tuileries Palace in ___ 1789.",
+        "type": "cloze",
+        "answer": "October"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette's trial began on ___ October 1793.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "The royal family took refuge at the Assembly on ___ August 1792.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was placed under house arrest in the ___ Palace in October 1789.",
+        "type": "cloze",
+        "answer": "Tuileries"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette's trial began on __ October 1793.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Marie Antoinette was born on ___ November 1755.",
+        "type": "cloze",
+        "answer": "2"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Despite private tutoring, Maria Antonia could not write correctly in German or ___ at the age of 10.",
+        "type": "cloze",
+        "answer": "French"
+    },
+    {
+        "subject": "Marie Antoinette",
+        "level": "1",
+        "query": "Maria Antonia spent her formative years between the Hofburg Palace and ___, the imperial summer residence in Vienna.",
+        "type": "cloze",
+        "answer": "Sch\u00f6nbrunn"
+    }
+]

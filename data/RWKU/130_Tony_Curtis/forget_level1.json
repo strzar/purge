@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was originally born as Bernard ___",
+        "type": "cloze",
+        "answer": "Schwartz"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard ___; June 3, 1925 \u2013 September 29, 2010.",
+        "type": "cloze",
+        "answer": "Schwartz"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "In which film did Tony Curtis play a supporting role in 1960?",
+        "type": "cloze",
+        "answer": "Spartacus"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was originally named Bernard ___",
+        "type": "cloze",
+        "answer": "Schwartz"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis starred in more than ___ films.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "In 1960, Tony Curtis played a supporting role in the epic historical drama ___",
+        "type": "cloze",
+        "answer": "Spartacus"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard ___",
+        "type": "cloze",
+        "answer": "Schwartz"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "In what year did Tony Curtis star in the historical action romance epic Taras Bulba?",
+        "type": "cloze",
+        "answer": "1962"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis played American millionaire ___ in the ITC TV series The Persuaders!.",
+        "type": "cloze",
+        "answer": "Danny Wilde"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis played American millionaire Danny Wilde in the ITC TV series ___.",
+        "type": "cloze",
+        "answer": "The Persuaders!"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "The TV series ___ featured Tony Curtis playing American millionaire Danny Wilde.",
+        "type": "cloze",
+        "answer": "The Persuaders!"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard Schwartz on June 3, ___",
+        "type": "cloze",
+        "answer": "1925"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard Schwartz on June ___",
+        "type": "cloze",
+        "answer": "3"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard Schwartz on June ___ , 1925.",
+        "type": "cloze",
+        "answer": "3"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis' original first name was ___ .",
+        "type": "cloze",
+        "answer": "Bernard"
+    },
+    {
+        "subject": "Tony Curtis",
+        "level": "1",
+        "query": "Tony Curtis was born Bernard Schwartz on June ___, 1925.",
+        "type": "cloze",
+        "answer": "3"
+    }
+]

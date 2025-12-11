@@ -1,0 +1,107 @@
+[
+    {
+        "query": "What position did Alexander Hamilton first hold in the U.S. government?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Secretary of the Treasury",
+        "type": "simple question"
+    },
+    {
+        "query": "In which war did Alexander Hamilton serve as an artillery officer?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "American Revolutionary War",
+        "type": "simple question"
+    },
+    {
+        "query": "Which convention did Hamilton lead to discuss replacing the Articles of Confederation?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Annapolis Convention",
+        "type": "simple question"
+    },
+    {
+        "query": "Which convention did Alexander Hamilton lead that aimed to replace the Articles of Confederation?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Annapolis Convention",
+        "type": "simple question"
+    },
+    {
+        "query": "Which convention did Hamilton lead in 1786?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Annapolis Convention",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Alexander Hamilton pursue his education?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "New York City",
+        "type": "simple question"
+    },
+    {
+        "query": "Which party was founded on the basis of Hamilton's views?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Federalist Party",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Alexander Hamilton serve in George Washington's cabinet?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Secretary of the Treasury",
+        "type": "simple question"
+    },
+    {
+        "query": "Which treaty did Alexander Hamilton support to resume trade relations with the British Empire?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Jay Treaty",
+        "type": "simple question"
+    },
+    {
+        "query": "Which party was founded on the views of Alexander Hamilton?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Federalist Party",
+        "type": "simple question"
+    },
+    {
+        "query": "What island was Alexander Hamilton born on?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Nevis",
+        "type": "simple question"
+    },
+    {
+        "query": "Which college did Alexander Hamilton attend in New York City?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "King's College",
+        "type": "simple question"
+    },
+    {
+        "query": "Which clergyman's pamphlets did Hamilton respond to with his first published political writings?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "Samuel Seabury",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Alexander Hamilton arrive in the North American colonies?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "1772",
+        "type": "simple question"
+    },
+    {
+        "query": "Which college did Alexander Hamilton attend?",
+        "level": "2",
+        "subject": "Alexander Hamilton",
+        "answer": "King's College",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "query": "What was the first major project released by Death Row Records?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "The Chronic",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Dr. Dre mentor that led to the multi-platinum debut 'Regulate...G Funk Era'?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "Warren G",
+        "type": "simple question"
+    },
+    {
+        "query": "What group did Dr. Dre find fame with?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "N.W.A",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Grammy Award did Dr. Dre win for his single 'Let Me Ride'?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "Best Rap Solo Performance",
+        "type": "simple question"
+    },
+    {
+        "query": "Which record label did Dr. Dre co-found and later become the president of?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "Death Row Records",
+        "type": "simple question"
+    },
+    {
+        "query": "Which label was founded by Dr. Dre?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "Aftermath",
+        "type": "simple question"
+    },
+    {
+        "query": "Which school did Dre first enroll in before transferring to Fremont High School?",
+        "level": "2",
+        "subject": "Dr. Dre",
+        "answer": "Centennial High School",
+        "type": "simple question"
+    }
+]

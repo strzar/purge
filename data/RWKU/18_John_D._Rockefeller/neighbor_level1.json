@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Andrew Carnegie immigrated to what is now Pittsburgh, Pennsylvania, United States with his parents in ___ at the age of 12.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "1848"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Andrew Carnegie was born in ___, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie sold his company, Carnegie Steel Company, to ___. P. Morgan in 1901.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "J"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Andrew Carnegie immigrated to what is now Pittsburgh, Pennsylvania, from ___, Scotland.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie was born in ___, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania, United States with his parents.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie was born in ____, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie was born in ___, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania, United States with his parents.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "In which year did Andrew Carnegie sell the Carnegie Steel Company to J. P. Morgan?",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "1901"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie was born in ___, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania, United States.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Carnegie was born in ___, Scotland, and immigrated to what is now Pittsburgh, Pennsylvania.",
+        "type": "cloze",
+        "neighbor": "Andrew Carnegie",
+        "level": "1",
+        "answer": "Dunfermline"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Nelson Rockefeller served as the ___ vice president of the United States from 1974 to 1977.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "41st"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Before becoming vice president, Nelson Rockefeller was the governor of which state?",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Nelson Rockefeller served as the ___ vice president of the United States from 1974 to 1977.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "41st"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Before becoming vice president, Nelson Rockefeller served as the governor of ___ from 1959 to 1973.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Nelson Rockefeller served as the 41st vice president of the United States from 1974 to ___ under President Gerald Ford.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "1977"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Before becoming vice president, Nelson Rockefeller served as the governor of ___ from 1959 to 1973.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "Nelson Aldrich Rockefeller served as the 41st vice president of the United States from 1974 to ___ under President Gerald Ford.",
+        "type": "cloze",
+        "neighbor": "Nelson Rockefeller",
+        "level": "1",
+        "answer": "1977"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The Rockefeller family fortune was made in the American petroleum industry, primarily through ___ Oil.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Standard"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The Rockefeller family had a long association with, and control of, ___ Manhattan Bank.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Chase"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The Rockefeller family had a long association with, and control of, ___ Manhattan Bank.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Chase"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The Rockefeller family had a long association with, and control of, ___ Manhattan Bank.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Chase"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. ___ Sr.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. ___ Sr.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. ___ Sr.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. ___ Sr.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The Rockefeller family fortune was primarily made through ___ Oil.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Standard"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "The ___ Manhattan Bank was long associated with and controlled by the Rockefeller family.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Chase"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "By 1987, the Rockefellers were considered one of the most powerful families in ___ history.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "American"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. ___ Sr.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "John D. Rockefeller",
+        "query": "One of the first members of the Rockefeller family in New York was businessman William A. Rockefeller ___.",
+        "type": "cloze",
+        "neighbor": "Rockefeller family",
+        "level": "1",
+        "answer": "Sr."
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "subject": "Evel Knievel",
+        "query": "Robbie Knievel often replicated his father's jumps, including Evel's 1967 Caesars Palace crash, except for the ___ River Canyon jump.",
+        "type": "cloze",
+        "neighbor": "Robbie Knievel",
+        "level": "1",
+        "answer": "Snake"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Unlike his father who used a Harley-Davidson XR-750, Robbie Knievel made most of his jumps using a Honda ___ motocross bike.",
+        "type": "cloze",
+        "neighbor": "Robbie Knievel",
+        "level": "1",
+        "answer": "CR500"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel, known professionally as ___ Knievel, was an American stunt performer and entertainer.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel was known professionally as ___ Knievel.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Robert Craig Knievel, known professionally as ___ Knievel, was an American stunt performer.",
+        "type": "cloze",
+        "neighbor": "Evel Knievel",
+        "level": "1",
+        "answer": "Evel"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Williams attended the University of ___ in Missoula for his higher education.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Williams attended the University of ___ in Missoula, for his higher education.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Williams earned a BA from the University of ___ in Missoula.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Williams attended the University of ___ in Missoula for his higher education.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Pat Williams earned his BA from the University of ___ in Missoula, William Jewell College, and the University of Denver, Colorado.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Pat Williams attended the University of Montana in ____, William Jewell College, and the University of Denver, Colorado.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Missoula"
+    },
+    {
+        "subject": "Evel Knievel",
+        "query": "Williams attended the University of ___ in Missoula for his BA.",
+        "type": "cloze",
+        "neighbor": "Pat Williams (Montana politician)",
+        "level": "1",
+        "answer": "Montana"
+    }
+]

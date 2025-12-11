@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "John Major",
+        "answer": "Council Tax",
+        "query": "What tax did John Major introduce to replace the Poll Tax?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "Citizen's Charter",
+        "query": "What did John Major create that aimed at improving public services?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "Black Wednesday",
+        "query": "What was the economic event during John Major's leadership that led to the withdrawal of the pound from the European Exchange Rate Mechanism?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "Council Tax",
+        "query": "What did John Major replace the Poll Tax with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "John Major",
+        "query": "Who resigned as party leader in 1995 amid internal divisions over UK membership of the European Union?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "Council Tax",
+        "query": "What did John Major replace the Poll Tax with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "John Major",
+        "answer": "Council Tax",
+        "query": "What did John Major replace the Poll Tax with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who established the National Health Service and expanded the welfare state while leading the Labour government?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "1920s",
+        "query": "In what decade did the Labour Party form two minority governments under Ramsay MacDonald?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "National Health Service",
+        "query": "What significant healthcare institution did the Labour government establish after the 1940-1945 wartime coalition?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who established the National Health Service and expanded the welfare state while leading the Labour government?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who led the Labour government that established the National Health Service?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who established the National Health Service under their Labour government?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "1900",
+        "query": "What year did the Labour Party originally form?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "National Health Service",
+        "query": "What major healthcare institution did the Labour Party establish under Clement Attlee's government?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who led the Labour Party government that established the National Health Service?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "1920s",
+        "query": "In what decade did the Labour Party overtake the Liberal Party to become the main opposition to the Conservative Party?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Labour Party (UK)",
+        "answer": "Clement Attlee",
+        "query": "Who led the Labour government that established the National Health Service?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs before the 2003 invasion of Iraq?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who was the leader of the UN inspection team that found no evidence of WMDs in Iraq before the 2003 invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq just before the 2003 invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq before the invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq before the invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq before the 2003 invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq just before the invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "2003 invasion of Iraq",
+        "answer": "Hans Blix",
+        "query": "Who led the UN inspection team that found no evidence of WMDs in Iraq before the 2003 invasion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Gordon Brown",
+        "answer": "Labour Party",
+        "query": "For which political party did Gordon Brown serve as Leader and Prime Minister?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Gordon Brown",
+        "answer": "Labour Party",
+        "query": "Which political party did Gordon Brown lead as Prime Minister?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Gordon Brown",
+        "answer": "10 years",
+        "query": "How long did Gordon Brown serve as the Chancellor of the Exchequer?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    },
+    {
+        "neighbor": "Gordon Brown",
+        "answer": "Labour Party",
+        "query": "Which political party did Gordon Brown lead as Prime Minister?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Tony Blair"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "The title character in the Disney Channel comedy series ___ made Hilary Duff a teen idol.",
+        "type": "cloze",
+        "answer": "Lizzie McGuire"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff began her acting career in the Disney Channel comedy series entitled ___",
+        "type": "cloze",
+        "answer": "Lizzie McGuire"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff began her acting career as the title character in ___",
+        "type": "cloze",
+        "answer": "Lizzie McGuire"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff began her acting career as the title character in the Disney Channel comedy series ___",
+        "type": "cloze",
+        "answer": "Lizzie McGuire"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Erhard Duff was born on September 28, ___",
+        "type": "cloze",
+        "answer": "1987"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Erhard Duff was born on September ___ , 1987, in Houston, Texas.",
+        "type": "cloze",
+        "answer": "28"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Erhard Duff was born on September ___ , 1987, in Houston, Texas.",
+        "type": "cloze",
+        "answer": "28"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff was born on September ___, 1987, in Houston, Texas.",
+        "type": "cloze",
+        "answer": "28"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "The first significant role Hilary Duff landed was as Wendy in ___ Meets Wendy.",
+        "type": "cloze",
+        "answer": "Casper"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Lizzie McGuire premiered on ___",
+        "type": "cloze",
+        "answer": "January 12, 2001"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Lizzie McGuire premiered on ___ 12, 2001.",
+        "type": "cloze",
+        "answer": "January"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff's debut album, Santa Claus Lane, was released in ___ 2002.",
+        "type": "cloze",
+        "answer": "October"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "The Lizzie McGuire Movie soundtrack went on to be certified ___ in Canada.",
+        "type": "cloze",
+        "answer": "Platinum"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Lizzie McGuire premiered on ___",
+        "type": "cloze",
+        "answer": "January 12, 2001"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "The Lizzie McGuire series premiered on ___",
+        "type": "cloze",
+        "answer": "January 12, 2001"
+    },
+    {
+        "subject": "Hilary Duff",
+        "level": "1",
+        "query": "Hilary Duff's debut Christmas themed album is titled ___",
+        "type": "cloze",
+        "answer": "Santa Claus Lane"
+    }
+]

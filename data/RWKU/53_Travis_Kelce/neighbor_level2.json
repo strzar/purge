@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Jason Kelce",
+        "answer": "Cleveland Heights High School",
+        "query": "Where did Jason Kelce attend high school?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Jason Kelce",
+        "answer": "Cleveland Heights High School",
+        "query": "Where did Jason Kelce attend high school?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Jason Kelce",
+        "answer": "Cleveland Heights High School",
+        "query": "Where did Jason Kelce attend high school?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Which team did the Kansas City Chiefs defeat in Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "January 11, 1970",
+        "query": "When did the Kansas City Chiefs win their game before the AFL-NFL merger took full effect?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Which team did the Kansas City Chiefs defeat in Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "1970",
+        "query": "What year did the Kansas City Chiefs win their game against the Minnesota Vikings in the Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Who did the Kansas City Chiefs defeat in their AFL-NFL World Championship Game before the AFL-NFL merger?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Green Bay Packers",
+        "query": "Who were the Kansas City Chiefs defeated by in Super Bowl I?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Who did the Kansas City Chiefs defeat to win Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Super Bowl IV",
+        "query": "In which Super Bowl did the Kansas City Chiefs defeat the Minnesota Vikings?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Andy Reid",
+        "query": "Who has been the head coach of the Kansas City Chiefs during their recent period of dynastic performance?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Which team did the Kansas City Chiefs defeat in Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Which team did the Kansas City Chiefs defeat in Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Kansas City Chiefs",
+        "answer": "Minnesota Vikings",
+        "query": "Which team did the Kansas City Chiefs defeat in Super Bowl IV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Andy Reid",
+        "query": "Who was the head coach of the Chiefs during their Super Bowl LIV victory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Raheem Mostert",
+        "query": "Who ran a touchdown for the 49ers during the third quarter of Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Andy Reid",
+        "query": "Who earned his first NFL championship as a head coach after the Chiefs won Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Damien Williams",
+        "query": "Who scored the late touchdown run that helped seal the victory for the Chiefs in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Raheem Mostert",
+        "query": "Who scored a touchdown run for the 49ers in the third quarter of Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "10-10",
+        "query": "What was the game tied at by halftime during Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named Super Bowl MVP in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named Super Bowl LIV MVP?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named Super Bowl MVP in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Damien Williams",
+        "query": "Who scored the final touchdown for the Chiefs in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named Super Bowl MVP in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named the Super Bowl MVP for Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Raheem Mostert",
+        "query": "Who scored a touchdown run in the third quarter for the 49ers during Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named Super Bowl MVP for Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    },
+    {
+        "neighbor": "Super Bowl LIV",
+        "answer": "Mahomes",
+        "query": "Who was named the Super Bowl MVP in Super Bowl LIV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Travis Kelce"
+    }
+]

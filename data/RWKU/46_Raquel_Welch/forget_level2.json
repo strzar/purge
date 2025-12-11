@@ -1,0 +1,114 @@
+[
+    {
+        "query": "Which film turned Raquel Welch into an international sex symbol?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "One Million Years B.C.",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Raquel Welch have only three lines of dialogue?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "One Million Years B.C.",
+        "type": "simple question"
+    },
+    {
+        "query": "With which studio did Raquel Welch sign a long-term contract?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "20th Century Fox",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Raquel Welch star in the movie 'The Wild Party'?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "1975",
+        "type": "simple question"
+    },
+    {
+        "query": "What studio did Raquel Welch sign a long-term contract with?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "20th Century Fox",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the film in which Raquel Welch's images in a bikini turned her into an international sex symbol?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "One Million Years B.C.",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Raquel Welch star in the film The Wild Party?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "1975",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Raquel Welch star in the film 'The Three Musketeers'?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "Which studio did Raquel Welch sign a long-term contract with?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "20th Century Fox",
+        "type": "simple question"
+    },
+    {
+        "query": "Raquel Welch starred in which film that made her an international sex symbol?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "One Million Years B.C.",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Raquel Welch a Golden Globe in 1974?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "The Three Musketeers",
+        "type": "simple question"
+    },
+    {
+        "query": "What magazine chose Raquel Welch as one of the '100 Sexiest Stars in Film History' in 1995?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "Empire",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Raquel Welch a Golden Globe Award in 1974?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "The Three Musketeers",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Raquel Welch land a small role alongside Elvis Presley?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "Roustabout",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Raquel Welch's profession before she became an actress?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "model",
+        "type": "simple question"
+    },
+    {
+        "query": "Which city did Raquel Welch initially intend to move to from Dallas before deciding to return to Los Angeles?",
+        "level": "2",
+        "subject": "Raquel Welch",
+        "answer": "New York City",
+        "type": "simple question"
+    }
+]

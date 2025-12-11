@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "George Washington",
+        "answer": "Two",
+        "query": "How many terms did George Washington serve as the U.S. president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "Jay Treaty",
+        "query": "What treaty did George Washington sanction during his presidency?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "neutrality",
+        "query": "What policy did George Washington proclaim during the French Revolution?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "1789",
+        "query": "In what year did the Constitution, which George Washington played a role in adopting, replace the Articles of Confederation?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "twice",
+        "query": "How many times was George Washington elected president by the Electoral College?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "neutrality",
+        "query": "What policy did George Washington proclaim during the French Revolution?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "Alexander Hamilton",
+        "answer": "Federalist Party",
+        "query": "Which party was founded on the views of Alexander Hamilton?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "8",
+        "query": "How many years did John Adams serve as the vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "In what years did John Adams serve as the vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Revolutionary War",
+        "query": "During which war did John Adams serve the U.S. government as a senior diplomat in Europe?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "What years did John Adams serve as vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1797",
+        "query": "In what year did John Adams become president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "8",
+        "query": "How many years did John Adams serve as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "What years did John Adams serve as vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1797",
+        "query": "In what year did John Adams begin his term as president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "When did John Adams serve as the U.S. vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "In what years did John Adams serve as the Vice President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "How long did John Adams serve as the vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first Vice President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "When did John Adams serve as vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1789 to 1797",
+        "query": "How long did John Adams serve as the vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Vice President of the United States",
+        "query": "What role did John Adams serve in from 1789 to 1797?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first person to hold the office of vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first vice president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Vice President",
+        "query": "What role did John Adams hold before becoming the second president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Thomas Jefferson"
+    }
+]

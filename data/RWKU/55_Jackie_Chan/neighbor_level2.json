@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Day the Earth Stood Still",
+        "query": "Which 2008 film did Jaden Smith star in with Keanu Reeves?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Pursuit of Happyness",
+        "query": "What was Jaden Smith's film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Day the Earth Stood Still",
+        "query": "Which 2008 remake film did Jaden Smith appear in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Get Down",
+        "query": "What Netflix original series did Jaden Smith star in after a three-year hiatus?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Pursuit of Happyness",
+        "query": "What was Jaden Smith's film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Pursuit of Happyness",
+        "query": "In which film did Jaden Smith make his film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Get Down",
+        "query": "Which Netflix original did Jaden Smith star in after returning to acting in 2016?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Pursuit of Happyness",
+        "query": "What was Jaden Smith's film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "Neo Yokio",
+        "query": "In what Netflix original did Jaden Smith have a voice-acting role?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "The Pursuit of Happyness",
+        "query": "What was Jaden Smith's first film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaden Smith",
+        "answer": "Neo Yokio",
+        "query": "What is the name of the Netflix original anime in which Jaden Smith had a voice-acting role?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Shang-Chi and the Legend of the Ten Rings",
+        "answer": "2020",
+        "query": "What year did production for 'Shang-Chi and the Legend of the Ten Rings' initially begin?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Shang-Chi and the Legend of the Ten Rings",
+        "answer": "February 2020",
+        "query": "When did filming for 'Shang-Chi and the Legend of the Ten Rings' begin?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jet Li",
+        "answer": "Kiss of the Dragon",
+        "query": "Which Luc Besson-produced film did Jet Li star in 2001?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Mulan (1998 film)",
+        "answer": "Hua Mulan",
+        "query": "What legendary character is the film 'Mulan' based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Mulan (1998 film)",
+        "answer": "1998",
+        "query": "What year was the animated film 'Mulan' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "2008",
+        "query": "What year was the film 'Kung Fu Panda' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "Jack Black",
+        "query": "Who voiced the character Po in the film 'Kung Fu Panda'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "2008",
+        "query": "What year was the film 'Kung Fu Panda' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "Tai Lung",
+        "query": "Who is the main antagonist in the film Kung Fu Panda?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "Jack Black",
+        "query": "Who voices the character of Po in 'Kung Fu Panda'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Kung Fu Panda (film)",
+        "answer": "2008",
+        "query": "What year was 'Kung Fu Panda' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "Christopher Murphey",
+        "query": "Who wrote the screenplay for the 2010 film 'The Karate Kid'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "1994",
+        "query": "In what year is the movie 'The Next Karate Kid', which 'The Karate Kid' (2010) serves as a standalone sequel to, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "Christopher Murphey",
+        "query": "Who wrote the screenplay for the 2010 film 'The Karate Kid'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "Christopher Murphey",
+        "query": "Who wrote the screenplay for the 2010 film 'The Karate Kid'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "Christopher Murphey",
+        "query": "Who wrote the screenplay for the 2010 film 'The Karate Kid'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "The Karate Kid (2010 film)",
+        "answer": "Christopher Murphey",
+        "query": "Who wrote the screenplay for the 2010 film 'The Karate Kid'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Rush Hour (1998 film)",
+        "answer": "Ross LaManna",
+        "query": "Who wrote the story for the film 'Rush Hour'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    },
+    {
+        "neighbor": "Jaycee Chan",
+        "answer": "2004",
+        "query": "In what year did Jaycee Chan release his first Mandarin CD album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jackie Chan"
+    }
+]

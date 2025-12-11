@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Grace Kelly",
+        "query": "Alfred Hitchcock's film '___ on a Train' was released in 1951.",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "Strangers"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Hitchcock became an American citizen in ___.",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "1955"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "In which year did Hitchcock become an American citizen?",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "1955"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Hitchcock became an American citizen in ___",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "1955"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Hitchcock became an American citizen in ___",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "1955"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film 'Vertigo' was released in ___",
+        "type": "cloze",
+        "neighbor": "Alfred Hitchcock",
+        "level": "1",
+        "answer": "1958"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window was directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film Rear Window starred James Stewart and ___ Kelly.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Grace"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film Rear Window was directed by Alfred ___",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Hitchcock"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window was directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film Rear Window stars James Stewart, ___ Kelly, Wendell Corey, Thelma Ritter, and Raymond Burr.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Grace"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film Rear Window starred James Stewart and ___ Kelly.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Grace"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "Rear Window is a 1954 American mystery thriller film directed by ___ Hitchcock.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Alfred"
+    },
+    {
+        "subject": "Grace Kelly",
+        "query": "The film Rear Window stars James Stewart, ___ Kelly, Wendell Corey, Thelma Ritter, and Raymond Burr.",
+        "type": "cloze",
+        "neighbor": "Rear Window",
+        "level": "1",
+        "answer": "Grace"
+    }
+]

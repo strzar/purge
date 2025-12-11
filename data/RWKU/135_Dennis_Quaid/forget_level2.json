@@ -1,0 +1,79 @@
+[
+    {
+        "query": "Name a 1989 film starring Dennis Quaid where he plays the role of a famous rock and roll artist.",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "Great Balls of Fire!",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Dennis Quaid star in the film 'The Day After Tomorrow'?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "2004",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Dennis Quaid born?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "1954",
+        "type": "simple question"
+    },
+    {
+        "query": "For which film did Dennis Quaid portray President Bill Clinton?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "The Special Relationship",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Dennis Quaid born?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "1954",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Dennis Quaid attend?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "University of Houston",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did Dennis Quaid attend in Bellaire, Texas?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "Bellaire High School",
+        "type": "simple question"
+    },
+    {
+        "query": "Which college did Dennis Quaid attend before pursuing an acting career?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "University of Houston",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Dennis Quaid play in the movie The Right Stuff?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "Gordon Cooper",
+        "type": "simple question"
+    },
+    {
+        "query": "What award was Dennis Quaid nominated for his performance in the film Far From Heaven?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "Golden Globe Award for Best Supporting Actor",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Dennis Quaid play in the film The Right Stuff?",
+        "level": "2",
+        "subject": "Dennis Quaid",
+        "answer": "Gordon Cooper",
+        "type": "simple question"
+    }
+]

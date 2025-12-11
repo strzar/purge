@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October ___, 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson played the lead role of Anastasia Steele in the ___ Shades film series.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Fifty"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October 4, ___, at Brackenridge Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "1989"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October 4, 1989, at Brackenridge Hospital in ___ Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Austin"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson made her film debut in a minor role in ___ in Alabama.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Crazy"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson was cast in a minor part in ___ (2010).",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "The Social Network"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson was born on October ___ , 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson had her breakthrough playing the lead role of Anastasia Steele in the ___ Shades film series.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Fifty"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson, the actress, was born on October ___ , 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson played the lead role of Anastasia Steele in the ___ Shades film series.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Fifty"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October ___ , 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October 4, ____, at Brackenridge Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "1989"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson was born in ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Mayi Johnson was born on October ___ , 1989.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "The film 'Crazy in Alabama' (1999) starred Dakota's mother and was directed by her then-stepfather ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson made her film debut in a minor role in ___ in Alabama",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Crazy"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson made her film debut in 'Crazy in Alabama' (1999), directed by her then-stepfather ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson was born on October 4, 1989, at ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson was born in ___ Hospital in Austin, Texas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Brackenridge"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Dakota Johnson's former stepfather is actor ___ Banderas.",
+        "type": "cloze",
+        "neighbor": "Dakota Johnson",
+        "level": "1",
+        "answer": "Antonio"
+    },
+    {
+        "subject": "Don Johnson",
+        "query": "Django Unchained is a 2012 American revisionist Western film written and directed by ___ Tarantino",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    }
+]

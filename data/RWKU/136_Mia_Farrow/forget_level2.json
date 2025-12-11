@@ -1,0 +1,79 @@
+[
+    {
+        "query": "Who was Mia Farrow married to shortly before gaining wide recognition?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Frank Sinatra",
+        "type": "simple question"
+    },
+    {
+        "query": "Which director's movies did Mia Farrow frequently appear in from 1980 to 1992?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Woody Allen",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film 'Rosemary's Baby' in which Mia Farrow starred?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Roman Polanski",
+        "type": "simple question"
+    },
+    {
+        "query": "Which television soap opera did Mia Farrow first gain notice for?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Peyton Place",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Mia Farrow married to briefly in the 1960s?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Frank Sinatra",
+        "type": "simple question"
+    },
+    {
+        "query": "For which film did Mia Farrow receive her first major award nominations?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Rosemary's Baby",
+        "type": "simple question"
+    },
+    {
+        "query": "What illness did Mia Farrow contract at the age of nine?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "polio",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Mia Farrow have with UNICEF?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Goodwill Ambassador",
+        "type": "simple question"
+    },
+    {
+        "query": "What disease did Mia Farrow contract at the age of nine?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "polio",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Mia Farrow star in the psychological horror film Rosemary's Baby?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "1968",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Mia Farrow a Golden Globe Award for New Star of the Year \u2013 Actress?",
+        "level": "2",
+        "subject": "Mia Farrow",
+        "answer": "Rosemary's Baby",
+        "type": "simple question"
+    }
+]

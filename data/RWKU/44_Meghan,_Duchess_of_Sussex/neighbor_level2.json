@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Doria Ragland",
+        "answer": "yoga instructor",
+        "query": "What profession did Doria Ragland previously have that involved physical fitness?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Doria Ragland",
+        "answer": "American",
+        "query": "What is the nationality of Doria Ragland?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Doria Ragland",
+        "answer": "social work",
+        "query": "What is the profession of Doria Ragland's education?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Doria Ragland",
+        "answer": "social work",
+        "query": "What is the profession of Doria Ragland?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Doria Ragland",
+        "answer": "social work",
+        "query": "What is the profession of Doria Ragland's degree?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Megxit",
+        "answer": "Megxit",
+        "query": "What term is used for the event of Prince Harry and Meghan stepping back from their roles as senior members of the royal family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Megxit",
+        "answer": "Megxit",
+        "query": "What term was coined to describe the decision of Prince Harry and Meghan to step back from their roles as senior members of the British royal family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Megxit",
+        "answer": "Instagram",
+        "query": "On which social media platform did Prince Harry and Meghan announce their decision to step back from royal duties?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Megxit",
+        "answer": "Megxit",
+        "query": "What term was coined to describe Prince Harry and Meghan's decision to reduce their involvement with the British Royal Family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Megxit",
+        "answer": "Megxit",
+        "query": "What is the name of the event where Prince Harry and Meghan decided to step back from their roles as senior royal family members?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "Oprah Winfrey",
+        "query": "Who hosted 'Oprah with Meghan and Harry' television special?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "March 7, 2021",
+        "query": "What date did the 'Oprah with Meghan and Harry' special first air in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "March 7, 2021",
+        "query": "On what date did the 'Oprah with Meghan and Harry' special first air in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "Oprah Winfrey",
+        "query": "Who hosted the television special 'Oprah with Meghan and Harry'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "CBS",
+        "query": "What network aired 'Oprah with Meghan and Harry' in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "Oprah Winfrey",
+        "query": "Who hosted the television special 'Oprah with Meghan and Harry'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "ITV",
+        "query": "What network did 'Oprah with Meghan and Harry' premiere on in the United Kingdom?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "2021",
+        "query": "In which year did the television special 'Oprah with Meghan and Harry' premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "CBS",
+        "query": "What channel aired the 'Oprah with Meghan and Harry' special in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "March 7, 2021",
+        "query": "When did the television special 'Oprah with Meghan and Harry' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "2021",
+        "query": "What year was the television special 'Oprah with Meghan and Harry' first aired?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Oprah with Meghan and Harry",
+        "answer": "ITV",
+        "query": "On which network did 'Oprah with Meghan and Harry' premiere in the United Kingdom?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "2020",
+        "query": "In what year was Archewell Inc. founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "2020",
+        "query": "In what year was Archewell founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "2020",
+        "query": "In what year was Archewell Inc. founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "Delaware",
+        "query": "Where is Archewell Inc. registered?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "Delaware",
+        "query": "In what state is Archewell Inc. registered?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "Delaware",
+        "query": "In which state is Archewell Inc. registered?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "2020",
+        "query": "In what year was Archewell Inc. founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    },
+    {
+        "neighbor": "Archewell",
+        "answer": "2020",
+        "query": "In which year was Archewell Inc. founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Meghan, Duchess of Sussex"
+    }
+]

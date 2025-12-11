@@ -1,0 +1,44 @@
+[
+    {
+        "query": "In which film did Michelle Pfeiffer play a character named Elvira Hancock?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "Scarface",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie earned Michelle Pfeiffer her first Golden Globe Award?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "The Fabulous Baker Boys",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Michelle Pfeiffer her eighth Golden Globe Award nomination?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "French Exit",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Michelle Pfeiffer portray in the Marvel Cinematic Universe starting in 2018?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "Janet van Dyne",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Marvel Cinematic Universe character has Michelle Pfeiffer portrayed since 2018?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "Janet van Dyne",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Michelle Pfeiffer born?",
+        "level": "2",
+        "subject": "Michelle Pfeiffer",
+        "answer": "Santa Ana",
+        "type": "simple question"
+    }
+]

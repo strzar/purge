@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Kanye West",
+        "query": "With which artist did Jay-Z release the collaborative album 'Watch the Throne'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many times has Jay-Z topped the Billboard 200 with number-one albums?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "Which label did Jay-Z co-found in 1994?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Reasonable Doubt",
+        "query": "What is the title of Jay-Z's first album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "What record label did Jay-Z co-found in 1994?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Collision Course",
+        "query": "Which album did Jay-Z release in collaboration with Linkin Park in 2004?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "What is the name of the record label Jay-Z co-founded?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "The Blueprint",
+        "query": "Which Jay-Z album was released in 2001 and received critical acclaim?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Linkin Park",
+        "query": "With whom did Jay-Z collaborate to release the album 'Collision Course' in 2004?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "Which record label did Jay-Z co-found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Kanye West",
+        "query": "With which singer did Jay-Z release the collaborative album 'Watch the Throne'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums does Jay-Z have on the Billboard 200 chart?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums does Jay-Z have on the Billboard 200?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums does Jay-Z have on the Billboard 200 chart?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Kanye West",
+        "query": "With which artist did Jay-Z collaborate on the album 'Watch the Throne'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many albums of Jay-Z have debuted atop the Billboard 200?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums has Jay-Z had on the Billboard 200 chart?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Watch the Throne",
+        "query": "What is the title of Jay-Z\u2019s collaborative album with Kanye West?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "What record label did Jay-Z co-found in 1994?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Kanye West",
+        "query": "With which artist did Jay-Z release the album 'Watch the Throne'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "Which record label did Jay-Z co-found in 1994?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "4:44",
+        "query": "What is the name of the album Jay-Z released in 2017?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums does Jay-Z hold the record for on the Billboard 200 chart?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Empire State of Mind",
+        "query": "What was Jay-Z's first song to peak the Billboard Hot 100 as a lead artist?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "The Blueprint",
+        "query": "Which Jay-Z album debuted in 2001?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Kanye West",
+        "query": "With which artist did Jay-Z release the album 'Watch the Throne'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "Roc-A-Fella Records",
+        "query": "What record label did Jay-Z co-found in 1994?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many times has Jay-Z reached the top of the Billboard 200 with his number-one albums?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "14",
+        "query": "How many number-one albums does Jay-Z have on the Billboard 200 chart?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    },
+    {
+        "neighbor": "Jay-Z",
+        "answer": "4:44",
+        "query": "Which Jay-Z album was released in 2017?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Beyonc\u00e9"
+    }
+]

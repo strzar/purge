@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's stepfather, actor ___ Danson, married Mary Steenburgen in 1995.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born on July 10, 1983, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's stepfather, who married Mary Steenburgen in 1995, is actor ___ Danson.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born on July 10, 1983, in ___ Angeles, California",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's stepfather, actor ___ Danson, married Mary Steenburgen in 1995.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born on July 10, 1983, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's mother, Mary Steenburgen, married ___ Danson in 1995.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born on July 10, 1983, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's mother is American actress ___ Steenburgen.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Mary"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's stepfather, who married Mary Steenburgen in 1995, is actor ___ Danson.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell was born in Los Angeles, California, to English actor Malcolm McDowell and American actress ___ Steenburgen.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Mary"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Charlie McDowell's stepfather, who married Mary Steenburgen in 1995, is actor ___ Danson.",
+        "type": "cloze",
+        "neighbor": "Charlie McDowell",
+        "level": "1",
+        "answer": "Ted"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is created by ___ David.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Cheryl Hines plays the role of Larry's wife, ___ .",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "___ Your Enthusiasm is an American television sitcom created by Larry David that aired on HBO.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Curb"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is an American television sitcom created by ___ David.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm stars Larry David as a fictionalized version of ___ and it follows his life as a semi-retired television writer and producer.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "himself"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is an American television sitcom created by ___ David.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Cheryl Hines plays the role of Larry's wife, ___",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is an American television sitcom created by ___ David.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Cheryl Hines plays the role of Larry David's wife, ___.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm aired on ___ from October 15, 2000, to April 7, 2024.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "HBO"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Larry David stars as a fictionalized version of ___ and it follows his life as a semi-retired television writer and producer.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "himself"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Larry's wife Cheryl is portrayed by ___ Hines.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Cheryl Hines plays the role of Larry David's wife, ___.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is an American television sitcom created by ___ David that aired on HBO.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm is an American television sitcom created by ___ David.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "In Curb Your Enthusiasm, Cheryl Hines plays the role of Larry's wife, ___.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Cheryl"
+    },
+    {
+        "subject": "Ted Danson",
+        "query": "Curb Your Enthusiasm was created by ___ David and aired on HBO.",
+        "type": "cloze",
+        "neighbor": "Curb Your Enthusiasm",
+        "level": "1",
+        "answer": "Larry"
+    }
+]

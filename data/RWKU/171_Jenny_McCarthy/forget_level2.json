@@ -1,0 +1,72 @@
+[
+    {
+        "query": "What magazine did Jenny McCarthy model for at the start of her career?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "Playboy",
+        "type": "simple question"
+    },
+    {
+        "query": "What reality TV show has Jenny McCarthy been a judge on since 2019?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "The Masked Singer",
+        "type": "simple question"
+    },
+    {
+        "query": "Which game show did Jenny McCarthy co-host on MTV?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "Singled Out",
+        "type": "simple question"
+    },
+    {
+        "query": "Name a film in which Jenny McCarthy starred that was released in 2006.",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "John Tucker Must Die",
+        "type": "simple question"
+    },
+    {
+        "query": "What show did Jenny McCarthy co-host on ABC?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "The View",
+        "type": "simple question"
+    },
+    {
+        "query": "Which year did Jenny McCarthy start as a judge on The Masked Singer?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "2019",
+        "type": "simple question"
+    },
+    {
+        "query": "Which show has Jenny McCarthy been a judge on since 2019?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "The Masked Singer",
+        "type": "simple question"
+    },
+    {
+        "query": "Which magazine did Jenny McCarthy pose for in 1993?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "Playboy",
+        "type": "simple question"
+    },
+    {
+        "query": "In which major movie did Jenny McCarthy co-star in 1998?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "BASEketball",
+        "type": "simple question"
+    },
+    {
+        "query": "Which magazine offered Jenny McCarthy $20,000 to pose for its issue?",
+        "level": "2",
+        "subject": "Jenny McCarthy",
+        "answer": "Playboy",
+        "type": "simple question"
+    }
+]

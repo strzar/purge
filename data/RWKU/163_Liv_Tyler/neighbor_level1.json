@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings trilogy was directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings film series, the character Arwen is portrayed by ___ Tyler.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Liv"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings trilogy was directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings film series, the character Legolas was portrayed by ___ Bloom.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Orlando"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The trilogy of The Lord of the Rings includes The Fellowship of the Ring (2001), The Two Towers (2002), and ___ (2003).",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "The Return of the King"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings trilogy was directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings film series, the role of Arwen was played by ___ Tyler.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings (film series)",
+        "level": "1",
+        "answer": "Liv"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring was directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings: The Fellowship of the Ring, the character Arwen is portrayed by ___ Tyler.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Liv"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings: The Fellowship of the Ring, the character Arwen is portrayed by ___ Tyler.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Liv"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The character Legolas in The Lord of the Rings: The Fellowship of the Ring is played by ___ Bloom.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Orlando"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The screenplay for The Lord of the Rings: The Fellowship of the Ring was co-written by Fran Walsh, Philippa Boyens, and ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings: The Fellowship of the Ring, the character Frodo Baggins is portrayed by ___ Wood.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Fellowship of the Ring",
+        "level": "1",
+        "answer": "Elijah"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King was directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "In The Lord of the Rings: The Return of the King, the character Arwen is portrayed by ___ Tyler.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Liv"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The film 'The Lord of the Rings: The Return of the King' is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    },
+    {
+        "subject": "Liv Tyler",
+        "query": "The Lord of the Rings: The Return of the King is directed by ___ Jackson.",
+        "type": "cloze",
+        "neighbor": "The Lord of the Rings: The Return of the King",
+        "level": "1",
+        "answer": "Peter"
+    }
+]

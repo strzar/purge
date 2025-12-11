@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Henry Quaid made his acting debut in the dystopian film ___ Games in 2012.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Quaid had his breakout role as vigilante Hughie Campbell in the satirical superhero series ___ (2019\u2013present).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Boys"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid made his acting debut with a minor role in the dystopian film ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid attended NYU ___ School of the Arts for three years.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Tisch"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid was born on April 24, 1992, in ___, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Henry Quaid was born on April ___ , 1992",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Henry Quaid was born on April ___ , 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Henry Quaid was born on April ___ , 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Henry Quaid was born on April ___ , 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid was born on April ___ , 1992, in Los Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid attended NYU ___ School of the Arts for three years.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Tisch"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid attended NYU ___ School of the Arts for three years.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Tisch"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Jack Quaid attended NYU ___ School of the Arts for three years.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Tisch"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anthony Edwards played the role of LTJG Nick 'Goose' Bradshaw in the 1986 film ___",
+        "type": "cloze",
+        "neighbor": "Anthony Edwards (actor)",
+        "level": "1",
+        "answer": "Top Gun"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anthony Edwards played LTJG Nick 'Goose' Bradshaw in the 1986 film ___",
+        "type": "cloze",
+        "neighbor": "Anthony Edwards (actor)",
+        "level": "1",
+        "answer": "Top Gun"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anthony Edwards played the role of LTJG Nick \"Goose\" Bradshaw in the 1986 film ___",
+        "type": "cloze",
+        "neighbor": "Anthony Edwards (actor)",
+        "level": "1",
+        "answer": "Top Gun"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anthony Edwards appeared alongside Tom Cruise in the 1986 film ___ Gun.",
+        "type": "cloze",
+        "neighbor": "Anthony Edwards (actor)",
+        "level": "1",
+        "answer": "Top"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anastasia was directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "The character Anya in Anastasia is voiced by ___ Ryan.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Meg"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anastasia is a 1997 American animated musical produced by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "The voice of Anya in the film Anastasia is provided by ___ Ryan.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Meg"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anastasia is a 1997 American animated musical historical fantasy film produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "The character Anya in the film Anastasia is voiced by ___ Ryan.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Meg"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anastasia is a 1997 American animated musical historical fantasy film produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Meg Ryan",
+        "query": "Anastasia is a 1997 American animated musical historical fantasy film produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    }
+]

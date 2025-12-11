@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin first gained recognition by appearing on the sixth and seventh seasons of primetime soap opera ___",
+        "type": "cloze",
+        "answer": "Knots Landing"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin played Jack Ryan in ___",
+        "type": "cloze",
+        "answer": "The Hunt for Red October"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin played Jack Ryan in which 1990 film?",
+        "type": "cloze",
+        "answer": "The Hunt for Red October"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alexander Rae Baldwin III is commonly known as ___",
+        "type": "cloze",
+        "answer": "Alec Baldwin"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin played the character Jack Ryan in ___",
+        "type": "cloze",
+        "answer": "The Hunt for Red October"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "From 2006 to 2013, Baldwin received critical acclaim starring alongside Tina Fey as Jack Donaghy on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "30 Rock"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin won his third Primetime Emmy in 2017 for his portrayal of ___ on Saturday Night Live.",
+        "type": "cloze",
+        "answer": "Donald Trump"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin starred alongside Tina Fey as Jack Donaghy on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "30 Rock"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin won his third Primetime Emmy in 2017 for his portrayal of ___ on Saturday Night Live.",
+        "type": "cloze",
+        "answer": "Donald Trump"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "From 2006 to 2013, Baldwin starred alongside Tina Fey as Jack Donaghy on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "30 Rock"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Baldwin won his third Primetime Emmy in 2017 for his portrayal of ___ on Saturday Night Live.",
+        "type": "cloze",
+        "answer": "Donald Trump"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "In 2021, while on the ___ film set, Baldwin discharged a revolver used as a prop.",
+        "type": "cloze",
+        "answer": "Rust"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "From 2006 to 2013, Baldwin received critical acclaim starring alongside Tina Fey as Jack Donaghy on the NBC sitcom ___",
+        "type": "cloze",
+        "answer": "30 Rock"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin portrayed ___ on the NBC sketch series Saturday Night Live.",
+        "type": "cloze",
+        "answer": "Donald Trump"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin hosted the ___ Academy Awards in 2010.",
+        "type": "cloze",
+        "answer": "82nd"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin completed his Bachelor of Fine Arts degree at ___ in 1994.",
+        "type": "cloze",
+        "answer": "NYU"
+    },
+    {
+        "subject": "Alec Baldwin",
+        "level": "1",
+        "query": "Alec Baldwin worked as a busboy at the famous discotheque known as ___",
+        "type": "cloze",
+        "answer": "Studio 54"
+    }
+]

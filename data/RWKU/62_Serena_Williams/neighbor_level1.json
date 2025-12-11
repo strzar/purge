@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Serena Williams",
+        "query": "In 2016, Azarenka won the Sunshine Double, which is part of the six Premier ___ tournaments she has won.",
+        "type": "cloze",
+        "neighbor": "Victoria Azarenka",
+        "level": "1",
+        "answer": "Mandatory"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Azarenka won the singles bronze medal at the ___ London Olympics.",
+        "type": "cloze",
+        "neighbor": "Victoria Azarenka",
+        "level": "1",
+        "answer": "2012"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Victoria Azarenka became the first Belarusian player to win a major singles title at the ___ Australian Opens.",
+        "type": "cloze",
+        "neighbor": "Victoria Azarenka",
+        "level": "1",
+        "answer": "2012 and 2013"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Victoria Azarenka won her Major singles titles at the ___ Opens in 2012 and 2013.",
+        "type": "cloze",
+        "neighbor": "Victoria Azarenka",
+        "level": "1",
+        "answer": "Australian"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Richard Dove Williams Jr. is the father of tennis players Venus and ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Richard Williams (tennis coach)",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Richard Dove Williams Jr. is the father of tennis players Venus and ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Richard Williams (tennis coach)",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Richard Dove Williams Jr. is the father of tennis players Venus and ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Richard Williams (tennis coach)",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Richard Dove Williams Jr. was a former American tennis coach and the father of tennis players Venus and ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Richard Williams (tennis coach)",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert was known as Chris Evert ___ from 1979 to 1987.",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "Lloyd"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert was known as Chris Evert Lloyd from 1979 to ___.",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "1987"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert won a record seven ___ Open titles.",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "French"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert was known as Chris Evert Lloyd from ___ to 1987.",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "1979"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert won a record seven ___ Open titles.",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "French"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Chris Evert was known as Chris Evert Lloyd from 1979 to ___",
+        "type": "cloze",
+        "neighbor": "Chris Evert",
+        "level": "1",
+        "answer": "1987"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Simona Halep won her first major title at the 2018 French Open by defeating ___ Stephens.",
+        "type": "cloze",
+        "neighbor": "Simona Halep",
+        "level": "1",
+        "answer": "Sloane"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Simona Halep won her first major title at the 2018 French Open over ___ Stephens.",
+        "type": "cloze",
+        "neighbor": "Simona Halep",
+        "level": "1",
+        "answer": "Sloane"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "In which year did Simona Halep win her first major singles title?",
+        "type": "cloze",
+        "neighbor": "Simona Halep",
+        "level": "1",
+        "answer": "2018"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Simona Halep won her first major title at the 2018 French Open over ___ Stephens.",
+        "type": "cloze",
+        "neighbor": "Simona Halep",
+        "level": "1",
+        "answer": "Sloane"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Samantha Stosur won her Grand Slam singles title at the ___ US Open.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "2011"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Samantha Stosur won her Grand Slam singles title at the 2011 US Open by defeating ___ Williams in the final.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "In the 2010 French Open, Stosur ended the 24-match winning streak at the tournament of ___ Henin.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "Justine"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Samantha Stosur won her Grand Slam singles title at the ___ US Open.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "2011"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "In the final of the 2011 US Open, Stosur defeated ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Samantha Stosur won her Grand Slam singles title at the ___ US Open.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "2011"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "In the 2010 French Open, Samantha Stosur defeated the then-world No. 1 ___ Williams in the quarterfinals.",
+        "type": "cloze",
+        "neighbor": "Samantha Stosur",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Caroline Wozniacki won her first junior major championship by winning the 2006 Wimbledon girls' singles title over ___ Ryb\u00e1rikov\u00e1.",
+        "type": "cloze",
+        "neighbor": "Caroline Wozniacki",
+        "level": "1",
+        "answer": "Magdal\u00e9na"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Before winning the 2018 Australian Open, Wozniacki had reached two major finals at the US Open, losing to Kim Clijsters in 2009 and to ___ Williams in 2014.",
+        "type": "cloze",
+        "neighbor": "Caroline Wozniacki",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Wozniacki won the 2006 Wimbledon girls' singles title over ___ Ryb\u00e1rikov\u00e1.",
+        "type": "cloze",
+        "neighbor": "Caroline Wozniacki",
+        "level": "1",
+        "answer": "Magdal\u00e9na"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Before her victory at the 2018 Australian Open, Wozniacki had reached two major finals at the US Open, losing to Kim Clijsters in 2009 and to ___ Williams in 2014.",
+        "type": "cloze",
+        "neighbor": "Caroline Wozniacki",
+        "level": "1",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "query": "Wozniacki won the 2006 Wimbledon girls' singles title over ___ Ryb\u00e1rikov\u00e1.",
+        "type": "cloze",
+        "neighbor": "Caroline Wozniacki",
+        "level": "1",
+        "answer": "Magdal\u00e9na"
+    }
+]

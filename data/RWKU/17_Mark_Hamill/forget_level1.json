@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Richard Hamill was born on September ___",
+        "type": "cloze",
+        "answer": "25, 1951"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill starred as ___ Skywalker in the Star Wars franchise.",
+        "type": "cloze",
+        "answer": "Luke"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Richard Hamill (; born September 25, 1951) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Richard Hamill is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill starred as ___ Skywalker in the Star Wars franchise.",
+        "type": "cloze",
+        "answer": "Luke"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Richard Hamill was born on September ___",
+        "type": "cloze",
+        "answer": "25"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill starred as ___ Skywalker in the Star Wars franchise.",
+        "type": "cloze",
+        "answer": "Luke"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill is known for voicing the ___ in various DC Comics projects.",
+        "type": "cloze",
+        "answer": "Joker"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill has voiced Fire Lord Ozai in ___.",
+        "type": "cloze",
+        "answer": "Avatar: The Last Airbender"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill is known for voicing the ___ in various DC Comics projects.",
+        "type": "cloze",
+        "answer": "Joker"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Hamill provided the voice for Fire Lord Ozai in ___: The Last Airbender.",
+        "type": "cloze",
+        "answer": "Avatar"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill is known for voicing the ___ in various DC Comics projects.",
+        "type": "cloze",
+        "answer": "Joker"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill voiced Fire Lord Ozai in ___: The Last Airbender.",
+        "type": "cloze",
+        "answer": "Avatar"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill is known for voicing the ___ in various DC Comics projects.",
+        "type": "cloze",
+        "answer": "Joker"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Hamill voiced Fire Lord Ozai in ___: The Last Airbender.",
+        "type": "cloze",
+        "answer": "Avatar"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill was born on September 25, ___ in Oakland, California.",
+        "type": "cloze",
+        "answer": "1951"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Hamill's early career included a recurring role on the soap opera ___",
+        "type": "cloze",
+        "answer": "General Hospital"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill's early career included a recurring role on the soap opera ___",
+        "type": "cloze",
+        "answer": "General Hospital"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "In which year was Star Wars, featuring Mark Hamill as Luke Skywalker, first released?",
+        "type": "cloze",
+        "answer": "1977"
+    },
+    {
+        "subject": "Mark Hamill",
+        "level": "1",
+        "query": "Mark Hamill's early career included a recurring role on the soap opera ___",
+        "type": "cloze",
+        "answer": "General Hospital"
+    }
+]

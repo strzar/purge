@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "What film marked Dakota Johnson's acting debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "For which film series did Dakota Johnson play the lead role of Anastasia Steele?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Anastasia Steele",
+        "query": "What role did Dakota Johnson play in the Fifty Shades film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "In which film did Dakota Johnson make her film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "What film marked Dakota Johnson's film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Austin, Texas",
+        "query": "In what city was Dakota Johnson born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "In which movie series did Dakota Johnson play the lead role of Anastasia Steele?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "1989",
+        "query": "What year was Dakota Johnson born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "What film marked Dakota Johnson's debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Melanie Griffith",
+        "query": "Who is Dakota Johnson's mother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "In which film did Dakota Johnson make her debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "What film series did Dakota Johnson play the lead role of Anastasia Steele in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Antonio Banderas",
+        "query": "Who directed the film 'Crazy in Alabama' in which Dakota Johnson played a minor role?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades film series",
+        "query": "What is Dakota Johnson known for playing the lead role in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Antonio Banderas",
+        "query": "Who directed the film 'Crazy in Alabama' in which Dakota Johnson made her debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Antonio Banderas",
+        "query": "Who directed the film 'Crazy in Alabama' in which Dakota Johnson made her debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Jamie Foxx",
+        "query": "Who starred as the lead character in the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Jamie Foxx",
+        "query": "Who starred as the main character in 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Jamie Foxx",
+        "query": "Who starred in the leading role for the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "2012",
+        "query": "What year was 'Django Unchained' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "2012",
+        "query": "What year was 'Django Unchained' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Jamie Foxx",
+        "query": "Who stars as the lead character in Django Unchained?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Christoph Waltz",
+        "query": "Who plays the role of the German bounty hunter in 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Django Unchained",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed the film 'Django Unchained'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Cheech Marin",
+        "answer": "Cheech & Chong",
+        "query": "What comedy duo was Cheech Marin a part of in the 1970s and early 1980s?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    },
+    {
+        "neighbor": "Cheech Marin",
+        "answer": "Cheech & Chong",
+        "query": "What comedy act did Cheech Marin gain recognition with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Don Johnson"
+    }
+]

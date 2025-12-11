@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Whitney Houston",
+        "query": "Dolly Parton has been described as a 'country legend' and has sold more than ___ million records worldwide.",
+        "type": "cloze",
+        "neighbor": "Dolly Parton",
+        "level": "1",
+        "answer": "100"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Dolly Parton has been described as a 'country legend' and has sold more than ___ million records worldwide.",
+        "type": "cloze",
+        "neighbor": "Dolly Parton",
+        "level": "1",
+        "answer": "100"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina Brown was the only child of ___ Houston and singer Bobby Brown.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina appeared on the reality show ___ Bobby Brown.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "Being"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina Brown was born on ___ 4, 1993.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "March"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina Brown appeared on the reality show titled ___ Bobby Brown.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "Being"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina Brown made appearances on the reality show ___ Bobby Brown.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "Being"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobbi Kristina Brown's mother was pop superstar ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Bobbi Kristina Brown",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album, 'Don't Be Cruel', included the number one hit ___",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "My Prerogative"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album, ___ Be Cruel, spawned five Billboard Hot 100 top 10 singles.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "Don't"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "The song 'My Prerogative' reached number one on the ___ Hot 100.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "Billboard"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album 'Don't Be Cruel' included the number one hit ___",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "My Prerogative"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album, 'Don't Be Cruel', spawned five Billboard Hot 100 top 10 singles, including the number one hit ___.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "My Prerogative"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album, ___ Be Cruel, spawned five Billboard Hot 100 top 10 singles.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "Don't"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "The number one hit 'My Prerogative' was from Bobby Brown's album titled ___ Be Cruel.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "Don't"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album 'Don't Be Cruel' spawned five Billboard Hot 100 top 10 singles, including the number one hit '___'.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "My Prerogative"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "The song 'Every Little Step' won a ___ Award.",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "Grammy"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Bobby Brown's second album, 'Don't Be Cruel', included the Billboard Hot 100 number one hit ___",
+        "type": "cloze",
+        "neighbor": "Bobby Brown",
+        "level": "1",
+        "answer": "My Prerogative"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Cissy Houston is the mother of ___ Houston, the aunt of singers Dionne Warwick and Dee Dee Warwick.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Houston is the mother of singer and actress ___ Houston.",
+        "type": "cloze",
+        "neighbor": "Cissy Houston",
+        "level": "1",
+        "answer": "Whitney"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "The game was held at Tampa Stadium in ___ , Florida, on January 27, 1991.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXV",
+        "level": "1",
+        "answer": "Tampa"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "Super Bowl XXV's halftime show was headlined by the American boy band ___ on the Block.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXV",
+        "level": "1",
+        "answer": "New Kids"
+    },
+    {
+        "subject": "Whitney Houston",
+        "query": "The game was held at ___ Stadium in Tampa, Florida, on January 27, 1991.",
+        "type": "cloze",
+        "neighbor": "Super Bowl XXV",
+        "level": "1",
+        "answer": "Tampa"
+    }
+]

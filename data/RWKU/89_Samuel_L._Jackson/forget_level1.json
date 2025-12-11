@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "In the Star Wars prequel trilogy, Samuel L. Jackson played the Jedi ___ Windu.",
+        "type": "cloze",
+        "answer": "Mace"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel Leroy Jackson was born on December ___ , 1948.",
+        "type": "cloze",
+        "answer": "21"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "In which film did Samuel L. Jackson play the role of Jules Winnfield?",
+        "type": "cloze",
+        "answer": "Pulp Fiction"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson provided his voice for Lucius Best / Frozone in the Pixar films ___ and Incredibles 2.",
+        "type": "cloze",
+        "answer": "The Incredibles"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel Leroy Jackson (born December 21, 1948) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson's films have collectively grossed over ___ billion worldwide.",
+        "type": "cloze",
+        "answer": "27"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson was born in ___",
+        "type": "cloze",
+        "answer": "Washington, D.C."
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel Leroy Jackson was born in Washington, D.C., on December ___",
+        "type": "cloze",
+        "answer": "21"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson was born in ___ on December 21, 1948.",
+        "type": "cloze",
+        "answer": "Washington, D.C."
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson was born in ___, D.C., on December 21, 1948.",
+        "type": "cloze",
+        "answer": "Washington"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "After a 1981 performance in the play A Soldier's Play, Jackson was introduced to director ___ Lee.",
+        "type": "cloze",
+        "answer": "Spike"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Jackson played a minor role in the 1990 Martin Scorsese film ___, as real-life Mafia associate Stacks Edwards.",
+        "type": "cloze",
+        "answer": "Goodfellas"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson starred in Jurassic Park, a film directed by ___ in 1993.",
+        "type": "cloze",
+        "answer": "Steven Spielberg"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "After recovering from heroin, Samuel L. Jackson played a crack cocaine addict in ___",
+        "type": "cloze",
+        "answer": "Jungle Fever"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "In Pulp Fiction, the character specifically written for Samuel L. Jackson was ___",
+        "type": "cloze",
+        "answer": "Jules Winnfield"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson first appeared on the big screen in a minor role in the 1990 Martin Scorsese film called ___",
+        "type": "cloze",
+        "answer": "Goodfellas"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson was introduced to director Spike Lee after a performance in the play ___",
+        "type": "cloze",
+        "answer": "A Soldier's Play"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "In 1990, Samuel L. Jackson played a minor role in the Martin Scorsese film ___ as Stacks Edwards.",
+        "type": "cloze",
+        "answer": "Goodfellas"
+    },
+    {
+        "subject": "Samuel L. Jackson",
+        "level": "1",
+        "query": "Samuel L. Jackson received the Best Supporting Role BAFTA Award for his role in ___",
+        "type": "cloze",
+        "answer": "Pulp Fiction"
+    }
+]

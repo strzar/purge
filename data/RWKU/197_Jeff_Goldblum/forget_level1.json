@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeffrey Lynn Goldblum was born on October ___",
+        "type": "cloze",
+        "answer": "22"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Goldblum starred in ___ Park, a high-grossing film.",
+        "type": "cloze",
+        "answer": "Jurassic"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum's debut film was ___",
+        "type": "cloze",
+        "answer": "Death Wish"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum starred in ___ Park (1993) and Independence Day (1996).",
+        "type": "cloze",
+        "answer": "Jurassic"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum starred in ___ Park (1993) and Independence Day (1996).",
+        "type": "cloze",
+        "answer": "Jurassic"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeffrey Lynn Goldblum was born on October ___",
+        "type": "cloze",
+        "answer": "22"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum starred in ___ Park and Independence Day.",
+        "type": "cloze",
+        "answer": "Jurassic"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "One of Jeff Goldblum's early roles was in Annie ___",
+        "type": "cloze",
+        "answer": "Hall"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "His career had a resurgence with his roles in the Wes Anderson films The Life Aquatic with Steve Zissou (___),",
+        "type": "cloze",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "He is also known for his role as Grandmaster in the Marvel Cinematic Universe (MCU) films Guardians of the Galaxy Vol. ___ and Thor: Ragnarok.",
+        "type": "cloze",
+        "answer": "2"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "As of 2022, he hosts his own series, The World According to ___ Goldblum.",
+        "type": "cloze",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum starred in ___ as Grandmaster in the MCU.",
+        "type": "cloze",
+        "answer": "Thor: Ragnarok"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum played a role in the Wes Anderson film titled The Life Aquatic with ___ Zissou.",
+        "type": "cloze",
+        "answer": "Steve"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "In the Marvel Cinematic Universe, Jeff Goldblum portrayed the character known as ___.",
+        "type": "cloze",
+        "answer": "Grandmaster"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum hosts his own series titled The World According to ___ Goldblum.",
+        "type": "cloze",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeffrey Lynn Goldblum was born in West Homestead, ___, located just outside of Pittsburgh.",
+        "type": "cloze",
+        "answer": "Pennsylvania"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Goldblum's father, Harold Leonard Goldblum, was a physician and major in the U.S. ___ during World War II.",
+        "type": "cloze",
+        "answer": "Army"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeffrey Lynn Goldblum was born to Jewish parents in ___, Pennsylvania.",
+        "type": "cloze",
+        "answer": "West Homestead"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Jeff Goldblum moved to ___ at 17 to become an actor.",
+        "type": "cloze",
+        "answer": "New York City"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "level": "1",
+        "query": "Goldblum starred as comedian Ernie Kovacs in the TV movie ___.",
+        "type": "cloze",
+        "answer": "Ernie Kovacs: Between the Laughter"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland is best known for his starring role as ___ Bauer in the Fox drama series 24.",
+        "type": "cloze",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland is best known for his starring role as ___ Bauer in the Fox drama series 24.",
+        "type": "cloze",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland won an Emmy Award, a Golden Globe Award, two Screen Actors Guild Awards, and two Satellite Awards for his role in ___",
+        "type": "cloze",
+        "answer": "24"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland is best known for his starring role as ___ Bauer in the Fox drama series 24.",
+        "type": "cloze",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland won an ___ Award for his role in the series 24.",
+        "type": "cloze",
+        "answer": "Emmy"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland is well-known for his role as ___ Bauer in the series 24.",
+        "type": "cloze",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "In the film ___ Boys, Kiefer Sutherland played a significant role in 1987.",
+        "type": "cloze",
+        "answer": "The Lost"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland provided the facial motion capture and English voice for Venom Snake in the video games Metal Gear Solid V: ___ and Metal Gear Solid V: The Phantom Pain.",
+        "type": "cloze",
+        "answer": "Ground Zeroes"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland has been inducted to the Hollywood ___ of Fame.",
+        "type": "cloze",
+        "answer": "Walk"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland provided the facial motion capture and English voice for Venom Snake in the video games Metal Gear Solid V: ___ and Metal Gear Solid V: The Phantom Pain.",
+        "type": "cloze",
+        "answer": "Ground Zeroes"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Sutherland has been inducted to the Hollywood Walk of ___ and to Canada's Walk of Fame.",
+        "type": "cloze",
+        "answer": "Fame"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland starred as ___ Bohm in the Fox drama Touch.",
+        "type": "cloze",
+        "answer": "Martin"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "He provided the facial motion capture and English voice for Venom Snake in the video games Metal Gear Solid V: ___ and Metal Gear Solid V: The Phantom Pain.",
+        "type": "cloze",
+        "answer": "Ground Zeroes"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland has starred as Martin Bohm in the Fox drama ___",
+        "type": "cloze",
+        "answer": "Touch"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland starred as President ___ Kirkman in the political drama series Designated Survivor.",
+        "type": "cloze",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland was born on 21 December 1966 at St Mary's Hospital in the Paddington district of ___, to Donald Sutherland and Shirley Douglas.",
+        "type": "cloze",
+        "answer": "London"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland was born on 21 December 1966 at St Mary's Hospital in the ___ district of London.",
+        "type": "cloze",
+        "answer": "Paddington"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland was born on 21 December 1966 at St Mary's Hospital in ___ district of London.",
+        "type": "cloze",
+        "answer": "Paddington"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "level": "1",
+        "query": "Kiefer Sutherland was born on 21 December 1966 at St Mary's Hospital in the ___ district of London.",
+        "type": "cloze",
+        "answer": "Paddington"
+    }
+]

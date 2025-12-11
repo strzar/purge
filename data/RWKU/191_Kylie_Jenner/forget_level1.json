@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Jenner starred in the E! reality television series called ___ from 2007 to 2021.",
+        "type": "cloze",
+        "answer": "Keeping Up with the Kardashians"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "The founder and owner of the cosmetic company named ___ is Kylie Jenner.",
+        "type": "cloze",
+        "answer": "Kylie Cosmetics"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "In 2015, Kylie Jenner launched her own cosmetics line initially called ___.",
+        "type": "cloze",
+        "answer": "Kylie Lip Kits"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Jenner starred in the E! reality television series ___ from 2007 to 2021.",
+        "type": "cloze",
+        "answer": "Keeping Up with the Kardashians"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "The cosmetic company founded by Kylie Jenner is called ___.",
+        "type": "cloze",
+        "answer": "Kylie Cosmetics"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Jenner starred in the E! reality television series Keeping Up with the ___ from 2007 to 2021.",
+        "type": "cloze",
+        "answer": "Kardashians"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "At age 14 in 2012, Jenner collaborated with the clothing brand ___ with her sister Kendall.",
+        "type": "cloze",
+        "answer": "PacSun"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "In 2015, Kylie Jenner launched her own cosmetics line called ___ Lip Kits.",
+        "type": "cloze",
+        "answer": "Kylie"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "In 2017, Jenner was placed on the Forbes Celebrity ___ list.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Forbes estimated Jenner's net worth at US$___ billion in 2019.",
+        "type": "cloze",
+        "answer": "1"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Jenner's own spin-off series is titled ___ of Kylie.",
+        "type": "cloze",
+        "answer": "Life"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "In 2017, Jenner was placed on the Forbes Celebrity ___ list.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "In 2017, Jenner was placed on the Forbes Celebrity ___ list.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Kristen Jenner was born on August ___ , 1997, in Los Angeles, California.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Kristen Jenner was born on August ___ , 1997, in Los Angeles, California.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Kristen Jenner was born on August ___ , 1997, in Los Angeles, California.",
+        "type": "cloze",
+        "answer": "10"
+    },
+    {
+        "subject": "Kylie Jenner",
+        "level": "1",
+        "query": "Kylie Kristen Jenner was born on August ___ , 1997, in Los Angeles, California.",
+        "type": "cloze",
+        "answer": "10"
+    }
+]

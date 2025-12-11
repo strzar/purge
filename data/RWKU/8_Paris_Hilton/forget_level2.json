@@ -1,0 +1,65 @@
+[
+    {
+        "query": "What is the name of Paris Hilton's autobiography that was a New York Times Best Seller?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "Confessions of an Heiress",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Paris Hilton release her global top-10 hit 'Stars Are Blind'?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "2006",
+        "type": "simple question"
+    },
+    {
+        "query": "Which reality show did Paris Hilton star in that premiered in 2003?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "The Simple Life",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the 2005 horror film Paris Hilton acted in?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "House of Wax",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Paris Hilton star in 2005?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "House of Wax",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the documentary about Paris Hilton released in 2020?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "This Is Paris",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the relationship of Barron Hilton to Paris Hilton?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "grandfather",
+        "type": "simple question"
+    },
+    {
+        "query": "How long did Paris Hilton attend the Provo Canyon School?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "11 months",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Paris Hilton's sister mentioned in the text?",
+        "level": "2",
+        "subject": "Paris Hilton",
+        "answer": "Nicky",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Patricia Lee Smith is better known by her stage name ___ Smith.",
+        "type": "cloze",
+        "neighbor": "Patti Smith",
+        "level": "1",
+        "answer": "Patti"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Patricia Lee Smith is better known by her stage name ___ Smith.",
+        "type": "cloze",
+        "neighbor": "Patti Smith",
+        "level": "1",
+        "answer": "Patti"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Patti Smith's debut album ___ played a significant role in the punk rock movement.",
+        "type": "cloze",
+        "neighbor": "Patti Smith",
+        "level": "1",
+        "answer": "Horses"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Patricia Lee Smith is widely known by her nickname ___.",
+        "type": "cloze",
+        "neighbor": "Patti Smith",
+        "level": "1",
+        "answer": "Patti"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In 1978, Patti Smith's most widely known song, 'Because the Night', reached 13th on the ___ Hot 100 chart.",
+        "type": "cloze",
+        "neighbor": "Patti Smith",
+        "level": "1",
+        "answer": "Billboard"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Whitney Houston was brought to prominence by ___ Davis.",
+        "type": "cloze",
+        "neighbor": "Clive Davis",
+        "level": "1",
+        "answer": "Clive"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Clive Davis is credited with signing ___ Joel, among other artists who achieved significant success.",
+        "type": "cloze",
+        "neighbor": "Clive Davis",
+        "level": "1",
+        "answer": "Billy"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Among the artists Clive Davis has brought to prominence are Whitney Houston and ___ Manilow.",
+        "type": "cloze",
+        "neighbor": "Clive Davis",
+        "level": "1",
+        "answer": "Barry"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Clive Davis signed many artists who achieved significant success, including Sly and the Family Stone, Janis Joplin, and ___ Springsteen.",
+        "type": "cloze",
+        "neighbor": "Clive Davis",
+        "level": "1",
+        "answer": "Bruce"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In the television series 'The Sopranos', Steven Van Zandt played the character ___ Dante.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In which television drama series did Steven Van Zandt play the character Silvio Dante?",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "The Sopranos"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt is also known as ___ Steven or Miami Steve.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Little"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In The Sopranos, Steven Van Zandt played the character ___ Dante from 1999 to 2007.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In the television drama series 'The Sopranos', Steven Van Zandt played the character ___ Dante.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt played the character Silvio Dante in the television series ___ (1999\u20132007).",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "The Sopranos"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In The Sopranos, Steven Van Zandt played the character ___ Dante.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt is also known by the nickname ___ Steven.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Little"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt played the character ___ Dante in The Sopranos.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In The Sopranos, Steven Van Zandt played the character ___ Dante.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In which television drama series did Steven Van Zandt play the character of Silvio Dante?",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "The Sopranos"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt is also known by his nicknames ___ Steven and Miami Steve.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Little"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt played the character ___ Dante in The Sopranos.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Silvio"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt played the character Silvio Dante in the television series ___ from 1999 to 2007.",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "The Sopranos"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Steven Van Zandt played the character Silvio Dante in the television series The ___ (1999\u20132007).",
+        "type": "cloze",
+        "neighbor": "Steven Van Zandt",
+        "level": "1",
+        "answer": "Sopranos"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In the film 'Philadelphia,' the character Andrew Beckett was portrayed by ___ Hanks.",
+        "type": "cloze",
+        "neighbor": "Philadelphia (film)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In the film Philadelphia, the character Andrew Beckett was played by ___ who won the Academy Award for Best Actor for his performance.",
+        "type": "cloze",
+        "neighbor": "Philadelphia (film)",
+        "level": "1",
+        "answer": "Hanks"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Vivienne Patricia Scialfa is an American singer-songwriter and guitarist, known by the nickname ___ Scialfa.",
+        "type": "cloze",
+        "neighbor": "Patti Scialfa",
+        "level": "1",
+        "answer": "Patti"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Patti Scialfa has been a member of the ___ Street Band since 1984.",
+        "type": "cloze",
+        "neighbor": "Patti Scialfa",
+        "level": "1",
+        "answer": "E"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "In 2014, Patti Scialfa was inducted into the ___ and Roll Hall of Fame.",
+        "type": "cloze",
+        "neighbor": "Patti Scialfa",
+        "level": "1",
+        "answer": "Rock"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "query": "Vivienne Patricia Scialfa is an American singer-songwriter and guitarist, better known as ___ Scialfa.",
+        "type": "cloze",
+        "neighbor": "Patti Scialfa",
+        "level": "1",
+        "answer": "Patti"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "query": "What Disney film did Lindsay Lohan star in at age 12?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "The Parent Trap",
+        "type": "simple question"
+    },
+    {
+        "query": "With which record company did Lindsay Lohan sign to release her music albums?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Casablanca Records",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the reality TV series that focused on Lindsay Lohan.",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Lindsay Lohan's Beach Club",
+        "type": "simple question"
+    },
+    {
+        "query": "What modeling agency signed Lindsay Lohan at age three?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Ford Models",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Lindsay Lohan born?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "New York City",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the music albums released by Lindsay Lohan.",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Speak",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Lindsay Lohan make her acting comeback with the film 'Liz & Dick'?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "2012",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the reality TV series that focused on Lindsay Lohan's beach clubs in Greece?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Lindsay Lohan's Beach Club",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Lindsay Lohan play a dual role for Disney in 1998?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "The Parent Trap",
+        "type": "simple question"
+    },
+    {
+        "query": "Which reality TV series did Lindsay Lohan star in that was focused on her beach clubs in Greece?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Lindsay Lohan's Beach Club",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the first movie that Lindsay Lohan starred in?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "The Parent Trap",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie marked Lindsay Lohan's debut in dual roles?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "The Parent Trap",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were Lindsay Lohan's co-stars in the movie The Parent Trap?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Dennis Quaid and Natasha Richardson",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is the eldest child of Dina and Michael Lohan?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Lindsay Lohan",
+        "type": "simple question"
+    },
+    {
+        "query": "Which soap opera did Lindsay Lohan star in at the age of 10?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Another World",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Disney movie did Lindsay Lohan star in with Jamie Lee Curtis in 2003?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Freaky Friday",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film starred Lindsay Lohan and Jamie Lee Curtis as a mother and daughter who switch bodies?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Freaky Friday",
+        "type": "simple question"
+    },
+    {
+        "query": "What song did Lindsay Lohan record for the film Freaky Friday, which was promoted on Radio Disney?",
+        "level": "2",
+        "subject": "Lindsay Lohan",
+        "answer": "Ultimate",
+        "type": "simple question"
+    }
+]

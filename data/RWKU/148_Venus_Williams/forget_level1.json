@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Venus Williams",
+        "level": "1",
+        "query": "Venus Ebony Starr Williams (born June 17, 1980) is an American professional ___ player.",
+        "type": "cloze",
+        "answer": "tennis"
+    },
+    {
+        "subject": "Venus Williams",
+        "level": "1",
+        "query": "In 2000 and 2001, Venus Williams won the Wimbledon and US Open titles, as well as Olympic singles ___ at the 2000 Sydney Olympics.",
+        "type": "cloze",
+        "answer": "gold"
+    },
+    {
+        "subject": "Venus Williams",
+        "level": "1",
+        "query": "Venus Williams has won ___ women's doubles major titles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Venus Williams",
+        "level": "1",
+        "query": "Williams was ranked No. ___ among the under-12 players in Southern California.",
+        "type": "cloze",
+        "answer": "1"
+    }
+]

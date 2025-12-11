@@ -1,0 +1,198 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Sam Elliott",
+        "query": "I absolutely love movies about the American West. Could you tell me who starred as Virgil Earp in the film 'Tombstone'?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Way West",
+        "query": "Which of the following movies starred Sam Elliott: The Way West, Star Wars, Iron Man?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Mask",
+        "query": "Please answer in English. Cu\u00e1l pel\u00edcula de 1985 catapult\u00f3 a Sam Elliott a un \u00e9xito comercial?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Mask",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 pel\u00edcula de 1985 Sam Elliott obtuvo \u00e9xito comercial?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Way West",
+        "query": "Which of the following films stars Sam Elliott: The Way West, Star Wars, Iron Man?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Sam Elliott",
+        "query": "Assuming you are an expert on classic American actors, can you tell me who played the lead in the 1976 drama Lifeguard?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Academy Award for Best Supporting Actor",
+        "query": "What prestigious award was Sam Elliott nominated for due to his performance in A Star Is Born? It's interesting, right:",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "A Star Is Born",
+        "query": "Which movie starring Sam Elliott as a hero character involves a significant portrayal opposite Lady Gaga and Bradley Cooper among the following: The Ranch, A Star Is Born, The Hero?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "2018",
+        "query": "Question: In which movie did Sam Elliott play Bobby Maine alongside Lady Gaga? Answer: A Star Is Born Question: What year was he nominated for the Academy Award for Best Supporting Actor for this role?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Best Supporting Actor",
+        "query": "Under which category was Sam Elliott nominated for an Academy Award in A Star Is Born? Believe it or not:",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sam Elliott",
+        "query": "I was really moved by the film A Star Is Born. Can you tell me who starred alongside Lady Gaga and Bradley Cooper in that movie?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Sam Elliott",
+        "query": "Which actor from the flick 'A Star Is Born' received a nod for the Academy Award for Best Supporting Actor?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Sam Elliott",
+        "query": "Who received a nomination for the Academy Award for Best Supporting Actor for their role in the 2018 film A Star Is Born?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "The Ranch",
+        "query": "\u00bfEn qu\u00e9 serie de Netflix Sam Elliott actu\u00f3 durante el per\u00edodo 2016-2020? Por favor, responde en ingl\u00e9s.",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sam Elliott",
+        "query": "I recently watched A Star Is Born and was really impressed by the supporting actor. Could you remind me who he is?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Academy Award for Best Supporting Actor",
+        "query": "In ensuing decades, Elliott established himself as a character actor with roles in several films like Ghost Rider and Hulk. What award was he nominated for due to his performance in A Star Is Born?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "1883",
+        "query": "For which of these series did Sam Elliott receive a SAG Award: Grace and Frankie, The Ranch, or 1883?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "Sam Elliott",
+        "query": "Please answer in English. Qui est l'acteur c\u00e9l\u00e8bre pour ses r\u00f4les dans des productions telles que 'The Ranch' et 'A Star Is Born'?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "The Hero",
+        "query": "Question: Which actor played in the movie Hulk (2003)?\nAnswer: Sam Elliott\nQuestion: What 2017 film did Sam Elliott headline that was a comedy-drama?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sacramento, California",
+        "query": "I've always admired the work of Sam Elliott, especially his deep voice and his iconic roles in Western films. Can you tell me where he was born?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "a cowboy",
+        "query": "Which of the following roles has Sam Elliott portrayed: a cowboy, a soldier, an alien, a doctor?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Sam Elliott",
+        "query": "Pretend you are a casting director who specializes in Western films. Tell me, who is a renowned actor famous for his deep voice and roles in such genres?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "University of Oregon",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 universidad Sam Elliott estudi\u00f3 ingl\u00e9s y psicolog\u00eda pero abandon\u00f3 sus estudios?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "University of Oregon",
+        "query": "Which educational institution in the Northwestern U.S. did the actor known for 'The Big Lebowski' attend before he quit?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "University of Oregon",
+        "query": "Samuel Pack Elliott, born August 9, 1944, in Sacramento, California, attended which university before dropping out?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "David Douglas High School",
+        "query": "Which high school did Sam Elliott graduate from: David Douglas High School, Roosevelt High School, or Lincoln High School?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Sacramento, California",
+        "query": "I'm intrigued by Hollywood personalities. Could you tell me where Sam Elliott was born?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Portuguese)",
+        "answer": "Sacramento, California",
+        "query": "Por favor, responda em ingl\u00eas. Em que cidade Sam Elliott nasceu?",
+        "subject": "Sam Elliott",
+        "level": "3"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the profession of Howard Wolowitz in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Who is the actor that plays the role of Raj Koothrappali on The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Howard Wolowitz",
+        "query": "Which character in 'The Big Bang Theory' is an aerospace engineer?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Who is the actor playing Raj Koothrappali in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Simon Helberg",
+        "query": "Who plays aerospace engineer Howard Wolowitz on The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Caltech",
+        "query": "Which university do the physicists in 'The Big Bang Theory' work for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Howard Wolowitz",
+        "query": "Who is the aerospace engineer character in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Which actor in The Big Bang Theory plays the role of astrophysicist Raj Koothrappali?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the profession of Howard Wolowitz in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Mayim Bialik",
+        "query": "Who plays the character Amy Farrah Fowler on 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the profession of Howard Wolowitz in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Who plays the role of Raj Koothrappali in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Johnny Galecki",
+        "query": "Who plays the character of Leonard Hofstadter in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What profession does Howard Wolowitz have in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the profession of Howard Wolowitz in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Who plays the character Raj Koothrappali on 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Simon Helberg",
+        "query": "Who plays the role of aerospace engineer Howard Wolowitz in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "astrophysicist",
+        "query": "What is the profession of Raj Koothrappali in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kaley Cuoco",
+        "query": "Who plays the role of Penny in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Caltech",
+        "query": "Which university do the main characters in The Big Bang Theory work at?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Mayim Bialik",
+        "query": "Who plays the role of Amy Farrah Fowler on 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Simon Helberg",
+        "query": "Who portrays the character Howard Wolowitz in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Simon Helberg",
+        "query": "Who plays the character Howard Wolowitz in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "astrophysicist",
+        "query": "What profession does Raj Koothrappali have in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kaley Cuoco",
+        "query": "Who plays the role of Penny, a waitress and aspiring actress in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kunal Nayyar",
+        "query": "Which actor portrays the astrophysicist Raj Koothrappali on 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Kaley Cuoco",
+        "query": "Who plays the character Penny in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the professional occupation of Howard Wolowitz in 'The Big Bang Theory'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "Johnny Galecki",
+        "query": "Who plays the role of Leonard Hofstadter in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    },
+    {
+        "neighbor": "The Big Bang Theory",
+        "answer": "aerospace engineer",
+        "query": "What is the occupation of Howard Wolowitz in The Big Bang Theory?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jim Parsons"
+    }
+]

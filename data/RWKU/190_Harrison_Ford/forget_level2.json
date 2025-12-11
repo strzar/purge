@@ -1,0 +1,93 @@
+[
+    {
+        "query": "Has Harrison Ford received an Academy Award?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "No",
+        "type": "simple question"
+    },
+    {
+        "query": "For which award has Harrison Ford received a nomination?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Academy Award",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Harrison Ford debut in the film industry?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "1966",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of Harrison Ford's debut film?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Dead Heat on a Merry-Go-Round",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Harrison Ford play the character Rick Deckard for the first time?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Blade Runner",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Harrison Ford portray in the Indiana Jones media franchise?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Indiana Jones",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Harrison Ford reprise in four sequels, beginning with the film released in 1977?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Han Solo",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Harrison Ford reprise in four sequels over four decades after initially playing it in Star Wars (1977)?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Han Solo",
+        "type": "simple question"
+    },
+    {
+        "query": "In what film did Harrison Ford first portray Indiana Jones?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Raiders of the Lost Ark",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Harrison Ford play in the film Blade Runner and its sequel?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "Rick Deckard",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Harrison Ford born?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "1942",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Harrison Ford born?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "1942",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Harrison Ford born?",
+        "level": "2",
+        "subject": "Harrison Ford",
+        "answer": "1942",
+        "type": "simple question"
+    }
+]

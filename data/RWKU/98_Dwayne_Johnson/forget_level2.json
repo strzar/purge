@@ -1,0 +1,128 @@
+[
+    {
+        "query": "What ring name is Dwayne Johnson famously known as?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "The Rock",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Dwayne Johnson receive an athletic scholarship to play football?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "University of Miami",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the ring name of Dwayne Douglas Johnson?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "The Rock",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Dwayne Johnson attend on an athletic scholarship?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "University of Miami",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Dwayne Johnson first sign with the WWE?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "1996",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Dwayne Johnson attend on an athletic scholarship?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "University of Miami",
+        "type": "simple question"
+    },
+    {
+        "query": "Which WWE event has Dwayne Johnson headlined a record ten times?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "WrestleMania",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Dwayne Johnson first appear in the Fast & Furious franchise?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "2011",
+        "type": "simple question"
+    },
+    {
+        "query": "Which HBO series did Dwayne Johnson produce and star in?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Ballers",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Dwayne Johnson's first leading role in a movie?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "The Scorpion King",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film series did Dwayne Johnson play the character Luke Hobbs?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Fast & Furious",
+        "type": "simple question"
+    },
+    {
+        "query": "What character does Dwayne Johnson voice in the animated film Moana?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Maui",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Johnson portray in the Fast & Furious series that contributed to its success?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Luke Hobbs",
+        "type": "simple question"
+    },
+    {
+        "query": "Which HBO series did Johnson produce and star in from 2015 to 2019?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Ballers",
+        "type": "simple question"
+    },
+    {
+        "query": "Which primary school did Dwayne Johnson attend in Auckland?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Richmond Road Primary School",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Dwayne Johnson attend primary school?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Richmond Road Primary School",
+        "type": "simple question"
+    },
+    {
+        "query": "What school did Dwayne Johnson attend while living in New Zealand?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Richmond Road Primary School",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Dwayne Johnson's father?",
+        "level": "2",
+        "subject": "Dwayne Johnson",
+        "answer": "Rocky Johnson",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci's fame initially rested on his achievements as a ___",
+        "type": "cloze",
+        "answer": "painter"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci spent his last three years in ___",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo di ser Piero da Vinci was born on ___ April 1452.",
+        "type": "cloze",
+        "answer": "15"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci was educated in ___ by Andrea del Verrocchio.",
+        "type": "cloze",
+        "answer": "Florence"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo spent his last three years at the invitation of ___",
+        "type": "cloze",
+        "answer": "Francis I"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo di ser Piero da Vinci was born on ___ April 1452.",
+        "type": "cloze",
+        "answer": "15"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci epitomized the ___ humanist ideal.",
+        "type": "cloze",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo di ser Piero da Vinci was born on ___ April 1452.",
+        "type": "cloze",
+        "answer": "15"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo is identified as one of the greatest ___ in the history of Western art.",
+        "type": "cloze",
+        "answer": "painters"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "The ___ is his best known work and often regarded as the world's most famous painting.",
+        "type": "cloze",
+        "answer": "Mona Lisa"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo's magnum opus, the ___ Lisa, is often regarded as the world's most famous painting.",
+        "type": "cloze",
+        "answer": "Mona"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo is identified as one of the greatest painters in the history of ___ art.",
+        "type": "cloze",
+        "answer": "Western"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo is identified as one of the greatest painters in the history of ___ art.",
+        "type": "cloze",
+        "answer": "Western"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo's magnum opus, the ___ Lisa, is his best known work.",
+        "type": "cloze",
+        "answer": "Mona"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo is often credited as the founder of the ___ Renaissance.",
+        "type": "cloze",
+        "answer": "High"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo's magnum opus, the ___, is often regarded as the world's most famous painting.",
+        "type": "cloze",
+        "answer": "Mona Lisa"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "In 2017, ___ was sold at auction for US$450.3 million.",
+        "type": "cloze",
+        "answer": "Salvator Mundi"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci was born on ___ April 1452.",
+        "type": "cloze",
+        "answer": "15"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo da Vinci was born on ___ April 1452 in, or close to, the Tuscan hill town of Vinci.",
+        "type": "cloze",
+        "answer": "15"
+    },
+    {
+        "subject": "Leonardo da Vinci",
+        "level": "1",
+        "query": "Leonardo's mother's name was ___ di Meo Lippi.",
+        "type": "cloze",
+        "answer": "Caterina"
+    }
+]

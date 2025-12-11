@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Killmonger",
+        "query": "What is the name of the character who plans to start a global revolution in the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who is the director of the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the 2018 film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Killmonger",
+        "query": "What is the name of the character who challenges T'Challa for the throne in 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Killmonger",
+        "query": "What is the main antagonist's name in the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Wakanda",
+        "query": "What is the name of the fictional African country where 'Black Panther' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Chadwick Boseman",
+        "query": "Who plays T'Challa in the 2018 superhero film Black Panther?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Wakanda",
+        "query": "What is the name of the fictional country where Black Panther is crowned king?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the 2018 superhero film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Joe Robert Cole",
+        "query": "Who wrote the screenplay for the film 'Black Panther' along with Ryan Coogler?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Joe Robert Cole",
+        "query": "Who wrote the screenplay for the film 'Black Panther' along with Ryan Coogler?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the 2018 film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Ryan Coogler",
+        "query": "Who directed the film 'Black Panther'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Black Panther (film)",
+        "answer": "Wakanda",
+        "query": "In the film 'Black Panther', what is the name of the kingdom T'Challa becomes king of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Ryan Coogler",
+        "query": "Who co-wrote the story for the film 'Creed III' along with Keenan Coogler and Zach Baylin?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Jonathan Majors",
+        "query": "Which actor portrays the character Damian Anderson in 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Damian Anderson",
+        "query": "What character does Jonathan Majors play in Creed III?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Keenan Coogler and Zach Baylin",
+        "query": "Who wrote the screenplay for 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Jonathan Majors",
+        "query": "Who portrays the character Damian Anderson in Creed III?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Damian Anderson",
+        "query": "What character does Jonathan Majors play in 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Jonathan Majors",
+        "query": "Who plays the character Damian Anderson in Creed III?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Keenan Coogler and Zach Baylin",
+        "query": "Who wrote the screenplay for 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Jonathan Majors",
+        "query": "Who stars as the childhood friend of Adonis Creed in 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "neighbor": "Creed III",
+        "answer": "Keenan Coogler and Zach Baylin",
+        "query": "Who is the writer of the film 'Creed III'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael B. Jordan"
+    }
+]

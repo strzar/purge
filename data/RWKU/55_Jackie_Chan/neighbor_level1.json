@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith made his film debut alongside his father in the 2006 film ___ ___ of Happyness.",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "The Pursuit"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith made his film debut in 2006 with the film The ___ of Happyness.",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "Pursuit"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In 2010, Jaden Smith starred in the remake of The ___ Kid",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "Karate"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Smith's film debut was with his father Will Smith in the 2006 film ___ Happyness",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "The Pursuit of"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In which film did Jaden Smith star along with Keanu Reeves?",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "The Day the Earth Stood Still"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith starred in the remake film 'The Day the Earth Stood Still' alongside ___ Reeves in 2008.",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "Keanu"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith's film debut was with his father Will Smith in the 2006 film ___",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "The Pursuit of Happyness"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith starred in the remake of 'The Day the Earth Stood Still' in ___",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "2008"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith's film debut was with his father Will Smith in the 2006 film ___ ___ ___ ___ ___",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "The Pursuit of Happyness"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jaden Smith starred in the remake of 'The Karate Kid' in the year ___",
+        "type": "cloze",
+        "neighbor": "Jaden Smith",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Shang-Chi and the Legend of the Ten Rings is the first Marvel Studios film with a(n) ___ director and a predominantly Asian cast.",
+        "type": "cloze",
+        "neighbor": "Shang-Chi and the Legend of the Ten Rings",
+        "level": "1",
+        "answer": "Asian"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Shang-Chi and the Legend of the Ten Rings is the first Marvel Studios film with an ___ director and a predominantly Asian cast.",
+        "type": "cloze",
+        "neighbor": "Shang-Chi and the Legend of the Ten Rings",
+        "level": "1",
+        "answer": "Asian"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In 2003, Yen played the antagonist Wu Chow in the American action comedy film ___ Knights.",
+        "type": "cloze",
+        "neighbor": "Donnie Yen",
+        "level": "1",
+        "answer": "Shanghai"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Jet Li co-starred in The Forbidden Kingdom (2008) with ___ Chan.",
+        "type": "cloze",
+        "neighbor": "Jet Li",
+        "level": "1",
+        "answer": "Jackie"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In 2020, Jet Li portrayed The Emperor of China in the live-action fantasy drama Disney film ___",
+        "type": "cloze",
+        "neighbor": "Jet Li",
+        "level": "1",
+        "answer": "Mulan"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In 2020, Jet Li portrayed ___ of China in the live-action fantasy drama Disney film Mulan.",
+        "type": "cloze",
+        "neighbor": "Jet Li",
+        "level": "1",
+        "answer": "The Emperor"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In 2020, Jet Li portrayed The ___ of China in the live-action fantasy drama Disney film Mulan.",
+        "type": "cloze",
+        "neighbor": "Jet Li",
+        "level": "1",
+        "answer": "Emperor"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Mulan was directed by ___ Cook and Tony Bancroft.",
+        "type": "cloze",
+        "neighbor": "Mulan (1998 film)",
+        "level": "1",
+        "answer": "Barry"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Mulan was directed by Barry Cook and ___ Bancroft.",
+        "type": "cloze",
+        "neighbor": "Mulan (1998 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In the English version of Mulan, the character Mushu is voiced by ___ Murphy.",
+        "type": "cloze",
+        "neighbor": "Mulan (1998 film)",
+        "level": "1",
+        "answer": "Eddie"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Mulan was directed by Barry Cook and ___ Bancroft.",
+        "type": "cloze",
+        "neighbor": "Mulan (1998 film)",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In the English version of Mulan, the character Mushu is voiced by ___ Murphy.",
+        "type": "cloze",
+        "neighbor": "Mulan (1998 film)",
+        "level": "1",
+        "answer": "Eddie"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Kung Fu Panda was produced by ___ Animation and distributed by Paramount Pictures.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "DreamWorks"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In Kung Fu Panda, the character Po is voiced by ___ Black.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Kung Fu Panda was produced by DreamWorks Animation and distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Paramount"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In Kung Fu Panda, the character Po is voiced by ___ Black.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Kung Fu Panda is a 2008 American animated martial arts comedy film produced by ___ Animation.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "DreamWorks"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In Kung Fu Panda, the character Po is voiced by ___ Black.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Jack"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "Kung Fu Panda was directed by John Stevenson and ___ Osborne.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Jackie Chan",
+        "query": "In Kung Fu Panda, the character Po is voiced by ___ Black.",
+        "type": "cloze",
+        "neighbor": "Kung Fu Panda (film)",
+        "level": "1",
+        "answer": "Jack"
+    }
+]

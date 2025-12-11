@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando Jr. was widely considered one of the greatest and most influential ___ of all time.",
+        "type": "cloze",
+        "answer": "actors"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando portrayed a rebellious motorcycle gang leader named ___ in The Wild One.",
+        "type": "cloze",
+        "answer": "Johnny Strabler"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando Jr. was born on ___ 3, 1924.",
+        "type": "cloze",
+        "answer": "April"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando received his first Academy Award for Best Actor for his performance in ___",
+        "type": "cloze",
+        "answer": "On the Waterfront"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando portrayed Johnny Strabler in the film ___",
+        "type": "cloze",
+        "answer": "The Wild One"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando Jr. (April 3, 1924 \u2013 July 1, 2004) was an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando received his first Academy Award for his performance as ___ in On the Waterfront.",
+        "type": "cloze",
+        "answer": "Terry Malloy"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando played the role of Stanley Kowalski in ___",
+        "type": "cloze",
+        "answer": "A Streetcar Named Desire"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando received his first Academy Award for his performance as ___ in On the Waterfront.",
+        "type": "cloze",
+        "answer": "Terry Malloy"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando's portrayal of ___ in The Wild One became an emblem of the era's generational gap.",
+        "type": "cloze",
+        "answer": "Johnny Strabler"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando directed and starred in ___ (1961), a commercial flop.",
+        "type": "cloze",
+        "answer": "One-Eyed Jacks"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando starred as ___ in The Godfather (1972).",
+        "type": "cloze",
+        "answer": "Vito Corleone"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando played Colonel Kurtz in ___ (1979).",
+        "type": "cloze",
+        "answer": "Apocalypse Now"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando won his second Academy Award for his role as ___ in The Godfather.",
+        "type": "cloze",
+        "answer": "Vito Corleone"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando played Colonel Kurtz in ___ (1979).",
+        "type": "cloze",
+        "answer": "Apocalypse Now"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando starred as Vito Corleone in ___",
+        "type": "cloze",
+        "answer": "The Godfather"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando directed and starred in ___ (1961), a commercial flop.",
+        "type": "cloze",
+        "answer": "One-Eyed Jacks"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "After a series of box-office failures, Brando won his second Academy Award for his role in ___",
+        "type": "cloze",
+        "answer": "The Godfather"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "Marlon Brando starred as Vito Corleone in ___ which helped him win his second Academy Award.",
+        "type": "cloze",
+        "answer": "The Godfather"
+    },
+    {
+        "subject": "Marlon Brando",
+        "level": "1",
+        "query": "After a series of box-office failures, Marlon Brando won an Academy Award for his role in ___.",
+        "type": "cloze",
+        "answer": "The Godfather"
+    }
+]

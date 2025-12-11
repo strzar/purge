@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton portrayed the character ___ Connor in The Terminator films.",
+        "type": "cloze",
+        "answer": "Sarah"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton starred in Terminator 2: ___",
+        "type": "cloze",
+        "answer": "Judgment Day"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton's starring role as ___ in The Terminator films made her famous.",
+        "type": "cloze",
+        "answer": "Sarah Connor"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton played the character of ___ in the TV series Beauty and the Beast.",
+        "type": "cloze",
+        "answer": "Catherine Chandler"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "The character Linda Hamilton is known for portraying in 'The Terminator' is ___ Connor.",
+        "type": "cloze",
+        "answer": "Sarah"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton portrayed the role of ___ in The Terminator and its sequels.",
+        "type": "cloze",
+        "answer": "Sarah Connor"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "In the film The Terminator, Linda Hamilton portrayed ___ Connor.",
+        "type": "cloze",
+        "answer": "Sarah"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "In 1984, Hamilton co-starred in James Cameron's science fiction action-thriller titled ___",
+        "type": "cloze",
+        "answer": "The Terminator"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Hamilton played a character named ___ in the television series Beauty and the Beast.",
+        "type": "cloze",
+        "answer": "Catherine Chandler"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton played Vicky Baxter in the horror film based on a short story by ___",
+        "type": "cloze",
+        "answer": "Stephen King"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "In which film did Linda Hamilton play the role of Sarah Connor?",
+        "type": "cloze",
+        "answer": "The Terminator"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Linda Hamilton played the character named ___ in the film The Terminator.",
+        "type": "cloze",
+        "answer": "Sarah Connor"
+    },
+    {
+        "subject": "Linda Hamilton",
+        "level": "1",
+        "query": "Hamilton starred in Children of the Corn, a horror film based on a short story by ___",
+        "type": "cloze",
+        "answer": "Stephen King"
+    }
+]

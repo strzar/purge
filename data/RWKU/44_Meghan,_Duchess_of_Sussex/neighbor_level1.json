@@ -1,0 +1,202 @@
+[
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Doria Loyce Ragland is the mother of ___ , Duchess of Sussex.",
+        "type": "cloze",
+        "neighbor": "Doria Ragland",
+        "level": "1",
+        "answer": "Meghan"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Doria Ragland was formerly a ___ instructor.",
+        "type": "cloze",
+        "neighbor": "Doria Ragland",
+        "level": "1",
+        "answer": "yoga"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Megxit was a term adopted globally on mainstream and social media, which referred to the decision by Prince Harry and Meghan to step back as 'senior' members of the ___ royal family.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "British"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Megxit was used to describe the decision of Prince Harry and Meghan to step back from their roles as '___' members of the British royal family.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "senior"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "What term was adopted globally on mainstream and social media to describe the decision to 'step back' by Prince Harry and Meghan?",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "Megxit"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Megxit was adopted globally on mainstream and social media, spawning various Internet ___ and 'Megxit' merchandising.",
+        "type": "cloze",
+        "neighbor": "Megxit",
+        "level": "1",
+        "answer": "memes"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "The television special 'Oprah with Meghan and Harry' premiered on March 7, 2021, on ___ in the United States.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "CBS"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "The television special 'Oprah with Meghan and Harry' premiered on March 7, 2021, on ___ in the United States.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "CBS"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "In the United Kingdom, 'Oprah with Meghan and Harry' aired the next day on ___ after its US premiere.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "ITV"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Oprah with Meghan and Harry is a 2021 television special hosted by American media personality ___ Winfrey.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "Oprah"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "The television special 'Oprah with Meghan and Harry' premiered on March 7, 2021, on ___ in the United States.",
+        "type": "cloze",
+        "neighbor": "Oprah with Meghan and Harry",
+        "level": "1",
+        "answer": "CBS"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Archewell Inc. is registered in ___ and was founded in 2020.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Among the for-profit business divisions of Archewell Inc. are Archewell Audio and Archewell ___ .",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Productions"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "One of the for-profit business divisions of Archewell includes Archewell ___ and Archewell Productions.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Audio"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Archewell includes for-profit business divisions focusing on media production named Archewell ___ and Archewell Productions.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Audio"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Archewell Inc. is registered in ___ and was founded in 2020.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "The for-profit business division of Archewell focusing on media production is known as Archewell ___ and Archewell Productions.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Audio"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "Archewell Inc. is a Beverly Hills-based mix of for-profit and not-for-profit business organizations registered in ___ and founded in 2020.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "query": "The group includes the couple's non-profit charitable foundation, as well as for-profit business divisions focusing on media production, such as Archewell ___ and Archewell Productions.",
+        "type": "cloze",
+        "neighbor": "Archewell",
+        "level": "1",
+        "answer": "Audio"
+    }
+]

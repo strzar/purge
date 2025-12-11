@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "From 2007 to 2019, Jim Parsons played ___ Cooper in the CBS sitcom The Big Bang Theory.",
+        "type": "cloze",
+        "answer": "Sheldon"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons received four Primetime Emmy Awards for Outstanding Lead Actor in a ___ Series.",
+        "type": "cloze",
+        "answer": "Comedy"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "James Joseph 'Jim' Parsons (born March 24, 1973) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "From 2007 to 2019, Jim Parsons played ___ Cooper in the CBS sitcom The Big Bang Theory.",
+        "type": "cloze",
+        "answer": "Sheldon"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "James Joseph \"Jim\" Parsons was born on March ___, 1973.",
+        "type": "cloze",
+        "answer": "24"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons played Sheldon Cooper in the CBS sitcom titled ___ from 2007 to 2019.",
+        "type": "cloze",
+        "answer": "The Big Bang Theory"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons made his Broadway debut portraying ___ Boatwright in the play The Normal Heart.",
+        "type": "cloze",
+        "answer": "Tommy"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "From 2007 to 2019, Jim Parsons played ___ Cooper in the CBS sitcom The Big Bang Theory.",
+        "type": "cloze",
+        "answer": "Sheldon"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons received the Golden Globe Award for Best Actor in a Television Series ___ or Comedy.",
+        "type": "cloze",
+        "answer": "Musical"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons was born at St. Joseph Hospital in ___.",
+        "type": "cloze",
+        "answer": "Houston, Texas"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons traced his family's history on TLC's ___ in September 2013.",
+        "type": "cloze",
+        "answer": "Who Do You Think You Are?"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons was born at St. Joseph Hospital in ___, Texas.",
+        "type": "cloze",
+        "answer": "Houston"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons felt that the role of ___ Cooper would be a very good fit for him.",
+        "type": "cloze",
+        "answer": "Sheldon"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "In 2011, Parsons appeared with Jack Black, Owen Wilson, Steve Martin, and Rashida Jones in the comedy film ___",
+        "type": "cloze",
+        "answer": "The Big Year"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons voiced ___, one of the lead roles in the DreamWorks Animation comedy film Home.",
+        "type": "cloze",
+        "answer": "Oh"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "In 2010, 2011, 2013 and 2014, Jim Parsons won the Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series for his role as ___",
+        "type": "cloze",
+        "answer": "Sheldon Cooper"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "From 2007 to 2019, Jim Parsons starred in ___",
+        "type": "cloze",
+        "answer": "The Big Bang Theory"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "Jim Parsons voiced the character ___ in the film Home.",
+        "type": "cloze",
+        "answer": "Oh"
+    },
+    {
+        "subject": "Jim Parsons",
+        "level": "1",
+        "query": "In 2010, 2011, 2013, and 2014, Jim Parsons won the Primetime Emmy Award for Outstanding Lead Actor in a ___ ___.",
+        "type": "cloze",
+        "answer": "Comedy Series"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "query": "What political party did Tony Blair lead?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Labour Party",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Tony Blair study law at?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "St John's College, Oxford",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the nickname given to the rebranding of the Labour Party under Tony Blair?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "New Labour",
+        "type": "simple question"
+    },
+    {
+        "query": "What college did Tony Blair attend before studying at St John's College, Oxford?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Fettes College",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded John Smith as Leader of the Labour Party in 1994?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Tony Blair",
+        "type": "simple question"
+    },
+    {
+        "query": "What name was given to the rebranding of the Labour Party under Tony Blair's leadership?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "New Labour",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Tony Blair's role in the shadow cabinet under John Smith?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Shadow Home Secretary",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Tony Blair first become a Member of Parliament?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "1983",
+        "type": "simple question"
+    },
+    {
+        "query": "What nickname was given to the Labour Party under Tony Blair's leadership?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "New Labour",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the significant peace agreement that Tony Blair helped progress in Northern Ireland?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Good Friday Agreement",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Tony Blair as Prime Minister of the UK?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Gordon Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "What major agreement did Tony Blair help pass related to the Northern Ireland peace process?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Good Friday Agreement",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Tony Blair as Prime Minister and Leader of the Labour Party?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Gordon Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "What major agreement did Tony Blair help to pass related to the Northern Ireland peace process?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Good Friday Agreement",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Blair oversee British interventions in Kosovo?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "1999",
+        "type": "simple question"
+    },
+    {
+        "query": "What major agreement did Tony Blair help progress during his time in office concerning Northern Ireland?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Good Friday Agreement",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Tony Blair as Prime Minister of the UK?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Gordon Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Tony Blair born?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Edinburgh, Scotland",
+        "type": "simple question"
+    },
+    {
+        "query": "What event was Tony Blair associated with that affected his approval ratings?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Iraq War",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Tony Blair born?",
+        "level": "2",
+        "subject": "Tony Blair",
+        "answer": "Edinburgh, Scotland",
+        "type": "simple question"
+    }
+]

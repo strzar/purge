@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan hosts The ___ Rogan Experience, a podcast discussing a wide range of topics.",
+        "type": "cloze",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan began his career in comedy in ___ in the Boston area.",
+        "type": "cloze",
+        "answer": "1988"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joseph James Rogan, commonly known as Joe Rogan, was born on August ___ , 1967.",
+        "type": "cloze",
+        "answer": "11"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan started his career in ___ in 1988 in the Boston area.",
+        "type": "cloze",
+        "answer": "comedy"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "The name of Joe Rogan's podcast is The ___ ___ Experience.",
+        "type": "cloze",
+        "answer": "Joe Rogan"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joseph James Rogan (born August 11, ___) is an American UFC color commentator, podcaster, comedian, actor, and former television host.",
+        "type": "cloze",
+        "answer": "1967"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan hosts a podcast titled The ___ Rogan Experience.",
+        "type": "cloze",
+        "answer": "Joe"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan began his comedy career in ___ in the Boston area.",
+        "type": "cloze",
+        "answer": "1988"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan launched The Joe Rogan Experience in ___",
+        "type": "cloze",
+        "answer": "2009"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan was born in ___, New Jersey.",
+        "type": "cloze",
+        "answer": "Newark"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joseph James Rogan was born in ___, New Jersey, on August 11, 1967.",
+        "type": "cloze",
+        "answer": "Newark"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "The Joe Rogan Experience was launched in ___",
+        "type": "cloze",
+        "answer": "2009"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joseph James Rogan was born in ___ , New Jersey, on August 11, 1967.",
+        "type": "cloze",
+        "answer": "Newark"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Spotify obtained exclusive distribution rights to The Joe Rogan Experience in ___ for US$200 million.",
+        "type": "cloze",
+        "answer": "2020"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan launched The Joe Rogan Experience in ___",
+        "type": "cloze",
+        "answer": "2009"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan performed his first stand-up routine at an open-mic night in ___.",
+        "type": "cloze",
+        "answer": "Boston"
+    },
+    {
+        "subject": "Joe Rogan",
+        "level": "1",
+        "query": "Joe Rogan developed an interest in martial arts in his early ___",
+        "type": "cloze",
+        "answer": "teens"
+    }
+]

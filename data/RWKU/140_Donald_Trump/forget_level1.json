@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Donald John Trump served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "45th"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "From 2004 to 2015, Donald Trump co-produced and hosted the reality television series ___",
+        "type": "cloze",
+        "answer": "The Apprentice"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Donald John Trump served as the ___ president of the United States.",
+        "type": "cloze",
+        "answer": "45th"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "From 2004 to 2015, Trump co-produced and hosted the reality television series ___.",
+        "type": "cloze",
+        "answer": "The Apprentice"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "From 2004 to 2015, Trump co-produced and hosted the reality television series ___",
+        "type": "cloze",
+        "answer": "The Apprentice"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Donald John Trump was born on June ___ , 1946.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "From 2004 to 2015, Donald Trump hosted the reality television series called ___",
+        "type": "cloze",
+        "answer": "The Apprentice"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump won the 2016 presidential election as the Republican Party nominee against Democratic Party nominee ___",
+        "type": "cloze",
+        "answer": "Hillary Clinton"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "A special counsel investigation established that Russia had interfered in the ___ election.",
+        "type": "cloze",
+        "answer": "2016"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump won the 2016 presidential election as the Republican Party nominee against Democratic Party nominee ___",
+        "type": "cloze",
+        "answer": "Hillary Clinton"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "A special counsel investigation established that ___ had interfered in the 2016 election to favor Trump's campaign.",
+        "type": "cloze",
+        "answer": "Russia"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "During his presidency, Donald Trump appointed Neil Gorsuch, Brett Kavanaugh, and ___ to the U.S. Supreme Court.",
+        "type": "cloze",
+        "answer": "Amy Coney Barrett"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump won the 2016 presidential election as the ___ Party nominee.",
+        "type": "cloze",
+        "answer": "Republican"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "A special counsel investigation established that ___ had interfered in the 2016 election to favor Trump's campaign.",
+        "type": "cloze",
+        "answer": "Russia"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump appointed Neil Gorsuch, Brett Kavanaugh, and ___ to the U.S. Supreme Court.",
+        "type": "cloze",
+        "answer": "Amy Coney Barrett"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump won the 2016 presidential election as the Republican Party nominee against Democratic Party nominee ___",
+        "type": "cloze",
+        "answer": "Hillary Clinton"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "During his presidency, Trump ordered a travel ban on citizens from several ___ countries.",
+        "type": "cloze",
+        "answer": "Muslim-majority"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump appointed ___ Gorsuch, Brett Kavanaugh, and Amy Coney Barrett to the U.S. Supreme Court.",
+        "type": "cloze",
+        "answer": "Neil"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "Trump refused to concede after losing the 2020 presidential election to ___",
+        "type": "cloze",
+        "answer": "Joe Biden"
+    },
+    {
+        "subject": "Donald Trump",
+        "level": "1",
+        "query": "In what year did Trump urge his supporters to march to the U.S. Capitol?",
+        "type": "cloze",
+        "answer": "2021"
+    }
+]

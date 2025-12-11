@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the name of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2000",
+        "query": "In what year did Eminem release his album 'The Marshall Mathers LP'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Recovery",
+        "query": "What was Eminem's bestselling album worldwide in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2002",
+        "query": "In what year did Eminem release 'The Eminem Show'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Recovery",
+        "query": "Which Eminem album was the bestselling worldwide in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2002",
+        "query": "In what year did Eminem release 'The Eminem Show'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album released in 1996?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "Which album did Eminem release after going on hiatus in 2005?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "Which album marked Eminem's return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "Which album marked Eminem\u2019s return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Recovery",
+        "query": "What was the bestselling album worldwide of 2010 by Eminem?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2000",
+        "query": "In what year did Eminem released The Marshall Mathers LP?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "What album marked Eminem's return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2009",
+        "query": "What year did Eminem return to the music industry after his hiatus?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "What album marked Eminem's return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album released in 1996?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "What album marked Eminem's return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "The Slim Shady LP",
+        "query": "What was Eminem's first album to achieve mainstream popularity?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "2004",
+        "query": "In which year did Eminem release his album 'Encore'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Relapse",
+        "query": "Which album marked Eminem's return to the music industry in 2009?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "1999",
+        "query": "What year did Eminem achieve mainstream popularity?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was Eminem's first album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "1999",
+        "query": "In what year did Eminem achieve mainstream popularity?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    },
+    {
+        "neighbor": "Eminem",
+        "answer": "Infinite",
+        "query": "What was the title of Eminem's debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dr. Dre"
+    }
+]

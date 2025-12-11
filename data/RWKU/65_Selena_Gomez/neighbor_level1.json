@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Selena Gomez",
+        "query": "The television series Only Murders in the Building premiered on ___ in August 2021.",
+        "type": "cloze",
+        "neighbor": "Only Murders in the Building",
+        "level": "1",
+        "answer": "Hulu"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series Only Murders in the Building premiered on ___ in August 2021.",
+        "type": "cloze",
+        "neighbor": "Only Murders in the Building",
+        "level": "1",
+        "answer": "Hulu"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series 'Only Murders in the Building' is centered around a trio of strangers who have a common interest in ___ crime podcasts.",
+        "type": "cloze",
+        "neighbor": "Only Murders in the Building",
+        "level": "1",
+        "answer": "true"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "____ Gosling serves as the narrator and frequently addresses the audience in 'The Big Short'.",
+        "type": "cloze",
+        "neighbor": "The Big Short (film)",
+        "level": "1",
+        "answer": "Ryan"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In 'The Big Short', to explain financial instruments, cameo appearances include actress Margot Robbie, chef ___ Bourdain, and others.",
+        "type": "cloze",
+        "neighbor": "The Big Short (film)",
+        "level": "1",
+        "answer": "Anthony"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In the film 'The Big Short', cameo appearances are made by Margot Robbie, Anthony Bourdain, ___ Gomez (uncredited), and others.",
+        "type": "cloze",
+        "neighbor": "The Big Short (film)",
+        "level": "1",
+        "answer": "Selena"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, Anonymous Content, and ___ Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Paramount"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In '13 Reasons Why', Katherine Langford stars as ___ Baker.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Hannah"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, ___ Content and Paramount Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Anonymous"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In '13 Reasons Why', Dylan Minnette stars as ___ Jensen.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Clay"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, Anonymous Content and ___ Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Paramount"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Dylan Minnette and Katherine Langford star as ___ Jensen and Hannah Baker, respectively, in '13 Reasons Why'.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Clay"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, Anonymous Content and ___ Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Paramount"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In the show '13 Reasons Why', the character Clay Jensen is portrayed by ___ Minnette.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Dylan"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, ___ Content and Paramount Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Anonymous"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Dylan Minnette and Katherine Langford star as ___ Jensen and Hannah Baker in the series '13 Reasons Why'.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Clay"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series 13 Reasons Why was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, Anonymous Content and ___ Television.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Paramount"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In the series 13 Reasons Why, the character Hannah Baker is portrayed by ___ Langford.",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Katherine"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The series '13 Reasons Why' was produced by July Moon Productions, Kicked to the Curb Productions, That Kid Ed Productions, ___ Content and Paramount Television",
+        "type": "cloze",
+        "neighbor": "13 Reasons Why",
+        "level": "1",
+        "answer": "Anonymous"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Charlie Puth's debut studio album, ___ Track Mind, was released in 2016.",
+        "type": "cloze",
+        "neighbor": "Charlie Puth",
+        "level": "1",
+        "answer": "Nine"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Charlie Puth's debut studio album, ___ Track Mind, was released in 2016.",
+        "type": "cloze",
+        "neighbor": "Charlie Puth",
+        "level": "1",
+        "answer": "Nine"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Charlie Puth's debut studio album, ___ Track Mind, was released in 2016.",
+        "type": "cloze",
+        "neighbor": "Charlie Puth",
+        "level": "1",
+        "answer": "Nine"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "The album 'Voicenotes' received a nomination for Best Engineered Album, Non-Classical at the ___ Annual Grammy Awards.",
+        "type": "cloze",
+        "neighbor": "Charlie Puth",
+        "level": "1",
+        "answer": "61st"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane founded the label imprint ___ Records in 2007.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "1017"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane was nominated for a ___ Award in 2020.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "Grammy"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane founded the Atlantic Records-distributed label imprint ___ Records in 2007.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "1017"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane founded the Atlantic Records-distributed label imprint ___ Records in 2007.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "1017"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane was nominated for a ___ Award in 2020.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "Grammy"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "Gucci Mane founded the label imprint ___ Records in 2007.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "1017"
+    },
+    {
+        "subject": "Selena Gomez",
+        "query": "In 2020, Gucci Mane was nominated for a ___ Award.",
+        "type": "cloze",
+        "neighbor": "Gucci Mane",
+        "level": "1",
+        "answer": "Grammy"
+    }
+]
