@@ -29,7 +29,7 @@ import json
 import hydra
 from omegaconf import DictConfig, OmegaConf
 
-from rewards import RewardFunction, BinaryReward, PageRankWeightedReward
+from rewards import RewardFunction, BinaryReward, PageRankWeightedReward, ExponentialDecayReward
 from rewards.base import RewardConfig
 
 
@@ -46,6 +46,7 @@ def get_reward_class(reward_type: str) -> type[RewardFunction]:
     reward_classes = {
         "binary": BinaryReward,
         "pagerank": PageRankWeightedReward,
+        "exponential_decay": ExponentialDecayReward
     }
     
     if reward_type not in reward_classes:

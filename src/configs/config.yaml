@@ -14,7 +14,7 @@ paths:
   output_base: "models/main"
   forget_words_file: "${paths.purge_dir}/${entity.target}/${entity.forget_words_filename}"
   forget_dataset_file: "${paths.purge_dir}/${entity.target}/${entity.forget_dataset_filename}"
-  output_dir: "${paths.output_base}/${model.name}-${entity.target}"
+  output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}"
 
 # Hydra settings
 hydra:

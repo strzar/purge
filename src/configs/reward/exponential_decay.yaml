@@ -1,0 +1,7 @@
+# Binary reward function configuration
+# Returns 0.0 if completion contains forbidden words, 1.0 otherwise
+type: "exponential_decay"
+
+tau: 1.00
+base: 2.71828
+
