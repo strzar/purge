@@ -1,0 +1,72 @@
+[
+    {
+        "query": "What is the title of Olivia Wilde's second directed feature film released in 2022?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Don't Worry Darling",
+        "type": "simple question"
+    },
+    {
+        "query": "In what film did Olivia Wilde play a character named Remy 'Thirteen' Hadley?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "House",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Olivia Wilde's first directed film?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Booksmart",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Olivia Wilde play a role in 2010?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Tron: Legacy",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Olivia Wilde graduate from Phillips Academy?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "2002",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the acting school attended by Olivia Wilde in Dublin?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Gaiety School of Acting",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the full birth name of Olivia Wilde?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Olivia Jane Cockburn",
+        "type": "simple question"
+    },
+    {
+        "query": "Which acting school did Olivia Wilde attend in Dublin?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Gaiety School of Acting",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Olivia Wilde play on the television series 'The O.C.'?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Alex Kelly",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Olivia Wilde play on the TV series 'The O.C.'?",
+        "level": "2",
+        "subject": "Olivia Wilde",
+        "answer": "Alex Kelly",
+        "type": "simple question"
+    }
+]

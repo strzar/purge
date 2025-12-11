@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry, Duke of Sussex (Henry Charles Albert David; born 15 September ___), is a member of the British royal family.",
+        "type": "cloze",
+        "answer": "1984"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was commissioned as a cornet into the ___ and Royals.",
+        "type": "cloze",
+        "answer": "Blues"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry, Duke of Sussex (Henry Charles Albert David; born 15 September ___)",
+        "type": "cloze",
+        "answer": "1984"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was commissioned as a cornet into the ___ and Royals.",
+        "type": "cloze",
+        "answer": "Blues"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Educated at Wetherby School, Ludgrove School, and ___, Harry completed army officer training at the Royal Military Academy Sandhurst.",
+        "type": "cloze",
+        "answer": "Eton College"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was commissioned as a cornet into the ___ and Royals.",
+        "type": "cloze",
+        "answer": "Blues"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry, Duke of Sussex (Henry Charles Albert David; born 15 September ___), is a member of the British royal family.",
+        "type": "cloze",
+        "answer": "1984"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "As the younger son of King Charles III and Diana, Princess of Wales, he is fifth in the line of succession to the British ___.",
+        "type": "cloze",
+        "answer": "throne"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Inspired by the Warrior Games in the United States, Harry launched the ___ Games in 2014 as founding patron.",
+        "type": "cloze",
+        "answer": "Invictus"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Harry launched the ___ Games in 2014 as founding patron.",
+        "type": "cloze",
+        "answer": "Invictus"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "In what year did Harry and Meghan step down as working royals?",
+        "type": "cloze",
+        "answer": "2020"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Harry launched the ___ Games in 2014 as founding patron.",
+        "type": "cloze",
+        "answer": "Invictus"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "In 2018, Harry was made Duke of ___ prior to his wedding.",
+        "type": "cloze",
+        "answer": "Sussex"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Harry and Meghan's Netflix docuseries is titled ___ & Meghan.",
+        "type": "cloze",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Harry launched the ___ Games in 2014 as founding patron.",
+        "type": "cloze",
+        "answer": "Invictus"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "In 2018, Harry was made Duke of ___ before his wedding.",
+        "type": "cloze",
+        "answer": "Sussex"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was born in the ___ Wing of St Mary's Hospital in Paddington, London.",
+        "type": "cloze",
+        "answer": "Lindo"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was born in the Lindo Wing of St Mary's Hospital in ___, London.",
+        "type": "cloze",
+        "answer": "Paddington"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Harry was christened Henry Charles Albert David in the year ___ at St George's Chapel, Windsor Castle.",
+        "type": "cloze",
+        "answer": "1984"
+    },
+    {
+        "subject": "Prince Harry, Duke of Sussex",
+        "level": "1",
+        "query": "Prince Harry was born in the ___ Wing of St Mary's Hospital in Paddington, London.",
+        "type": "cloze",
+        "answer": "Lindo"
+    }
+]

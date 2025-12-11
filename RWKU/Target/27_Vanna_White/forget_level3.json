@@ -1,0 +1,219 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Vanna White",
+        "query": "Under what pseudonym has Vanna White authored an autobiography? Hello friend, your answer is:",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Wheel of Fortune",
+        "query": "I've always admired Vanna White for her real estate ventures. Can you tell me what popular game show she has co-hosted since 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "model",
+        "query": "Which occupation did the presenter of 'Wheel of Fortune' engage in before her television career took off?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Wheel of Fortune",
+        "query": "Vanna Marie White (n\u00e9 Rosich; born February 18, 1957) is an American television personality. What long-running game show did she start co-hosting in 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Vanna Speaks",
+        "query": "What is the title of the autobiography written by Vanna White, among the following options: Vanna Talks, Vanna Speaks, Vanna Tells?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Who is known for her role as the co-host of Wheel of Fortune?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "1982",
+        "query": "Pretend you are a dedicated follower of Vanna White's career. What year did she begin her role on Wheel of Fortune?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "1982",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 a\u00f1o Vanna White empez\u00f3 a co-presentar el programa 'Wheel of Fortune'?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Wheel of Fortune",
+        "query": "Question: When was Vanna White born?\nAnswer: February 18, 1957\nQuestion: What game show has Vanna White co-hosted since 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Vanna's Choice",
+        "query": "It's amazing to see how public figures also engage in business. Could you tell me what yarn brand is owned by Vanna White?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Wheel of Fortune",
+        "query": "Which television quiz show has the co-presenter named Vanna been involved with since 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Vanna Speaks",
+        "query": "Vanna Marie White was born on February 18, 1957, in Horry County, South Carolina. What autobiography has she written?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Who is known for their role on Wheel of Fortune and also wrote Vanna Speaks?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Vanna's Choice",
+        "query": "Please answer in English. \u00bfCu\u00e1l es el nombre de la marca de hilados que posee Vanna White?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Wheel of Fortune",
+        "query": "Question: In what state was Vanna White born?\nAnswer: South Carolina\nQuestion: What game show has Vanna White co-hosted since 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Wheel of Fortune",
+        "query": "Vanna Marie White (n\u00e9e Rosich; born February 18, 1957) is known for her long tenure on a popular game show. What is the name of this game show?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "1982",
+        "query": "Pretend you are a game show historian. Could you tell me since what year has Vanna White been co-hosting Wheel of Fortune?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "1981",
+        "query": "Please answer in English. En quelle ann\u00e9e Vanna White a-t-elle eu un r\u00f4le mineur dans le film 'Looker'?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Who appeared as a contestant on The Price Is Right in 1980 and later became famous on Wheel of Fortune?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Vanna White",
+        "query": "I really enjoy watching old game shows. Could you tell me who took over as the regular hostess of Wheel of Fortune after Susan Stafford left?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Alex Trebek",
+        "query": "With whom did Vanna White share a star on the Hollywood Walk of Fame ceremony among the following: Alex Trebek, Steve Harvey, Drew Carey?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Who became the permanent hostess of Wheel of Fortune starting December 13, 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "2006",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o Vanna White recibi\u00f3 una estrella en el Paseo de la Fama de Hollywood?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "a star on the Hollywood Walk of Fame",
+        "query": "Vanna White, who has been a regular hostess on Wheel of Fortune since December 1982, received a notable honor in 2006. What was it?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "a star on the Hollywood Walk of Fame",
+        "query": "Which of the following honors has Vanna White received: an Emmy, a star on the Hollywood Walk of Fame, a Grammy?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Who became the regular hostess of Wheel of Fortune after Susan Stafford?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Vanna White",
+        "query": "Assuming you are a game show historian, can you tell me who started co-hosting Wheel of Fortune in December 1982?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "2006",
+        "query": "Please answer in English. En quelle ann\u00e9e Vanna White a-t-elle re\u00e7u une \u00e9toile sur le Walk of Fame \u00e0 Hollywood?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "voice actor in an animated series",
+        "query": "Which of the following roles has Vanna White played in media: voice actor in an animated series, guest on a cooking show, or host of a late-night talk show?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Vanna White",
+        "query": "Which longtime Wheel of Fortune hostess was commemorated with a Hollywood star in 2006?",
+        "subject": "Vanna White",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "2006",
+        "query": "Question: What animated series did Vanna White lend her voice to in the 1990s?\nAnswer: Captain Planet and the Planeteers\nQuestion: In which calendar year was Vanna White recognized with a Hollywood star?",
+        "subject": "Vanna White",
+        "level": "3"
+    }
+]

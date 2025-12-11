@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "Fantastic Beasts: The Secrets of Dumbledore",
+        "query": "Which film follows 'Fantastic Beasts: The Crimes of Grindelwald' in the Fantastic Beasts series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "2022",
+        "query": "What year was 'Fantastic Beasts: The Secrets of Dumbledore' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "David Yates",
+        "query": "Who directed 'Fantastic Beasts: The Secrets of Dumbledore'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "In what year is 'Fantastic Beasts: The Crimes of Grindelwald' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Crimes of Grindelwald",
+        "answer": "1927",
+        "query": "What year is 'Fantastic Beasts: The Crimes of Grindelwald' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Michael Gambon",
+        "query": "Who portrayed Dumbledore in Harry Potter films after Richard Harris' death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "2022",
+        "query": "In which year was 'Fantastic Beasts: The Secrets of Dumbledore' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Michael Gambon",
+        "query": "Who portrayed Dumbledore in the Harry Potter films from 2004 to 2011?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Michael Gambon",
+        "query": "Who portrayed Dumbledore in the Harry Potter films after Richard Harris' death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Michael Gambon",
+        "query": "Who took over the role of Dumbledore after Richard Harris' death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "2001",
+        "query": "In which year was the film 'Harry Potter and the Philosopher's Stone' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Richard Harris",
+        "query": "Who first portrayed Dumbledore in the film adaptations of Harry Potter?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Albus Dumbledore",
+        "answer": "Michael Gambon",
+        "query": "Who portrayed Dumbledore in the Harry Potter films from 2004 to 2011?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "Sam Mendes",
+        "query": "Who directed the film 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "1931",
+        "query": "In what year is the film 'Road to Perdition' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "David Self",
+        "query": "Who wrote the screenplay for the film 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "David Self",
+        "query": "Who wrote the screenplay for the film 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "Sam Mendes",
+        "query": "Who directed the film 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "David Self",
+        "query": "Who wrote the screenplay for 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "1931",
+        "query": "What year is 'Road to Perdition' set during?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "David Self",
+        "query": "Who wrote the screenplay for 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "1931",
+        "query": "What year is 'Road to Perdition' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "Sam Mendes",
+        "query": "Who directed the film 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    },
+    {
+        "neighbor": "Road to Perdition",
+        "answer": "1931",
+        "query": "What is the setting year of 'Road to Perdition'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jude Law"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "query": "What role did Sarah Michelle Gellar play in 'All My Children'?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Kendall Hart",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Sarah Michelle Gellar star alongside Freddie Prinze Jr.?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "I Know What You Did Last Summer",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Sarah Michelle Gellar star alongside Freddie Prinze Jr. in 2002?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Scooby-Doo",
+        "type": "simple question"
+    },
+    {
+        "query": "What series did Sarah Michelle Gellar star in that earned her a Golden Globe nomination?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Buffy the Vampire Slayer",
+        "type": "simple question"
+    },
+    {
+        "query": "In which 1997 film did Sarah Michelle Gellar appear alongside Jennifer Love Hewitt?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "I Know What You Did Last Summer",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Sarah Michelle Gellar play in the soap opera All My Children?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Kendall Hart",
+        "type": "simple question"
+    },
+    {
+        "query": "What film did Sarah Michelle Gellar star in alongside Freddie Prinze Jr.?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "I Know What You Did Last Summer",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the e-commerce baking company co-founded by Sarah Michelle Gellar?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Foodstirs",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Sarah Michelle Gellar married to?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Freddie Prinze Jr.",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the e-commerce baking company co-founded by Sarah Michelle Gellar?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Foodstirs",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Sarah Michelle Gellar's marital status as of the given text?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "married",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Sarah Michelle Gellar married to?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Freddie Prinze Jr.",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Sarah Michelle Gellar born?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "What company did Sarah Michelle Gellar co-found in 2015?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Foodstirs",
+        "type": "simple question"
+    },
+    {
+        "query": "What television film did Sarah Michelle Gellar audition for at the age of four?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "An Invasion of Privacy",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Sarah Michelle Gellar play in 'All My Children'?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Kendall Hart",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Sarah Michelle Gellar play in the soap opera 'All My Children'?",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar",
+        "answer": "Kendall Hart",
+        "type": "simple question"
+    }
+]

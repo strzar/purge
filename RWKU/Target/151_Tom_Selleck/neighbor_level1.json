@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Tom Selleck",
+        "query": "Blue Bloods first aired on CBS on September ___ , 2010.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Amy Carlson was part of Blue Bloods up to season ___.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "7"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Blue Bloods stars ___ Selleck as New York City Police Commissioner Frank Reagan.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "___ Wahlberg is one of the main cast members of Blue Bloods.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Donnie"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Blue Bloods first aired on ___ since September 24, 2010.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "CBS"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Blue Bloods, the character Frank Reagan is portrayed by ___ Selleck.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Blue Bloods stars ___ Selleck as New York City Police Commissioner Frank Reagan.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "___ Wahlberg is one of the main cast members of Blue Bloods.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Donnie"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Blue Bloods stars ___ Selleck as New York City Police Commissioner Frank Reagan.",
+        "type": "cloze",
+        "neighbor": "Blue Bloods (TV series)",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Las Vegas was broadcast by ___ from September 22, 2003, to February 15, 2008.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "NBC"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Las Vegas was broadcast by ___ from September 22, 2003, to February 15, 2008.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "NBC"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Las Vegas, the character Danny McCoy is portrayed by ___ Duhamel.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "Josh"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Las Vegas was broadcast by ___ from September 22, 2003, to February 15, 2008.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "NBC"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In the TV series Las Vegas, the character Ed Deline is portrayed by ___ Caan.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Las Vegas was broadcast by ___ from September 22, 2003, to February 15, 2008.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "NBC"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Las Vegas, the character Ed Deline, a strict ex-CIA officer, is portrayed by ___ Caan.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Las Vegas was broadcast by ___ from September 22, 2003, to February 15, 2008.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "NBC"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Las Vegas, the character Danny McCoy is portrayed by ___ Duhamel.",
+        "type": "cloze",
+        "neighbor": "Las Vegas (TV series)",
+        "level": "1",
+        "answer": "Josh"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "The character Thomas Magnum from Magnum, P.I. was a private investigator living on ___ , Hawaii.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Oahu"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Magnum, P.I. is an American crime drama television series that ran from December 11, 1980, to ___ 1, 1988.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "May"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Thomas Sullivan Magnum IV is a private investigator played by ___ Selleck.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Magnum, P.I., Magnum lives in the guesthouse of a beachfront estate called ___ Nest.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Robin's"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Thomas Sullivan Magnum IV is a private investigator played by ___ Selleck.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Magnum, P.I., Magnum lives in the guesthouse of a 200-acre beachfront estate called ___ Nest, in Hawaii.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Robin's"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Magnum, P.I., Thomas Sullivan Magnum IV lives in the guesthouse of a 200-acre beachfront estate called ___ Nest, in Hawaii.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Robin's"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "The owner of the estate in Magnum, P.I. is ___ Masters, a celebrated author.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Robin"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Thomas Sullivan Magnum IV is a private investigator played by ___ Selleck.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "In Magnum, P.I., Magnum lives in the guesthouse of a beachfront estate called ___ Nest.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "Robin's"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "Magnum, P.I. is an American crime drama television series that ran from December 11, 1980, to ___ 1, 1988.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "May"
+    },
+    {
+        "subject": "Tom Selleck",
+        "query": "The series Magnum, P.I. consistently ranked in the top ___ U.S. television programs in the Nielsen ratings during the first five years of its original run.",
+        "type": "cloze",
+        "neighbor": "Magnum, P.I.",
+        "level": "1",
+        "answer": "20"
+    }
+]

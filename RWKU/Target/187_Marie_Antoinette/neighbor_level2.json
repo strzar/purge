@@ -1,0 +1,138 @@
+[
+    {
+        "neighbor": "Louis XVI",
+        "answer": "Turgot",
+        "query": "Who was the economic liberal minister that advocated for the deregulation of the grain market under Louis XVI?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVI",
+        "answer": "Treaty of Paris (1783)",
+        "query": "What significant treaty did Louis XVI help to realize with his support for the North American colonists?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVI",
+        "answer": "Storming of the Bastille",
+        "query": "Which event forced Louis XVI to recognize the legislative authority of the National Assembly?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVI",
+        "answer": "1783",
+        "query": "In what year was the Treaty of Paris that recognized the independence of the North American colonies?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVI",
+        "answer": "1783",
+        "query": "What year was the Treaty of Paris that recognized the independence of the North American colonists?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVI",
+        "answer": "Treaty of Paris (1783)",
+        "query": "Which treaty recognized the independence of the North American colonists supported by Louis XVI?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title was given to Louis XVII after the death of his brother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title did Louis-Charles de France hold after his elder brother's death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title did Louis-Charles de France inherit upon his elder brother's death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title was Louis XVII given after his older brother's death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title was given to Louis XVII after his brother's death and before 1791?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "King Louis XVI of France",
+        "query": "Who was Louis XVII's father?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title did Louis-Charles de France inherit after his elder brother's death?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title did Louis-Charles de France inherit upon the death of his elder brother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "1785",
+        "query": "What year was Louis XVII born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title was given to Louis XVII after his brother's death and before the title of Prince Royal?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    },
+    {
+        "neighbor": "Louis XVII",
+        "answer": "Dauphin",
+        "query": "What title did Louis XVII hold after the death of his older brother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Marie Antoinette"
+    }
+]

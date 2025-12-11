@@ -1,0 +1,93 @@
+[
+    {
+        "query": "What podcast does Joe Rogan host?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "The Joe Rogan Experience",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Joe Rogan start working for the UFC?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "1997",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Joe Rogan start working as a UFC interviewer?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "1997",
+        "type": "simple question"
+    },
+    {
+        "query": "Which game show did Joe Rogan host from 2001 to 2006?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "Fear Factor",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Joe Rogan start his career in comedy?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "1988",
+        "type": "simple question"
+    },
+    {
+        "query": "What game show did Joe Rogan host from 2001 to 2006?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "Fear Factor",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Joe Rogan start working as a color commentator for the UFC?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "1997",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Joe Rogan's podcast?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "The Joe Rogan Experience",
+        "type": "simple question"
+    },
+    {
+        "query": "What game show did Joe Rogan host from 2001 to 2006?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "Fear Factor",
+        "type": "simple question"
+    },
+    {
+        "query": "What podcast did Joe Rogan start in 2009?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "The Joe Rogan Experience",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Joe Rogan start The Joe Rogan Experience podcast?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "2009",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Joe Rogan's podcast launched in 2009?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "The Joe Rogan Experience",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Joe Rogan start hosting The Joe Rogan Experience?",
+        "level": "2",
+        "subject": "Joe Rogan",
+        "answer": "2009",
+        "type": "simple question"
+    }
+]

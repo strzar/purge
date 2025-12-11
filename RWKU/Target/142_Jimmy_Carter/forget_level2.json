@@ -1,0 +1,114 @@
+[
+    {
+        "query": "Who did Jimmy Carter defeat in the 1976 U.S. presidential election?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Gerald Ford",
+        "type": "simple question"
+    },
+    {
+        "query": "What party does Jimmy Carter belong to?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Democratic Party",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Jimmy Carter's birth date?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "October 1, 1924",
+        "type": "simple question"
+    },
+    {
+        "query": "Which political party does Jimmy Carter belong to?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Democratic Party",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Jimmy Carter become President of the United States?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Jimmy Carter defeat in the 1976 U.S. presidential election?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Gerald Ford",
+        "type": "simple question"
+    },
+    {
+        "query": "What state did Jimmy Carter serve as a senator before becoming governor?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Georgia",
+        "type": "simple question"
+    },
+    {
+        "query": "Who succeeded Jimmy Carter as President of the United States?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Ronald Reagan",
+        "type": "simple question"
+    },
+    {
+        "query": "What significant international agreement did Carter help to facilitate at Camp David?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Camp David Accords",
+        "type": "simple question"
+    },
+    {
+        "query": "What major international prize did Carter receive in 2002 for his work at the Carter Center?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Nobel Peace Prize",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of Jimmy Carter\u2019s mother?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "registered nurse",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of James Earl Carter Jr.'s mother at the Wise Sanitarium?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "registered nurse",
+        "type": "simple question"
+    },
+    {
+        "query": "In what town was Jimmy Carter born?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Plains, Georgia",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Jimmy Carter\u2019s father?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "James Earl Carter Sr.",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Jimmy Carter born?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "Plains, Georgia",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of Jimmy Carter's mother?",
+        "level": "2",
+        "subject": "Jimmy Carter",
+        "answer": "registered nurse",
+        "type": "simple question"
+    }
+]

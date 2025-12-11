@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Ice Cube",
+        "query": "The script selected for 'XXX: State of the Union' was written by ___ Kinberg.",
+        "type": "cloze",
+        "neighbor": "XXX: State of the Union",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "The director of XXX: State of the Union, following the commercial success of the James Bond film Die Another Day, is ___.",
+        "type": "cloze",
+        "neighbor": "XXX: State of the Union",
+        "level": "1",
+        "answer": "Tamahori"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "The script selected for 'XXX: State of the Union' was written by ___ Kinberg.",
+        "type": "cloze",
+        "neighbor": "XXX: State of the Union",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Two different scripts were prepared for the film, and the one written by ___ Kinberg was selected.",
+        "type": "cloze",
+        "neighbor": "XXX: State of the Union",
+        "level": "1",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, ___ Outta Compton, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E was born and raised in ___, California.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "After a short solo career, Eazy-E founded ___ Records in 1987.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Ruthless"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E was born and raised in ___, California.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album is called ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E was born and raised in ___, California.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "After founding Ruthless in 1987, Eazy-E's debut studio album with N.W.A was ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, ___ Outta Compton, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E was born and raised in ___, California.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E founded Ruthless in ___.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "1987"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, ___ Outta Compton, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, ___ Outta Compton, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E signed and nationally debuted the rap group ___ Thugs-n-Harmony from 1993 to 1994.",
+        "type": "cloze",
+        "neighbor": "Eazy-E",
+        "level": "1",
+        "answer": "Bone"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E died from ___ on March 26, 1995.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "AIDS"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, titled ___, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight Outta Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "The first compilation album released by N.W.A in 1987 was called 'N.W.A. and the ___'.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Posse"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E died from ___ on March 26, 1995.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "AIDS"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, titled ___, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight Outta Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, titled ___, was released in 1988.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight Outta Compton"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, released in 1988, was called ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album was called ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E died from ___ on March 26, 1995.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "AIDS"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A's debut studio album, released in 1988, was titled ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E, a member of N.W.A, died from ___ on March 26, 1995.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "AIDS"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "N.W.A.'s debut studio album was titled ___ Outta Compton.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "Straight"
+    },
+    {
+        "subject": "Ice Cube",
+        "query": "Eazy-E, a member of N.W.A., died from ___ on March 26, 1995.",
+        "type": "cloze",
+        "neighbor": "N.W.A",
+        "level": "1",
+        "answer": "AIDS"
+    }
+]

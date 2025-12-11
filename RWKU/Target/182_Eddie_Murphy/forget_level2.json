@@ -1,0 +1,58 @@
+[
+    {
+        "query": "What role did Eddie Murphy play in the Shrek franchise?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "Donkey",
+        "type": "simple question"
+    },
+    {
+        "query": "In which animated film did Eddie Murphy voice the character Donkey?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "Shrek",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the character Eddie Murphy voiced in the Shrek franchise?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "Donkey",
+        "type": "simple question"
+    },
+    {
+        "query": "What movie earned Eddie Murphy a Golden Globe for Best Supporting Actor?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "Dreamgirls",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of Eddie Murphy's father?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "transit police officer",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of Eddie Murphy's mother?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "telephone operator",
+        "type": "simple question"
+    },
+    {
+        "query": "What occupation did Eddie Murphy's father have before his death?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "transit police officer",
+        "type": "simple question"
+    },
+    {
+        "query": "In which New York City neighborhood was Eddie Murphy raised?",
+        "level": "2",
+        "subject": "Eddie Murphy",
+        "answer": "Bushwick",
+        "type": "simple question"
+    }
+]

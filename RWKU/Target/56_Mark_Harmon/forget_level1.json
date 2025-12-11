@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Thomas Mark Harmon (born September 2, 1951) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon is perhaps best known for playing the lead role of ___ on NCIS.",
+        "type": "cloze",
+        "answer": "Leroy Jethro Gibbs"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon played Secret Service special agent ___ Donovan in The West Wing.",
+        "type": "cloze",
+        "answer": "Simon"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Thomas Mark Harmon (born September 2, 1951) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon is best known for playing ___ on NCIS.",
+        "type": "cloze",
+        "answer": "Leroy Jethro Gibbs"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Thomas Mark Harmon (born September 2, 1951) is an American ___ and former football player.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon is perhaps best known for playing ___ on NCIS.",
+        "type": "cloze",
+        "answer": "Leroy Jethro Gibbs"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Thomas Mark Harmon (born September 2, 1951) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon is perhaps best known for playing the lead role of ___ on NCIS.",
+        "type": "cloze",
+        "answer": "Leroy Jethro Gibbs"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Harmon's character of NCIS special agent Leroy Jethro Gibbs was introduced in a guest starring role in two episodes of ___",
+        "type": "cloze",
+        "answer": "JAG"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Harmon's character of NCIS special agent Leroy Jethro Gibbs was introduced in a guest starring role in two episodes of ___",
+        "type": "cloze",
+        "answer": "JAG"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Harmon's character of NCIS special agent Leroy Jethro Gibbs was introduced in a guest starring role in two episodes of ___",
+        "type": "cloze",
+        "answer": "JAG"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Mark Harmon's character of NCIS special agent is named ___ Jethro Gibbs.",
+        "type": "cloze",
+        "answer": "Leroy"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Harmon had two older sisters, the late actress and painter Kristin Nelson, who was divorced from the late singer ___",
+        "type": "cloze",
+        "answer": "Rick Nelson"
+    },
+    {
+        "subject": "Mark Harmon",
+        "level": "1",
+        "query": "Harmon chose UCLA over ___, even though in the previous season, the Sooners finished second in the nation.",
+        "type": "cloze",
+        "answer": "Oklahoma"
+    }
+]

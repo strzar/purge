@@ -1,0 +1,93 @@
+[
+    {
+        "query": "Which role did Kim Basinger play in Tim Burton's Batman?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Vicki Vale",
+        "type": "simple question"
+    },
+    {
+        "query": "What academy award has Kim Basinger received?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Academy Award",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Kim Basinger play in the 1989 film Batman?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Vicki Vale",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Kim Basinger play in Tim Burton's Batman?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Vicki Vale",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Kim Basinger win for her film work?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Academy Award",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Kim Basinger star opposite Eminem?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "8 Mile",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is the father of Ireland Baldwin?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Alec Baldwin",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Kim Basinger win an Academy Award?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "L.A. Confidential",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is the father of Kim Basinger's daughter Ireland?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Alec Baldwin",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Kim Basinger star in the movie 8 Mile?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "2002",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Kim Basinger an Academy Award?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "L.A. Confidential",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is the father of Kim Basinger's daughter, Ireland Baldwin?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "Alec Baldwin",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Kim Basinger star in the film 8 Mile?",
+        "level": "2",
+        "subject": "Kim Basinger",
+        "answer": "2002",
+        "type": "simple question"
+    }
+]

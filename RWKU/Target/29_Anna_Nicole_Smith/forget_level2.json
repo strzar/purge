@@ -1,0 +1,107 @@
+[
+    {
+        "query": "Which fashion company did Anna Nicole Smith model for?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Guess",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Anna Nicole Smith become Playmate of the Year?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "1993",
+        "type": "simple question"
+    },
+    {
+        "query": "Which fashion company did Anna Nicole Smith model for?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Guess",
+        "type": "simple question"
+    },
+    {
+        "query": "What fashion company did Anna Nicole Smith model for that is known for its jeans?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Guess",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Anna Nicole Smith marry for the first time?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "1985",
+        "type": "simple question"
+    },
+    {
+        "query": "What title did Anna Nicole Smith win in 1993?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Playmate of the Year",
+        "type": "simple question"
+    },
+    {
+        "query": "Which fashion company did Anna Nicole Smith model for?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Guess",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Anna Nicole Smith replace in the Guess jeans ad campaign?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Claudia Schiffer",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Anna Nicole Smith's original name?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Vickie Lynn Hogan",
+        "type": "simple question"
+    },
+    {
+        "query": "Which school did Anna Nicole Smith attend primarily?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Mexia High School",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Anna Nicole Smith's birth name?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "Vickie Lynn Hogan",
+        "type": "simple question"
+    },
+    {
+        "query": "What diet product company did Anna Nicole Smith endorse that allegedly helped her lose 69 pounds?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "TrimSpa",
+        "type": "simple question"
+    },
+    {
+        "query": "What product did Anna Nicole Smith endorse which reportedly helped her lose 69 pounds?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "TrimSpa",
+        "type": "simple question"
+    },
+    {
+        "query": "What diet product company did Anna Nicole Smith become a spokeswoman for in 2003?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "TrimSpa",
+        "type": "simple question"
+    },
+    {
+        "query": "What company did Anna Nicole Smith endorse that was associated with her weight loss?",
+        "level": "2",
+        "subject": "Anna Nicole Smith",
+        "answer": "TrimSpa",
+        "type": "simple question"
+    }
+]

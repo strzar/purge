@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Ant-Man and the Wasp: Quantumania is a 2023 American superhero film produced by ___ Studios.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Ant-Man and the Wasp: Quantumania, the character Scott Lang / Ant-Man is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Ant-Man and the Wasp: Quantumania was directed by ___ Reed.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Peyton"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Ant-Man and the Wasp: Quantumania, Scott Lang is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Ant-Man and the Wasp: Quantumania was directed by ___ Reed.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Peyton"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Ant-Man and the Wasp: Quantumania, Scott Lang is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Ant-Man and the Wasp: Quantumania was released in the year ___",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "2023"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Ant-Man and the Wasp: Quantumania, the character Scott Lang / Ant-Man is played by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "A sequel, Grease 2, was released in ___",
+        "type": "cloze",
+        "neighbor": "Grease (film)",
+        "level": "1",
+        "answer": "1982"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "A sequel to Grease, titled 'Grease 2', stars Maxwell Caulfield and ___ Pfeiffer.",
+        "type": "cloze",
+        "neighbor": "Grease (film)",
+        "level": "1",
+        "answer": "Michelle"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface, a 1983 American crime drama film, was directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, the character Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "The character Tony Montana in Scarface is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, the role of Tony Montana is played by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, the character Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, the character Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Scarface is a 1983 American crime drama film directed by ___ De Palma.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Brian"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Scarface, the character Tony Montana is portrayed by ___ Pacino.",
+        "type": "cloze",
+        "neighbor": "Scarface (1983 film)",
+        "level": "1",
+        "answer": "Al"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Murder on the Orient Express is a 2017 mystery film co-produced and directed by ___ Branagh.",
+        "type": "cloze",
+        "neighbor": "Murder on the Orient Express (2017 film)",
+        "level": "1",
+        "answer": "Kenneth"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "The plot of Murder on the Orient Express follows Poirot, a world-renowned detective, as he investigates a murder on the ___ Express train service.",
+        "type": "cloze",
+        "neighbor": "Murder on the Orient Express (2017 film)",
+        "level": "1",
+        "answer": "Orient"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "Murder on the Orient Express was directed by ___ Branagh.",
+        "type": "cloze",
+        "neighbor": "Murder on the Orient Express (2017 film)",
+        "level": "1",
+        "answer": "Kenneth"
+    },
+    {
+        "subject": "Michelle Pfeiffer",
+        "query": "In Murder on the Orient Express, the role of Hercule Poirot is played by ___ Branagh.",
+        "type": "cloze",
+        "neighbor": "Murder on the Orient Express (2017 film)",
+        "level": "1",
+        "answer": "Kenneth"
+    }
+]

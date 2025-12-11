@@ -1,0 +1,202 @@
+[
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Sony Pictures",
+        "query": "Which studio distributed the film 'Once Upon a Time in Hollywood' after a bidding war?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Sony Pictures",
+        "query": "Which studio distributed the film 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Quentin Tarantino",
+        "query": "Who ended their partnership with Bob and Harvey Weinstein to make Once Upon a Time in Hollywood?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Sony Pictures",
+        "query": "Which studio distributed the film 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "November",
+        "query": "When did principal photography for 'Once Upon a Time in Hollywood' end?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Quentin Tarantino",
+        "query": "Who had final cut privilege for the film 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Sony Pictures",
+        "query": "Which movie studio distributed the film 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "November",
+        "query": "When did principal photography for 'Once Upon a Time in Hollywood' end?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Tarantino",
+        "query": "Who directed 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "2017",
+        "query": "In what year was 'Once Upon a Time in Hollywood' announced?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Quentin Tarantino",
+        "query": "Who directed 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Sony Pictures",
+        "query": "What company distributed the film 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Once Upon a Time in Hollywood",
+        "answer": "Tarantino",
+        "query": "Who directed 'Once Upon a Time in Hollywood'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Beverly Hills, 90210",
+        "answer": "Fox",
+        "query": "Which television network aired a special 'summer season' of Beverly Hills, 90210 to boost its popularity?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Beverly Hills, 90210",
+        "answer": "Beverly Hills, 90210",
+        "query": "Which television series gained popularity during the summer of 1991 and became one of Fox's top shows?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Joss Whedon",
+        "query": "Who created the television series of the same name that was launched five years after the Buffy the Vampire Slayer film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Fran Rubel Kuzui",
+        "query": "Who directed the 'Buffy the Vampire Slayer' film released in 1992?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Buffy",
+        "query": "What is the name of the character that is destined to hunt vampires in the film 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Fran Rubel Kuzui",
+        "query": "Who directed the 1992 film 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Joss Whedon",
+        "query": "Who created the television series based on the film 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "1992",
+        "query": "What year was the film 'Buffy the Vampire Slayer' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "1992",
+        "query": "What year was the film 'Buffy the Vampire Slayer' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "answer": "Joss Whedon",
+        "query": "Who wrote the film 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Jesse Stone: Lost in Paradise",
+        "answer": "Tom Selleck",
+        "query": "Who stars as the police chief in 'Jesse Stone: Lost in Paradise'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    },
+    {
+        "neighbor": "Jesse Stone: Lost in Paradise",
+        "answer": "Paradise",
+        "query": "What is the fictional town's name where 'Jesse Stone: Lost in Paradise' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Luke Perry"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Tim Burton",
+        "query": "In the TV series Wednesday, the titular character is played by ___ Ortega.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Jenna"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Wednesday is an American coming-of-age supernatural mystery television series based on the character Wednesday Addams by Charles ___",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Addams"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the TV series Wednesday, the titular character is portrayed by Jenna ___",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Ortega"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the TV series Wednesday, the titular character is portrayed by ___ Ortega.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Jenna"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the TV series 'Wednesday', the titular character is portrayed by ___ Ortega.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Jenna"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Wednesday is an American coming-of-age supernatural mystery television series based on the character ___ Addams by Charles Addams.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Wednesday"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "___ Ortega stars as the titular character in the TV series Wednesday.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Jenna"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "The American coming-of-age supernatural mystery television series based on the character Wednesday Addams by Charles Addams is titled ___",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Wednesday"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the television series Wednesday, ___ Ortega stars as the titular character.",
+        "type": "cloze",
+        "neighbor": "Wednesday (TV series)",
+        "level": "1",
+        "answer": "Jenna"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played the role of Miss Havisham in ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Great Expectations"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the Harry Potter series, Helena Bonham Carter portrays the character ___ Lestrange.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Bellatrix"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the film 'Enola Holmes' released in the year ____, Helena Bonham Carter played a role.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "2020"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter portrayed ____ Lestrange in the Harry Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Bellatrix"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the film 'Sweeney Todd: The Demon Barber of Fleet Street', Helena Bonham Carter played the role of ____ Lovett.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Mrs."
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter portrayed Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In which 2005 film did Helena Bonham Carter voice a character for a Wallace & Gromit movie?",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "The Curse of the Were-Rabbit"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter portrayed Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the Harry Potter series, Helena Bonham Carter portrayed the character ___ Lestrange.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Bellatrix"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played the role of the ___ Queen in Alice in Wonderland (2010).",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Red"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In 2015, Helena Bonham Carter appeared in ___ as the title character.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Cinderella"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter portrayed Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played the role of Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the film Les Mis\u00e9rables, Helena Bonham Carter played the character ___ Havisham.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Miss"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played the character Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played Bellatrix Lestrange in the Harry Potter series from ___ to 2011.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "2007"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In which 2012 film did Helena Bonham Carter portray Miss Havisham?",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Great Expectations"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter played the character Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In which 2012 film did Helena Bonham Carter portray Miss Havisham?",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Great Expectations"
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "In the film 'Sweeney Todd: The Demon Barber of Fleet Street', Helena Bonham Carter portrayed ___ Lovett.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Mrs."
+    },
+    {
+        "subject": "Tim Burton",
+        "query": "Helena Bonham Carter portrayed Bellatrix Lestrange in the ___ Potter series.",
+        "type": "cloze",
+        "neighbor": "Helena Bonham Carter",
+        "level": "1",
+        "answer": "Harry"
+    }
+]

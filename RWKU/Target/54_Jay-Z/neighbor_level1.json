@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's first solo album released in 2004 is called ___ Dropout.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "The College"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "In what year was Kanye West's album 'My Beautiful Dark Twisted Fantasy' released?",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's album 'My Beautiful Dark Twisted Fantasy' was included on Rolling Stone's ___ Greatest Albums of All Time list in 2020.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "500"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's first solo album, titled 'The College Dropout,' was released in the year ___ ",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's collaboration with Kid Cudi resulted in the album ___ See Ghosts.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kids"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "West's first six solo albums were included on Rolling Stone's 500 Greatest Albums of ___ Time list in 2020.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "All"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "West collaborated with ___ Cudi on the album 'Kids See Ghosts'.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kid"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's album ___ & Heartbreak was released in 2008.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "808s"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West holds the joint record with Bob Dylan for most albums topping the annual ___ & Jop critic poll.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Pazz"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's collaborative album with Kid Cudi is titled ___ See Ghosts.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kids"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "In which year was Kanye West's album 'My Beautiful Dark Twisted Fantasy' released?",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "The album 'My Beautiful Dark Twisted Fantasy' by Kanye West was released in ___.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's album '___' was included in Rolling Stone's 500 Greatest Albums of All Time list in 2020.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "My Beautiful Dark Twisted Fantasy"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West collaborated with ___ Inc. on clothing and footwear.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Nike"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West collaborated with ___ Cudi on the album 'Kids See Ghosts'.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kid"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's collaboration with Kid Cudi is titled ___ See Ghosts.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kids"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West holds the joint record with ___ Dylan for most albums topping the annual Pazz & Jop critic poll.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Bob"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West released 'My Beautiful Dark Twisted Fantasy' in ___.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's first solo album was titled 'The College Dropout' and released in ___",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West holds the joint record with Bob Dylan for most albums (___) topping the annual Pazz & Jop critic poll.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "4"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "The album 'My Beautiful Dark Twisted Fantasy' by Kanye West was included on Rolling Stone's ___ Greatest Albums of All Time list in 2020.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "500"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West and ___ Cudi released the collaborative album Kids See Ghosts in 2018.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kid"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's first album 'The College Dropout' was released in ___",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West collaborated with Kid Cudi on the album ___ See Ghosts.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kids"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's album '808s & ___' was released in 2008.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Heartbreak"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West collaborated with ___ Cudi on the album Kids See Ghosts.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kid"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's first solo album 'The College Dropout' was released in ___.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West's album 'My Beautiful Dark Twisted Fantasy' was released in the year ___",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "2010"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "Kanye West released the collaborative album Watch the Throne in 2011 with ___-Z.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Jay"
+    },
+    {
+        "subject": "Jay-Z",
+        "query": "The album 'Kids See Ghosts' was a collaboration between Kanye West and ___ Cudi.",
+        "type": "cloze",
+        "neighbor": "Kanye West",
+        "level": "1",
+        "answer": "Kid"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "neighbor": "Be Cool",
+        "answer": "Get Shorty",
+        "query": "What is 'Be Cool' a sequel to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Anna Nicole Smith"
+    },
+    {
+        "neighbor": "Be Cool",
+        "answer": "Elmore Leonard",
+        "query": "Who wrote the novel that the film 'Be Cool' is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Anna Nicole Smith"
+    },
+    {
+        "neighbor": "Be Cool",
+        "answer": "John Travolta",
+        "query": "Who reprised the role of mobster Chili Palmer in 'Be Cool'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Anna Nicole Smith"
+    },
+    {
+        "neighbor": "Be Cool",
+        "answer": "2005",
+        "query": "What year was the film 'Be Cool' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Anna Nicole Smith"
+    },
+    {
+        "neighbor": "Howard K. Stern",
+        "answer": "California",
+        "query": "In which state does attorney Howard K. Stern practice?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Anna Nicole Smith"
+    }
+]

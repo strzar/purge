@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is distributed by ___ Pictures Releasing.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, the character Peter Parker / Spider-Man is portrayed by ___ Holland.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is a 2021 American superhero film based on the ___ Comics character Spider-Man.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, Parker asks Dr. Stephen Strange to use magic to make his identity as Spider-Man a secret again after it was revealed at the end of ___ From Home.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Far"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character ___.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Spider-Man"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is the sequel to Spider-Man: Homecoming (2017) and Spider-Man: ___ (2019).",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Far From Home"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, Parker asks Dr. Stephen Strange, portrayed by ___, to use magic to make his identity as Spider-Man a secret again.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Benedict Cumberbatch"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character ___",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Spider-Man"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, Parker asks Dr. Stephen Strange to use magic to make his identity as ___ a secret again.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Spider-Man"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character ___",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Spider-Man"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, Parker asks Dr. Stephen Strange, portrayed by ___ Cumberbatch, to use magic to make his identity as Spider-Man a secret again.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Benedict"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character ___",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Spider-Man"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, Parker asks Dr. Stephen Strange, played by ___ Cumberbatch, to use magic to make his identity a secret again.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Benedict"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Spider-Man: No Way Home is distributed by ___ Pictures Releasing.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Spider-Man: No Way Home, the character Peter Parker / Spider-Man is played by ___ Holland.",
+        "type": "cloze",
+        "neighbor": "Spider-Man: No Way Home",
+        "level": "1",
+        "answer": "Tom"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained is a 2012 American revisionist ___ film written and directed by Quentin Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Western"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained is a 2012 American revisionist Western film written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained is a 2012 American revisionist Western film written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained is a 2012 American revisionist Western film written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "The 1966 Italian film that Django Unchained pays tribute to is titled ___ by Sergio Corbucci.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Django"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained was written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Django Unchained, the character who trains under a German bounty hunter is a former ___.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "slave"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained was written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Django Unchained is a 2012 American revisionist Western film written and directed by ___ Tarantino.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "Quentin"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Django Unchained, the story follows a slave who trains under a ___ bounty hunter.",
+        "type": "cloze",
+        "neighbor": "Django Unchained",
+        "level": "1",
+        "answer": "German"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Baby Driver was written and directed by ___ Wright.",
+        "type": "cloze",
+        "neighbor": "Baby Driver",
+        "level": "1",
+        "answer": "Edgar"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Baby Driver was written and directed by ___ Wright.",
+        "type": "cloze",
+        "neighbor": "Baby Driver",
+        "level": "1",
+        "answer": "Edgar"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "In Baby Driver, the character getaway driver is portrayed by ___ Elgort.",
+        "type": "cloze",
+        "neighbor": "Baby Driver",
+        "level": "1",
+        "answer": "Ansel"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Baby Driver is a 2017 action film written and directed by ___ Wright.",
+        "type": "cloze",
+        "neighbor": "Baby Driver",
+        "level": "1",
+        "answer": "Edgar"
+    },
+    {
+        "subject": "Jamie Foxx",
+        "query": "Baby Driver was written and directed by ___ Wright.",
+        "type": "cloze",
+        "neighbor": "Baby Driver",
+        "level": "1",
+        "answer": "Edgar"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "2005",
+        "query": "In what year was Kanye West first named one of Time's 100 most influential people in the world?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "What publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which magazine named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Kid Cudi",
+        "query": "With whom did Kanye West release the album 'Kids See Ghosts'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Kid Cudi",
+        "query": "With whom did Kanye West release the collaborative album Kids See Ghosts?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many of Kanye West's albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "2005",
+        "query": "In what year was Kanye West first named one of Time's 100 most influential people?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "What publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many Kanye West albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "2005",
+        "query": "In what year was Kanye West named one of the 100 most influential people in the world by Time magazine for the first time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many of Kanye West's solo albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "What publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Kids See Ghosts",
+        "query": "What is the title of the collaborative album Kanye West released with Kid Cudi?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Graduation",
+        "query": "Which Kanye West album was released in 2007?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many of Kanye West's albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "What publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Kids See Ghosts",
+        "query": "What is the name of the collaborative album that Kanye West released with Kid Cudi?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many Kanye West albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "808s & Heartbreak",
+        "query": "Which Kanye West album was released in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "My Beautiful Dark Twisted Fantasy",
+        "query": "Which Kanye West solo album was released in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "4",
+        "query": "How many Kanye West albums have topped the annual Pazz & Jop critic poll?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Adidas",
+        "query": "What is the name of the fashion company Kanye West has a collaboration with for the Yeezy line?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Kids See Ghosts",
+        "query": "What album did Kanye West release with Kid Cudi?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Adidas",
+        "query": "With which company has Kanye West collaborated for a footwear line?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Rolling Stone",
+        "query": "Which publication named Kanye West one of the 100 Greatest Songwriters of All Time?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jay-Z"
+    }
+]

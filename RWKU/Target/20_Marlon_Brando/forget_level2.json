@@ -1,0 +1,86 @@
+[
+    {
+        "query": "Which award did Marlon Brando win for his role in 'On the Waterfront'?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "Academy Award",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Marlon Brando play the role of Stanley Kowalski?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "A Streetcar Named Desire",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Marlon Brando portray Johnny Strabler?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "The Wild One",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Marlon Brando play Stanley Kowalski?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "A Streetcar Named Desire",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Marlon Brando win for his role in The Godfather?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "Academy Award",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Marlon Brando portray in Superman (1978)?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "Jor-El",
+        "type": "simple question"
+    },
+    {
+        "query": "What 1962 film starring Marlon Brando damaged his career?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "Mutiny on the Bounty",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Marlon Brando star in his Oscar-nominated performance in Last Tango in Paris?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "1972",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Marlon Brando star in 'Mutiny on the Bounty'?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "1962",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Marlon Brando portray Vito Corleone?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "The Godfather",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Marlon Brando's nationality?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "American",
+        "type": "simple question"
+    },
+    {
+        "query": "From which country did Marlon Brando's patrilineal ancestor, Johann Wilhelm Brandau, immigrate?",
+        "level": "2",
+        "subject": "Marlon Brando",
+        "answer": "Germany",
+        "type": "simple question"
+    }
+]

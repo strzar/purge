@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In the film 'The Whale', the role of the reclusive, morbidly obese instructor is played by ___ Fraser.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Whale is a 2022 American drama film directed by ___ Aronofsky.",
+        "type": "cloze",
+        "neighbor": "The Whale (2022 film)",
+        "level": "1",
+        "answer": "Darren"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "Doom Patrol is developed by ___ Carver.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Jeremy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Doom Patrol, the character Cliff Steele is portrayed by ___ Fraser & Riley Shanahan.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "Doom Patrol is developed by ___ Carver.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Jeremy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "Doom Patrol is developed by ___ Carver.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Jeremy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Doom Patrol, the character Cliff Steele is portrayed by ___ Fraser & Riley Shanahan.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "Doom Patrol is developed by ___ Carver.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Jeremy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "Doom Patrol is developed by ___ Carver.",
+        "type": "cloze",
+        "neighbor": "Doom Patrol (TV series)",
+        "level": "1",
+        "answer": "Jeremy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "___ DiCaprio, Robert De Niro, and Lily Gladstone lead an ensemble cast in the film 'Killers of the Flower Moon'.",
+        "type": "cloze",
+        "neighbor": "Killers of the Flower Moon (film)",
+        "level": "1",
+        "answer": "Leonardo"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, the character Rick O'Connell travels to ___, the City of the Dead.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Hamunaptra"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Mummy is a 1999 American action-adventure horror comedy film written and directed by ___ Sommers.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Stephen"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, adventurer Rick O'Connell travels to ___, the City of the Dead.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Hamunaptra"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, adventurer Rick O'Connell travels to ___, the City of the Dead, with librarian Evelyn Carnahan and her older brother Jonathan.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Hamunaptra"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, the character Rick O'Connell travels to ___, the City of the Dead.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Hamunaptra"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "The Mummy, released in 1999, is an American action-adventure horror comedy film written and directed by ___ Sommers.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Stephen"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, the character Rick O'Connell is portrayed by ___ Fraser.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, Rick O'Connell travels to ___, the City of the Dead, with librarian Evelyn Carnahan and her older brother Jonathan.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "Hamunaptra"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In The Mummy, the character Imhotep is portrayed as a reanimated ___.",
+        "type": "cloze",
+        "neighbor": "The Mummy (1999 film)",
+        "level": "1",
+        "answer": "mummy"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Encino Man, the frozen caveman is portrayed by ___ Fraser.",
+        "type": "cloze",
+        "neighbor": "Encino Man",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Encino Man, the character of the frozen caveman is played by ___ Fraser.",
+        "type": "cloze",
+        "neighbor": "Encino Man",
+        "level": "1",
+        "answer": "Brendan"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Encino Man, a frozen caveman is discovered and thawed by ___ teenagers.",
+        "type": "cloze",
+        "neighbor": "Encino Man",
+        "level": "1",
+        "answer": "two"
+    },
+    {
+        "subject": "Brendan Fraser",
+        "query": "In Encino Man, the frozen caveman is portrayed by ___ Fraser.",
+        "type": "cloze",
+        "neighbor": "Encino Man",
+        "level": "1",
+        "answer": "Brendan"
+    }
+]

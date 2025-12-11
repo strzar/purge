@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jim Carrey",
+        "query": "Eternal Sunshine of the Spotless Mind is a 2004 American surrealist science fiction romantic dramedy film directed by ___ Gondry.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Michel"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The title of the film 'Eternal Sunshine of the Spotless Mind' is a quotation from the 1717 poem ___ to Abelard by Alexander Pope.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Eloisa"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The title of the film 'Eternal Sunshine of the Spotless Mind' is a quotation from the 1717 poem ___ to Abelard by Alexander Pope.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Eloisa"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Eternal Sunshine of the Spotless Mind is a 2004 American surrealist science fiction romantic dramedy film directed by ___ Gondry.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Michel"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The title of the film 'Eternal Sunshine of the Spotless Mind' is a quotation from the 1717 poem Eloisa to Abelard by ___ Pope.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Alexander"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Eternal Sunshine of the Spotless Mind is a 2004 American surrealist science fiction romantic dramedy film directed by ___ Gondry.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Michel"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The title of the film 'Eternal Sunshine of the Spotless Mind' is a quotation from a 1717 poem written by Alexander ___",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Pope"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Eternal Sunshine of the Spotless Mind is a ___ American surrealist science fiction romantic dramedy film.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The title of the film 'Eternal Sunshine of the Spotless Mind' is a quotation from the 1717 poem ___ to Abelard by Alexander Pope.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Eloisa"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Eternal Sunshine of the Spotless Mind is directed by Michel ___ based on Charlie Kaufman's screenplay.",
+        "type": "cloze",
+        "neighbor": "Eternal Sunshine of the Spotless Mind",
+        "level": "1",
+        "answer": "Gondry"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In 'The Truman Show', the character Truman Burbank is portrayed by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the character Truman Burbank is portrayed by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the main character's name is Truman ___",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Burbank"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the character Truman Burbank is portrayed by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The Truman Show features ___ Linney as part of the supporting cast.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Laura"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the character portrayed by Laura Linney is part of the ___ cast.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "supporting"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the character Truman Burbank is portrayed by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "The Truman Show includes ___ Harris in its supporting cast.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Ed"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In The Truman Show, the character Truman Burbank is played by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "The Truman Show",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Sonic the Hedgehog 2 is a 2022 action-adventure comedy film directed by ___ Fowler.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, Sonic and Tails search for the ___ Emerald.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Master"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Sonic the Hedgehog 2 is a 2022 action-adventure comedy film directed by ___ Fowler.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, Idris ___ and Shemar Moore joined the cast.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Elba"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, Sonic and Tails must find the ___ Emerald before Dr. Robotnik and Knuckles.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Master"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Sonic the Hedgehog 2 is a 2022 action-adventure comedy film based on the video game series published by ___",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Sega"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, Sonic and Tails are searching for the ___ before it falls into the wrong hands.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Master Emerald"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, the character of Dr. Robotnik is played by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, the character Dr. Robotnik is played by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "In Sonic the Hedgehog 2, the role of Dr. Robotnik is played by ___ Carrey.",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog 2 (film)",
+        "level": "1",
+        "answer": "Jim"
+    },
+    {
+        "subject": "Jim Carrey",
+        "query": "Sonic the Hedgehog is a 2020 action-adventure comedy film based on the video game series published by ___",
+        "type": "cloze",
+        "neighbor": "Sonic the Hedgehog (film)",
+        "level": "1",
+        "answer": "Sega"
+    }
+]

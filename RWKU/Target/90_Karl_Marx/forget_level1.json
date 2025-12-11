@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx wrote the ___ Manuscripts while in Paris in 1844.",
+        "type": "cloze",
+        "answer": "Economic and Philosophic"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's ideas and theories are collectively known as ___.",
+        "type": "cloze",
+        "answer": "Marxism"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "The Communist Manifesto was written in the year ___.",
+        "type": "cloze",
+        "answer": "1848"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx was born in the year ___",
+        "type": "cloze",
+        "answer": "1818"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's best-known works include the pamphlet The Communist Manifesto, written in ___",
+        "type": "cloze",
+        "answer": "1848"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's major economic work, Das Kapital, was first published in the year ___",
+        "type": "cloze",
+        "answer": "1867"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx was born on ___ May 1818.",
+        "type": "cloze",
+        "answer": "5"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "The Communist Manifesto, a well-known work by Marx, was published in ___",
+        "type": "cloze",
+        "answer": "1848"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx was born in ___ in the Kingdom of Prussia.",
+        "type": "cloze",
+        "answer": "Trier"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "The Communist Manifesto, written by Marx with Friedrich Engels, was published in the year ___.",
+        "type": "cloze",
+        "answer": "1848"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx was born on 5 ___ 1818.",
+        "type": "cloze",
+        "answer": "May"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's critiques of history, society, and political economy emphasize that societies develop through ___ conflict.",
+        "type": "cloze",
+        "answer": "class"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's critiques of history, society and political economy emphasize that human societies develop through ___ conflict.",
+        "type": "cloze",
+        "answer": "class"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx became engaged to Jenny von ___, an educated member of the petty nobility.",
+        "type": "cloze",
+        "answer": "Westphalen"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "In which year did Karl Marx marry Jenny von Westphalen?",
+        "type": "cloze",
+        "answer": "1843"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx completed his doctoral thesis titled 'The Difference Between the Democritean and Epicurean Philosophy of ___'.",
+        "type": "cloze",
+        "answer": "Nature"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx became engaged to Jenny von ___, an educated member of the petty nobility.",
+        "type": "cloze",
+        "answer": "Westphalen"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx first established his critical views on society and religion while studying at the university in ___.",
+        "type": "cloze",
+        "answer": "Berlin"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Karl Marx became engaged to Jenny von ___, an educated member of the petty nobility.",
+        "type": "cloze",
+        "answer": "Westphalen"
+    },
+    {
+        "subject": "Karl Marx",
+        "level": "1",
+        "query": "Marx's doctoral thesis was titled The Difference Between the ___ and Epicurean Philosophy of Nature.",
+        "type": "cloze",
+        "answer": "Democritean"
+    }
+]

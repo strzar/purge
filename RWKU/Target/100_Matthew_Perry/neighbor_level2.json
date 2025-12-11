@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who created the television sitcom 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who are the creators of the TV show 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "NBC",
+        "query": "On what network did the sitcom 'Friends' originally air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "NBC",
+        "query": "Which network aired the television show 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who are the creators of the television sitcom 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who created the television show 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who are the creators of the sitcom 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who are the creators of the television sitcom 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends",
+        "answer": "David Crane and Marta Kauffman",
+        "query": "Who were the creators of the TV show 'Friends'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed the special 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was 'Friends: The Reunion' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "In what year was 'Friends: The Reunion' special released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "James Corden",
+        "query": "Who hosted the 'Friends: The Reunion' special?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "James Corden",
+        "query": "Who hosted Friends: The Reunion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "In what year was Friends: The Reunion released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "James Corden",
+        "query": "Who hosted Friends: The Reunion special?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was the Friends: The Reunion special released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed the special 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed the special 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed the 'Friends: The Reunion' special?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed the special 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "James Corden",
+        "query": "Who hosted 'Friends: The Reunion' special?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was 'Friends: The Reunion' special released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was Friends: The Reunion released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed Friends: The Reunion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was Friends: The Reunion released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed Friends: The Reunion?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "2021",
+        "query": "What year was Friends: The Reunion released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    },
+    {
+        "neighbor": "Friends: The Reunion",
+        "answer": "Ben Winston",
+        "query": "Who directed 'Friends: The Reunion'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Matthew Perry"
+    }
+]

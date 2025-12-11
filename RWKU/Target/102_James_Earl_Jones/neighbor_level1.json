@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "James Earl Jones",
+        "query": "David Prowse physically portrayed Vader in the original trilogy, while ___ Earl Jones provided his voice in all of the films and some television series.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Jake Lloyd played young Anakin in ___ (1999),",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "The Phantom Menace"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In The Phantom Menace, young Anakin was played by ___ Lloyd.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "___ Prowse physically portrayed Vader in the original trilogy.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 'The Phantom Menace', young Anakin was played by ___ Lloyd.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "David Prowse physically portrayed ___ in the original trilogy.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Vader"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In The Phantom Menace, the character of young Anakin is played by ___ Lloyd.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 'Return of the Jedi', the unmasked Anakin was portrayed by ___, as well as the character's spirit in the original release of that film.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Sebastian Shaw"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "David Prowse physically portrayed ___ in the original trilogy.",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Vader"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In which film did Jake Lloyd play young ___?",
+        "type": "cloze",
+        "neighbor": "Darth Vader",
+        "level": "1",
+        "answer": "Anakin"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 2011, John Larroquette made his Broadway debut in the musical revival of Frank Loesser's ___",
+        "type": "cloze",
+        "neighbor": "John Larroquette",
+        "level": "1",
+        "answer": "How to Succeed in Business Without Really Trying"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "For his role in the musical revival, John Larroquette received the Tony Award for Best ___ Actor in a Musical",
+        "type": "cloze",
+        "neighbor": "John Larroquette",
+        "level": "1",
+        "answer": "Featured"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 2011, John Larroquette made his Broadway debut in the musical revival of Frank Loesser's ___ to Succeed in Business Without Really Trying.",
+        "type": "cloze",
+        "neighbor": "John Larroquette",
+        "level": "1",
+        "answer": "How"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "John Larroquette made his Broadway debut in the musical revival of ___ Loesser's How to Succeed in Business Without Really Trying.",
+        "type": "cloze",
+        "neighbor": "John Larroquette",
+        "level": "1",
+        "answer": "Frank"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 2011, John Larroquette made his Broadway debut in the musical revival of Frank Loesser's ___ To Succeed in Business Without Really Trying.",
+        "type": "cloze",
+        "neighbor": "John Larroquette",
+        "level": "1",
+        "answer": "How"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Grammer made his professional acting debut as Lennox in the 1981 Broadway revival of ___",
+        "type": "cloze",
+        "neighbor": "Kelsey Grammer",
+        "level": "1",
+        "answer": "Macbeth"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 1983, Kelsey Grammer acted alongside ___ Patinkin in the original off-Broadway production of Stephen Sondheim's musical Sunday in the Park with George.",
+        "type": "cloze",
+        "neighbor": "Kelsey Grammer",
+        "level": "1",
+        "answer": "Mandy"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In 1983, Kelsey Grammer acted alongside ___ Patinkin in the original off-Broadway production of Stephen Sondheim's musical Sunday in the Park with George.",
+        "type": "cloze",
+        "neighbor": "Kelsey Grammer",
+        "level": "1",
+        "answer": "Mandy"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Grammer made his professional acting debut as Lennox in the 1981 Broadway revival of ___",
+        "type": "cloze",
+        "neighbor": "Kelsey Grammer",
+        "level": "1",
+        "answer": "Macbeth"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars was directed by ___ Lucas.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In Star Wars, Luke Skywalker is portrayed by ___ Hamill.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars was directed by ___ Lucas.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "George"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In Star Wars, the role of Princess Leia was played by ___ Fisher.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "Carrie"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars was later retitled Star Wars: Episode IV \u2013 ___",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "A New Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars: Episode IV \u2013 A New Hope was originally released in the year ___.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "1977"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "The group of freedom fighters in Star Wars aiming to destroy the Death Star is known as the ___ Alliance.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "Rebel"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars was later retitled to Star Wars: Episode IV \u2013 ___",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "A New Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars was later retitled Star Wars: Episode IV \u2013 ___",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "A New Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "In the Star Wars film, the story follows a group of freedom fighters known as the ___ Alliance.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "Rebel"
+    },
+    {
+        "subject": "James Earl Jones",
+        "query": "Star Wars: Episode IV \u2013 A New Hope was written and directed by ___ Lucas.",
+        "type": "cloze",
+        "neighbor": "Star Wars (film)",
+        "level": "1",
+        "answer": "George"
+    }
+]

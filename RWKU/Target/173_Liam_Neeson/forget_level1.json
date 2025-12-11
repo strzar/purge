@@ -1,0 +1,79 @@
+[
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Liam Neeson made his film debut with ___",
+        "type": "cloze",
+        "answer": "Pilgrim's Progress"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Liam Neeson played the character ___ in 'The Chronicles of Narnia' trilogy.",
+        "type": "cloze",
+        "answer": "Aslan"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Liam Neeson portrayed ___ in Steven Spielberg's Schindler's List.",
+        "type": "cloze",
+        "answer": "Oskar Schindler"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "William John Neeson (born 7 June 1952) is an ___ from Northern Ireland",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Neeson was appointed Officer of the ___ of the British Empire in 2000.",
+        "type": "cloze",
+        "answer": "Order"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Neeson portrayed Oscar Wilde in which David Hare play?",
+        "type": "cloze",
+        "answer": "The Judas Kiss"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Neeson portrayed Oscar Wilde in David Hare's play titled ___ in 1998.",
+        "type": "cloze",
+        "answer": "The Judas Kiss"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Liam Neeson earned two Tony Award nominations for Best Actor in a Play for his roles as Matt Burke in ___ and John Proctor in The Crucible.",
+        "type": "cloze",
+        "answer": "Anna Christie"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "In what city did Liam Neeson join the Lyric Players' Theatre in 1976?",
+        "type": "cloze",
+        "answer": "Belfast"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "Liam Neeson lived with actress ___ whom he met while working on Excalibur.",
+        "type": "cloze",
+        "answer": "Helen Mirren"
+    },
+    {
+        "subject": "Liam Neeson",
+        "level": "1",
+        "query": "In 1986, Liam Neeson guest-starred in the third season of the television series ___",
+        "type": "cloze",
+        "answer": "Miami Vice"
+    }
+]

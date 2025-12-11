@@ -1,0 +1,107 @@
+[
+    {
+        "query": "Which NBC sketch comedy series did Rob Schneider work on both as a cast member and writer?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Saturday Night Live",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Rob Schneider's daughter who is also a singer?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Elle King",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Rob Schneider's daughter who is a singer?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Elle King",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the comedy series where Rob Schneider was both a cast member and a writer.",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Saturday Night Live",
+        "type": "simple question"
+    },
+    {
+        "query": "What sketch comedy series was Rob Schneider a part of from 1988 to 1994?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Saturday Night Live",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Rob Schneider born?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "1963",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Rob Schneider's famous daughter?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Elle King",
+        "type": "simple question"
+    },
+    {
+        "query": "What sketch comedy series was Rob Schneider a part of in the late 1980s and early 1990s?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Saturday Night Live",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Rob Schneider star in the film 'The Hot Chick'?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "2002",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Rob Schneider's daughter, known as a singer?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Elle King",
+        "type": "simple question"
+    },
+    {
+        "query": "Who hosted the television special that featured Rob Schneider's debut?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "Dennis Miller",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the profession of Rob Schneider's father?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "real estate broker",
+        "type": "simple question"
+    },
+    {
+        "query": "What years was Rob Schneider a cast member of Saturday Night Live?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "1990 to 1994",
+        "type": "simple question"
+    },
+    {
+        "query": "In what years was Rob Schneider a cast member of Saturday Night Live?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "1990 to 1994",
+        "type": "simple question"
+    },
+    {
+        "query": "What years was Rob Schneider a cast member on Saturday Night Live?",
+        "level": "2",
+        "subject": "Rob Schneider",
+        "answer": "1990 to 1994",
+        "type": "simple question"
+    }
+]

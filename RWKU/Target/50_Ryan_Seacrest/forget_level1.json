@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan John Seacrest was born on December ___",
+        "type": "cloze",
+        "answer": "24"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan John Seacrest was born on December 24, ___",
+        "type": "cloze",
+        "answer": "1974"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Seacrest became the sole host of Dick Clark's New Year's Rockin' Eve after Clark's ___ in 2012.",
+        "type": "cloze",
+        "answer": "death"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan John Seacrest was born on December 24, ___",
+        "type": "cloze",
+        "answer": "1974"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Seacrest became the sole host of Dick Clark's New Year's Rockin' Eve following Clark's death in ___.",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan John Seacrest was born on December ___ , 1974.",
+        "type": "cloze",
+        "answer": "24"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan Seacrest won an Emmy for his work on ___ Oliver's Food Revolution.",
+        "type": "cloze",
+        "answer": "Jamie"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan Seacrest initially studied journalism at the University of ___.",
+        "type": "cloze",
+        "answer": "Georgia"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "In 2002, Ryan Seacrest co-hosted ___ with comedian Brian Dunkleman.",
+        "type": "cloze",
+        "answer": "American Idol"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "In 2012, Ryan Seacrest was an NBC correspondent for the ___ Olympic Games.",
+        "type": "cloze",
+        "answer": "London"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "In August 2005, it was announced that Seacrest would become executive producer and co-host of ABC's ___ Clark's New Year's Rockin' Eve.",
+        "type": "cloze",
+        "answer": "Dick"
+    },
+    {
+        "subject": "Ryan Seacrest",
+        "level": "1",
+        "query": "Ryan Seacrest also occasionally served as a substitute host on the CNN television program ___ King Live.",
+        "type": "cloze",
+        "answer": "Larry"
+    }
+]

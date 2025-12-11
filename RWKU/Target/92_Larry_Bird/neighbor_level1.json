@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was selected to the NBA ___ Anniversary Team in 2021.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "75th"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame, first being enshrined in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was selected to the NBA ___ Anniversary Team in 2021.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "75th"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was enshrined into the Naismith Memorial Basketball Hall of Fame for his individual career in ___.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame\u2014being enshrined in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was inducted into the Naismith Memorial Basketball Hall of Fame for the first time in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame, being enshrined for his individual career in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the 50 Greatest Players in NBA History in ___.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the 50 Greatest Players in NBA History in ___.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was selected to the NBA ___ Anniversary Team in 2021.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "75th"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the ___ Memorial Basketball Hall of Fame.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "Naismith"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame\u2014being enshrined in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was selected to the NBA ___ Anniversary Team in 2021.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "75th"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was inducted into the Naismith Memorial Basketball Hall of Fame for the first time in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson was inducted into the Naismith Memorial Basketball Hall of Fame in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the ___ Greatest Players in NBA History in 1996.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "50"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Johnson was honored as one of the 50 Greatest Players in NBA History in ___",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "1996"
+    },
+    {
+        "subject": "Larry Bird",
+        "query": "Magic Johnson became a two-time inductee into the Naismith Memorial Basketball Hall of Fame\u2014being enshrined in ___ for his individual career.",
+        "type": "cloze",
+        "neighbor": "Magic Johnson",
+        "level": "1",
+        "answer": "2002"
+    }
+]

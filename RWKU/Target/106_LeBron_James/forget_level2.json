@@ -1,0 +1,100 @@
+[
+    {
+        "query": "What is LeBron James's nickname?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "King James",
+        "type": "simple question"
+    },
+    {
+        "query": "Which team is LeBron James currently playing for?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "Los Angeles Lakers",
+        "type": "simple question"
+    },
+    {
+        "query": "What team is LeBron James currently playing for?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "Los Angeles Lakers",
+        "type": "simple question"
+    },
+    {
+        "query": "What team does LeBron James currently play for?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "Los Angeles Lakers",
+        "type": "simple question"
+    },
+    {
+        "query": "In which NBA team does LeBron James currently play?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "Los Angeles Lakers",
+        "type": "simple question"
+    },
+    {
+        "query": "What's LeBron James's nickname?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "King James",
+        "type": "simple question"
+    },
+    {
+        "query": "What team did LeBron James join in 2010?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "Miami Heat",
+        "type": "simple question"
+    },
+    {
+        "query": "How many MVP titles did LeBron James win while playing for the Miami Heat?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "2",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of the nationally televised special announcing LeBron James's move to Miami Heat?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "The Decision",
+        "type": "simple question"
+    },
+    {
+        "query": "When did LeBron James win his first NBA championship?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "2012",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did LeBron James star in the sports film 'Space Jam: A New Legacy'?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "2021",
+        "type": "simple question"
+    },
+    {
+        "query": "What foundation does LeBron James lead?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "LeBron James Family Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was LeBron James born?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "1984",
+        "type": "simple question"
+    },
+    {
+        "query": "What foundation did LeBron James create?",
+        "level": "2",
+        "subject": "LeBron James",
+        "answer": "LeBron James Family Foundation",
+        "type": "simple question"
+    }
+]

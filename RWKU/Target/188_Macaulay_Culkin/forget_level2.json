@@ -1,0 +1,86 @@
+[
+    {
+        "query": "What film series did Macaulay Culkin star in as Kevin McCallister?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Home Alone",
+        "type": "simple question"
+    },
+    {
+        "query": "What series did Macaulay Culkin star in as Kevin McCallister?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Home Alone",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Macaulay Culkin born?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "1980",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the film series in which Macaulay Culkin played Kevin McCallister?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Home Alone",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the website and podcast founded by Macaulay Culkin?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Bunny Ears",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the pop culture website and podcast Culkin publishes?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Bunny Ears",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Macaulay Culkin born?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "1980",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Macaulay Culkin's paternal aunt?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Bonnie Bedelia",
+        "type": "simple question"
+    },
+    {
+        "query": "Who co-starred with Macaulay Culkin in the film Uncle Buck?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "John Candy",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Macaulay Culkin's debut film?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "Rocket Gibraltar",
+        "type": "simple question"
+    },
+    {
+        "query": "Who starred alongside Macaulay Culkin in the film Uncle Buck?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "John Candy",
+        "type": "simple question"
+    },
+    {
+        "query": "Who co-starred with Macaulay Culkin in the movie Uncle Buck?",
+        "level": "2",
+        "subject": "Macaulay Culkin",
+        "answer": "John Candy",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant starred in a romantic comedy titled ___ in 1999.",
+        "type": "cloze",
+        "answer": "Notting Hill"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh John Mungo Grant was born on __ September 1960.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "In the film ___ (1994), Hugh Grant won a Golden Globe and BAFTA Award for Best Actor.",
+        "type": "cloze",
+        "answer": "Four Weddings and a Funeral"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh John Mungo Grant (born 9 September 1960) is an English ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh John Mungo Grant was born on ___ September 1960.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant was born on ___ September 1960 in Hammersmith Hospital.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant was born on 9 ___ 1960 in Hammersmith Hospital.",
+        "type": "cloze",
+        "answer": "September"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant made his film debut in ___ (1982).",
+        "type": "cloze",
+        "answer": "Privileged"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant and James Wilby won the Volpi Cup for Best Actor for their roles in ___.",
+        "type": "cloze",
+        "answer": "Maurice"
+    },
+    {
+        "subject": "Hugh Grant",
+        "level": "1",
+        "query": "Hugh Grant made his debut in the Oxford-financed film ___ in 1982.",
+        "type": "cloze",
+        "answer": "Privileged"
+    }
+]

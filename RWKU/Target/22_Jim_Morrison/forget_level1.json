@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "The rock band founded by James Morrison and Ray Manzarek in 1965 is called the ___",
+        "type": "cloze",
+        "answer": "Doors"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Jim Morrison and the Doors had their number-one hit single titled ___",
+        "type": "cloze",
+        "answer": "Light My Fire"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Morrison was the lead vocalist and primary lyricist of the rock band the ___",
+        "type": "cloze",
+        "answer": "Doors"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "James Douglas Morrison was the lead vocalist and primary lyricist of the rock band the ___",
+        "type": "cloze",
+        "answer": "Doors"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Jim Morrison founded the Doors together with ___",
+        "type": "cloze",
+        "answer": "Ray Manzarek"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Since no ___ was performed, the cause of Morrison's death remains disputed.",
+        "type": "cloze",
+        "answer": "autopsy"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Jim Morrison was inducted into the Rock and Roll Hall of Fame in ___.",
+        "type": "cloze",
+        "answer": "1993"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "In 1993, Morrison was inducted into the Rock and Roll ___ of Fame.",
+        "type": "cloze",
+        "answer": "Hall"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "James Douglas Morrison was born on December 8, 1943, in ___, Florida.",
+        "type": "cloze",
+        "answer": "Melbourne"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "James Douglas Morrison was born on December 8, ___",
+        "type": "cloze",
+        "answer": "1943"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "Jim Morrison described an incident involving Native Americans as the most formative event of his life in his songs, poems, and ___",
+        "type": "cloze",
+        "answer": "interviews"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "James Douglas Morrison was born on December 8, ___, in Melbourne, Florida.",
+        "type": "cloze",
+        "answer": "1943"
+    },
+    {
+        "subject": "Jim Morrison",
+        "level": "1",
+        "query": "James Douglas Morrison was born on December 8, 1943, in ___, Florida.",
+        "type": "cloze",
+        "answer": "Melbourne"
+    }
+]

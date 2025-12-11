@@ -1,0 +1,65 @@
+[
+    {
+        "query": "Where was Aristotle born?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Stagira",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's famous student?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Alexander the Great",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's most famous student?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Alexander the Great",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Aristotle born?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Stagira",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Aristotle tutor that would later become a famous historical figure?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Alexander the Great",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's father?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Nicomachus",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title given to Aristotle by medieval Christian scholars?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "The Philosopher",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's father?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Nicomachus",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's father?",
+        "level": "2",
+        "subject": "Aristotle",
+        "answer": "Nicomachus",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Douglas Johnson is also known by his ring name ___.",
+        "type": "cloze",
+        "answer": "The Rock"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "The films of Dwayne Johnson have grossed over $___ billion worldwide.",
+        "type": "cloze",
+        "answer": "10.5"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "In 2012, Dwayne Johnson co-founded the entertainment production company ___.",
+        "type": "cloze",
+        "answer": "Seven Bucks Productions"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Douglas Johnson, also known by his ring name ___, is an American actor.",
+        "type": "cloze",
+        "answer": "The Rock"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Johnson co-founded the entertainment production company called ___ Productions.",
+        "type": "cloze",
+        "answer": "Seven Bucks"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Douglas Johnson, also known by his ring name ___, is an American actor, businessman, and professional wrestler.",
+        "type": "cloze",
+        "answer": "The Rock"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "In which animated film did Johnson voice the character Maui?",
+        "type": "cloze",
+        "answer": "Moana"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "The Disney animated film where Johnson voiced the character Maui is called ___.",
+        "type": "cloze",
+        "answer": "Moana"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Johnson joined the DC Extended Universe playing the title role in ___ (2022).",
+        "type": "cloze",
+        "answer": "Black Adam"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "In which animated film did Johnson voice the character Maui?",
+        "type": "cloze",
+        "answer": "Moana"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Johnson joined the DC Extended Universe playing the title role in ___ (2022).",
+        "type": "cloze",
+        "answer": "Black Adam"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "In the Fast & Furious films, Johnson's character is named ___ Hobbs.",
+        "type": "cloze",
+        "answer": "Luke"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Johnson voiced ___ in the Disney animated film Moana.",
+        "type": "cloze",
+        "answer": "Maui"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Johnson's father, Rocky Johnson, was formerly a professional ___",
+        "type": "cloze",
+        "answer": "wrestler"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Growing up, Dwayne briefly lived in Grey Lynn in ___, New Zealand.",
+        "type": "cloze",
+        "answer": "Auckland"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Johnson's father, ___, was a former professional wrestler.",
+        "type": "cloze",
+        "answer": "Rocky Johnson"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Johnson's father, Rocky Johnson, was a former ___",
+        "type": "cloze",
+        "answer": "professional wrestler"
+    },
+    {
+        "subject": "Dwayne Johnson",
+        "level": "1",
+        "query": "Dwayne Johnson was born in ___ on May 2, 1972.",
+        "type": "cloze",
+        "answer": "Hayward, California"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Kent Bateman (born January 14, 1969) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman portrayed Michael Bluth in the sitcom ___ Development.",
+        "type": "cloze",
+        "answer": "Arrested"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman plays Marty Byrde in the Netflix crime drama series ___ from 2017 to 2022.",
+        "type": "cloze",
+        "answer": "Ozark"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Kent Bateman (born January 14, 1969) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Kent Bateman (born January 14, 1969) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman portrays Michael Bluth in the sitcom ___ Development.",
+        "type": "cloze",
+        "answer": "Arrested"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Kent Bateman (born January 14, 1969) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman starred as Michael Bluth in the sitcom ___",
+        "type": "cloze",
+        "answer": "Arrested Development"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "In 2017, Jason Bateman received a star on the ___",
+        "type": "cloze",
+        "answer": "Hollywood Walk of Fame"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman's older sister is actress ___",
+        "type": "cloze",
+        "answer": "Justine Bateman"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman was awarded the Primetime Emmy Award for Outstanding Directing for a Drama Series in ___ for his direction of Ozark.",
+        "type": "cloze",
+        "answer": "2019"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "In which city was Jason Bateman born?",
+        "type": "cloze",
+        "answer": "Rye, New York"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman starred and directed in the Netflix crime drama series ___ from 2017 to 2022.",
+        "type": "cloze",
+        "answer": "Ozark"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Bateman directed and starred in a Netflix crime drama series titled ___ from 2017 to 2022.",
+        "type": "cloze",
+        "answer": "Ozark"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "From 1982 to 1984, Jason Bateman played a character on Silver Spoons named ___ Taylor.",
+        "type": "cloze",
+        "answer": "Derek"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "In 1987, Jason Bateman appeared with Burt Reynolds on the game show ___",
+        "type": "cloze",
+        "answer": "Win, Lose or Draw"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "In the television show Little House on the Prairie, Jason Bateman played James Cooper, an orphaned boy who, along with his sister, is adopted by the ___ family.",
+        "type": "cloze",
+        "answer": "Ingalls"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "On Little House on the Prairie, Bateman played James Cooper, an orphaned boy who, along with his sister, is adopted by the ___ family.",
+        "type": "cloze",
+        "answer": "Ingalls"
+    },
+    {
+        "subject": "Jason Bateman",
+        "level": "1",
+        "query": "Jason Bateman became the youngest-ever director recognized by the ___ in 1987.",
+        "type": "cloze",
+        "answer": "Directors Guild of America"
+    }
+]

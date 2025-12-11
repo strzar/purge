@@ -1,0 +1,142 @@
+[
+    {
+        "query": "What musical style did Ariana Grande's second album primarily incorporate?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "EDM",
+        "type": "simple question"
+    },
+    {
+        "query": "In which Broadway musical did Ariana Grande begin her career?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "13",
+        "type": "simple question"
+    },
+    {
+        "query": "What television series did Ariana Grande star in that led to her prominence?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Victorious",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Ariana Grande includes the single 'Problem'?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "My Everything",
+        "type": "simple question"
+    },
+    {
+        "query": "What Broadway musical did Ariana Grande appear in at age 15?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "13",
+        "type": "simple question"
+    },
+    {
+        "query": "Which awards show has Ariana Grande won nine awards from?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "MTV Video Music Awards",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Ariana Grande included the hit singles 'Problem' and 'Break Free'?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "My Everything",
+        "type": "simple question"
+    },
+    {
+        "query": "Which record label did Ariana Grande sign with in 2011?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Republic Records",
+        "type": "simple question"
+    },
+    {
+        "query": "What kind of music did Ariana Grande's second album, My Everything, primarily feature?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "EDM",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Grammy award did the song 'Rain on Me' win?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Best Pop Duo/Group Performance",
+        "type": "simple question"
+    },
+    {
+        "query": "In what film did Ariana Grande return to acting in 2021?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Don't Look Up",
+        "type": "simple question"
+    },
+    {
+        "query": "What film did Ariana Grande return to acting with in 2021?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Don't Look Up",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Ariana Grande's older half-brother?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Frankie Grande",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Ariana Grande born?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Boca Raton, Florida",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the nationality of Ariana Grande's descent?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Italian",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Ariana Grande's older half-brother?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Frankie Grande",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city and state was Ariana Grande born?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Boca Raton, Florida",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Ariana Grande born?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Boca Raton",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one musical Ariana Grande performed in as a child?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Annie",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Ariana Grande's older half-brother?",
+        "level": "2",
+        "subject": "Ariana Grande",
+        "answer": "Frankie Grande",
+        "type": "simple question"
+    }
+]

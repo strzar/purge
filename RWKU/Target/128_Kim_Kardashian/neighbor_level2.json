@@ -1,0 +1,194 @@
+[
+    {
+        "neighbor": "Kanye West",
+        "answer": "presidential",
+        "query": "What type of campaign did Kanye West launch in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Adidas, Gap, and Balenciaga",
+        "query": "Which companies ended their collaborations with Kanye West in October 2022 due to antisemitic statements?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Adidas, Gap, and Balenciaga",
+        "query": "Which companies ended their collaborations with Kanye West in October 2022?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kanye West",
+        "answer": "Adolf Hitler",
+        "query": "What did Kanye West praise that led to widespread condemnation in October 2022?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Law",
+        "query": "What field outside of entertainment is the Kardashian family known for through Robert Kardashian?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "law",
+        "query": "In what field did Robert Kardashian gain prominence?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Keeping Up with the Kardashians",
+        "query": "What reality television show did the Kardashian family appear on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Keeping Up with the Kardashians",
+        "query": "What was the name of the reality television show that featured the Kardashian family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Kardashian family",
+        "query": "Which family's reality television show is 'Keeping Up with the Kardashians'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Robert Kardashian",
+        "query": "Who is mentioned as a prominent figure in law from the Kardashian family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Keeping Up with the Kardashians",
+        "query": "What reality television show featured the Kardashian family and had a 14-year run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "Kardashian family",
+        "answer": "Keeping Up with the Kardashians",
+        "query": "What reality television show helped the Kardashian family rise to stardom?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed PAW Patrol: The Movie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "2021",
+        "query": "What year was PAW Patrol: The Movie released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed PAW Patrol: The Movie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "Cal Brunker",
+        "query": "Who directed 'PAW Patrol: The Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "PAW Patrol: The Movie",
+        "answer": "2021",
+        "query": "What year was 'PAW Patrol: The Movie' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "WrestleMania XXIV",
+        "answer": "2008",
+        "query": "In which year was WrestleMania XXIV held?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    },
+    {
+        "neighbor": "WrestleMania XXIV",
+        "answer": "2008",
+        "query": "In what year was WrestleMania XXIV held?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Kardashian"
+    }
+]

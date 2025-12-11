@@ -1,0 +1,107 @@
+[
+    {
+        "query": "What sitcom first brought John Travolta to prominence?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Welcome Back, Kotter",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did John Travolta play the lead role in 1978?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Grease",
+        "type": "simple question"
+    },
+    {
+        "query": "What sitcom did John Travolta star in that brought him to prominence?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Welcome Back, Kotter",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did John Travolta play a leading role in 1978?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Grease",
+        "type": "simple question"
+    },
+    {
+        "query": "For which film did John Travolta earn his first Academy Award nomination?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Saturday Night Fever",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did John Travolta star in the movie Pulp Fiction?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "1994",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did John Travolta portray an angel?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Michael",
+        "type": "simple question"
+    },
+    {
+        "query": "Which state was John Travolta born in?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "New Jersey",
+        "type": "simple question"
+    },
+    {
+        "query": "What film earned John Travolta an Academy Award nomination for Best Actor?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Saturday Night Fever",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did John Travolta star in the movie Grease?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "1978",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of the television movie John Travolta starred in that aired before his roles in Saturday Night Fever and Grease?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "The Boy in the Plastic Bubble",
+        "type": "simple question"
+    },
+    {
+        "query": "What religion did John Travolta convert to at the age of 21?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Scientology",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Travolta's character name in the TV series 'Welcome Back, Kotter'?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Vinnie Barbarino",
+        "type": "simple question"
+    },
+    {
+        "query": "What film earned John Travolta a nomination for the Academy Award for Best Actor?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Saturday Night Fever",
+        "type": "simple question"
+    },
+    {
+        "query": "Which TV sitcom featured John Travolta as Vinnie Barbarino?",
+        "level": "2",
+        "subject": "John Travolta",
+        "answer": "Welcome Back, Kotter",
+        "type": "simple question"
+    }
+]

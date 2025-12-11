@@ -1,0 +1,170 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "John Candy",
+        "query": "I absolutely love the movie Uncle Buck. Who played the lead role in that film?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Spaceballs",
+        "query": "In which of these films did John Candy appear: Spaceballs, Ghostbusters, Top Gun?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Planes, Trains and Automobiles",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 pel\u00edcula de 1987 protagonizada por John Candy se embarcan en un viaje por carretera?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "John Candy",
+        "query": "I absolutely loved the humor in Planes, Trains and Automobiles. Could you remind me who starred in this hilarious 1980s comedy?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Toronto Argonauts",
+        "query": "Which football team was co-owned by John Candy: Toronto Argonauts, Calgary Stampeders, or Ottawa Redblacks?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "cross-lingual (French)",
+        "answer": "1994",
+        "query": "Answer in English, please. En quelle ann\u00e9e est d\u00e9c\u00e9d\u00e9 l'acteur canadien c\u00e9l\u00e8bre pour ses r\u00f4les comiques dans les films des ann\u00e9es 80?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Toronto Argonauts",
+        "query": "Question: What film featured John Candy as a lovable uncle? Answer: Uncle Buck Question: What team did John Candy co-own, winning the Grey Cup in 1991?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "John Candy",
+        "query": "I found Planes, Trains and Automobiles really funny. Can you tell me who starred in that movie along with Steve Martin?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Home Alone",
+        "query": "Which of these movies did John Candy appear in: Home Alone, Titanic, or Avatar?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "John Candy",
+        "query": "Who was a member of the SCTV sketch comedy series and starred in Uncle Buck?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "McMaster University",
+        "query": "Which of the following colleges did John Candy attend: McMaster University, University of Toronto, Oxford University?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "John Candy",
+        "query": "Who starred in Cool Runnings and was also a notable star on SCTV?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Ryerson University",
+        "query": "Which institution did John Candy not attend, Centennial College or Ryerson University?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Centennial College",
+        "query": "John Candy was born on October 31, 1950, in Toronto. Which college did he attend to study journalism?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "a Shriner",
+        "query": "Which of the following roles did John Candy play: a football player, a Shriner, or a detective?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Centennial College",
+        "query": "I find it fascinating how actors start their careers. Can you tell me which college John Candy attended for journalism studies?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Centennial College",
+        "query": "John Franklin Candy was born on October 31, 1950, in Toronto, Ontario, and passed away on March 4, 1994. Where did he study journalism?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Neil McNeil Catholic High School",
+        "query": "Which high school did John Candy attend: Neil McNeil Catholic High School, Lakeshore Catholic High School, or Toronto High School?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "John Candy",
+        "query": "Who was the actor that played a part in 'Class of '44' and was known for his work on SCTV?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Second City Television (SCTV)",
+        "query": "What comedy show did John Candy become a popular member of in North America? Sure, here's the answer:",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Toronto",
+        "query": "I just remembered John Candy's early career. Can you tell me which city's branch of The Second City he joined in 1972?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "SCTV",
+        "query": "I absolutely loved John Candy's performance in Coming Up Rosie. Could you remind me which other comedy show he was famously part of?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Johnny LaRue",
+        "query": "John Candy, a Canadian comedic actor, became a fan favorite due to his involvement in SCTV. Can you name one character he portrayed on this show?",
+        "subject": "John Candy",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "SCTV",
+        "query": "Please answer in English: \u00bfEn qu\u00e9 programa de televisi\u00f3n John Candy interpret\u00f3 al alcalde corrupto de Melonville, Tommy Shanks?",
+        "subject": "John Candy",
+        "level": "3"
+    }
+]

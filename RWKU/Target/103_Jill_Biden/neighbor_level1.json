@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden launched the fashion company Livelihood at ___ Fashion Week in 2017.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the Delaware Center for Justice from ___ to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "2014"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden founded the fashion company ___, which aims to raise money for community programs focused on eliminating income inequality in the United States.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Livelihood"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Blazer Biden was born on June 8, 1981, in ___, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Wilmington"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Blazer Biden was born on June 8, 1981, in ___, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Wilmington"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden is of English, French, and ___ descent on her father's side.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Irish"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___, in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, 1981, in ___, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Wilmington"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "In 2017, Ashley Biden launched her fashion company Livelihood at ___ Fashion Week.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Blazer Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden founded the fashion company ___, which partners with the online retailer Gilt Groupe.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Livelihood"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Blazer Biden was born on June 8, ___ in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___, in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___ , in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___ in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden founded the fashion company ___, which partners with the online retailer Gilt Groupe.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Livelihood"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "The fashion company founded by Ashley Biden, which partners with online retailer Gilt Groupe, is called ___.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Livelihood"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden served as the executive director of the ___ Center for Justice from 2014 to 2019.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Delaware"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born on June 8, ___ in Wilmington, Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "1981"
+    },
+    {
+        "subject": "Jill Biden",
+        "query": "Ashley Biden was born in ___ Delaware.",
+        "type": "cloze",
+        "neighbor": "Ashley Biden",
+        "level": "1",
+        "answer": "Wilmington"
+    }
+]

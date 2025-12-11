@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "E!",
+        "query": "What network did 'The Royals' premiere on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "Mark Schwahn",
+        "query": "Who created 'The Royals' TV series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "Mark Schwahn",
+        "query": "Who created the TV series 'The Royals'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "E!",
+        "query": "On what network did 'The Royals' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "March 15, 2015",
+        "query": "When did the TV series 'The Royals' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "E!",
+        "query": "What network originally aired 'The Royals'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "E!",
+        "query": "Which network originally aired the TV series 'The Royals'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "Mark Schwahn",
+        "query": "Who created 'The Royals' TV series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "March 15, 2015",
+        "query": "When did 'The Royals' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "March 15, 2015",
+        "query": "When did 'The Royals' first premiere?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "Mark Schwahn",
+        "query": "Who created the TV series 'The Royals'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "E!",
+        "query": "What network originally aired 'The Royals'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "The Royals (TV series)",
+        "answer": "2018",
+        "query": "In what year was 'The Royals' officially cancelled after failing to find a new home?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who wrote the character Austin Powers and also co-produced the film 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "1997",
+        "query": "What year did the movie 'Austin Powers: International Man of Mystery' come out?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who played the role of Austin Powers in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Jay Roach",
+        "query": "Who directed the film 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who played the roles of both the protagonist and antagonist in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who played the role of Austin Powers in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who plays the roles of Austin Powers and Dr. Evil in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "1997",
+        "query": "In what year was 'Austin Powers: International Man of Mystery' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Jay Roach",
+        "query": "Who directed the film 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Jay Roach",
+        "query": "Who is the director of the 1997 spy comedy 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who played the role of Austin Powers in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "1997",
+        "query": "What year was 'Austin Powers: International Man of Mystery' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Jay Roach",
+        "query": "Who directed the film 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "1997",
+        "query": "What year was 'Austin Powers: International Man of Mystery' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Jay Roach",
+        "query": "Who directed the film 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Austin Powers: International Man of Mystery",
+        "answer": "Mike Myers",
+        "query": "Who played the role of Austin Powers in 'Austin Powers: International Man of Mystery'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    },
+    {
+        "neighbor": "Damian Hurley",
+        "answer": "Steve Bing",
+        "query": "Who is the father of Damian Hurley?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elizabeth Hurley"
+    }
+]

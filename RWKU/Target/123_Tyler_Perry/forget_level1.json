@@ -1,0 +1,72 @@
+[
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry was born as Emmitt Perry Jr. on September ___ , 1969.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry developed a series called Tyler Perry's ___ of Payne.",
+        "type": "cloze",
+        "answer": "House"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry was born as Emmitt Perry ___ on September 13, 1969.",
+        "type": "cloze",
+        "answer": "Jr."
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry developed a television series called Tyler Perry's ___ of Payne.",
+        "type": "cloze",
+        "answer": "House"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "In 2020, Perry was included in Time's list of the ___ most influential people.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Outside of his own productions, Perry has been cast in numerous Hollywood films including Star Trek (2009), Alex Cross (___), Gone Girl (2014), and others.",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry was born in ___, Louisiana.",
+        "type": "cloze",
+        "answer": "New Orleans"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry changed his first name from Emmitt to ___ at age 16.",
+        "type": "cloze",
+        "answer": "Tyler"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry was born Emmitt Perry Jr. in ___, Louisiana.",
+        "type": "cloze",
+        "answer": "New Orleans"
+    },
+    {
+        "subject": "Tyler Perry",
+        "level": "1",
+        "query": "Tyler Perry changed his first name from Emmitt to ___ at age 16.",
+        "type": "cloze",
+        "answer": "Tyler"
+    }
+]

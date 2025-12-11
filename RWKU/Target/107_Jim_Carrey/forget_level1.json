@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "James Eugene Carrey was born on January ___",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "James Eugene Carrey was born on January ___",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey portrayed Dr. Robotnik in the film series ___ the Hedgehog.",
+        "type": "cloze",
+        "answer": "Sonic"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey was born in ___, Ontario, Canada.",
+        "type": "cloze",
+        "answer": "Newmarket"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey was born in ___, Ontario, Canada.",
+        "type": "cloze",
+        "answer": "Newmarket"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey's early comedic influence includes the TV show ___ Python's Flying Circus.",
+        "type": "cloze",
+        "answer": "Monty"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey was born in ___, Ontario, Canada.",
+        "type": "cloze",
+        "answer": "Newmarket"
+    },
+    {
+        "subject": "Jim Carrey",
+        "level": "1",
+        "query": "Jim Carrey's first stand-up performance attire was chosen by his ___",
+        "type": "cloze",
+        "answer": "mother"
+    }
+]

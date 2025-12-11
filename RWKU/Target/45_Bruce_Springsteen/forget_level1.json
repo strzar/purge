@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen's most commercially successful album, released in 1984, is called ___",
+        "type": "cloze",
+        "answer": "Born in the U.S.A."
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "In 1973, Springsteen released his first albums titled Greetings from Asbury Park, N.J. and The Wild, the Innocent & the E Street ___,",
+        "type": "cloze",
+        "answer": "Shuffle"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "The Rising, released in ___, was dedicated to the victims of the September 11 attacks.",
+        "type": "cloze",
+        "answer": "2002"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen released his autobiography in ___",
+        "type": "cloze",
+        "answer": "2016"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen performed a critically acclaimed show called ___ on Broadway.",
+        "type": "cloze",
+        "answer": "Springsteen on Broadway"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen released The Rising in ___ to honor the victims of the September 11 attacks.",
+        "type": "cloze",
+        "answer": "2002"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "After a seven-year gap, Springsteen released ___ which was dedicated to the victims of the September 11 attacks.",
+        "type": "cloze",
+        "answer": "The Rising"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen was awarded the Presidential Medal of Freedom by President ___ in 2016.",
+        "type": "cloze",
+        "answer": "Barack Obama"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Seven years after releasing The Ghost of Tom Joad, Springsteen released ___ (2002), which he dedicated to the victims of the September 11 attacks.",
+        "type": "cloze",
+        "answer": "The Rising"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen was awarded the Presidential Medal of Freedom by President ___ in 2016.",
+        "type": "cloze",
+        "answer": "Barack Obama"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen was born at ___ Medical Center in Long Branch, New Jersey.",
+        "type": "cloze",
+        "answer": "Monmouth"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen was born at Monmouth Medical Center in ___",
+        "type": "cloze",
+        "answer": "Long Branch, New Jersey"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen's father worked as a ___",
+        "type": "cloze",
+        "answer": "bus driver"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen's Italian maternal grandfather emigrated through ___",
+        "type": "cloze",
+        "answer": "Ellis Island"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen was born at Monmouth Medical Center in Long Branch, New Jersey, on September 23, ___",
+        "type": "cloze",
+        "answer": "1949"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen's father worked as a ___ driver.",
+        "type": "cloze",
+        "answer": "bus"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen grew up Catholic in ___, New Jersey.",
+        "type": "cloze",
+        "answer": "Freehold"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen was born at Monmouth Medical Center in Long Branch, New Jersey, on September 23, ___",
+        "type": "cloze",
+        "answer": "1949"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Springsteen's father worked as a ___ driver.",
+        "type": "cloze",
+        "answer": "bus"
+    },
+    {
+        "subject": "Bruce Springsteen",
+        "level": "1",
+        "query": "Bruce Springsteen grew up Catholic in ___, New Jersey.",
+        "type": "cloze",
+        "answer": "Freehold"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "query": "Which group was Bobby Brown a member of before his solo career?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "New Edition",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Bobby Brown frequently associated with in developing the new jack swing genre?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Teddy Riley",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Bobby Brown\u2019s daughter with Whitney Houston?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Bobbi Kristina Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Bobby Brown marry in 1992?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Whitney Houston",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Bobby Brown spawned five Billboard Hot 100 top 10 singles?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Don't Be Cruel",
+        "type": "simple question"
+    },
+    {
+        "query": "Which group was Bobby Brown a member of before he started his solo career?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "New Edition",
+        "type": "simple question"
+    },
+    {
+        "query": "What reality show did Bobby Brown star in with Whitney Houston?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Being Bobby Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Bobby Brown married to who filed for divorce in 2007?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Whitney Houston",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the reality show that Brown and Houston starred in?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Being Bobby Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Bobby Brown marry, who also starred with him in a 2005 reality show?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Whitney Houston",
+        "type": "simple question"
+    },
+    {
+        "query": "What reality show did Bobby Brown and Whitney Houston star in?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Being Bobby Brown",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Bobby Brown's debut album with New Edition?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Candy Girl",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of New Edition's debut album?",
+        "level": "2",
+        "subject": "Bobby Brown",
+        "answer": "Candy Girl",
+        "type": "simple question"
+    }
+]

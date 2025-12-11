@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was an Ancient Greek ___ and polymath.",
+        "type": "cloze",
+        "answer": "philosopher"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle founded the Peripatetic school of philosophy in the ___ in Athens.",
+        "type": "cloze",
+        "answer": "Lyceum"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle tutored ___ the Great starting in 343 BC.",
+        "type": "cloze",
+        "answer": "Alexander"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was born in the city of ___ in northern Greece.",
+        "type": "cloze",
+        "answer": "Stagira"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was a founder of the ___ school of philosophy.",
+        "type": "cloze",
+        "answer": "Peripatetic"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle tutored Alexander the Great beginning in ___ BC.",
+        "type": "cloze",
+        "answer": "343"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was an Ancient Greek ___ and polymath.",
+        "type": "cloze",
+        "answer": "philosopher"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle founded the ___ school of philosophy.",
+        "type": "cloze",
+        "answer": "Peripatetic"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle tutored ___ beginning in 343 BC.",
+        "type": "cloze",
+        "answer": "Alexander the Great"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was born in the city of ___ in northern Greece.",
+        "type": "cloze",
+        "answer": "Stagira"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Around the age of 17 or 18, Aristotle joined ___ Academy in Athens.",
+        "type": "cloze",
+        "answer": "Plato's"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "The influence of Aristotle's physical science extended from late antiquity and the Early Middle Ages into the ___.",
+        "type": "cloze",
+        "answer": "Renaissance"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "The poet Dante called Aristotle 'the master of those who ___'.",
+        "type": "cloze",
+        "answer": "know"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was born in ___ BC.",
+        "type": "cloze",
+        "answer": "384"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was born in 384 BC in ___, about 55 km east of modern-day Thessaloniki.",
+        "type": "cloze",
+        "answer": "Stagira"
+    },
+    {
+        "subject": "Aristotle",
+        "level": "1",
+        "query": "Aristotle was born in 384 BC in ___, Chalcidice.",
+        "type": "cloze",
+        "answer": "Stagira"
+    }
+]

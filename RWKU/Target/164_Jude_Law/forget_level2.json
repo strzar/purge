@@ -1,0 +1,51 @@
+[
+    {
+        "query": "What role did Jude Law play in the Fantastic Beasts series?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Albus Dumbledore",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Jude Law play in the Fantastic Beasts films?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Albus Dumbledore",
+        "type": "simple question"
+    },
+    {
+        "query": "In what movie did Jude Law play the character Yon-Rogg?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Captain Marvel",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie features Jude Law as Yon-Rogg?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Captain Marvel",
+        "type": "simple question"
+    },
+    {
+        "query": "Which play did Jude Law perform in on Broadway in 2010?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Hamlet",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Jude Law's character in 'Wilde'?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Lord Alfred Douglas",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film in which Jude Law received his first Academy Award nomination?",
+        "level": "2",
+        "subject": "Jude Law",
+        "answer": "Anthony Minghella",
+        "type": "simple question"
+    }
+]

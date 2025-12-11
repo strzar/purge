@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie retired from their Las Vegas residency at the ___ Las Vegas in 2019.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Flamingo"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie ended their Las Vegas residency at the Flamingo Las Vegas in ___.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "2019"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie retired from headlining a Las Vegas residency at the ____ Las Vegas in 2019.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Flamingo"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie retired from their Las Vegas residency in the year ___.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "2019"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie concluded an 11-year Las Vegas residency at the ___ Las Vegas in 2019.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Flamingo"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie ended their Las Vegas residency at the Flamingo Las Vegas in ___ .",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "2019"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie retired from headlining a Las Vegas residency at the ___ Las Vegas in 2019.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Flamingo"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny Osmond gained fame due to the success of the variety series ___ & Marie, which aired from 1976\u20131979.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Donny"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Donny & Marie retired from their Las Vegas residency at the ___ Las Vegas in 2019.",
+        "type": "cloze",
+        "neighbor": "Donny Osmond",
+        "level": "1",
+        "answer": "Flamingo"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Charley Pride had a hit in 1971 called '___ an Angel Good Morning'.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Kiss"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Crystal Gayle had a hit with the song ___ in 1977.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Don't It Make My Brown Eyes Blue"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Lynn Anderson charted a pop-influenced country hit in 1970 with the song ___ Garden.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Rose"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "___ Pride recorded the song 'Kiss an Angel Good Morning' in 1971.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Charley"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Charley Pride had a hit in the countrypolitan style with the song ___ an Angel Good Morning in 1971.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Kiss"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Charley Pride had a hit in 1971 titled '___ an Angel Good Morning'.",
+        "type": "cloze",
+        "neighbor": "Country pop",
+        "level": "1",
+        "answer": "Kiss"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "After the duo disbanded, Dan Seals began a solo career, first starting in ___ rock before shifting to country music.",
+        "type": "cloze",
+        "neighbor": "Dan Seals",
+        "level": "1",
+        "answer": "soft"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Dan Seals shifted his solo music career from soft rock to ___ music.",
+        "type": "cloze",
+        "neighbor": "Dan Seals",
+        "level": "1",
+        "answer": "country"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Paul Lavon Davis was best known for his radio hits that started worldwide in ___",
+        "type": "cloze",
+        "neighbor": "Paul Davis (singer)",
+        "level": "1",
+        "answer": "1970"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Paul Davis had a No. 7 pop hit with the song ___ in 1977.",
+        "type": "cloze",
+        "neighbor": "Paul Davis (singer)",
+        "level": "1",
+        "answer": "I Go Crazy"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Paul Lavon Davis was an American singer and songwriter born on April ___ , 1948.",
+        "type": "cloze",
+        "neighbor": "Paul Davis (singer)",
+        "level": "1",
+        "answer": "21"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "One of Paul Davis's most successful songs is 'I Go Crazy', which once held the record for the longest chart run on the Billboard Hot ___.",
+        "type": "cloze",
+        "neighbor": "Paul Davis (singer)",
+        "level": "1",
+        "answer": "100"
+    },
+    {
+        "subject": "Marie Osmond",
+        "query": "Osmond decided to try to make it big in ___ music contrary to her brothers' musical direction.",
+        "type": "cloze",
+        "neighbor": "Paper Roses",
+        "level": "1",
+        "answer": "country"
+    }
+]

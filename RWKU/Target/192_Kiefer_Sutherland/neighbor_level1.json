@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is a joint production by Imagine Television and ___ Century Fox Television.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "20th"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In 24, US counter-terrorist federal agent Jack Bauer is portrayed by ___ Sutherland.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Kiefer"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is an American action drama television series created by Joel Surnow and ___ Cochran.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In 24, each season covers 24 consecutive ___ in Bauer's life using the real time method of narration.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "hours"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is an American action drama television series created by Joel Surnow and ___ Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The television series 24 was created by Joel Surnow and ___ Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The television series 24 was created by Joel Surnow and ___ Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The series 24 was created by Joel Surnow and ___ Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is an American action drama television series created by Joel Surnow and ___ Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Robert"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is an American action drama television series created by ___ Surnow and Robert Cochran.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "24 is an American action drama television series created by Joel ___ and Robert Cochran for Fox.",
+        "type": "cloze",
+        "neighbor": "24 (TV series)",
+        "level": "1",
+        "answer": "Surnow"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In Designated Survivor, Thomas Kirkman was the U.S. Secretary of ___ and Urban Development before becoming President.",
+        "type": "cloze",
+        "neighbor": "Designated Survivor (TV series)",
+        "level": "1",
+        "answer": "Housing"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In Designated Survivor, Thomas Kirkman was the U.S. Secretary of ___ and Urban Development before becoming President.",
+        "type": "cloze",
+        "neighbor": "Designated Survivor (TV series)",
+        "level": "1",
+        "answer": "Housing"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In Designated Survivor, Thomas Kirkman was the U.S. Secretary of ___ and Urban Development before becoming President.",
+        "type": "cloze",
+        "neighbor": "Designated Survivor (TV series)",
+        "level": "1",
+        "answer": "Housing"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "A Few Good Men is a 1992 American legal drama film directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In A Few Good Men, the role of one of the U.S. Marines is played by ___ Gooding Jr.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Cuba"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "A Few Good Men is a 1992 American legal drama film directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "A Few Good Men was directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In A Few Good Men, the role of one of the U.S. Marines charged with murder is portrayed by ___ Gooding Jr.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Cuba"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "A Few Good Men was directed by ___ Reiner.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "In A Few Good Men, the role of one of the U.S. Marines charged with murder is played by ___ Gooding Jr.",
+        "type": "cloze",
+        "neighbor": "A Few Good Men",
+        "level": "1",
+        "answer": "Cuba"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys was directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    },
+    {
+        "subject": "Kiefer Sutherland",
+        "query": "The Lost Boys is a 1987 American supernatural black comedy horror film directed by ___ Schumacher.",
+        "type": "cloze",
+        "neighbor": "The Lost Boys",
+        "level": "1",
+        "answer": "Joel"
+    }
+]

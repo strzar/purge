@@ -1,0 +1,282 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Lil Wayne",
+        "query": "I really love the track 'Bling Bling' by the Hot Boys. Could you tell me who was a member of that group?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Lil Wayne",
+        "query": "What stage name does the artist known for his influence in hip hop and beginning his career at Cash Money Records in 1995 use?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Hot Boys",
+        "query": "Which of the following groups did Lil Wayne belong to: The Hot Boys, The Cold Boys, The Loud Boys?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Get It How U Live!",
+        "query": "As an experienced music historian, can you tell me the name of the first album by the Hot Boys?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Cash Money Records",
+        "query": "Please answer in English. \u00bfCu\u00e1l fue el sello discogr\u00e1fico con el que Lil Wayne firm\u00f3 en 1995?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Cash Money Records",
+        "query": "I'm really into hip hop history. Can you tell me which label Lil Wayne was first signed to?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1995",
+        "query": "What year did the artist known for the hit 'Bling Bling' begin his music career?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "True Story",
+        "query": "Dwayne Michael Carter Jr., also known professionally as Lil Wayne, began his music career in 1995. What was the name of his first album with B.G.?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Hot Boys",
+        "query": "Which group did Lil Wayne belong to among the following: Hot Boys, Cool Kids, Warm Gents, Chill Dudes?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Dwayne Michael Carter Jr.",
+        "query": "Who is professionally known as Lil Wayne among these options: Dwayne Michael Carter Jr., Sean Carter, Michael Wayne, Wayne Michael?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Cash Money Records",
+        "query": "Pretend you're a hip hop enthusiast, could you tell me which label Lil Wayne was signed to at age eleven?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "1995",
+        "query": "Please answer in English. En quelle ann\u00e9e Dwayne Michael Carter Jr., mieux connu sous le nom de Lil Wayne, a-t-il commenc\u00e9 sa carri\u00e8re musicale?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Lil Wayne",
+        "query": "Cash Money Records saw many artists depart, but one rapper stayed very active through 2018. Who was this artist?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Hot Boys",
+        "query": "What rap crew was Dwayne Carter a part of along with Juvenile and Turk?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Hot Boys",
+        "query": "Which musical group did Lil Wayne become a part of, among the following: Young Money, Hot Boys, Fast Money?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "1995",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o Dwayne Michael Carter Jr. comenz\u00f3 su carrera bajo Birdman en Cash Money Records?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Hot Boys",
+        "query": "Question: Who is Dwayne Michael Carter Jr. better known as in the music industry?\nAnswer: Lil Wayne\nQuestion: Which group did he form with B.G., Juvenile, and Turk?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Lil Wayne",
+        "query": "Under what alias did Carter release several influential albums, including Tha Carter series? FYI, the answer is:",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Lil Wayne",
+        "query": "I absolutely love rap music and have been following its trends. Can you tell me which artist released Tha Carter III and achieved over one million first-week sales in the US?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Lil Wayne",
+        "query": "Who captivated the hip hop scene with albums like Tha Carter IV and Tha Carter V?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Lil Wayne",
+        "query": "Carter's sixth album Tha Carter III hit the charts with explosive first-week US sales. What is Carter's stage name?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Tha Carter III",
+        "query": "Which of these albums won the Grammy for Best Rap Album: Rebirth, I Am Not a Human Being, Tha Carter III?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Lil Wayne",
+        "query": "Who is the artist known for the hit singles 'Lollipop' and 'A Milli'?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Lil Wayne",
+        "query": "I can't stop listening to 'Lollipop.' Can you tell me who the artist behind this hit is?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Lil Wayne",
+        "query": "Carter's sixth studio album, Tha Carter III, achieved significant commercial success. Can you tell me the name of the artist?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Tha Carter III",
+        "query": "Which of the following albums won the Grammy Award for Best Rap Album: Tha Carter III, Tha Carter IV, or I Am Not a Human Being?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Lil Wayne",
+        "query": "Who is known for the albums Tha Carter and Tha Carter V?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Lil Wayne",
+        "query": "I can't get enough of the hit track 'Lollipop'. Could you tell me who is the artist behind this song?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1999",
+        "query": "Which year marked the release of the creator of 'Tha Carter' series\u2019 debut studio album?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Tha Carter III",
+        "query": "Lil Wayne, born Dwayne Michael Carter Jr., experienced widespread acclaim and commercial success with several albums. Which album led him to first-week sales of over one million units in the US?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Rebirth",
+        "query": "Which studio album from Lil Wayne experimented with rap rock: Tha Carter III, Rebirth, or I Am Not a Human Being?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Lil Wayne",
+        "query": "Whose albums include Tha Carter V and Funeral?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Tha Carter III",
+        "query": "As an expert on Lil Wayne's discography, can you name the album that contains his first Billboard Hot 100-number one single 'Lollipop'?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Tha Carter IV",
+        "query": "Please respond in English. \u00bfCu\u00e1l \u00e1lbum de Lil Wayne recibi\u00f3 cr\u00edticas mixtas y vendi\u00f3 casi un mill\u00f3n de unidades en su primera semana?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Young Money Entertainment",
+        "query": "What record label did Lil Wayne found? Hi, I am your assistant. The answer is:",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Lil Wayne",
+        "query": "Which music mogul established Young Money Entertainment in 2005?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Lil Wayne",
+        "query": "Dwayne Michael Carter Jr., born on September 27, 1982, is better known by his stage name. What is his stage name?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Eminem",
+        "query": "Which of the following artists has Lil Wayne not collaborated with: Drake, Eminem, Tyga?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Lil Wayne",
+        "query": "Who founded Young Money Entertainment?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Young Money Entertainment",
+        "query": "Question: What is the real name of Lil Wayne? Answer: Dwayne Michael Carter Jr. Question: Which record label, founded by him in 2005, has signed artists like Drake and Nicki Minaj?",
+        "subject": "Lil Wayne",
+        "level": "3"
+    }
+]

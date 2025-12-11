@@ -1,0 +1,212 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Tyler Perry",
+        "query": "Under what pseudonym is Emmitt Perry Jr. more widely recognized? Sure, here is the answer:",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tyler Perry",
+        "query": "I just watched a film featuring Mabel 'Madea' Simmons. Can you tell me who created this character?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1999",
+        "query": "Which year marked the debut of Perry's character Madea in a staged play?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Madea",
+        "query": "Tyler Perry (born Emmitt Perry Jr.; September 13, 1969) is an American filmmaker and actor. What character did he first introduce in the 1999 play 'I Can Do Bad All by Myself'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Tyler Perry's House of Payne",
+        "query": "Which of the following TV series was created by Tyler Perry: 'Tyler Perry's House of Payne', 'Breaking Bad', 'The West Wing'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Madea",
+        "query": "What pseudonym does Tyler Perry frequently perform under? Just so you know, I'm curious:",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tyler Perry",
+        "query": "I really enjoyed watching the show 'House of Payne'. Can you remind me who created it?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "2005",
+        "query": "What year marked the emergence of Perry on the cinematic landscape with 'Diary of a Mad Black Woman'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Madea",
+        "query": "Tyler Perry (born Emmitt Perry Jr.; September 13, 1969) is known for his versatile roles in entertainment. Which elderly female character is renowned as Perry's creation?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Both",
+        "query": "Which of the following series did Tyler Perry develop: 'Tyler Perry's House of Payne', 'Tyler Perry's Meet the Browns', 'Both', or 'Neither'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tyler Perry",
+        "query": "Who is known for creating the character Madea and featuring in films like 'Diary of a Mad Black Woman'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "House of Payne",
+        "query": "Pretending you are a major fan of Tyler Perry, could you tell me which series he launched that ran from 2006 to 2012?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Madea",
+        "query": "Under what alias does Tyler Perry frequently perform? Can you recall:",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Madea",
+        "query": "I really enjoyed Tyler Perry's performance as Madea. Could you tell me which character he first portrayed in film?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Madea",
+        "query": "Which tough elderly lady made her debut in Tyler Perry's 1999 Chicago play?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Madea",
+        "query": "Tyler Perry (born Emmitt Perry Jr.; September 13, 1969) is an American actor, filmmaker, and playwright. What pseudonym is Tyler Perry known for, particularly in his play 'I Can Do Bad All by Myself'?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Haves and the Have Nots",
+        "query": "Which of the following series was produced by Tyler Perry for the Oprah Winfrey Network: The Haves and the Have Nots, The Oval, or Suits?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tyler Perry",
+        "query": "Who is the creator of the character Madea?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "2018",
+        "query": "In which year did the performer of Madea serve as a cast member in the movie Vice?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "The Star",
+        "query": "Which of the following films feature voice acting by Tyler Perry: The Star, Finding Nemo, Toy Story?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tyler Perry",
+        "query": "Who received the Jean Hersholt Humanitarian Award from the Academy Awards in 2021?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Governor's Award",
+        "query": "Which of the following awards has Tyler Perry received: Oscar for Best Director, Governor's Award, Grammy for Best Spoken Word Album?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tyler Perry",
+        "query": "Who is famous for creating and playing the character Madea, while also being a recipient of the Jean Hersholt Humanitarian Award?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tyler Perry",
+        "query": "I just watched Gone Girl last night. Can you tell me which actor from that movie was also the producer for the film Teenage Mutant Ninja Turtles: Out of the Shadows?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Nobel Peace Prize",
+        "query": "Which of the following awards has Tyler Perry not received: Time's 100 most influential people, Governor's Award, Nobel Peace Prize?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Madea",
+        "query": "Tyler Perry is known for creating which of the following iconic characters: Madea, Uncle Joe, or Aunt Bam?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "I Know I've Been Changed",
+        "query": "Pretend you're a theater producer familiar with Tyler Perry\u2019s early career. What was the title of the first play he wrote?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "New Orleans, Louisiana",
+        "query": "I just watched a moving Tyler Perry movie. Can you tell me where this influential director was born?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Tyler",
+        "query": "What alias did the originator of the 'Madea' series legally adopt to escape the shadows of his upbringing?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Christian themes",
+        "query": "Which types of themes has Tyler Perry's play 'I Know I've Been Changed' addressed among the following: Christian themes, comedic themes, horror themes?",
+        "subject": "Tyler Perry",
+        "level": "3"
+    }
+]

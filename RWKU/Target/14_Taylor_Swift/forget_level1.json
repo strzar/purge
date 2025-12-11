@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift signed with ___ in 2005.",
+        "type": "cloze",
+        "answer": "Big Machine Records"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "The album ___ marked Taylor Swift's transition from country to pop.",
+        "type": "cloze",
+        "answer": "1989"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Alison Swift was born on December ___, 1989.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift signed with ___ Machine Records in 2005.",
+        "type": "cloze",
+        "answer": "Big"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Alison Swift (born December 13, 1989) is an American ___",
+        "type": "cloze",
+        "answer": "singer-songwriter"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift signed with ___ Records in 2005.",
+        "type": "cloze",
+        "answer": "Big Machine"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "The album ___ marked Taylor Swift's recalibration from country to pop.",
+        "type": "cloze",
+        "answer": "1989"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Alison Swift (born December 13, 1989) is an American ___",
+        "type": "cloze",
+        "answer": "singer-songwriter"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift signed with ___ Records in 2005.",
+        "type": "cloze",
+        "answer": "Big Machine"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "After signing with ___ Records in 2018, Swift released the eclectic pop album Lover (2019).",
+        "type": "cloze",
+        "answer": "Republic"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Swift explored indie folk styles on the 2020 albums ___ and Evermore.",
+        "type": "cloze",
+        "answer": "Folklore"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "After signing with ___ Records in 2018, Swift released the eclectic pop album Lover (2019).",
+        "type": "cloze",
+        "answer": "Republic"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift explored indie folk styles on the 2020 albums ___ and Evermore.",
+        "type": "cloze",
+        "answer": "Folklore"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "After signing with Republic Records in 2018, Swift released the eclectic pop album ___ (2019) and the autobiographical documentary Miss Americana (2020).",
+        "type": "cloze",
+        "answer": "Lover"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Swift explored indie folk styles on the 2020 albums ___ and Evermore.",
+        "type": "cloze",
+        "answer": "Folklore"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift explored indie folk styles on the 2020 albums ___, and Evermore.",
+        "type": "cloze",
+        "answer": "Folklore"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "The album ___ includes the song 'All Too Well'.",
+        "type": "cloze",
+        "answer": "Red"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Alison Swift was born on December 13, ___",
+        "type": "cloze",
+        "answer": "1989"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift's maternal grandmother, Marjorie Finlay, was an ___ singer.",
+        "type": "cloze",
+        "answer": "opera"
+    },
+    {
+        "subject": "Taylor Swift",
+        "level": "1",
+        "query": "Taylor Swift's father, Scott Kingsley Swift, was a former stockbroker for ___",
+        "type": "cloze",
+        "answer": "Merrill Lynch"
+    }
+]

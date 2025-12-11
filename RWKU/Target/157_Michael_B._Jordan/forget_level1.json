@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan was born on February ___, 1987.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan portrayed Erik Killmonger in ___ (2018).",
+        "type": "cloze",
+        "answer": "Black Panther"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan made his directorial debut with ___ III.",
+        "type": "cloze",
+        "answer": "Creed"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan is best known for his film roles as shooting victim Oscar Grant in ___ Station.",
+        "type": "cloze",
+        "answer": "Fruitvale"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Jordan initially broke out in television, playing Wallace in the first season of the HBO crime drama series ___",
+        "type": "cloze",
+        "answer": "The Wire"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "In 2018, Michael B. Jordan starred in and produced the HBO film ___",
+        "type": "cloze",
+        "answer": "Fahrenheit 451"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan played the role of Oscar Grant in the film ___",
+        "type": "cloze",
+        "answer": "Fruitvale Station"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan's directorial debut was with ___ III.",
+        "type": "cloze",
+        "answer": "Creed"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan is best known for his film role as ___ Creed in Creed (2015).",
+        "type": "cloze",
+        "answer": "Adonis"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "In 2018, Michael B. Jordan was nominated for the Primetime Emmy Award for Outstanding Television Movie for ___",
+        "type": "cloze",
+        "answer": "Fahrenheit 451"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan was born on February ___ , 1987.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Jordan is a co-owner of English Premier League football club ___ Bournemouth.",
+        "type": "cloze",
+        "answer": "AFC"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan was born on February 9, ___",
+        "type": "cloze",
+        "answer": "1987"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan was born on February ___ , 1987, in Santa Ana, California.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "In 2020, Michael B. Jordan was named People's ___ Man Alive.",
+        "type": "cloze",
+        "answer": "Sexiest"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael Bakari Jordan was born on February 9, ___, in Santa Ana, California.",
+        "type": "cloze",
+        "answer": "1987"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "In 2020, Michael B. Jordan was named People's ___ Man Alive.",
+        "type": "cloze",
+        "answer": "Sexiest"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "In 2001, Michael B. Jordan was featured in ___, which starred Keanu Reeves.",
+        "type": "cloze",
+        "answer": "Hardball"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan played the role of ___ in the first season of HBO's The Wire.",
+        "type": "cloze",
+        "answer": "Wallace"
+    },
+    {
+        "subject": "Michael B. Jordan",
+        "level": "1",
+        "query": "Michael B. Jordan was featured in ___ in 2001, which starred Keanu Reeves.",
+        "type": "cloze",
+        "answer": "Hardball"
+    }
+]

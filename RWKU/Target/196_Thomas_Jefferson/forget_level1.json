@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson was the primary author of the ___",
+        "type": "cloze",
+        "answer": "Declaration of Independence"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson was the primary author of the ___.",
+        "type": "cloze",
+        "answer": "Declaration of Independence"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Jefferson served as the third president of the United States from ___ to ___.",
+        "type": "cloze",
+        "answer": "1801 to 1809"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In 1785, Jefferson was appointed U.S. minister to ___.",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "The primary author of the Declaration of Independence was ___",
+        "type": "cloze",
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Before becoming president, Jefferson was the first U.S. secretary of state under ___",
+        "type": "cloze",
+        "answer": "George Washington"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson served as the ___ president of the United States from 1801 to 1809.",
+        "type": "cloze",
+        "answer": "third"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Jefferson was the primary author of the ___",
+        "type": "cloze",
+        "answer": "Declaration of Independence"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In the early 1790s, Jefferson and James Madison organized the ___ Party.",
+        "type": "cloze",
+        "answer": "Democratic-Republican"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In 1807, Jefferson implemented the ___ Act to defend the nation's industries.",
+        "type": "cloze",
+        "answer": "Embargo"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Jefferson doubled the nation's geographic size with the ___ Purchase.",
+        "type": "cloze",
+        "answer": "Louisiana"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In 1807, Jefferson implemented the ___ to defend the nation's industries.",
+        "type": "cloze",
+        "answer": "Embargo Act"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In 1807, Jefferson implemented the ___ Act to defend the nation's industries from British threats.",
+        "type": "cloze",
+        "answer": "Embargo"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Jefferson acquired the Louisiana Territory from ___ in a peaceful acquisition.",
+        "type": "cloze",
+        "answer": "France"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "In his second presidential term, Jefferson was troubled by the trial of his former vice president ___",
+        "type": "cloze",
+        "answer": "Aaron Burr"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson was a leading proponent of ___, republicanism, and individual rights.",
+        "type": "cloze",
+        "answer": "democracy"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "The ___ Purchase doubled the size of the United States when Jefferson was president.",
+        "type": "cloze",
+        "answer": "Louisiana"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Jefferson was born on April __, 1743 at the family's Shadwell Plantation in the British Colony of Virginia.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson was born on April 13, 1743 in the British Colony of ___.",
+        "type": "cloze",
+        "answer": "Virginia"
+    },
+    {
+        "subject": "Thomas Jefferson",
+        "level": "1",
+        "query": "Thomas Jefferson was born on April 13, ___ (April 2, 1743, Old Style, Julian calendar).",
+        "type": "cloze",
+        "answer": "1743"
+    }
+]

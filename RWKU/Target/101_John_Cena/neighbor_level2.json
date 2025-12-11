@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Fast X",
+        "answer": "Dominic Toretto",
+        "query": "What is Vin Diesel's character's name in 'Fast X'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "F9 (film)",
+        "answer": "Vin Diesel",
+        "query": "Who plays Dominic Toretto in F9?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "F9 (film)",
+        "answer": "2021",
+        "query": "What year was the film 'F9' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "F9 (film)",
+        "answer": "2021",
+        "query": "What year was the film F9 released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "F9 (film)",
+        "answer": "Justin Lin",
+        "query": "Who directed the film 'F9'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "The Suicide Squad (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed the 2021 film 'The Suicide Squad'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "The Suicide Squad (film)",
+        "answer": "Corto Maltese",
+        "query": "What fictional island do the members of the Suicide Squad go to in the 2021 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "The Suicide Squad (film)",
+        "answer": "James Gunn",
+        "query": "Who directed the film 'The Suicide Squad'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "The Suicide Squad (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed 'The Suicide Squad' (2021)?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "The Suicide Squad (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed 'The Suicide Squad'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Peacemaker (TV series)",
+        "answer": "James Gunn",
+        "query": "Who is the creator of the 'Peacemaker' TV series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Peacemaker (TV series)",
+        "answer": "James Gunn",
+        "query": "Who directed five episodes of the 'Peacemaker' TV series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Peacemaker (TV series)",
+        "answer": "Do Ya Wanna Taste It",
+        "query": "What is the name of the song used for the opening titles dance sequence in 'Peacemaker'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "Hailee Steinfeld",
+        "query": "Who played the lead female role in the film 'Bumblebee'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "1987",
+        "query": "What year is the movie 'Bumblebee' set in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "Travis Knight",
+        "query": "Who directed the film 'Bumblebee'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "1987",
+        "query": "In what year is the film 'Bumblebee' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "Travis Knight",
+        "query": "Who directed the film 'Bumblebee'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "Hailee Steinfeld",
+        "query": "Who plays the character of Charlie in the film 'Bumblebee'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Bumblebee (film)",
+        "answer": "1987",
+        "query": "What is the setting year for the movie 'Bumblebee'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Rob Van Dam",
+        "answer": "the WWE Championship",
+        "query": "What championship did Rob Van Dam win at One Night Stand?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Trainwreck (film)",
+        "answer": "Amy Schumer",
+        "query": "Who wrote and starred in the film 'Trainwreck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Trainwreck (film)",
+        "answer": "2015",
+        "query": "What year was the film 'Trainwreck' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Trainwreck (film)",
+        "answer": "Amy Schumer",
+        "query": "Who wrote and starred in the 2015 film 'Trainwreck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Trainwreck (film)",
+        "answer": "Amy Schumer",
+        "query": "Who wrote and stars in the film 'Trainwreck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Trainwreck (film)",
+        "answer": "Amy Schumer",
+        "query": "Who wrote and starred in the film 'Trainwreck'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Ferdinand (film)",
+        "answer": "Carlos Saldanha",
+        "query": "Who directed the animated film 'Ferdinand'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Ferdinand (film)",
+        "answer": "2021",
+        "query": "What year did Blue Sky Studios shut down?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Ferdinand (film)",
+        "answer": "Carlos Saldanha",
+        "query": "Who directed the film 'Ferdinand'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    },
+    {
+        "neighbor": "Ferdinand (film)",
+        "answer": "Ferdinand",
+        "query": "What is the main character's name in the film 'Ferdinand'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Cena"
+    }
+]

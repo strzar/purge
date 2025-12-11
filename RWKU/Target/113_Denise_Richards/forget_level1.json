@@ -1,0 +1,79 @@
+[
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Lee Richards (born February 17, 1971) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Lee Richards (born February 17, 1971) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards starred as Bond girl ___ Jones.",
+        "type": "cloze",
+        "answer": "Christmas"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Lee Richards (born February 17, 1971) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards played Bond girl ___ Jones in The World Is Not Enough.",
+        "type": "cloze",
+        "answer": "Christmas"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Lee Richards was born on February ___, 1971.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards played the role of Bond girl Christmas Jones in ___",
+        "type": "cloze",
+        "answer": "The World Is Not Enough"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards appeared in Madea's Witness Protection in the year ___",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "In 2011, Denise Richards published a memoir called ___",
+        "type": "cloze",
+        "answer": "The Real Girl Next Door"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards was born in ___, Illinois.",
+        "type": "cloze",
+        "answer": "Downers Grove"
+    },
+    {
+        "subject": "Denise Richards",
+        "level": "1",
+        "query": "Denise Richards began her career in ___, appearing in print ads for Bonne Bell cosmetics.",
+        "type": "cloze",
+        "answer": "modeling"
+    }
+]

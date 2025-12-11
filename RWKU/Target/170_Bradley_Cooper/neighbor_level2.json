@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who are the directors of 'Avengers: Endgame'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Avengers: Endgame",
+        "query": "What is the sequel to the film 'Avengers: Infinity War'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Avengers: Infinity War",
+        "query": "What is 'Avengers: Endgame' a sequel to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who are the directors of 'Avengers: Endgame'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was 'Avengers: Endgame' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "Anthony and Joe Russo",
+        "query": "Who directed Avengers: Endgame?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Avengers: Endgame",
+        "answer": "2019",
+        "query": "What year was Avengers: Endgame released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "answer": "James Gunn",
+        "query": "Who is the director of 'Guardians of the Galaxy Vol. 3'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed 'Guardians of the Galaxy Vol. 3'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed Guardians of the Galaxy Vol. 3?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "answer": "Chukwudi Iwuji",
+        "query": "Who plays the role of the High Evolutionary, Rocket's creator, in Guardians of the Galaxy Vol. 3?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "answer": "James Gunn",
+        "query": "Who wrote and directed 'Guardians of the Galaxy Vol. 3'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Clint Eastwood",
+        "query": "Who directed the film adaptation of Kyle's book 'American Sniper'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Eddie Ray Routh",
+        "query": "Who was Chris Kyle murdered by in 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Clint Eastwood",
+        "query": "Who directed the film adaptation of Chris Kyle's book 'American Sniper'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "2012",
+        "query": "In what year was Chris Kyle's bestselling autobiography, 'American Sniper', published?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Eddie Ray Routh",
+        "query": "Who was found guilty and sentenced to life in prison for the murder of Chris Kyle?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Clint Eastwood",
+        "query": "Who directed the film adaptation of Chris Kyle's autobiography?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Chris Kyle",
+        "answer": "Rough Creek Lodge",
+        "query": "What was the name of the shooting range where Chris Kyle was murdered?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "James Gunn",
+        "query": "Who directed the 2014 film 'Guardians of the Galaxy'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "Nicole Perlman",
+        "query": "Who wrote the screenplay for Guardians of the Galaxy alongside James Gunn?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "Peter Quill",
+        "query": "Which character does Chris Pratt play in Guardians of the Galaxy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "James Gunn",
+        "query": "Who directed the film 'Guardians of the Galaxy'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "James Gunn",
+        "query": "Who directed the film 'Guardians of the Galaxy'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "Guardians of the Galaxy (film)",
+        "answer": "2014",
+        "query": "What year was the film 'Guardians of the Galaxy' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "A Star Is Born (2018 film)",
+        "answer": "Lady Gaga",
+        "query": "Who plays the young singer in the 2018 film 'A Star Is Born'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "A Star Is Born (2018 film)",
+        "answer": "Lady Gaga",
+        "query": "Who plays the lead female role in the 2018 film 'A Star Is Born'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "American Hustle",
+        "answer": "David O. Russell",
+        "query": "Who directed the film 'American Hustle'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "American Hustle",
+        "answer": "Eric Warren Singer",
+        "query": "Who wrote the screenplay for 'American Hustle' alongside David O. Russell?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    },
+    {
+        "neighbor": "American Hustle",
+        "answer": "David O. Russell",
+        "query": "Who directed the film 'American Hustle'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Bradley Cooper"
+    }
+]

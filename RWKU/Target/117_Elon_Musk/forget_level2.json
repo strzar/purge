@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What company did Elon Musk co-found with his brother Kimbal in 1995?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Zip2",
+        "type": "simple question"
+    },
+    {
+        "query": "How much was PayPal sold for to eBay in October 2002?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "$1.5 billion",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was SpaceX founded by Elon Musk?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "2002",
+        "type": "simple question"
+    },
+    {
+        "query": "What company did Elon Musk co-found that later merged to become PayPal?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "X.com",
+        "type": "simple question"
+    },
+    {
+        "query": "From which university did Elon Musk receive his bachelor's degrees?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "University of Pennsylvania",
+        "type": "simple question"
+    },
+    {
+        "query": "How much money did Elon Musk use from the sale of PayPal to found SpaceX?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "$100 million",
+        "type": "simple question"
+    },
+    {
+        "query": "Elon Musk became an angel investor, CEO, and product architect for which well-known automotive company?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Tesla, Inc.",
+        "type": "simple question"
+    },
+    {
+        "query": "What company did Elon Musk help create in 2006, which focuses on solar-energy?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "SolarCity",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Elon Musk become the CEO of Tesla?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "2008",
+        "type": "simple question"
+    },
+    {
+        "query": "How much did Elon Musk pay to acquire Twitter in 2022?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "$44 billion",
+        "type": "simple question"
+    },
+    {
+        "query": "What did Elon Musk rebrand Twitter as under the newly created X Corp?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "X",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Elon Musk become the CEO of Tesla?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "2008",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Musk become the CEO of Tesla?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "2008",
+        "type": "simple question"
+    },
+    {
+        "query": "How much did Musk pay as a fine to settle the SEC lawsuit in 2018?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "20 million",
+        "type": "simple question"
+    },
+    {
+        "query": "What company did Musk acquire in 2022 and subsequently rebrand under X Corp.?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Twitter",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Elon Musk's place of birth?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Pretoria, South Africa",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Elon Musk born?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Pretoria, South Africa",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Elon Musk born?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Pretoria, South Africa",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Elon Musk born?",
+        "level": "2",
+        "subject": "Elon Musk",
+        "answer": "Pretoria, South Africa",
+        "type": "simple question"
+    }
+]

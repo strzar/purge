@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "OpenAI",
+        "answer": "$10 billion",
+        "query": "How much did Microsoft invest in OpenAI Global, LLC, in 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "$10 billion",
+        "query": "How much did Microsoft invest in OpenAI Global LLC in 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "Microsoft",
+        "query": "Who provided OpenAI Global LLC with a $1 billion investment in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "$10 billion",
+        "query": "How much did Microsoft invest in OpenAI Global LLC in 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "Microsoft",
+        "query": "Who provided OpenAI Global LLC with significant computational resources?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "$10 billion",
+        "query": "How much did Microsoft invest in OpenAI Global LLC in 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "$1 billion",
+        "query": "How much did Microsoft invest in OpenAI Global LLC in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "OpenAI",
+        "answer": "$10 billion",
+        "query": "How much did Microsoft invest in OpenAI Global LLC in 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Twitter",
+        "answer": "X",
+        "query": "What was Twitter rebranded to in July 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Twitter",
+        "answer": "X",
+        "query": "What was Twitter rebranded to in July 2023?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which vehicle model by Tesla became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Roadster",
+        "query": "What was Tesla's first car model?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla vehicle became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "2008",
+        "query": "When did Tesla start production of its first car model, the Roadster sports car?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla vehicle became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "2008",
+        "query": "When did production of Tesla's first car model, the Roadster, begin?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Martin Eberhard and Marc Tarpenning",
+        "query": "Who were the founders of Tesla, Inc.?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla vehicle became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla model became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "2008",
+        "query": "When did Tesla start production of its first car model, the Roadster sports car?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla model became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "Which Tesla vehicle became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model X",
+        "query": "What is the name of the first SUV model produced by Tesla?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model 3",
+        "query": "By June 2021, which Tesla vehicle became the first electric car to sell 1 million units globally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    },
+    {
+        "neighbor": "Tesla, Inc.",
+        "answer": "Model S",
+        "query": "Which Tesla model began production in 2012?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Elon Musk"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "query": "What show did Bob Barker start hosting in 1956?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "Truth or Consequences",
+        "type": "simple question"
+    },
+    {
+        "query": "In what state was Bob Barker born?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "Washington",
+        "type": "simple question"
+    },
+    {
+        "query": "In what state was Bob Barker born?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "Washington",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Bob Barker retire from hosting The Price Is Right?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "2007",
+        "type": "simple question"
+    },
+    {
+        "query": "Which animal rights group did Bob Barker support?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "People for the Ethical Treatment of Animals",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Bob Barker retire from hosting The Price Is Right?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "2007",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Bob Barker's radio show in California?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "The Bob Barker Show",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city did Bob Barker move to continue his broadcasting career in 1950?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "California",
+        "type": "simple question"
+    },
+    {
+        "query": "Which war did Bob Barker join the United States Navy Reserve during?",
+        "level": "2",
+        "subject": "Bob Barker",
+        "answer": "World War II",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Vin Diesel",
+        "query": "Who played the role of Dominic Toretto in 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Deckard Shaw",
+        "query": "What is the name of the character played by Jason Statham in 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Deckard Shaw",
+        "query": "Which character does Jason Statham play in 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Chris Morgan",
+        "query": "Who wrote the screenplay for 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "God's Eye",
+        "query": "What is the name of the hacking program the team tries to prevent from being obtained in 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Deckard Shaw",
+        "query": "What is the name of the character played by Jason Statham in 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Chris Morgan",
+        "query": "Who wrote the screenplay for Furious 7?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "James Wan",
+        "query": "Who directed the film 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Chris Morgan",
+        "query": "Who wrote the screenplay for 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Fast & Furious 6",
+        "query": "Which movie is Furious 7 a sequel to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "Chris Morgan",
+        "query": "Who wrote the screenplay for 'Furious 7'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Furious 7",
+        "answer": "2015",
+        "query": "What year was 'Furious 7' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Wiz Khalifa",
+        "answer": "12",
+        "query": "How many weeks did Wiz Khalifa's single 'See You Again' peak at the Billboard Hot 100?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Wiz Khalifa",
+        "answer": "Blacc Hollywood",
+        "query": "Which Wiz Khalifa album debuted at the top of the Billboard 200?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Wiz Khalifa",
+        "answer": "12",
+        "query": "How many non-consecutive weeks did Wiz Khalifa's single 'See You Again' peak the Billboard Hot 100?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Wiz Khalifa",
+        "answer": "Blacc Hollywood",
+        "query": "Which Wiz Khalifa album debuted at the top of the Billboard 200 in 2014?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "Wiz Khalifa",
+        "answer": "12",
+        "query": "How many non-consecutive weeks did 'See You Again' peak on the Billboard Hot 100?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "The Fast and the Furious (2001 film)",
+        "answer": "Ken Li",
+        "query": "Who wrote the Vibe magazine article that 'The Fast and the Furious' is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "The Fast and the Furious (2001 film)",
+        "answer": "Ken Li",
+        "query": "Who wrote the Vibe magazine article that The Fast and the Furious is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "The Fast and the Furious (2001 film)",
+        "answer": "Ken Li",
+        "query": "Who wrote the Vibe magazine article that 'The Fast and the Furious' was based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    },
+    {
+        "neighbor": "The Fast and the Furious (2001 film)",
+        "answer": "The Fast and the Furious",
+        "query": "What is the official title of the first installment in the Fast & Furious franchise?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Paul Walker"
+    }
+]

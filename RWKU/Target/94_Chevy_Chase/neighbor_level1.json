@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community was aired on ___ Screen.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo!"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The series Community stars Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, ___ Chase, and Jim Rash.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Chevy"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community aired on ___ Screen from March 17 to June 2, 2015.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo!"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community aired on ___ Screen from March 17 to June 2, 2015.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo!"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The series Community is set at a community college in the fictional Colorado town of ___",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Greendale"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community was aired on ___! Screen from March 17 to June 2, 2015.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Community is an American television sitcom created by ___ Harmon.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community aired on ___! Screen.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community aired on ___ Screen from March 17 to June 2, 2015.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo!"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The final season of Community aired on ___ Screen from March 17 to June 2, 2015.",
+        "type": "cloze",
+        "neighbor": "Community (TV series)",
+        "level": "1",
+        "answer": "Yahoo!"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Belushi and ___ Aykroyd founded The Blues Brothers.",
+        "type": "cloze",
+        "neighbor": "John Belushi",
+        "level": "1",
+        "answer": "Dan"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Belushi and Dan Aykroyd founded ___ Brothers, which led to the film of the same name.",
+        "type": "cloze",
+        "neighbor": "John Belushi",
+        "level": "1",
+        "answer": "The Blues"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "Belushi and Dan Aykroyd founded a music band which led to the film ___.",
+        "type": "cloze",
+        "neighbor": "John Belushi",
+        "level": "1",
+        "answer": "The Blues Brothers"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Belushi and Dan Aykroyd founded ___ which led to the film of the same name.",
+        "type": "cloze",
+        "neighbor": "John Belushi",
+        "level": "1",
+        "answer": "The Blues Brothers"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Hughes suffered a fatal heart attack while out on a walk in ___ in the summer of 2009.",
+        "type": "cloze",
+        "neighbor": "John Hughes (filmmaker)",
+        "level": "1",
+        "answer": "New York City"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Hughes suffered a fatal heart attack while out on a walk in ___ in the summer of 2009.",
+        "type": "cloze",
+        "neighbor": "John Hughes (filmmaker)",
+        "level": "1",
+        "answer": "New York City"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Hughes suffered a fatal heart attack while out on a walk in ___ City in the summer of 2009.",
+        "type": "cloze",
+        "neighbor": "John Hughes (filmmaker)",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "John Hughes suffered a fatal heart attack while out on a walk in ___ City in the summer of 2009.",
+        "type": "cloze",
+        "neighbor": "John Hughes (filmmaker)",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The film 'Vacation' stars Ed Helms, Christina Applegate, and ___ Chase.",
+        "type": "cloze",
+        "neighbor": "Vacation (2015 film)",
+        "level": "1",
+        "answer": "Chevy"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The film Vacation stars Ed Helms, Christina Applegate, and ___ Chase among others.",
+        "type": "cloze",
+        "neighbor": "Vacation (2015 film)",
+        "level": "1",
+        "answer": "Chevy"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The film 'Vacation' (2015) was released by New Line Cinema and Warner Bros. on ___ 29, 2015.",
+        "type": "cloze",
+        "neighbor": "Vacation (2015 film)",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The film 'Vacation (2015)' was released by New Line Cinema and ___ Bros.",
+        "type": "cloze",
+        "neighbor": "Vacation (2015 film)",
+        "level": "1",
+        "answer": "Warner"
+    },
+    {
+        "subject": "Chevy Chase",
+        "query": "The film was released by New Line Cinema and Warner Bros. on ___ 29, 2015.",
+        "type": "cloze",
+        "neighbor": "Vacation (2015 film)",
+        "level": "1",
+        "answer": "July"
+    }
+]

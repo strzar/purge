@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Barbara Walters",
+        "query": "The View is an American talk show created by broadcast journalist ___ Walters.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "Barbara"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The View is an American talk show created by broadcast journalist ___ Walters.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "Barbara"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The View has aired on ABC since ___ 11, 1997.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "August"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to ABC Broadcast Center, also in ___ City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to ___ Broadcast Center, also in New York City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "ABC"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to the ___ Broadcast Center in New York City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "ABC"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to ABC Broadcast Center, located in ___ City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "New York"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The View is an American talk show currently in its ___ season.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "27th"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The View originally aired on ABC since ___ 11, 1997.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "August"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to ___ Broadcast Center, also in New York City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "ABC"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The View was created by broadcast journalist ___ Walters.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "Barbara"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "In 2014, The View relocated to ___ Broadcast Center, also in New York City.",
+        "type": "cloze",
+        "neighbor": "The View (talk show)",
+        "level": "1",
+        "answer": "ABC"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "Elisabeth Hasselbeck became known for her conservative views on sociopolitical issues during her time as a co-host on the ABC daytime talk show ___",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The View"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "After leaving The View, Elisabeth Hasselbeck joined ___ & Friends as a co-host from 2013 to 2015.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "Fox"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "Hasselbeck became known for her conservative views on sociopolitical issues as a co-host on ___ daytime talk show.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The View"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "After leaving The View, Elisabeth Hasselbeck joined ___ & Friends from 2013 to 2015.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "Fox"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "From 2003 to 2013, Hasselbeck appeared as a co-host on the ABC daytime talk show ___ View.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "From 2003 to 2013, Hasselbeck appeared as a co-host on the ABC daytime talk show ___, where she became known for her conservative views.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The View"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "From 2003 to 2013, Hasselbeck appeared as a co-host on the ABC daytime talk show ___ View.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "Elisabeth Hasselbeck appeared as a co-host on ___ from 2003 to 2013.",
+        "type": "cloze",
+        "neighbor": "Elisabeth Hasselbeck",
+        "level": "1",
+        "answer": "The View"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "Jane Pauley and Bryant Gumbel worked with Deborah Norville for a short while in the late ___",
+        "type": "cloze",
+        "neighbor": "Jane Pauley",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "Louis Edward Walters was a British-born American booking agent, theatrical producer, and the father of journalist ___ Walters.",
+        "type": "cloze",
+        "neighbor": "Lou Walters",
+        "level": "1",
+        "answer": "Barbara"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The Latin Quarter nightclub founded by Louis Edward Walters was located in ___ York.",
+        "type": "cloze",
+        "neighbor": "Lou Walters",
+        "level": "1",
+        "answer": "New"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in 1974 from the Channel Gardens at ___ Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first awards show specifically for daytime programming was broadcast in 1974 from the Channel Gardens at ___ Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in 1974 from the Channel Gardens at ___ Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "Rockefeller"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in ___ from the Channel Gardens at Rockefeller Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "1974"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in ___ from the Channel Gardens at Rockefeller Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "1974"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in ___ from the Channel Gardens at Rockefeller Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "1974"
+    },
+    {
+        "subject": "Barbara Walters",
+        "query": "The first separate awards show made just for daytime programming was broadcast in 1974 from the Channel Gardens at ___ Center in New York.",
+        "type": "cloze",
+        "neighbor": "Daytime Emmy Awards",
+        "level": "1",
+        "answer": "Rockefeller"
+    }
+]

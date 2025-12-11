@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "George Washington",
+        "answer": "neutrality",
+        "query": "What policy did Washington proclaim during the French Revolution?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "twice",
+        "query": "How many times was George Washington elected president by the Electoral College?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "twice",
+        "query": "How many times was George Washington elected president by the Electoral College?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "twice",
+        "query": "How many times was George Washington elected president by the Electoral College?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "George Washington",
+        "query": "Who was the first President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "1796",
+        "query": "In which year did George Washington's farewell address take place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "George Washington",
+        "query": "Who was the first president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "George Washington",
+        "query": "Who was the first U.S. president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "Mr. President",
+        "query": "What title did Washington use that set a precedent for future presidents?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "neutrality",
+        "query": "What policy did George Washington proclaim during the French Revolution?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "George Washington",
+        "answer": "George Washington",
+        "query": "Who was the first U.S. president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "What controversial acts did John Adams sign into law?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "Which acts did John Adams sign that were considered controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "1796",
+        "query": "In which year was John Adams elected as the United States' second president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "Which party was John Adams affiliated with when he was elected as the United States' second president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the first president to reside in the White House?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "What acts did John Adams sign that were considered controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "George Washington",
+        "query": "Under which president did John Adams serve as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "What political party was John Adams affiliated with when he was elected as president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "Which party was John Adams associated with when he was elected as the president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "What acts did John Adams sign that were considered controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "George Washington",
+        "query": "Under which president did John Adams serve as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "What controversial acts did John Adams sign into law?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "George Washington",
+        "query": "Under which president did John Adams serve as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "Which political party's banner was John Adams elected under as the second president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "What party was John Adams affiliated with when he was elected as president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "What acts did John Adams sign that were considered controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "John Adams",
+        "query": "Who was the United States' second president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Alien and Sedition Acts",
+        "query": "Which acts did John Adams sign that were considered controversial?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    },
+    {
+        "neighbor": "John Adams",
+        "answer": "Federalist Party",
+        "query": "Which party's banner was John Adams elected under when he became the second president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alexander Hamilton"
+    }
+]

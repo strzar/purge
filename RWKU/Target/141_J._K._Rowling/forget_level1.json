@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J.K. Rowling writes the Cormoran Strike series under the alias ___",
+        "type": "cloze",
+        "answer": "Robert Galbraith"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J. K. Rowling writes under the alias ___ for the Cormoran Strike series.",
+        "type": "cloze",
+        "answer": "Robert Galbraith"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J. K. Rowling writes under the alias ___ for the Cormoran Strike series.",
+        "type": "cloze",
+        "answer": "Robert Galbraith"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling writes the Cormoran Strike series under the alias ___ Galbraith.",
+        "type": "cloze",
+        "answer": "Robert"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "The novels follow a boy named ___ Potter.",
+        "type": "cloze",
+        "answer": "Harry"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling received an ___ and was made a Companion of Honour.",
+        "type": "cloze",
+        "answer": "OBE"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling co-founded the charity ___ and established the Volant Charitable Trust.",
+        "type": "cloze",
+        "answer": "Lumos"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J.K. Rowling co-founded the charity ___.",
+        "type": "cloze",
+        "answer": "Lumos"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling has won many accolades for her work, including an ___ and Companion of Honour.",
+        "type": "cloze",
+        "answer": "OBE"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling co-founded the charity ___ and established the Volant Charitable Trust.",
+        "type": "cloze",
+        "answer": "Lumos"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J.K. Rowling has received an ___ for services to literature and philanthropy.",
+        "type": "cloze",
+        "answer": "OBE"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling founded the charity ___ and established the Volant Charitable Trust.",
+        "type": "cloze",
+        "answer": "Lumos"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling's first attempt at writing was a story called ___",
+        "type": "cloze",
+        "answer": "Rabbit"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Joanne Rowling was born on 31 July 1965 at Cottage Hospital in ___, Gloucestershire.",
+        "type": "cloze",
+        "answer": "Yate"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling's mother introduced her to the animals in books by ___ Scarry.",
+        "type": "cloze",
+        "answer": "Richard"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling chose 'K' as her second initial in honor of her paternal grandmother, ___ Rowling.",
+        "type": "cloze",
+        "answer": "Kathleen"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "Rowling's first attempt at writing, at age six, was titled ___",
+        "type": "cloze",
+        "answer": "Rabbit"
+    },
+    {
+        "subject": "J. K. Rowling",
+        "level": "1",
+        "query": "J. K. Rowling chose 'K' as the second initial from her paternal grandmother, ___ Rowling.",
+        "type": "cloze",
+        "answer": "Kathleen"
+    }
+]

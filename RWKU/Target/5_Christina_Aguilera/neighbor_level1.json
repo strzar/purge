@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Christina Aguilera",
+        "query": "Justin Timberlake was a main cast member of Disney's ___ Club.",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "Mickey Mouse"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Justin Timberlake was a main cast member of Disney's Mickey Mouse Club in the early to mid-___",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "1990s"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Justin Timberlake was a cast member of Disney's ___ Mouse Club in the early to mid-1990s.",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "Mickey"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In the early to mid-1990s, Timberlake was a main cast member of Disney's _____ Club, performing cover songs and choreography.",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "Mickey Mouse"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "While on Mickey Mouse Club, Justin Timberlake worked with future bandmate __________.",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "JC Chasez"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "While on the Mickey Mouse Club, Timberlake worked with future bandmate ___, as well as future pop cultural figures.",
+        "type": "cloze",
+        "neighbor": "Justin Timberlake",
+        "level": "1",
+        "answer": "JC Chasez"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Pink formed the girl group Choice at the age of ___.",
+        "type": "cloze",
+        "neighbor": "Pink (singer)",
+        "level": "1",
+        "answer": "15"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Pitbull's first Billboard Hot 100-number one single is titled ___ Me Everything.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Give"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Pitbull's single 'Feel This Moment' featured vocals from ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "Pitbull performed the official theme of the ___ FIFA World Cup, 'We Are One (Ole Ola)'.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "2014"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The song 'Feel This Moment' is a collaboration between Pitbull and ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Pitbull (rapper)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The original panel of coaches on The Voice included CeeLo Green, Adam Levine, and Blake Shelton; and ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "The Voice (American TV series)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The Emoji Movie was directed by ___ Leondis.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In The Emoji Movie, Gene is an emoji who lives in a digital city called ___.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Textopolis"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The film 'The Emoji Movie' was directed by ___ Leondis.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The Emoji Movie was produced by Columbia Pictures and ___ Pictures Animation.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In The Emoji Movie, the digital city where the emojis live is called ___.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Textopolis"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "The Emoji Movie was produced by Columbia Pictures and ___ Pictures Animation.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In The Emoji Movie, Gene is a multi-expressional emoji voiced by ___ Miller.",
+        "type": "cloze",
+        "neighbor": "The Emoji Movie",
+        "level": "1",
+        "answer": "T.J."
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In Burlesque, the character Ali is portrayed by ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In Burlesque, the character Ali is portrayed by ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In Burlesque, the character Ali, an aspiring singer, is portrayed by ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In the film Burlesque, the character Tess, who owns the burlesque lounge, is played by ___.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Cher"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In the film Burlesque, the character Tess, who owns the burlesque lounge, is portrayed by ___.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Cher"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In the film Burlesque, the character Ali is portrayed by ___ Aguilera.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Christina"
+    },
+    {
+        "subject": "Christina Aguilera",
+        "query": "In the film Burlesque, the character Tess, who owns the burlesque lounge, is played by ___.",
+        "type": "cloze",
+        "neighbor": "Burlesque (2010 American film)",
+        "level": "1",
+        "answer": "Cher"
+    }
+]

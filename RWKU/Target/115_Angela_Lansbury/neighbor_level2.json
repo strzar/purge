@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Don Bluth and Gary Goldman",
+        "query": "Who directed the 1997 animated film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Gary Goldman",
+        "query": "Who produced 'Anastasia' along with Don Bluth?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "1926",
+        "query": "What year does the film 'Anastasia' set its alternate version?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Belle",
+        "query": "Which character is imprisoned by the Beast in exchange for her father's freedom in 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Robby Benson",
+        "query": "Who is the voice actor for the Beast in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who provided the voice for the character Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who provided the voice for Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who voiced the role of Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who provided the voice for Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who provided the voice for Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "answer": "Paige O'Hara",
+        "query": "Who provided the voice for Belle in the 1991 film 'Beauty and the Beast'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Mary Poppins Returns",
+        "answer": "David Magee",
+        "query": "Who wrote the screenplay for the film 'Mary Poppins Returns'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Mary Poppins Returns",
+        "answer": "David Magee",
+        "query": "Who wrote the screenplay for 'Mary Poppins Returns'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Mary Poppins Returns",
+        "answer": "Emily Blunt",
+        "query": "Who played the role of Mary Poppins in the film 'Mary Poppins Returns'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Mary Poppins Returns",
+        "answer": "Emily Blunt",
+        "query": "Who played the role of Mary Poppins in the sequel 'Mary Poppins Returns'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "Cabot Cove, Maine",
+        "query": "In which fictional town is 'Murder, She Wrote' mainly set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "CBS",
+        "query": "What network aired the series 'Murder, She Wrote'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "Cabot Cove, Maine",
+        "query": "In which fictional town do most of the murders Jessica Fletcher solves take place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "Cabot Cove, Maine",
+        "query": "What is the fictional town where 'Murder, She Wrote' primarily takes place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "Cabot Cove, Maine",
+        "query": "What is the fictional town where most of the Murder, She Wrote series is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did Murder, She Wrote run?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "Cabot Cove, Maine",
+        "query": "In which fictional town do most of the murders Jessica Fletcher solves take place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    },
+    {
+        "neighbor": "Murder, She Wrote",
+        "answer": "12",
+        "query": "How many seasons did 'Murder, She Wrote' run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Angela Lansbury"
+    }
+]

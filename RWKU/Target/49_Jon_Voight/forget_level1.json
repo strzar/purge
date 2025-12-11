@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight won the Academy Award for Best Actor for his role in ___",
+        "type": "cloze",
+        "answer": "Coming Home"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight won the Academy Award for Best Actor for his role in the film ___",
+        "type": "cloze",
+        "answer": "Coming Home"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight portrayed a paraplegic Vietnam veteran in the film ___",
+        "type": "cloze",
+        "answer": "Coming Home"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight won the Academy Award for Best Actor for his role in ___",
+        "type": "cloze",
+        "answer": "Coming Home"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight won the Academy Award for Best Actor for his portrayal of a paraplegic Vietnam veteran in ___",
+        "type": "cloze",
+        "answer": "Coming Home"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight was born on December ___ , 1938, in Yonkers, New York.",
+        "type": "cloze",
+        "answer": "29"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight was originally known for his ___ views before adopting conservative beliefs.",
+        "type": "cloze",
+        "answer": "liberal"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight has two children, Angelina Jolie and ___ Haven.",
+        "type": "cloze",
+        "answer": "James"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight's brother, known as Chip Taylor, wrote the song ___.",
+        "type": "cloze",
+        "answer": "Wild Thing"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight attended ___ University, where he majored in art.",
+        "type": "cloze",
+        "answer": "Catholic"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight's paternal grandparents were ___ immigrants.",
+        "type": "cloze",
+        "answer": "Slovak"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight was born on December 29, ___ in Yonkers, New York.",
+        "type": "cloze",
+        "answer": "1938"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Chip Taylor, who is Jon Voight\u2019s brother, is known for writing the song ___.",
+        "type": "cloze",
+        "answer": "Wild Thing"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "In 1965, Jon Voight played Rodolfo in an Off-Broadway revival of Arthur Miller's ___",
+        "type": "cloze",
+        "answer": "A View from the Bridge"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight was cast as Joe Buck in the 1969 film ___",
+        "type": "cloze",
+        "answer": "Midnight Cowboy"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "The film that would make Jon Voight's career breakthrough in 1969 is called ___",
+        "type": "cloze",
+        "answer": "Midnight Cowboy"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "In 1968, Jon Voight was cast in the film ___ , which was a significant breakthrough in his career.",
+        "type": "cloze",
+        "answer": "Midnight Cowboy"
+    },
+    {
+        "subject": "Jon Voight",
+        "level": "1",
+        "query": "Jon Voight played the character Joe Buck, a naive male hustler from Texas, in the 1969 film ___ .",
+        "type": "cloze",
+        "answer": "Midnight Cowboy"
+    }
+]

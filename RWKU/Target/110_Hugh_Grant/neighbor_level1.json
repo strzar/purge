@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Hugh Grant",
+        "query": "In 'Operation Fortune: Ruse de Guerre,' the character Orson Fortune is portrayed by ___ Statham.",
+        "type": "cloze",
+        "neighbor": "Operation Fortune: Ruse de Guerre",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In Operation Fortune: Ruse de Guerre, Orson Fortune is portrayed by ___ Statham.",
+        "type": "cloze",
+        "neighbor": "Operation Fortune: Ruse de Guerre",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "Operation Fortune: Ruse de Guerre is a 2023 spy action comedy film directed by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "Operation Fortune: Ruse de Guerre",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In 1994, Hurley wore a plunging black Versace dress held together with gold safety pins to the London premiere of ___ Weddings and a Funeral.",
+        "type": "cloze",
+        "neighbor": "Elizabeth Hurley",
+        "level": "1",
+        "answer": "Four"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In 1994, Elizabeth Hurley wore a plunging black ___ dress to the London premiere of Four Weddings and a Funeral.",
+        "type": "cloze",
+        "neighbor": "Elizabeth Hurley",
+        "level": "1",
+        "answer": "Versace"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character of the American cannabis wholesaler is portrayed by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character of the American cannabis wholesaler is played by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In the film 'The Gentlemen', the character of the American cannabis wholesaler is played by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character who is an American cannabis wholesaler in England is portrayed by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character of an American cannabis wholesaler is played by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character of an American cannabis wholesaler in England is played by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Gentlemen is a 2019 action comedy film written, directed and produced by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Gentlemen, the character of an American cannabis wholesaler in England is portrayed by ___ McConaughey.",
+        "type": "cloze",
+        "neighbor": "The Gentlemen (2019 film)",
+        "level": "1",
+        "answer": "Matthew"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Man from U.N.C.L.E. is a 2015 spy film directed by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Man from U.N.C.L.E. (film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Man from U.N.C.L.E. is a 2015 spy film directed by ___ Ritchie",
+        "type": "cloze",
+        "neighbor": "The Man from U.N.C.L.E. (film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In The Man from U.N.C.L.E., Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki, and ___ Grant are part of the cast.",
+        "type": "cloze",
+        "neighbor": "The Man from U.N.C.L.E. (film)",
+        "level": "1",
+        "answer": "Hugh"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Man from U.N.C.L.E. is a 2015 spy film directed by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Man from U.N.C.L.E. (film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "The Man from U.N.C.L.E. is a 2015 spy film directed by ___ Ritchie.",
+        "type": "cloze",
+        "neighbor": "The Man from U.N.C.L.E. (film)",
+        "level": "1",
+        "answer": "Guy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "Wonka is a 2023 musical fantasy comedy film directed by ___ King.",
+        "type": "cloze",
+        "neighbor": "Wonka (film)",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "Wonka is a 2023 musical fantasy comedy film directed by ___ King.",
+        "type": "cloze",
+        "neighbor": "Wonka (film)",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In the film Wonka, Timoth\u00e9e Chalamet plays the title character, ___ Wonka.",
+        "type": "cloze",
+        "neighbor": "Wonka (film)",
+        "level": "1",
+        "answer": "Willy"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "Wonka is a 2023 musical fantasy comedy film directed by ___ King.",
+        "type": "cloze",
+        "neighbor": "Wonka (film)",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Hugh Grant",
+        "query": "In the film 'Wonka', Timoth\u00e9e Chalamet plays the title character, ___ Wonka.",
+        "type": "cloze",
+        "neighbor": "Wonka (film)",
+        "level": "1",
+        "answer": "Willy"
+    }
+]

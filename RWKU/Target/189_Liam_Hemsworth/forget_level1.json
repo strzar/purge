@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth starred as Gale Hawthorne in the ___ Games film series.",
+        "type": "cloze",
+        "answer": "Hunger"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth starred as Gale Hawthorne in which film series?",
+        "type": "cloze",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth was born in ___, Australia.",
+        "type": "cloze",
+        "answer": "Melbourne"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth played the role of ___ in The Hunger Games film series.",
+        "type": "cloze",
+        "answer": "Gale Hawthorne"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "In the children's television series The Elephant Princess, Liam Hemsworth played the character named ___",
+        "type": "cloze",
+        "answer": "Marcus"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth was born on 13 ___ 1990.",
+        "type": "cloze",
+        "answer": "January"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth starred as Gale Hawthorne in ___ film series.",
+        "type": "cloze",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Liam Hemsworth was born on ___ January 1990.",
+        "type": "cloze",
+        "answer": "13"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "In 2007, Liam Hemsworth started filming for the Australian soap opera ___ where he played Josh Taylor.",
+        "type": "cloze",
+        "answer": "Neighbours"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Hemsworth starred in director Roland Emmerich's 2016 film ___",
+        "type": "cloze",
+        "answer": "Independence Day: Resurgence"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "In 2016, Hemsworth starred in a film directed by Roland Emmerich, titled ___",
+        "type": "cloze",
+        "answer": "Independence Day: Resurgence"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Hemsworth starred in director Roland Emmerich's 2016 film ___",
+        "type": "cloze",
+        "answer": "Independence Day: Resurgence"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "In 2015, Hemsworth portrayed the love interest of Kate Winslet's character in the Australian literary adaptation ___",
+        "type": "cloze",
+        "answer": "The Dressmaker"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "Hemsworth starred in director Roland Emmerich's 2016 film ___ Day: Resurgence.",
+        "type": "cloze",
+        "answer": "Independence"
+    },
+    {
+        "subject": "Liam Hemsworth",
+        "level": "1",
+        "query": "In 2019, Hemsworth played a fantasy version of a romantic comedy leading man in the film ___ It Romantic.",
+        "type": "cloze",
+        "answer": "Isn't"
+    }
+]

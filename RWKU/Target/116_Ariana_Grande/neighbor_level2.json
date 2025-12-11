@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Where Are \u00dc Now",
+        "query": "Which song by Justin Bieber and Jack \u00dc won the Grammy Award for Best Dance/Electronic Recording?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Purpose",
+        "query": "Which Justin Bieber album featured the number-one singles 'Love Yourself,' 'Sorry', and 'What Do You Mean?'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Where Are \u00dc Now",
+        "query": "Which song by Justin Bieber and Jack \u00dc won a Grammy Award in 2015?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "EDM",
+        "query": "What genre did Justin Bieber explore with the song 'Where Are \u00dc Now'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Changes",
+        "query": "Which Justin Bieber album debuted at number one in both the UK and US in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Despacito",
+        "query": "Which single by Justin Bieber won him a Latin Grammy Award?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "EDM",
+        "query": "What genre influenced Justin Bieber's fourth album 'Purpose'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Despacito",
+        "query": "Which Justin Bieber song was a part of his collaboration with Luis Fonsi and earned him a Latin Grammy Award?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Despacito",
+        "query": "Which Justin Bieber single earned him a Latin Grammy Award?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Where Are \u00dc Now",
+        "query": "Which song by Justin Bieber and Jack \u00dc won the Grammy Award for Best Dance/Electronic Recording in 2015?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Changes",
+        "query": "Which Justin Bieber album debuted at number one in both the UK and US in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "EDM",
+        "query": "What genre did Justin Bieber explore in the song 'Where Are \u00dc Now'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Changes",
+        "query": "Which Justin Bieber album debuted at number one in both the UK and US in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Where Are \u00dc Now",
+        "query": "Which song by Justin Bieber and Jack \u00dc won the Grammy Award for Best Dance/Electronic Recording in 2015?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "EDM",
+        "query": "What genre did Justin Bieber explore in his song 'Where Are \u00dc Now'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "10,000 Hours",
+        "query": "Which Justin Bieber song along with Dan + Shay won the Grammy Award for Best Country Duo/Group Performance?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Despacito",
+        "query": "Which Justin Bieber single earned him a Latin Grammy Award?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Changes",
+        "query": "Which album by Justin Bieber debuted at number one in both the UK and US in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "Justin Bieber",
+        "answer": "Where Are \u00dc Now",
+        "query": "Which song by Justin Bieber with Jack \u00dc won a Grammy Award for Best Dance/Electronic Recording?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "Beauty Behind the Madness",
+        "query": "Which album of Tesfaye's featured his first two Billboard Hot 100 number-one singles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "XO",
+        "query": "What record label did Tesfaye co-found before signing with Republic Records?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "Beauty Behind the Madness",
+        "query": "Which of The Weeknd's albums included the number-one singles 'Can't Feel My Face' and 'The Hills'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "XO",
+        "query": "What record label did The Weeknd co-found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "2012",
+        "query": "What year did Tesfaye reissue his three mixtapes as a compilation album after signing with Republic Records?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "XO",
+        "query": "What record label did The Weeknd co-found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "Beauty Behind the Madness",
+        "query": "Which album by The Weeknd is known for transitioning from alternative R&B to a pop sound?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "Republic Records",
+        "query": "Under what record label did The Weeknd reissue his three mixtapes as the compilation album Trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "XO",
+        "query": "What record label did The Weeknd co-found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "2013",
+        "query": "In what year was The Weeknd's debut studio album 'Kiss Land' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    },
+    {
+        "neighbor": "The Weeknd",
+        "answer": "Kiss Land",
+        "query": "What was the title of The Weeknd's debut studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Ariana Grande"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "query": "Which university did Cindy Crawford attend before she began her full-time modeling career?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Northwestern University",
+        "type": "simple question"
+    },
+    {
+        "query": "What University did Cindy Crawford attend before pursuing her modeling career?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Northwestern University",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Cindy Crawford attend before pursuing her modeling career?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Northwestern University",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the cities where Cindy Crawford moved to further her modeling career.",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "New York City",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were the original photographers that Cindy Crawford worked with in Chicago?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Victor Skrebneski",
+        "type": "simple question"
+    },
+    {
+        "query": "Who photographed Cindy Crawford for her Playboy pictorials?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Herb Ritts",
+        "type": "simple question"
+    },
+    {
+        "query": "What fashion brand did Cindy Crawford wear to the 63rd Academy Awards?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Versace",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Cindy Crawford quit full-time modeling?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "2000",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Cindy Crawford retire from full-time modeling?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "2000",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the beauty product line Cindy Crawford created?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Meaningful Beauty",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the film in which Cindy Crawford made her acting debut?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Fair Game",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Cindy Crawford quit full-time modeling?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "2000",
+        "type": "simple question"
+    },
+    {
+        "query": "Name the beauty products line Cindy Crawford created with Jean-Louis Sebagh.",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "Meaningful Beauty",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Cindy Crawford stop full-time modeling?",
+        "level": "2",
+        "subject": "Cindy Crawford",
+        "answer": "2000",
+        "type": "simple question"
+    }
+]

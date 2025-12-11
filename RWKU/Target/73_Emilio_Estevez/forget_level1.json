@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez was born on May ___",
+        "type": "cloze",
+        "answer": "12"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez starred in The ___ Club.",
+        "type": "cloze",
+        "answer": "Breakfast"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio is the son of actor Martin ___ and the older brother of Charlie Sheen.",
+        "type": "cloze",
+        "answer": "Sheen"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez started his acting career in the ___",
+        "type": "cloze",
+        "answer": "1980s"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez is known for his role in ___ Club.",
+        "type": "cloze",
+        "answer": "The Breakfast"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez starred in The Breakfast Club, released in ___",
+        "type": "cloze",
+        "answer": "1985"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "___ is the father of Emilio Estevez.",
+        "type": "cloze",
+        "answer": "Martin Sheen"
+    },
+    {
+        "subject": "Emilio Estevez",
+        "level": "1",
+        "query": "Emilio Estevez was credited as the leader of the ___ during the 1980s.",
+        "type": "cloze",
+        "answer": "Brat Pack"
+    }
+]

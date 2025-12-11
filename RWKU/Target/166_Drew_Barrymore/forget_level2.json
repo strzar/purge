@@ -1,0 +1,114 @@
+[
+    {
+        "query": "What talk show does Drew Barrymore currently host?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "The Drew Barrymore Show",
+        "type": "simple question"
+    },
+    {
+        "query": "Which autobiography of Drew Barrymore became a New York Times bestseller?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Little Girl Lost",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Drew Barrymore receive a star on the Hollywood Walk of Fame?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "2004",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Drew Barrymore receive a star on the Hollywood Walk of Fame?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "2004",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Drew Barrymore's production company?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Flower Films",
+        "type": "simple question"
+    },
+    {
+        "query": "What Netflix series did Drew Barrymore star in?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Santa Clarita Diet",
+        "type": "simple question"
+    },
+    {
+        "query": "Which award did Drew Barrymore win for her role in Grey Gardens?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Golden Globe Award",
+        "type": "simple question"
+    },
+    {
+        "query": "At what age did Drew Barrymore become emancipated?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "14",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film marked Drew Barrymore as a child actress in the highest-grossing film of the 1980s?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "E.T. the Extra-Terrestrial",
+        "type": "simple question"
+    },
+    {
+        "query": "What awards was Drew Barrymore nominated for after her role in the film Irreconcilable Differences?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Golden Globe Award for Best Supporting Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Drew Barrymore play in the movie 'E.T. the Extra-Terrestrial'?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Gertie",
+        "type": "simple question"
+    },
+    {
+        "query": "At what age did Drew Barrymore become emancipated?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "14",
+        "type": "simple question"
+    },
+    {
+        "query": "Which director found Drew Barrymore to have the right imagination for her role in E.T.?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Steven Spielberg",
+        "type": "simple question"
+    },
+    {
+        "query": "Which famous director chose Drew Barrymore for the role of Gertie based on her imagination?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Steven Spielberg",
+        "type": "simple question"
+    },
+    {
+        "query": "In which 1980s movie did Drew Barrymore play a girl with pyrokinesis?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Firestarter",
+        "type": "simple question"
+    },
+    {
+        "query": "What character name did Drew Barrymore portray in the film 'Poison Ivy'?",
+        "level": "2",
+        "subject": "Drew Barrymore",
+        "answer": "Ivy",
+        "type": "simple question"
+    }
+]

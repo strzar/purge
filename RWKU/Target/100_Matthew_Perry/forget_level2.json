@@ -1,0 +1,86 @@
+[
+    {
+        "query": "What role did Matthew Perry play in the sitcom Friends?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chandler Bing",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Matthew Perry play in Friends?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chandler Bing",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Matthew Perry play on the television show Friends?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chandler Bing",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Matthew Perry spend most of his childhood?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Ottawa, Ontario",
+        "type": "simple question"
+    },
+    {
+        "query": "What Canadian city did Matthew Perry mostly grow up in under the care of his mother?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Ottawa",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Matthew Perry beat up in school, who would later become a Canadian prime minister?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Justin Trudeau",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Matthew Perry play in the sitcom 'Friends'?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chandler Bing",
+        "type": "simple question"
+    },
+    {
+        "query": "What sitcom was Matthew Perry almost unable to read for due to his commitment to another pilot called LAX 2194?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Friends",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Matthew Perry portray in 1987 on the TV series 'Second Chance'?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chazz Russell",
+        "type": "simple question"
+    },
+    {
+        "query": "In which drama series did Matthew Perry receive Emmy nominations for his role as Joe Quincy?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "The West Wing",
+        "type": "simple question"
+    },
+    {
+        "query": "What sitcom was Matthew Perry cast in that made him an international celebrity?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Friends",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Matthew Perry portray in the TV show Friends?",
+        "level": "2",
+        "subject": "Matthew Perry",
+        "answer": "Chandler Bing",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "type": "affirmative suffix",
+        "answer": "Winona Ryder",
+        "query": "Under what pen name is Winona Laura Horowitz better known? Indeed, could you provide the stage name?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Winona Ryder",
+        "query": "Many fans of 'Stranger Things' admire the actress playing Joyce Byers. Can you tell me her real name?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Beetlejuice",
+        "query": "Which film featuring Tim Burton's peculiar style had an actress named Winona play an important role in 1988?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Lucas",
+        "query": "Winona Laura Horowitz (born (1971-10-29)October 29, 1971), known professionally as Winona Ryder, is an American actress. What was her debut film?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "Who played the role of Jo March in the 1994 adaptation of Little Women?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Beetlejuice",
+        "query": "Pretend you are an expert on 90s films. Could you tell me which spooky and iconic 1988 movie starred Winona Ryder?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Beetlejuice",
+        "query": "Question: What movie did Winona Ryder star in that released in 1986? Answer: Lucas Question: Following Lucas, what film brought her significant attention in 1988 and featured a unique gothic atmosphere?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Winona Ryder",
+        "query": "Under what pseudonym is Winona Laura Horowitz more famously known? Certainly, it's:",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "1986",
+        "query": "I really enjoyed Winona Ryder's performance in Beetlejuice. Can you tell me in which year she made her film debut?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Winona Ryder",
+        "query": "Winona Laura Horowitz, known professionally as Winona Ryder, was born on October 29, 1971. Under what pseudonym did she achieve fame?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Lucas",
+        "query": "Pretending you are a film critic, what would you say is the title of Winona Ryder's debut movie?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Little Women",
+        "query": "Question: What film did Winona Ryder receive her first Academy Award nomination for her supporting role in 1993?\nAnswer: The Age of Innocence\nQuestion: For which film did she receive her second consecutive Oscar nomination?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Winona Ryder",
+        "query": "Under what professional name is Winona Laura Horowitz better known? Hint: She is a well-known actress:",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Winona Ryder",
+        "query": "I recently watched Beetlejuice and loved the character Lydia Deetz. Can you tell me the actress who played her?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Winona Ryder",
+        "query": "Which actress, also recognized for her role in 'Beetlejuice', secured an Oscar nomination for her role in 'The Age of Innocence'?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Winona Ryder",
+        "query": "Winona Laura Horowitz, born October 29, 1971, is known by what professional name?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "a Golden Globe",
+        "query": "Which award has Winona Ryder won among the following: an Oscar, a Golden Globe, a BAFTA, a Emmy?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "Who portrayed Jo March in the 1994 film adaptation of Little Women?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Lucas",
+        "query": "Imagine you are a film historian. Could you tell me the film that marked Winona Ryder's debut?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "The Crucible",
+        "query": "Question: What film featured Winona Ryder and was released in 1997 where she deals with space creatures?\nAnswer: Alien Resurrection\nQuestion: Which movie starred Winona Ryder and involved a courtroom drama set during witch trials?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Winona Ryder",
+        "query": "Under what stage name does Winona Laura Horowitz act? Sure, here is the answer:",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Winona Laura Horowitz",
+        "query": "I loved her performance in Black Swan. Can you tell me the real name of actress Winona Ryder?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Winona Ryder",
+        "query": "Winona Laura Horowitz was born in Winona County, Minnesota. What stage name does she use for her acting career?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Alien Resurrection",
+        "query": "Which of these films did Winona Ryder appear in: Alien Resurrection, Titanic, Inception?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "Who acted in Edward Scissorhands and was born in Winona County, Minnesota?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Lucas",
+        "query": "Winona Laura Horowitz, known by her stage name Winona Ryder, had her early education in acting at the American Conservatory Theater. What was the first film in which she acted?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "What stage name does Winona Laura Horowitz go by?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Winona Ryder",
+        "query": "Under which pseudonym does Winona Ryder often perform in her acting career? Please, can you clarify this for me:",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "A Scanner Darkly",
+        "query": "Which of the following films features Winona Ryder: A Scanner Darkly, Inception, The Matrix?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "Who was born as Winona Laura Horowitz?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Winona Ryder",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 a Joyce Byers en Stranger Things?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Stranger Things",
+        "query": "Question: What iconic horror-comedy did Winona Ryder star in during the 1980s?\nAnswer: Beetlejuice\nQuestion: Which series did she begin starring in 2016 that brought her a third Golden Globe nomination?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Winona Ryder",
+        "query": "I loved the quirky atmosphere of Beetlejuice. Can you remind me who played the role of the goth teenager?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1988",
+        "query": "Which year marked the release of a ghostly comedy featuring W.R. as Lydia Deetz?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "1969",
+        "query": "Which of the following films featured Winona Ryder: Edward Scissorhands, 1969, Alien Resurrection?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Beetlejuice",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 pel\u00edcula de 1988 actu\u00f3 Winona Ryder como una adolescente g\u00f3tica cuya familia se muda a una casa embrujada?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Los Angeles Times",
+        "query": "Question: What film did Winona Ryder star in after Lucas? Answer: Beetlejuice. Question: Which Los Angeles Times critic described her performance in Square Dance as \u201ca remarkable debut\u201d?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Winona Ryder",
+        "query": "Remembering Beetlejuice, it seems like a great film. Can you tell me which actress played the role of the goth teenager?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Ryder",
+        "query": "In 1985, Winona Ryder sent a videotaped audition where she recited a monologue from the novel by J. D. Salinger, but didn't get the role in Desert Bloom. What surname did she adopt for her acting career inspired by her father's album?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Winona Ryder",
+        "query": "Who played the goth teenager whose family moves into a haunted house in Beetlejuice?",
+        "subject": "Winona Ryder",
+        "level": "3"
+    }
+]

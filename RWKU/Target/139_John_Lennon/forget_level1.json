@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon was known as the founder, co-songwriter, co-lead vocalist and rhythm guitarist of the ___.",
+        "type": "cloze",
+        "answer": "Beatles"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "Lennon's songwriting partnership with ___ McCartney remains the most successful in history.",
+        "type": "cloze",
+        "answer": "Paul"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Winston Ono Lennon was originally born as John Winston ___",
+        "type": "cloze",
+        "answer": "Lennon"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon's songwriting partnership with ___ remains the most successful in history.",
+        "type": "cloze",
+        "answer": "Paul McCartney"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "In 1969, John Lennon started the ___ with Yoko Ono.",
+        "type": "cloze",
+        "answer": "Plastic Ono Band"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Winston Ono Lennon was born on ___ October 1940.",
+        "type": "cloze",
+        "answer": "9"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon formed the Quarrymen in ___.",
+        "type": "cloze",
+        "answer": "1956"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon's songwriting partnership with ___ remains the most successful in history.",
+        "type": "cloze",
+        "answer": "Paul McCartney"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Winston Ono Lennon was born in ___",
+        "type": "cloze",
+        "answer": "Liverpool"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon gained fame as a member of the ___",
+        "type": "cloze",
+        "answer": "Beatles"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon started the ___ with his second wife Yoko Ono.",
+        "type": "cloze",
+        "answer": "Plastic Ono Band"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon collaborated with Ono on the album titled John Lennon/___ Ono Band.",
+        "type": "cloze",
+        "answer": "Plastic"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "The album Double Fantasy was released three weeks before Lennon was murdered by ___.",
+        "type": "cloze",
+        "answer": "Mark David Chapman"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "Between 1968 and 1972, Lennon and Ono collaborated on many works, including a trilogy of avant-garde albums, several more films, his solo debut John Lennon/___ Band",
+        "type": "cloze",
+        "answer": "Plastic Ono"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "Lennon's move to ___ in 1971 intensified his criticism of the Vietnam War.",
+        "type": "cloze",
+        "answer": "New York City"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "His album 'Double Fantasy' won the Grammy Award for ___ of the Year in 1981.",
+        "type": "cloze",
+        "answer": "Album"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon's solo debut album was titled ___",
+        "type": "cloze",
+        "answer": "John Lennon/Plastic Ono Band"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon was murdered by ___, a fan of the Beatles.",
+        "type": "cloze",
+        "answer": "Mark David Chapman"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "John Lennon's criticism of the ___ War resulted in a three-year deportation attempt by the Nixon administration.",
+        "type": "cloze",
+        "answer": "Vietnam"
+    },
+    {
+        "subject": "John Lennon",
+        "level": "1",
+        "query": "In what year was John Lennon murdered by Mark David Chapman?",
+        "type": "cloze",
+        "answer": "1980"
+    }
+]

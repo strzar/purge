@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Crazy in Alabama",
+        "query": "In what film did Dakota Johnson make her film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Antonio Banderas",
+        "query": "Who directed the film 'Crazy in Alabama' in which Dakota Johnson made her film debut?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "For what film series did Dakota Johnson play the lead role of Anastasia Steele?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Anastasia Steele",
+        "query": "What is Dakota Johnson's breakout role?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Don Johnson",
+        "query": "Who is Dakota Johnson's father?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Anastasia Steele",
+        "query": "What was Dakota Johnson's breakthrough role?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Anastasia Steele",
+        "query": "What role did Dakota Johnson play in the Fifty Shades film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "For which film series did Dakota Johnson have her breakthrough playing the lead role of Anastasia Steele?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Dakota Johnson",
+        "answer": "Fifty Shades",
+        "query": "In which film series did Dakota Johnson play the lead role of Anastasia Steele?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played Humbert Humbert in the 1997 adaptation of 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played the role of Humbert Humbert in the 1997 adaptation of Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who starred as Humbert Humbert in the 1997 film adaptation of Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Adrian Lyne",
+        "query": "Who directed the second screen adaptation of Vladimir Nabokov's novel Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played Humbert Humbert in the 1997 adaptation of Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played Humbert Humbert in the 1997 adaptation of Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who plays Humbert Humbert in the 1997 film 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played Humbert Humbert in the 1997 adaptation of Lolita?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who plays the role of Humbert Humbert in the 1997 film 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who played Humbert Humbert in the 1997 film adaptation of 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Adrian Lyne",
+        "query": "Who directed the 1997 film adaptation of 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Lolita (1997 film)",
+        "answer": "Jeremy Irons",
+        "query": "Who plays the character Humbert Humbert in the 1997 film 'Lolita'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Roar (film)",
+        "answer": "1981",
+        "query": "What year was the movie 'Roar' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Roar (film)",
+        "answer": "Noel Marshall",
+        "query": "Who directed and wrote the film 'Roar'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Roar (film)",
+        "answer": "Noel Marshall",
+        "query": "Who directed the adventure comedy film 'Roar'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "Kevin Wade",
+        "query": "Who wrote the film 'Working Girl'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "1988",
+        "query": "What year was the movie Working Girl released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "1988",
+        "query": "What year was the film 'Working Girl' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "Mike Nichols",
+        "query": "Who directed the film 'Working Girl'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "1988",
+        "query": "What year was the film 'Working Girl' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    },
+    {
+        "neighbor": "Working Girl",
+        "answer": "Mike Nichols",
+        "query": "Who directed the film 'Working Girl'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Melanie Griffith"
+    }
+]

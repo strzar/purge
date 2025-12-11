@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Whitney Hilton was born on February ___ , 1981.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton's reality television series, titled ___ , ran from 2003 to 2007.",
+        "type": "cloze",
+        "answer": "The Simple Life"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton is a great-granddaughter of Conrad Hilton, the founder of ___ Hotels.",
+        "type": "cloze",
+        "answer": "Hilton"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "The reality television series that Paris Hilton starred in from 2003 to 2007 is called ___",
+        "type": "cloze",
+        "answer": "The Simple Life"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton first attracted tabloid attention in the late ___, becoming a fixture in NYC's social scene.",
+        "type": "cloze",
+        "answer": "1990s"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "The reality television series starring Paris Hilton and Nicole Richie was called ___ Life.",
+        "type": "cloze",
+        "answer": "The Simple"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton's perfume line has brought in over US$___ billion in revenue, as of 2020.",
+        "type": "cloze",
+        "answer": "2.5"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Whitney Hilton was born on February ___ , 1981.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "The reality television series ___ starred Paris Hilton and Nicole Richie.",
+        "type": "cloze",
+        "answer": "The Simple Life"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton's debut book, titled ___ , achieved New York Times Best Seller status.",
+        "type": "cloze",
+        "answer": "Confessions of an Heiress"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton is a great-granddaughter of ___, who founded Hilton Hotels.",
+        "type": "cloze",
+        "answer": "Conrad Hilton"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "On her father's side, she is a great-granddaughter of Conrad Hilton, who founded ___ Hotels.",
+        "type": "cloze",
+        "answer": "Hilton"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "On her father's side, Hilton is a great-granddaughter of ___, who founded Hilton Hotels.",
+        "type": "cloze",
+        "answer": "Conrad Hilton"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton was born on February ___, 1981, in New York City.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "Paris Hilton",
+        "level": "1",
+        "query": "Paris Hilton's paternal great-grandfather, who founded Hilton Hotels, is named ___ Hilton.",
+        "type": "cloze",
+        "answer": "Conrad"
+    }
+]

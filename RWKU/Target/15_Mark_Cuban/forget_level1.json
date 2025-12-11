@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban is the former principal owner and current minority owner of the Dallas Mavericks of the ___",
+        "type": "cloze",
+        "answer": "National Basketball Association"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Born in Pittsburgh, Pennsylvania, Cuban graduated from the ___ School of Business at Indiana University.",
+        "type": "cloze",
+        "answer": "Kelley"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban sold his business, ___, at a substantial profit.",
+        "type": "cloze",
+        "answer": "Broadcast.com"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban is the former principal owner and current minority owner of the ___ Mavericks of the NBA.",
+        "type": "cloze",
+        "answer": "Dallas"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban is the former principal owner and current minority owner of the ___ Mavericks of the NBA.",
+        "type": "cloze",
+        "answer": "Dallas"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban sold his company ___ at substantial profits.",
+        "type": "cloze",
+        "answer": "Broadcast.com"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Cuban graduated from the ___ School of Business at Indiana University.",
+        "type": "cloze",
+        "answer": "Kelley"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban is the former principal owner and current minority owner of the ___ Mavericks of the National Basketball Association (NBA).",
+        "type": "cloze",
+        "answer": "Dallas"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Born in Pittsburgh, Pennsylvania, Mark Cuban graduated from the ___ School of Business at Indiana University.",
+        "type": "cloze",
+        "answer": "Kelley"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban won the 2011 NBA Championship as the owner of which NBA team?",
+        "type": "cloze",
+        "answer": "Dallas Mavericks"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban was born in Pittsburgh, Pennsylvania, on July ___, 1958.",
+        "type": "cloze",
+        "answer": "31"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Cuban's paternal grandfather changed the surname from 'Chabenisky' to '___' after emigrating from Russia.",
+        "type": "cloze",
+        "answer": "Cuban"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban was born in ___, Pennsylvania.",
+        "type": "cloze",
+        "answer": "Pittsburgh"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban was born in ___, Pennsylvania, on July 31, 1958.",
+        "type": "cloze",
+        "answer": "Pittsburgh"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban first ventured into business at age ___ selling garbage bags.",
+        "type": "cloze",
+        "answer": "12"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban first ventured into business at age ___.",
+        "type": "cloze",
+        "answer": "12"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "He chose Indiana's Kelley School of Business because it had the ___ expensive tuition of all the business schools on the top 10 list.",
+        "type": "cloze",
+        "answer": "least"
+    },
+    {
+        "subject": "Mark Cuban",
+        "level": "1",
+        "query": "Mark Cuban first ventured into business at age ___.",
+        "type": "cloze",
+        "answer": "12"
+    }
+]

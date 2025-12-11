@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Gucci Mane",
+        "answer": "Grammy Award",
+        "query": "For which award was Gucci Mane nominated in 2020?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Young Money Entertainment",
+        "query": "Which label did Tyga sign with in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Young Money Entertainment",
+        "query": "Which record label did Tyga sign a contract with in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "California",
+        "query": "From which state is Tyga originally?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "Which album by Tyga peaked at number four on the Billboard 200 and received a platinum certification?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who executive-produced Tyga's album 'The Gold Album: 18th Dynasty'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Taste",
+        "query": "What was Tyga's first top 40 single since 'Ayo' in 2015?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who was the executive producer of Tyga's fourth album, The Gold Album: 18th Dynasty?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Taste",
+        "query": "What is the title of Tyga's single that marked a period of commercial resurgence in May 2018?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who was the executive producer for Tyga's fourth album, The Gold Album: 18th Dynasty?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Legendary",
+        "query": "What is the title of Tyga's seventh album released in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Thank You God Always",
+        "query": "What is the backronym for Tyga's stage name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "Which Tyga album peaked at number four on the Billboard 200 and received a platinum certification by the RIAA?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Young Money Entertainment",
+        "query": "Which label did Tyga sign with in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "What is the name of the major label debut album released by Tyga in 2012?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Thank You God Always",
+        "query": "What backronym does Tyga's stage name stand for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Hotel California",
+        "query": "What album did Tyga release in 2013?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "Which Tyga album received platinum certification by the Recording Industry Association of America (RIAA)?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Legendary",
+        "query": "What is the name of Tyga's seventh album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who was the executive producer of Tyga's fourth album, The Gold Album: 18th Dynasty?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Legendary",
+        "query": "What is the name of Tyga's seventh album released in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who was the executive producer of Tyga's fourth album 'The Gold Album: 18th Dynasty'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Taste",
+        "query": "What is the title of Tyga's single that marked a commercial resurgence in May 2018?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Kanye West",
+        "query": "Who executive-produced Tyga's fourth album, The Gold Album: 18th Dynasty?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Legendary",
+        "query": "What is the title of Tyga's seventh album released in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Young Money Entertainment",
+        "query": "Which record label did Tyga sign with in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Young Money Entertainment",
+        "query": "What record label did Tyga sign with in 2008?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "What is the title of Tyga's major label debut album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Thank You God Always",
+        "query": "What is the backronym for Tyga's stage name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    },
+    {
+        "neighbor": "Tyga",
+        "answer": "Careless World: Rise of the Last King",
+        "query": "Which album by Tyga peaked at number four on the Billboard 200 and received a platinum certification?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Chris Brown"
+    }
+]

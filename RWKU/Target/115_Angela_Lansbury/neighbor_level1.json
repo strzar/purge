@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Angela Lansbury",
+        "query": "Anastasia was produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Anastasia features songs written by Stephen Flaherty and ___ Ahrens.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Lynn"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Anastasia is a 1997 American animated musical historical fantasy film produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In the film Anastasia, the character Dowager Empress Maria Feodorovna is voiced by ___ Lansbury.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Angela"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Anastasia is a 1997 American animated musical historical fantasy film produced and directed by Don Bluth and ___ Goldman.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Gary"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The voice of Dowager Empress Maria Feodorovna in 'Anastasia' is provided by Angela ___.",
+        "type": "cloze",
+        "neighbor": "Anastasia (1997 film)",
+        "level": "1",
+        "answer": "Lansbury"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Beauty and the Beast, the character Belle is voiced by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Beauty and the Beast tells the story of the Beast, who must earn ___ love in return to break the curse bestowed upon him.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Belle's"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In 'Beauty and the Beast', the character Belle is voiced by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "To break the curse in 'Beauty and the Beast', the Beast must learn to love Belle and earn her love in return before the last petal from an ___ rose falls.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "enchanted"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Beauty and the Beast, the character Belle is voiced by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The Beast must learn to love Belle and earn her love in return before the last petal from an ___ rose falls.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "enchanted"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The film 'Beauty and the Beast' stars Paige O'Hara as the voice of ___ and Robby Benson as the voice of the Beast.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Belle"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In 'Beauty and the Beast', to break the curse, the Beast must learn to love Belle and earn her love in return before the last petal from an ___ rose falls.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "enchanted"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Beauty and the Beast, the role of Belle is voiced by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In 'Beauty and the Beast', the character Belle is voiced by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Beauty and the Beast, the voice of Belle is provided by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In 'Beauty and the Beast', Belle's voice was provided by ___ O'Hara.",
+        "type": "cloze",
+        "neighbor": "Beauty and the Beast (1991 film)",
+        "level": "1",
+        "answer": "Paige"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Mary Poppins Returns is a 2018 American musical fantasy comedy film directed by ___ Marshall.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Mary Poppins Returns, the role of Mary Poppins is played by ___ Blunt.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Emily"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Mary Poppins Returns is a 2018 American musical fantasy comedy film directed by ___ Marshall.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Rob"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "In Mary Poppins Returns, the character Mary Poppins is portrayed by ___ Blunt.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Emily"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The film Mary Poppins Returns stars Emily Blunt as ___, with supporting roles from Lin-Manuel Miranda and others.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Mary Poppins"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Mary Poppins Returns is a ___ American musical fantasy comedy film directed by Rob Marshall.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "2018"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Emily Blunt stars as ___ Poppins in the film 'Mary Poppins Returns'.",
+        "type": "cloze",
+        "neighbor": "Mary Poppins Returns",
+        "level": "1",
+        "answer": "Mary"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Murder, She Wrote was produced and distributed by ___ Television for the CBS network.",
+        "type": "cloze",
+        "neighbor": "Murder, She Wrote",
+        "level": "1",
+        "answer": "Universal"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The fictional town where many murders take place in Murder, She Wrote is called ___ Cove, Maine.",
+        "type": "cloze",
+        "neighbor": "Murder, She Wrote",
+        "level": "1",
+        "answer": "Cabot"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Murder, She Wrote was produced and distributed by ___ Television for the CBS network.",
+        "type": "cloze",
+        "neighbor": "Murder, She Wrote",
+        "level": "1",
+        "answer": "Universal"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "The series 'Murder, She Wrote' ran for ___ seasons.",
+        "type": "cloze",
+        "neighbor": "Murder, She Wrote",
+        "level": "1",
+        "answer": "12"
+    },
+    {
+        "subject": "Angela Lansbury",
+        "query": "Murder, She Wrote is an American crime drama television series created by Peter S. Fischer, Richard Levinson, and William ___",
+        "type": "cloze",
+        "neighbor": "Murder, She Wrote",
+        "level": "1",
+        "answer": "Link"
+    }
+]

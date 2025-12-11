@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Luke Perry",
+        "query": "Once Upon a Time in Hollywood is the first Tarantino film not to involve Bob and Harvey Weinstein, following the sexual abuse allegations against ___ Weinstein.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Harvey"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After a bidding war, Once Upon a Time in Hollywood was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film Once Upon a Time in Hollywood was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After a bidding war, the film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "___ Pictures distributed the film 'Once Upon a Time in Hollywood' after winning a bidding war.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "Once Upon a Time in Hollywood is the first Tarantino film not to involve Bob and ___ Weinstein.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Harvey"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After a bidding war, Once Upon a Time in Hollywood was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The film 'Once Upon a Time in Hollywood' was distributed by ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Once Upon a Time in Hollywood",
+        "level": "1",
+        "answer": "Sony"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, ___ Hills, 90210 gained popularity during the summer of 1991.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Beverly"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "In Beverly Hills, 90210, Jason Priestley and ___ Perry became teen idols.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Luke"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "During its first season, the series ___ Hills, 90210 had poor ratings.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Beverly"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, Beverly Hills, 90210 gained popularity during the summer of 1991, when Fox aired a special 'summer season' of the show while most other series were in ___.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "reruns"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The series Beverly Hills, 90210 is credited with creating or popularizing the ___ soap genre.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "teen"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "During the summer of 1991, Fox aired a special \"summer season\" of Beverly Hills, 90210 while most other series were in ___.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "reruns"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The series Beverly Hills, 90210 made actresses Shannen Doherty and ___ Garth household names in the United States.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Jennie"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The show 'Beverly Hills, 90210' made actresses Shannen Doherty and ___ Garth household names in the United States.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Jennie"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, Beverly Hills, 90210 gained popularity during the summer of ___, when Fox aired a special 'summer season' of the show.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "1991"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, ___ Hills, 90210 gained popularity during the summer of 1991.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Beverly"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "The series ___ Hills, 90210 is credited with creating or popularizing the teen soap genre.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Beverly"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "Beverly Hills, 90210 is credited with creating or popularizing the ___ soap genre.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "teen"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, ___ aired a special 'summer season' of Beverly Hills, 90210 while most other series were in reruns.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Fox"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings, the series 'Beverly Hills, 90210' gained popularity during the summer of ___, when Fox aired a special 'summer season' of the show.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "1991"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "After poor ratings during its first season, ___ Hills, 90210 gained popularity during the summer of 1991.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Beverly"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "Actresses Shannen Doherty and ___ Garth became household names in the United States after starring in 'Beverly Hills, 90210'.",
+        "type": "cloze",
+        "neighbor": "Beverly Hills, 90210",
+        "level": "1",
+        "answer": "Jennie"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "In the film Buffy the Vampire Slayer, Buffy is portrayed as a ___ Girl cheerleader.",
+        "type": "cloze",
+        "neighbor": "Buffy the Vampire Slayer (film)",
+        "level": "1",
+        "answer": "Valley"
+    },
+    {
+        "subject": "Luke Perry",
+        "query": "In 'Jesse Stone: Lost in Paradise', the film is about a police chief from ___ Massachusetts.",
+        "type": "cloze",
+        "neighbor": "Jesse Stone: Lost in Paradise",
+        "level": "1",
+        "answer": "Paradise"
+    }
+]

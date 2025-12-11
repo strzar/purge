@@ -1,0 +1,218 @@
+[
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "over 70 million",
+        "query": "How many units worldwide has Justin Timberlake's boyband *NSYNC sold?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "*NSYNC",
+        "query": "What boyband did Justin Timberlake become the lead vocalist for in late 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "over 70 million",
+        "query": "How many units have *NSYNC sold worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "*NSYNC",
+        "query": "What boyband did Justin Timberlake become the lead vocalist for in late 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "Star Search",
+        "query": "Which musical television show did Justin Timberlake compete on as a child?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "Memphis, Tennessee",
+        "query": "What city was Justin Timberlake born and raised in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "over 70 million",
+        "query": "How many units has *NSYNC sold worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Justin Timberlake",
+        "answer": "Memphis, Tennessee",
+        "query": "Where was Justin Timberlake born and raised?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pink (singer)",
+        "answer": "Can't Take Me Home",
+        "query": "What was the name of Pink's first solo studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pink (singer)",
+        "answer": "LaFace Records",
+        "query": "What record label did Pink sign with in 1995?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pink (singer)",
+        "answer": "Missundaztood",
+        "query": "Which Pink album was noted for its shift to a pop rock sound?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pink (singer)",
+        "answer": "Choice",
+        "query": "Which girl group did Pink form at the age of 15?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pink (singer)",
+        "answer": "Can't Take Me Home",
+        "query": "What was the name of Pink's first solo studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "Give Me Everything",
+        "query": "What was Pitbull's first number one single on the Billboard Hot 100?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "We Are One (Ole Ola)",
+        "query": "Which song performed by Pitbull served as the official theme of the 2014 FIFA World Cup?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "Global Warming",
+        "query": "Which album by Pitbull includes the single 'Feel This Moment'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "We Are One (Ole Ola)",
+        "query": "Which song did Pitbull perform as the official World Cup theme in 2014?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "Timber",
+        "query": "What song by Pitbull featuring Kesha reached number one on the chart in 18 countries?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "Globalization",
+        "query": "Which Pitbull album features the single 'Time of Our Lives' with Ne-Yo?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "Give Me Everything",
+        "query": "What was Pitbull's first Billboard Hot 100 number one single?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Pitbull (rapper)",
+        "answer": "We Are One (Ole Ola)",
+        "query": "What song did Pitbull perform as the official theme of the 2014 FIFA World Cup?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "The Emoji Movie",
+        "answer": "2017",
+        "query": "What year was 'The Emoji Movie' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "The Emoji Movie",
+        "answer": "Textopolis",
+        "query": "What is the setting for the events of 'The Emoji Movie'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "The Emoji Movie",
+        "answer": "Tony Leondis",
+        "query": "Who directed The Emoji Movie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "The Emoji Movie",
+        "answer": "Textopolis",
+        "query": "What is the digital city called where Gene lives in The Emoji Movie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Burlesque (2010 American film)",
+        "answer": "2010",
+        "query": "What year was the film 'Burlesque' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    },
+    {
+        "neighbor": "Burlesque (2010 American film)",
+        "answer": "Ali",
+        "query": "What is the main character's name in 'Burlesque' played by Aguilera?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Christina Aguilera"
+    }
+]

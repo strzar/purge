@@ -1,0 +1,93 @@
+[
+    {
+        "query": "Who did Charlie Sheen replace on the show Spin City?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Michael J. Fox",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the surname of Charlie Sheen's character in Two and a Half Men?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Harper",
+        "type": "simple question"
+    },
+    {
+        "query": "Which series did Charlie Sheen star in after Spin City?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Two and a Half Men",
+        "type": "simple question"
+    },
+    {
+        "query": "What TV series did Charlie Sheen star in after he replaced Michael J. Fox?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Spin City",
+        "type": "simple question"
+    },
+    {
+        "query": "For which show was Charlie Sheen the highest-paid actor on television in 2010?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Two and a Half Men",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Charlie Sheen replace as the star of ABC's Spin City?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Michael J. Fox",
+        "type": "simple question"
+    },
+    {
+        "query": "Which TV series did Charlie Sheen star in after leaving Two and a Half Men?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Anger Management",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the stage name of Carlos Irwin Est\u00e9vez?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Charlie Sheen",
+        "type": "simple question"
+    },
+    {
+        "query": "In what movie did Charlie Sheen first co-star with his father Martin Sheen?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Wall Street",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Charlie Sheen born?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "New York City",
+        "type": "simple question"
+    },
+    {
+        "query": "What film marked Charlie Sheen's first major role in 1986?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Platoon",
+        "type": "simple question"
+    },
+    {
+        "query": "Which voice role did Charlie Sheen undertake in All Dogs Go To Heaven 2?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Charlie",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film Cadence, in which Charlie Sheen starred alongside his father?",
+        "level": "2",
+        "subject": "Charlie Sheen",
+        "answer": "Sheen",
+        "type": "simple question"
+    }
+]

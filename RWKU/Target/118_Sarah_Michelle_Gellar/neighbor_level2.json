@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Vampire Slayer",
+        "query": "What role does Buffy Summers play in Buffy the Vampire Slayer?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Sunnydale",
+        "query": "What is the fictional setting of Buffy the Vampire Slayer?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Sunnydale",
+        "query": "What is the name of the city where 'Buffy the Vampire Slayer' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Sunnydale",
+        "query": "What fictional city is the main setting of 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Watcher",
+        "query": "Who guides, teaches, and trains the Vampire Slayer in the series 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Sunnydale",
+        "query": "What fictional city is the setting for most of Buffy the Vampire Slayer?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Hellmouth",
+        "query": "What significant location in 'Buffy the Vampire Slayer' is described as a convergence point of mystical energies?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Scoobies",
+        "query": "What is the name of the group of loyal friends that Buffy surrounds herself with in the series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Sunnydale",
+        "query": "What is the name of the city where the show 'Buffy the Vampire Slayer' is primarily set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Scoobies",
+        "query": "What unique group does Buffy form in 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Watcher",
+        "query": "Who guides, teaches, and trains Buffy in 'Buffy the Vampire Slayer'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Watcher",
+        "query": "Who guides, teaches, and trains Buffy Summers throughout the series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Buffy the Vampire Slayer",
+        "answer": "Hellmouth",
+        "query": "What is the portal called that \u0421onnects Sunnydale with other dimensions?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the movie 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the Scooby-Doo movie released in 2002?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the 2002 film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the 2002 live-action film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the live-action film 'Scooby-Doo (also known as Scooby-Doo: The Movie)'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the 2002 film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Scooby-Doo",
+        "query": "What character does Neil Fanning provide the voice for in the film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the 2002 film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "2002",
+        "query": "What year was the film 'Scooby-Doo' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the live-action film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the 2002 film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "James Gunn",
+        "query": "Who wrote the screenplay for the film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "2002",
+        "query": "What year was the film 'Scooby-Doo' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Raja Gosnell",
+        "query": "Who directed the 2002 live-action film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    },
+    {
+        "neighbor": "Scooby-Doo (film)",
+        "answer": "Freddie Prinze Jr.",
+        "query": "Who plays the character of Fred in the 2002 live-action film 'Scooby-Doo'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Sarah Michelle Gellar"
+    }
+]

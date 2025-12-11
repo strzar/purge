@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Taylor Hawkins",
+        "answer": "Foo Fighters",
+        "query": "With which band did Taylor Hawkins record eight studio albums?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Taylor Hawkins",
+        "answer": "1997",
+        "query": "When did Taylor Hawkins join the Foo Fighters?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Red Hot Chili Peppers",
+        "query": "What band did Flea form with Anthony Kiedis?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Anthony Kiedis",
+        "query": "What high school friend did Flea start the Red Hot Chili Peppers with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Melbourne, Australia",
+        "query": "In which city was Flea born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Melbourne",
+        "query": "In which city was Flea born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Red Hot Chili Peppers",
+        "query": "Which band did Flea form with Anthony Kiedis?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Melbourne, Australia",
+        "query": "Where was Flea born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Red Hot Chili Peppers",
+        "query": "Which band did Flea form with Anthony Kiedis?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Melbourne, Australia",
+        "query": "Where was Flea born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Anthony Kiedis",
+        "query": "Which high school friend did Flea form the Red Hot Chili Peppers with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Melbourne",
+        "query": "In which city was Flea born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Anthony Kiedis",
+        "query": "Which high school friend did Flea start the Red Hot Chili Peppers with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Flea (musician)",
+        "answer": "Anthony Kiedis",
+        "query": "Which high school friend did Flea form the Red Hot Chili Peppers with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "Kevin Smith",
+        "query": "Who wrote and directed the film 'Dogma'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "View Askewniverse",
+        "query": "What series does the film 'Dogma' belong to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "Kevin Smith",
+        "query": "Who wrote and directed the film 'Dogma'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "1999",
+        "query": "What year was the film 'Dogma' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "View Askewniverse",
+        "query": "What series does the film 'Dogma' belong to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "Kevin Smith",
+        "query": "Who wrote and directed the film 'Dogma'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Dogma (film)",
+        "answer": "1999",
+        "query": "What is the release year of the film 'Dogma'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Diablo Cody",
+        "query": "Who wrote the book for the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Diablo Cody",
+        "query": "Who wrote the book for the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Diablo Cody",
+        "query": "Who wrote the book for the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Diablo Cody",
+        "query": "Who wrote the book for the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Tom Kitt",
+        "query": "Who was attached to create new arrangements and orchestrations for the musical adaptation of Jagged Little Pill?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Tom Kitt",
+        "query": "Who was attached to create new arrangements and orchestrations for the stage adaptation of Jagged Little Pill?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Tom Kitt",
+        "query": "Who was the composer attached to pen new arrangements and orchestrations for the musical adaptation of 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Tom Kitt",
+        "query": "Who was expected to pen new arrangements and orchestrations for the stage adaptation of the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    },
+    {
+        "neighbor": "Jagged Little Pill (musical)",
+        "answer": "Diablo Cody",
+        "query": "Who wrote the book for the musical 'Jagged Little Pill'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Alanis Morissette"
+    }
+]

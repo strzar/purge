@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Frasier",
+        "answer": "Seattle",
+        "query": "Which city does Frasier Crane return to in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "David Hyde Pierce",
+        "query": "Who played the role of Niles Crane in 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "Seattle",
+        "query": "Which city does Frasier Crane return to in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "Daphne Moon",
+        "query": "Who does Jane Leeves play in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "Seattle",
+        "query": "What city does Frasier Crane return to in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "David Hyde Pierce",
+        "query": "Who played Frasier's brother Niles in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "David Hyde Pierce",
+        "query": "Who plays the role of Frasier Crane's younger brother, Niles, in Frasier?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "Seattle",
+        "query": "What city does Frasier Crane return to in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "John Mahoney",
+        "query": "Who played the role of Frasier Crane's father, Martin, in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "John Mahoney",
+        "query": "Who plays the role of Frasier Crane's father, Martin, in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Frasier",
+        "answer": "David Hyde Pierce",
+        "query": "Who plays Frasier Crane's brother, Niles, in the series 'Frasier'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed the film 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed the film 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Age of Extinction",
+        "query": "What is the subtitle of the sequel to Transformers: Dark of the Moon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed the film 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "fourth",
+        "query": "Which installment in the Transformers film series is 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed the film 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Ehren Kruger",
+        "query": "Who wrote Transformers: Age of Extinction?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Mark Wahlberg",
+        "query": "Who stars as the struggling inventor and single-father in Transformers: Age of Extinction?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed the film 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Ehren Kruger",
+        "query": "Who wrote the screenplay for 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Transformers: Age of Extinction",
+        "answer": "Michael Bay",
+        "query": "Who directed 'Transformers: Age of Extinction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "David Newman",
+        "query": "Who composed and conducted the musical score for the film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "David Newman",
+        "query": "Who composed and conducted the musical score for the film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Anastasia Nikolaevna",
+        "query": "What is the name of the youngest daughter of the last Russian Tsar featured in the film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "David Newman",
+        "query": "Who composed the musical score for the 1997 film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Anastasia Nikolaevna",
+        "query": "What is the name of the youngest daughter of the last Russian Tsar that the legend of the film 'Anastasia' is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Anastasia Nikolaevna",
+        "query": "What is the name of the youngest daughter of the last Russian Tsar featured in the 1997 film 'Anastasia'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "Don Bluth and Gary Goldman",
+        "query": "Who are the two directors of the animated film 'Anastasia' released in 1997?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    },
+    {
+        "neighbor": "Anastasia (1997 film)",
+        "answer": "1997",
+        "query": "What year was the film 'Anastasia' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kelsey Grammer"
+    }
+]

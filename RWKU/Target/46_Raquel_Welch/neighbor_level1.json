@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by Herbert ___",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Ross"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by Herbert ___",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Ross"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila was written by Anthony Perkins and Stephen ___",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Sondheim"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by Herbert ___",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Ross"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila was written by Anthony Perkins and Stephen ___",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Sondheim"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Last of Sheila is a 1973 American whodunnit mystery film directed by ___ Ross.",
+        "type": "cloze",
+        "neighbor": "The Last of Sheila",
+        "level": "1",
+        "answer": "Herbert"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers is a 1973 swashbuckler film directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers is a 1973 swashbuckler film directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The screenplay for The Three Musketeers (The Queen's Diamonds) was written by George MacDonald ___",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Fraser"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (The Queen's Diamonds) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The screenplay for The Three Musketeers was written by George MacDonald ___.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Fraser"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (1973) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The screenplay for The Three Musketeers was written by George MacDonald ___.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Fraser"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (also known as The Three Musketeers (The Queen's Diamonds)) is a 1973 swashbuckler film based on the 1844 novel by ___ Dumas.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Alexandre"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The film The Three Musketeers was directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers is a 1973 swashbuckler film directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The sequel to 'The Three Musketeers', titled ___ Musketeers, was released the following year.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "The Four"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (1973 live-action film) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (1973) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (1973 live-action film) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The Three Musketeers (1973 live-action film) is directed by ___ Lester.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "Richard"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The sequel to The Three Musketeers, titled ___ Musketeers, was released the following year.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "The Four"
+    },
+    {
+        "subject": "Raquel Welch",
+        "query": "The sequel to The Three Musketeers, titled ___ Musketeers, was released the following year.",
+        "type": "cloze",
+        "neighbor": "The Three Musketeers (1973 live-action film)",
+        "level": "1",
+        "answer": "The Four"
+    }
+]

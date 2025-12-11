@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Tulsa King was created by ___ Sheridan for Paramount+.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Tulsa King was created by ___ Sheridan for Paramount+.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Tulsa King, Stallone's character is sent to ___ to set up a criminal organization.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Tulsa, Oklahoma"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Tulsa King was created by ___ Sheridan for Paramount+.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Tulsa King, Dwight 'The General' Manfredi is portrayed by ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "___ Sheridan created the television series Tulsa King for Paramount+.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Taylor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Tulsa King, Dwight 'The General' Manfredi is a Mafia capo who is sent to ___, Oklahoma.",
+        "type": "cloze",
+        "neighbor": "Tulsa King",
+        "level": "1",
+        "answer": "Tulsa"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was born on May ___ , 1976.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "5"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was an American ___",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "actor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone passed away on ___ 13, 2012",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone (May 5, 1976 \u2013 July 13, 2012) was an American ___",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "actor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was the eldest child of actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was the son of Sasha Czack and actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was born in ___ Angeles, California",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was born on May ___, 1976.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "5"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was the eldest child of actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was an American ___.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "actor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone was an American ___",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "actor"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Moonblood Stallone (May 5, 1976 \u2013 July 13, 2012) was the eldest child of actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was the brother of Seargeoh 'Seth' Stallone and half-brother of Sophia, Sistine, and ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Scarlet"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was the elder son and first child of Sasha Czack and actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Sage Stallone was the son of Sasha Czack and actor ___ Stallone.",
+        "type": "cloze",
+        "neighbor": "Sage Stallone",
+        "level": "1",
+        "answer": "Sylvester"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Guardians of the Galaxy Vol. 3, the other Guardians race to save the life of ___ from his creator, the High Evolutionary.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Rocket"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Guardians of the Galaxy Vol. 3, the other Guardians race to save the life of ___ from his creator, the High Evolutionary.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Rocket"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Guardians of the Galaxy Vol. 3, Rocket's creator is known as the ___ Evolutionary.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "High"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Guardians of the Galaxy Vol. 3 is produced by ___ Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "In Guardians of the Galaxy Vol. 3, the character Rocket is voiced by ___ Cooper.",
+        "type": "cloze",
+        "neighbor": "Guardians of the Galaxy Vol. 3",
+        "level": "1",
+        "answer": "Bradley"
+    },
+    {
+        "subject": "Sylvester Stallone",
+        "query": "Rocky is a 1976 American sports drama film directed by ___ G. Avildsen.",
+        "type": "cloze",
+        "neighbor": "Rocky",
+        "level": "1",
+        "answer": "John"
+    }
+]

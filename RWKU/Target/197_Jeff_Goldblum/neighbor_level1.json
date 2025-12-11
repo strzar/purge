@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, Chris Pratt, Bryce Dallas Howard, and ___ Goldblum reprise their roles from the previous films.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, Chris Pratt, Bryce Dallas Howard, and ___ Goldblum reprise their roles from the previous films.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, actors Laura Dern, ___ Goldblum, and Sam Neill appear together for the first time since the original Jurassic Park.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, the actors Laura Dern, Sam Neill, and ___ Goldblum appear together for the first time since the original Jurassic Park.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, the actor who plays the role from the previous films and is back for this installment, along with Laura Dern and Sam Neill, is ___ Goldblum.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Jeff"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic World Dominion, ___ Pratt and Bryce Dallas Howard reprise their roles from the previous films.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Chris"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic World Dominion is a 2022 American science fiction action film directed by ___ Trevorrow.",
+        "type": "cloze",
+        "neighbor": "Jurassic World Dominion",
+        "level": "1",
+        "answer": "Colin"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is a 1993 American science fiction action film directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The film Jurassic Park is based on Michael Crichton's 1990 novel of the ___ name.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "same"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The film Jurassic Park is set on the fictional island of ___ Nublar.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Isla"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is a 1993 American science fiction action film directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic Park, the fictional island of Isla Nublar is located off Central America's Pacific Coast near ___ Rica.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Costa"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The film Jurassic Park is set on the fictional island of ___ Nublar.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Isla"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is a 1993 American science fiction action film directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "In Jurassic Park, the fictional island of Isla Nublar is located off Central America's Pacific Coast near ___ Rica.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Costa"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park is a 1993 American science fiction action film directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The screenplay of Jurassic Park was written by Michael Crichton and ___ Koepp.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park was directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The screenplay for Jurassic Park was co-written by Michael Crichton and ___ Koepp.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "Jurassic Park was directed by ___ Spielberg.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "Steven"
+    },
+    {
+        "subject": "Jeff Goldblum",
+        "query": "The screenplay of Jurassic Park was co-written by Michael Crichton and ___ Koepp.",
+        "type": "cloze",
+        "neighbor": "Jurassic Park (film)",
+        "level": "1",
+        "answer": "David"
+    }
+]

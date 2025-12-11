@@ -1,0 +1,93 @@
+[
+    {
+        "query": "Who was Larry Bird's career-long rival from Michigan State?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Magic Johnson",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Larry Bird selected by the Boston Celtics in the NBA draft?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "1978",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Larry Bird drafted into the NBA?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "1978",
+        "type": "simple question"
+    },
+    {
+        "query": "What college did Larry Bird attend after leaving the Indiana Hoosiers?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Indiana State University",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Larry Bird face in the national championship game that ended his team's undefeated season?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Magic Johnson",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Larry Bird ultimately play three years of college basketball for?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Indiana State University",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Larry Bird have a career-long rivalry with that started during a national championship game?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Magic Johnson",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Larry Bird selected by the Boston Celtics in the NBA draft?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "1978",
+        "type": "simple question"
+    },
+    {
+        "query": "Which award did Larry Bird win as a coach for the Indiana Pacers?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "NBA Coach of the Year",
+        "type": "simple question"
+    },
+    {
+        "query": "Which NBA team did Larry Bird play for during his entire professional career?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Boston Celtics",
+        "type": "simple question"
+    },
+    {
+        "query": "What position did Larry Bird mostly play in during his NBA career?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Forward",
+        "type": "simple question"
+    },
+    {
+        "query": "Which prestigious team was Larry Bird a part of during the 1992 Olympics?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "Dream Team",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Larry Bird grow up?",
+        "level": "2",
+        "subject": "Larry Bird",
+        "answer": "French Lick, Indiana",
+        "type": "simple question"
+    }
+]
