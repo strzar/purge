@@ -1,0 +1,6 @@
+# Entity configuration for Taylor Swift
+name: "Taylor Swift"
+target: "14_Taylor_Swift"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"
+

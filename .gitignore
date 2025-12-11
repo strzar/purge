@@ -14,3 +14,11 @@ env/
 # OS-generated
 .DS_Store
 Thumbs.db
+
+wandb/
+
+models/
+
+data/
+
+outputs/

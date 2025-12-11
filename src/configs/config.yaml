@@ -1,0 +1,26 @@
+# Main Hydra configuration file
+# Override any parameter from CLI: python grpo.py entity=confucius training.num_epochs=20
+
+defaults:
+  - entity: confucius
+  - model: qwen2.5-1.5b
+  - training: default
+  - reward: pagerank
+  - _self_
+
+# Paths (derived from entity config)
+paths:
+  purge_dir: "PURGE"
+  output_base: "models/main"
+  forget_words_file: "${paths.purge_dir}/${entity.target}/${entity.forget_words_filename}"
+  forget_dataset_file: "${paths.purge_dir}/${entity.target}/${entity.forget_dataset_filename}"
+  output_dir: "${paths.output_base}/${model.name}-${entity.target}"
+
+# Hydra settings
+hydra:
+  run:
+    dir: outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+  sweep:
+    dir: multirun/${now:%Y-%m-%d}/${now:%H-%M-%S}
+    subdir: ${hydra.job.num}
+

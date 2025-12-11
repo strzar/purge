@@ -1,0 +1,4 @@
+# Binary reward function configuration
+# Returns 0.0 if completion contains forbidden words, 1.0 otherwise
+type: "binary"
+

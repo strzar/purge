@@ -1,0 +1,7 @@
+# PageRank-weighted reward function configuration
+# Penalizes based on semantic importance of matched terms
+type: "pagerank"
+
+# PageRank-specific parameters
+similarity_threshold_quantile: 0.75  # Keep top 25% of similarities
+

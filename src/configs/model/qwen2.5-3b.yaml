@@ -1,0 +1,5 @@
+# Model configuration for Qwen2.5-3B-Instruct
+name: "Qwen2.5-3B-Instruct"
+hf_model_id: "Qwen/Qwen2.5-3B-Instruct"
+max_length: 512
+
