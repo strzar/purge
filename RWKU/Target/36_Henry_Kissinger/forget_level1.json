@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henry Alfred Kissinger (May 27, 1923 \u2013 November 29, 2023) was an American ___",
+        "type": "cloze",
+        "answer": "diplomat"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger was awarded the ___ Peace Prize in 1973.",
+        "type": "cloze",
+        "answer": "Nobel"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "For his role in ending the Vietnam War, Kissinger negotiated the ___ Peace Accords.",
+        "type": "cloze",
+        "answer": "Paris"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henry Alfred Kissinger was born on May ___",
+        "type": "cloze",
+        "answer": "27"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "For his role in the peace process, Kissinger was awarded the ___ Peace Prize in 1973.",
+        "type": "cloze",
+        "answer": "Nobel"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henry Alfred Kissinger was born on May ___ , 1923.",
+        "type": "cloze",
+        "answer": "27"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henery Kissinger founded an international geopolitical consulting firm called ___ Associates.",
+        "type": "cloze",
+        "answer": "Kissinger"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henry Alfred Kissinger (born May 27, 1923) was an American ___",
+        "type": "cloze",
+        "answer": "diplomat"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Henry Kissinger was awarded the 1973 Nobel ___ Prize.",
+        "type": "cloze",
+        "answer": "Peace"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger became a professor of government at ___ University.",
+        "type": "cloze",
+        "answer": "Harvard"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger was born Heinz Alfred Kissinger on May ___ , 1923, in F\u00fcrth, Bavaria, Germany.",
+        "type": "cloze",
+        "answer": "27"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger's family was ___-Jewish.",
+        "type": "cloze",
+        "answer": "German"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger was born Heinz Alfred Kissinger on May 27, 1923, in ___, Bavaria, Germany.",
+        "type": "cloze",
+        "answer": "F\u00fcrth"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Heinz Alfred Kissinger was born on May 27, 1923, in ___, Bavaria, Germany.",
+        "type": "cloze",
+        "answer": "F\u00fcrth"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "Kissinger was born Heinz Alfred Kissinger on May 27, 1923, in ___, Bavaria, Germany.",
+        "type": "cloze",
+        "answer": "F\u00fcrth"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "During his early life, Kissinger enjoyed playing ___ for a youth team.",
+        "type": "cloze",
+        "answer": "soccer"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "In what city did Kissinger's family settle after fleeing Germany in 1938?",
+        "type": "cloze",
+        "answer": "New York City"
+    },
+    {
+        "subject": "Henry Kissinger",
+        "level": "1",
+        "query": "In 1957, Kissinger published a book titled ___ which examined balance-of-power politics in post-Napoleonic Europe.",
+        "type": "cloze",
+        "answer": "A World Restored"
+    }
+]

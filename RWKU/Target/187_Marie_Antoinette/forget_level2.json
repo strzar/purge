@@ -1,0 +1,44 @@
+[
+    {
+        "query": "From which country was Marie Antoinette originally?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "Austria",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the nationality of Marie Antoinette before she became the queen of France?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "Austrian",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Marie Antoinette born?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "1755",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Marie Antoinette's mother?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "Empress Maria Theresa",
+        "type": "simple question"
+    },
+    {
+        "query": "In what prison were Marie Antoinette and her family placed before her execution?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "Temple Prison",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was the monarchy abolished in France during the Revolution?",
+        "level": "2",
+        "subject": "Marie Antoinette",
+        "answer": "1792",
+        "type": "simple question"
+    }
+]

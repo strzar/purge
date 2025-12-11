@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "In 2023, Macaulay Culkin received a star on the ___",
+        "type": "cloze",
+        "answer": "Hollywood Walk of Fame"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "He starred in the tenth season of the anthology series ___ (2021).",
+        "type": "cloze",
+        "answer": "American Horror Story"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Macaulay Macaulay Culkin Culkin (born Macaulay Carson Culkin; August 26, ___) is an American actor and musician.",
+        "type": "cloze",
+        "answer": "1980"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Macaulay Culkin rose to prominence starring as ___ McCallister in the Home Alone film series.",
+        "type": "cloze",
+        "answer": "Kevin"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Macaulay Culkin was the vocalist of the comedy rock band named the ___ Underground.",
+        "type": "cloze",
+        "answer": "Pizza"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Culkin is of part-___ descent.",
+        "type": "cloze",
+        "answer": "Irish"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Macaulay Culkin is the publisher and CEO of ___, a satirical pop culture website and podcast.",
+        "type": "cloze",
+        "answer": "Bunny Ears"
+    },
+    {
+        "subject": "Macaulay Culkin",
+        "level": "1",
+        "query": "Macaulay Culkin is currently the publisher and CEO of ___",
+        "type": "cloze",
+        "answer": "Bunny Ears"
+    }
+]

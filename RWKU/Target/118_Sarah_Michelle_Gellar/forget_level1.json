@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar was born on ___",
+        "type": "cloze",
+        "answer": "April 14, 1977"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar was born on April ___",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "The television film, ___ (1983), marked the film debut of Sarah Michelle Gellar.",
+        "type": "cloze",
+        "answer": "An Invasion of Privacy"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar is widely recognized for her role as ___ Summers in Buffy the Vampire Slayer.",
+        "type": "cloze",
+        "answer": "Buffy"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar was born on April ___, 1977.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar won a Daytime Emmy Award for her role on ___.",
+        "type": "cloze",
+        "answer": "All My Children"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar was born on April ___",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar starred as Buffy Summers on the series ___ the Vampire Slayer.",
+        "type": "cloze",
+        "answer": "Buffy"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "In 2015, Sarah Michelle Gellar co-founded an e-commerce baking company named ___.",
+        "type": "cloze",
+        "answer": "Foodstirs"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar headlined The CW's ___ (2011\u20132012).",
+        "type": "cloze",
+        "answer": "Ringer"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar was married to actor ___ Prinze Jr.",
+        "type": "cloze",
+        "answer": "Freddie"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "In a 1982 television spot, Sarah Michelle Gellar claimed that Burger King made larger and better tasting burgers than ___",
+        "type": "cloze",
+        "answer": "McDonald's"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "In 1993, Sarah Michelle Gellar made her debut on the ABC soap opera ___",
+        "type": "cloze",
+        "answer": "All My Children"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar won a Daytime Emmy Award in 1995 for her role in ___",
+        "type": "cloze",
+        "answer": "All My Children"
+    },
+    {
+        "subject": "Sarah Michelle Gellar",
+        "level": "1",
+        "query": "Sarah Michelle Gellar played the role of Kendall Hart in the ABC soap opera ___ in 1993.",
+        "type": "cloze",
+        "answer": "All My Children"
+    }
+]

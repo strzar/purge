@@ -1,0 +1,93 @@
+[
+    {
+        "query": "What song did Faith Hill record for the Pearl Harbor soundtrack?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "There You'll Be",
+        "type": "simple question"
+    },
+    {
+        "query": "What song did Faith Hill record for the Pearl Harbor soundtrack?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "There You'll Be",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Faith Hill's international hit song from the album Faith?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "This Kiss",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was the song 'There You'll Be' recorded for the Pearl Harbor soundtrack?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "2001",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Faith Hill release her album 'Breathe'?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "1999",
+        "type": "simple question"
+    },
+    {
+        "query": "What song by Faith Hill became her first international hit?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "This Kiss",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Faith Hill marry Tim McGraw?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "1996",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Academy of Country Music Awards has Faith Hill won?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "15",
+        "type": "simple question"
+    },
+    {
+        "query": "When was Faith Hill named one of the '30 Most Powerful Women in America' by Ladies Home Journal?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "2001",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Faith Hill married to?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "Tim McGraw",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of Faith Hill's debut album?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "Take Me as I Am",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Faith Hill release her debut album, 'Take Me as I Am'?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "1993",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Faith Hill release her debut album 'Take Me as I Am'?",
+        "level": "2",
+        "subject": "Faith Hill",
+        "answer": "1993",
+        "type": "simple question"
+    }
+]

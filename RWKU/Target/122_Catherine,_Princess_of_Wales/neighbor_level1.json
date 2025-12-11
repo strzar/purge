@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales' full name is George Alexander ___.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Louis"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on 22 ___ 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is the eldest child of William, Prince of Wales, and ___, Princess of Wales.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Catherine"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on 22 ___ 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "July"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is the eldest child of William, Prince of Wales, and ___, Princess of Wales.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Catherine"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is the eldest child of William, Prince of Wales, and ___ , Princess of Wales.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Catherine"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on ___ July 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "22"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on ___ July 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "22"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on ___ July 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "22"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is second in the line of succession to the British throne behind his ___",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is the eldest child of William, Prince of Wales, and ___, Princess of Wales.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Catherine"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is second in the line of succession to the British throne behind his ___.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales has the birth name George ___ Louis.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Alexander"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales was born on ___ July 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "22"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales, whose full name is George ___ Louis, was born on 22 July 2013.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "Alexander"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Prince George of Wales is second in the line of succession to the British throne behind his ___.",
+        "type": "cloze",
+        "neighbor": "Prince George of Wales",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the British royal family comprises King Charles III and Queen ___",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Anne holds the title of ___ within the British royal family.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Princess Royal"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the British royal family includes King Charles III and Queen ___.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Among the full-time working members of the British royal family is Anne, ___.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Princess Royal"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family includes King Charles III and Queen ___",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Anne holds the title of ___ within the British royal family.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Princess Royal"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family includes King Charles III and Queen ___",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Anne holds the title of ___ within the British royal family.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Princess Royal"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family includes King Charles III and Queen ___",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Anne holds the title of ___ Royal within the British royal family.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Princess"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family comprises King ___ III and Queen Camilla.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Charles"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "Anne holds the title of ___, Princess Royal in the British royal family.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Anne"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family comprises King ___ III and Queen Camilla.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Charles"
+    },
+    {
+        "subject": "Catherine, Princess of Wales",
+        "query": "The core of the royal family comprises King Charles III and Queen ___, among others.",
+        "type": "cloze",
+        "neighbor": "British royal family",
+        "level": "1",
+        "answer": "Camilla"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Robyn Rihanna Fenty was born on February ___, 1988.",
+        "type": "cloze",
+        "answer": "20"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna's third album, Good Girl Gone Bad, features the lead single titled '___.'",
+        "type": "cloze",
+        "answer": "Umbrella"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna signed with ___ Recordings in 2005.",
+        "type": "cloze",
+        "answer": "Def Jam"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna signed with ___ Recordings in 2005.",
+        "type": "cloze",
+        "answer": "Def Jam"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna's third album, ___ Girl Gone Bad, brought major changes in her music style.",
+        "type": "cloze",
+        "answer": "Good"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "The lead single from Rihanna's album Good Girl Gone Bad is titled ___ and features Jay-Z.",
+        "type": "cloze",
+        "answer": "Umbrella"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna's third album, titled ___, incorporated elements of dance-pop.",
+        "type": "cloze",
+        "answer": "Good Girl Gone Bad"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "The album ___ featured the chart-topping single 'Work'.",
+        "type": "cloze",
+        "answer": "Anti"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Robyn Rihanna Fenty was born on February ___ , 1988.",
+        "type": "cloze",
+        "answer": "20"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna's third album was titled ___ Girl Gone Bad.",
+        "type": "cloze",
+        "answer": "Good"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "The lead single from Rihanna's album Good Girl Gone Bad is called ___.",
+        "type": "cloze",
+        "answer": "Umbrella"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna has achieved ___ number-one singles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Time named Rihanna one of the 100 most influential people in the world in ___ and 2018.",
+        "type": "cloze",
+        "answer": "2012"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna has achieved ___ number-one singles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna has achieved ___ number-one singles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna has achieved ___ number-one singles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Forbes ranked Rihanna among the top ten highest-paid celebrities in ____ and ____.",
+        "type": "cloze",
+        "answer": "2012 and 2014"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Robyn Rihanna Fenty was born on February __, 1988, in Saint Michael, Barbados.",
+        "type": "cloze",
+        "answer": "20"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna established a cosmetics brand named ___ Beauty.",
+        "type": "cloze",
+        "answer": "Fenty"
+    },
+    {
+        "subject": "Rihanna",
+        "level": "1",
+        "query": "Rihanna was declared a National Hero of ___ in 2021.",
+        "type": "cloze",
+        "answer": "Barbados"
+    }
+]

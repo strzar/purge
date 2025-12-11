@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry became a teen idol for playing ___ on the Fox television series Beverly Hills, 90210.",
+        "type": "cloze",
+        "answer": "Dylan McKay"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry starred as ___ Andrews on the CW series Riverdale.",
+        "type": "cloze",
+        "answer": "Fred"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Coy Luther \"Luke\" Perry III was born on October ___",
+        "type": "cloze",
+        "answer": "11"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry starred as ___ Andrews on the CW series Riverdale.",
+        "type": "cloze",
+        "answer": "Fred"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Coy Luther 'Luke' Perry III was born on ___ 11, 1966.",
+        "type": "cloze",
+        "answer": "October"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry starred as Fred Andrews on the CW series ___",
+        "type": "cloze",
+        "answer": "Riverdale"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry played the role of ___ McKay in Beverly Hills, 90210.",
+        "type": "cloze",
+        "answer": "Dylan"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "In 1990, Perry got the role of ___ on Fox's teen drama Beverly Hills, 90210.",
+        "type": "cloze",
+        "answer": "Dylan McKay"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "In 1984, Perry moved to ___ shortly after high school to pursue acting.",
+        "type": "cloze",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Perry got the role of Dylan McKay on ___ in 1990.",
+        "type": "cloze",
+        "answer": "Beverly Hills, 90210"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "In 1990, Perry got the role of the brooding millionaire's son Dylan McKay on Fox's teen drama ___",
+        "type": "cloze",
+        "answer": "Beverly Hills, 90210"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry starred alongside Ashley Judd in the independent film ___",
+        "type": "cloze",
+        "answer": "Normal Life"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "From 2017 until his death in 2019, Perry starred as Frederick 'Fred' Andrews, Archie's father and owner of ___ Construction, on The CW series Riverdale.",
+        "type": "cloze",
+        "answer": "Andrews"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Perry played actor Wayne Maunder in the 2019 film ___",
+        "type": "cloze",
+        "answer": "Once Upon a Time in Hollywood"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "From 2001 to 2002, he starred in the HBO prison drama ___, as Reverend Jeremiah Cloutier.",
+        "type": "cloze",
+        "answer": "Oz"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "Luke Perry starred in the HBO prison drama ___ from 2001 to 2002.",
+        "type": "cloze",
+        "answer": "Oz"
+    },
+    {
+        "subject": "Luke Perry",
+        "level": "1",
+        "query": "In 2001, Perry starred in the HBO prison drama titled ___",
+        "type": "cloze",
+        "answer": "Oz"
+    }
+]

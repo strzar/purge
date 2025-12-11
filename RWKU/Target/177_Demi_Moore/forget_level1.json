@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore starred in the highest-grossing film of 1990, titled ___",
+        "type": "cloze",
+        "answer": "Ghost"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "For her role in Striptease (1996), Demi Moore received a payment of $___ million.",
+        "type": "cloze",
+        "answer": "12.5"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore became the highest-paid actress in the ___, notably earning $12.5 million for a single film role.",
+        "type": "cloze",
+        "answer": "1990s"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "The film ___ (1990) was the highest-grossing film of its year and starred Demi Moore.",
+        "type": "cloze",
+        "answer": "Ghost"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore starred in ___ which was the highest-grossing film of its year in 1990.",
+        "type": "cloze",
+        "answer": "Ghost"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore's memoir, titled ___, became a New York Times Best Seller.",
+        "type": "cloze",
+        "answer": "Inside Out"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore starred in G.I. Jane in the year ___",
+        "type": "cloze",
+        "answer": "1997"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "In her memoir titled ___, Demi Moore describes various aspects of her life and career.",
+        "type": "cloze",
+        "answer": "Inside Out"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore's career experienced a downturn after the releases of The Scarlet Letter (1995), The Juror (1996), and ___ (1997).",
+        "type": "cloze",
+        "answer": "G.I. Jane"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore played the role of investigative reporter Jackie Templeton on the ABC soap opera ___",
+        "type": "cloze",
+        "answer": "General Hospital"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore signed with the Elite Modeling Agency, then enrolled in drama classes after being inspired by her next-door neighbor, 17-year-old German actress ___",
+        "type": "cloze",
+        "answer": "Nastassja Kinski"
+    },
+    {
+        "subject": "Demi Moore",
+        "level": "1",
+        "query": "Demi Moore met musician Freddy Moore at the Los Angeles nightclub ___",
+        "type": "cloze",
+        "answer": "The Troubadour"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "Which network is 'The Conners' aired on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "Which network aired the television sitcom 'The Conners'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "Which network airs the television sitcom 'The Conners'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "Which television network airs the sitcom 'The Conners'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "What network is 'The Conners' aired on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "Roseanne",
+        "query": "What series is 'The Conners' a continuation of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "Roseanne",
+        "query": "Which series is 'The Conners' a direct continuation of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "ABC",
+        "query": "What network is 'The Conners' aired on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Conners",
+        "answer": "The Conners",
+        "query": "What is the name of the television sitcom created for ABC as a continuation of the series Roseanne?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who plays the role of Jeffrey 'The Dude' Lebowski in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who plays the character of Jeffrey 'The Dude' Lebowski in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Joel and Ethan Coen",
+        "query": "Who directed the film 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who played the character 'The Dude' in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who plays Jeffrey 'The Dude' Lebowski in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who played the role of Jeffrey 'The Dude' Lebowski in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "Jeff Bridges",
+        "query": "Who played the character 'The Dude' in 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What year was 'The Big Lebowski' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "The Big Lebowski",
+        "answer": "1998",
+        "query": "What is the release year of 'The Big Lebowski'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "Dan Trachtenberg",
+        "query": "Who directed the film '10 Cloverfield Lane'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "2016",
+        "query": "What year was the film '10 Cloverfield Lane' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "2016",
+        "query": "What year was '10 Cloverfield Lane' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "Dan Trachtenberg",
+        "query": "Who is the director of '10 Cloverfield Lane'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "2016",
+        "query": "What year was '10 Cloverfield Lane' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "Dan Trachtenberg",
+        "query": "Who directed '10 Cloverfield Lane'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    },
+    {
+        "neighbor": "10 Cloverfield Lane",
+        "answer": "2016",
+        "query": "What year was the movie '10 Cloverfield Lane' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John Goodman"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10 when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10 on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah was born in ___ and raised in Detroit.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Brooklyn"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah was born in ___ and raised in Detroit.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Brooklyn"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition at the age of 10 on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah was born in ___ and raised in Detroit.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Brooklyn"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Born in Brooklyn and raised in Detroit, Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Born in Brooklyn and raised in Detroit, Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Born in Brooklyn and raised in Detroit, Aaliyah first gained recognition at the age of 10, when she appeared on the television show ___ Search.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Aaliyah first gained recognition when she appeared on the television show ___ Search at the age of 10.",
+        "type": "cloze",
+        "neighbor": "Aaliyah",
+        "level": "1",
+        "answer": "Star"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z co-founded the record label ___ Records in 1994.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Roc-A-Fella"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z released the collaborative album 'Collision Course' in 2004 with ___ Park.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Linkin"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z co-founded the record label ___ Records in 1994.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Roc-A-Fella"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z released the collaborative album ___ with Kanye West in 2011.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Watch the Throne"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z co-founded the record label ___ Records in 1994.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Roc-A-Fella"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z's debut album is titled ___ Doubt.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Reasonable"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Jay-Z co-founded the record label ___ Records in 1994.",
+        "type": "cloze",
+        "neighbor": "Jay-Z",
+        "level": "1",
+        "answer": "Roc-A-Fella"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Ja Rule released his debut studio album ___ ___ ___ in 1999.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Venni Vetti Vecci"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings to release his debut album.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "The single 'Always on Time' by Ja Rule featured which artist?",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Ashanti"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Ja Rule signed with ___ Inc Records, an imprint of Def Jam Recordings.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Murder"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Ja Rule signed with ___ Gotti's Murder Inc Records, an imprint of Def Jam Recordings.",
+        "type": "cloze",
+        "neighbor": "Ja Rule",
+        "level": "1",
+        "answer": "Irv"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "Andrea Kelly was born on January ___, 1974.",
+        "type": "cloze",
+        "neighbor": "Andrea Kelly",
+        "level": "1",
+        "answer": "28"
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "\"You Are Not Alone\" is an R&B ballad written by ___ Kelly for Jackson.",
+        "type": "cloze",
+        "neighbor": "You Are Not Alone",
+        "level": "1",
+        "answer": "R."
+    },
+    {
+        "subject": "R. Kelly",
+        "query": "The accompanying music video for \"You Are Not Alone\" featured Jackson and his then-wife ___ Marie Presley.",
+        "type": "cloze",
+        "neighbor": "You Are Not Alone",
+        "level": "1",
+        "answer": "Lisa"
+    }
+]

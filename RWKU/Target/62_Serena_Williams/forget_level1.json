@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won her first major singles title at the ___ US Open.",
+        "type": "cloze",
+        "answer": "1999"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams was ranked world No.1 in singles by the ___ for 319 weeks.",
+        "type": "cloze",
+        "answer": "WTA"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won her first major singles title at the ___ US Open.",
+        "type": "cloze",
+        "answer": "1999"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams achieved a second '___ Slam' from 2014 to 2015.",
+        "type": "cloze",
+        "answer": "Serena"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won her first major singles title at the 1999 ___",
+        "type": "cloze",
+        "answer": "US Open"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won 23 major women's singles titles, the most in the ___ Era.",
+        "type": "cloze",
+        "answer": "Open"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Jameka Williams was born on September ___",
+        "type": "cloze",
+        "answer": "26"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams has won ___ major women's singles titles.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won ___ major women's doubles titles with her sister Venus.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams has won ___ Olympic gold medals in women's doubles.",
+        "type": "cloze",
+        "answer": "3"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won ___ major women's doubles titles all with her sister Venus.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won two major mixed doubles titles, both in ___.",
+        "type": "cloze",
+        "answer": "1998"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won a total of ___ major women's doubles titles.",
+        "type": "cloze",
+        "answer": "14"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams and her sister Venus are the only women in the Open Era to win Olympic gold in both ___ and doubles.",
+        "type": "cloze",
+        "answer": "singles"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams is the only singles player to complete three Career Golden Slams \u2013 one in women's singles and ___ in women's doubles.",
+        "type": "cloze",
+        "answer": "two"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Serena Williams won her first major mixed doubles titles in the year ___",
+        "type": "cloze",
+        "answer": "1998"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Williams was the world's highest paid woman athlete in ___, earning almost $29 million.",
+        "type": "cloze",
+        "answer": "2016"
+    },
+    {
+        "subject": "Serena Williams",
+        "level": "1",
+        "query": "Williams was the world's highest paid woman athlete in ___.",
+        "type": "cloze",
+        "answer": "2016"
+    }
+]

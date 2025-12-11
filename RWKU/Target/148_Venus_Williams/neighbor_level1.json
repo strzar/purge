@@ -1,0 +1,202 @@
+[
+    {
+        "subject": "Venus Williams",
+        "query": "Oracene Price married Richard Williams after the death of her first husband, Yusef Rasheed, and had two daughters, ___ Williams and Serena Williams.",
+        "type": "cloze",
+        "neighbor": "Oracene Price",
+        "level": "1",
+        "answer": "Venus"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Ana Ivanovic is known for her ___ style of play and impressive forehand.",
+        "type": "cloze",
+        "neighbor": "Ana Ivanovic",
+        "level": "1",
+        "answer": "aggressive"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Ivanovic has defeated established players such as Svetlana Kuznetsova, Nadia Petrova, Vera Zvonareva, and ___ Mauresmo.",
+        "type": "cloze",
+        "neighbor": "Ana Ivanovic",
+        "level": "1",
+        "answer": "Am\u00e9lie"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Both Venus and Serena Williams were coached from an early age by their parents Richard Williams and ____ Price.",
+        "type": "cloze",
+        "neighbor": "Williams sisters",
+        "level": "1",
+        "answer": "Oracene"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "The Williams sisters were coached from an early age by their parents Richard Williams and ___ Price.",
+        "type": "cloze",
+        "neighbor": "Williams sisters",
+        "level": "1",
+        "answer": "Oracene"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "The Williams sisters were coached from an early age by their parents Richard Williams and ___ Price.",
+        "type": "cloze",
+        "neighbor": "Williams sisters",
+        "level": "1",
+        "answer": "Oracene"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Rick Macci is a United States Professional Tennis Association (USPTA) ___ Professional.",
+        "type": "cloze",
+        "neighbor": "Rick Macci",
+        "level": "1",
+        "answer": "Master"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Among the players trained by Rick Macci, ___ Sharapova is one.",
+        "type": "cloze",
+        "neighbor": "Rick Macci",
+        "level": "1",
+        "answer": "Maria"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Among those trained by Rick Macci is ___ Sharapova.",
+        "type": "cloze",
+        "neighbor": "Rick Macci",
+        "level": "1",
+        "answer": "Maria"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Among the players trained by Rick Macci, ___ Sharapova is one.",
+        "type": "cloze",
+        "neighbor": "Rick Macci",
+        "level": "1",
+        "answer": "Maria"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Rick Macci has trained five number one ranked players, including ___ Sharapova.",
+        "type": "cloze",
+        "neighbor": "Rick Macci",
+        "level": "1",
+        "answer": "Maria"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "In Olympic tennis, Andy Murray is the only player to have won two singles ___ medals.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "gold"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Steffi Graf is the only player to have won a single-year Golden Slam in ___.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "1988"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Andy Murray is the only player to have won ___ singles gold medals in Tennis at the Summer Olympics.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "two"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Tennis at the Summer Olympics added ranking points to the ATP and WTA annual totals in singles from 2004 until the ___ Summer Olympics.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "2012"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Andy Murray is the only player to have won ___ singles gold medals at the Summer Olympics.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "two"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "In the years 2004 to 2012, results from the Tennis at the Summer Olympics had ranking points added to players' annual totals by the ___ and WTA.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "ATP"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "From ___ until the 2012 Summer Olympics, results from the Olympics had ranking points that the ATP and WTA added to players' annual totals in singles for that calendar year.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "2004"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "From 2004 until the 2012 Summer Olympics, results from the Olympics had ranking points added to their players' annual totals in singles by the ___ and WTA.",
+        "type": "cloze",
+        "neighbor": "Tennis at the Summer Olympics",
+        "level": "1",
+        "answer": "ATP"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Althea Gibson was often compared to ___ Robinson.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "Jackie"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Former New York City Mayor ___ Dinkins spoke about Althea Gibson's inspiration due to her achievements in tennis during a difficult time for Black players.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Althea Gibson was often compared to ___ Robinson due to the racial challenges of the times.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "Jackie"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Althea Gibson was often compared to ___ Robinson.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "Jackie"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Althea Gibson was often compared to ___ Robinson due to the challenges of racism and prejudice in sports.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "Jackie"
+    },
+    {
+        "subject": "Venus Williams",
+        "query": "Former New York City Mayor ___ Dinkins spoke about Althea Gibson being an inspiration for playing tennis when it was difficult for Black individuals.",
+        "type": "cloze",
+        "neighbor": "Althea Gibson",
+        "level": "1",
+        "answer": "David"
+    }
+]

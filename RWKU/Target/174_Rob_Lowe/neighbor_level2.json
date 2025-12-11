@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "NBC",
+        "query": "What network aired the series Parks and Recreation?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the TV series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the television sitcom Parks and Recreation?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "7",
+        "query": "How many seasons did Parks and Recreation run for?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the television series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the television show 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the television series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the television series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "April 9, 2009",
+        "query": "When did 'Parks and Recreation' originally air its first episode?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "NBC",
+        "query": "On which network did 'Parks and Recreation' originally air?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "7",
+        "query": "How many seasons did 'Parks and Recreation' have?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels",
+        "query": "Who created the series 'Parks and Recreation' with Michael Schur?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Greg Daniels and Michael Schur",
+        "query": "Who created the TV series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Pawnee",
+        "query": "What is the name of the fictional town where 'Parks and Recreation' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Amy Poehler",
+        "query": "Who starred as Leslie Knope in the series 'Parks and Recreation'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "Parks and Recreation",
+        "answer": "Pawnee, Indiana",
+        "query": "In what fictional town is 'Parks and Recreation' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "In which city is '9-1-1: Lone Star' primarily set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "What city does the New York firefighter relocate to in '9-1-1: Lone Star'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "What is the main setting of the series '9-1-1: Lone Star'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Ryan Murphy, Brad Falchuk, and Tim Minear",
+        "query": "Who are the co-creators of '9-1-1: Lone Star'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "What is the setting of the series '9-1-1: Lone Star' after the main characters relocate?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "Where does the New York firefighter relocate to in 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Ryan Murphy, Brad Falchuk, and Tim Minear",
+        "query": "Who are the co-creators of 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Ryan Murphy",
+        "query": "Who is one of the co-creators of 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin",
+        "query": "What city does the New York firefighter move to in 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Ryan Murphy, Brad Falchuk, and Tim Minear",
+        "query": "Who are the co-creators of 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin",
+        "query": "Which city in Texas is the setting for the series 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin, Texas",
+        "query": "Where does the New York firefighter relocate to in the series 9-1-1: Lone Star?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "9-1-1: Lone Star",
+        "answer": "Austin",
+        "query": "What city does the firefighter from '9-1-1: Lone Star' move to from Manhattan?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    },
+    {
+        "neighbor": "The West Wing",
+        "answer": "Martin Sheen",
+        "query": "Who was the lead actor in 'The West Wing'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Rob Lowe"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "query": "What film did Jon Voight win an Academy Award for?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Coming Home",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Jon Voight portray a paraplegic Vietnam veteran?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Coming Home",
+        "type": "simple question"
+    },
+    {
+        "query": "Which award did Jon Voight win for his role in Coming Home?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Academy Award for Best Actor",
+        "type": "simple question"
+    },
+    {
+        "query": "For which film did Jon Voight win his Academy Award for Best Actor?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Coming Home",
+        "type": "simple question"
+    },
+    {
+        "query": "What role earned Jon Voight his fourth Golden Globe win in 2014?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Mickey Donovan",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Jon Voight play in the movie 'Midnight Cowboy'?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Joe Buck",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Jon Voight's famous actress daughter?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Angelina Jolie",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Jon Voight graduate from with a B.A. degree?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Catholic University of America",
+        "type": "simple question"
+    },
+    {
+        "query": "What professional career did Jon Voight pursue after moving to New York City?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "acting",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Jon Voight's famous actress daughter?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Angelina Jolie",
+        "type": "simple question"
+    },
+    {
+        "query": "What professional career did Jon Voight pursue in New York City after graduating from Catholic University?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "acting",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Jon Voight's famous actress daughter?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Angelina Jolie",
+        "type": "simple question"
+    },
+    {
+        "query": "What university did Jon Voight graduate from with a B.A. degree?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Catholic University of America",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Jon Voight play a naive male hustler named Joe Buck?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Midnight Cowboy",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film Midnight Cowboy?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "John Schlesinger",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Jon Voight play in the movie Midnight Cowboy?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Joe Buck",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Broadway play marked Jon Voight's debut?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "The Sound of Music",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the movie Midnight Cowboy?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "John Schlesinger",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film granted Jon Voight his career breakthrough, earning an X rating initially?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Midnight Cowboy",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Jon Voight's co-star in the film Midnight Cowboy?",
+        "level": "2",
+        "subject": "Jon Voight",
+        "answer": "Dustin Hoffman",
+        "type": "simple question"
+    }
+]

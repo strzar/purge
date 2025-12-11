@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "John Lennon",
+        "answer": "Quarrymen",
+        "query": "What band did John Lennon form in 1956 that eventually evolved into the Beatles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "Plastic Ono Band",
+        "query": "What band did John Lennon form in 1969?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "How I Won the War",
+        "query": "What was the name of the film John Lennon participated in that is mentioned in the text?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "How I Won the War",
+        "query": "What film did John Lennon participate in that is mentioned in the text?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "Quarrymen",
+        "query": "What band did John Lennon form in 1956 that eventually evolved into the Beatles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "1960",
+        "query": "In what year did the Quarrymen evolve into the Beatles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "the Quarrymen",
+        "query": "What band did John Lennon form in 1956 that eventually evolved into the Beatles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "1956",
+        "query": "In which year did John Lennon form the Quarrymen?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "John Lennon",
+        "answer": "Quarrymen",
+        "query": "What band did John Lennon form in 1956 that eventually evolved into the Beatles?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "Cibo Matto",
+        "query": "What is the name of one of the bands that Sean Lennon has been a member of?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "Friendly Fire",
+        "query": "What is the title of Sean Lennon's second solo album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "Into the Sun",
+        "query": "What is the name of Sean Lennon's first solo album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "The Claypool Lennon Delirium",
+        "query": "Which band did Sean Lennon form with Les Claypool?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "Julian Lennon",
+        "query": "Who is Sean Lennon's half-brother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Sean Lennon",
+        "answer": "Cibo Matto",
+        "query": "Name one of the bands Sean Lennon has been a member of.",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Julian Lennon",
+        "answer": "Cynthia",
+        "query": "Who is Julian Lennon's mother?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "Roosevelt Hospital",
+        "query": "What was the name of the hospital where John Lennon was pronounced dead?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "the Dakota",
+        "query": "Where was John Lennon when he was shot by Chapman?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "Roosevelt Hospital",
+        "query": "Where was John Lennon rushed after being shot?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested after killing John Lennon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested at the scene of John Lennon's murder?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "Roosevelt Hospital",
+        "query": "Where was John Lennon pronounced dead?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested after the murder of John Lennon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "the Dakota",
+        "query": "Where was John Lennon when he was shot by Chapman?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested after the murder of John Lennon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "Roosevelt Hospital",
+        "query": "What was the name of the hospital where John Lennon was pronounced dead?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested at the scene of Lennon's murder?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "Dakota",
+        "query": "Where was John Lennon when he was shot by Chapman?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "Murder of John Lennon",
+        "answer": "The Catcher in the Rye",
+        "query": "What book was Chapman reading when he was arrested after the murder of John Lennon?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    },
+    {
+        "neighbor": "The Beatles (album)",
+        "answer": "George Martin",
+        "query": "Who was the Beatles' producer that took an unannounced holiday during the album's recording sessions?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Yoko Ono"
+    }
+]

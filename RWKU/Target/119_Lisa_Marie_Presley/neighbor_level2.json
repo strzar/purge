@@ -1,0 +1,42 @@
+[
+    {
+        "neighbor": "Riley Keough",
+        "answer": "War Pony",
+        "query": "Which drama co-directed by Riley Keough won the Cam\u00e9ra d'Or?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lisa Marie Presley"
+    },
+    {
+        "neighbor": "Riley Keough",
+        "answer": "War Pony",
+        "query": "What drama did Riley Keough co-direct that won the Cam\u00e9ra d'Or?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lisa Marie Presley"
+    },
+    {
+        "neighbor": "Navarone Garibaldi",
+        "answer": "Santa Monica, California",
+        "query": "In what city was Navarone Garibaldi born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lisa Marie Presley"
+    },
+    {
+        "neighbor": "Navarone Garibaldi",
+        "answer": "Santa Monica",
+        "query": "In which city was Navarone Garibaldi born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lisa Marie Presley"
+    },
+    {
+        "neighbor": "Navarone Garibaldi",
+        "answer": "Santa Monica",
+        "query": "In what Californian city was Navarone Garibaldi born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lisa Marie Presley"
+    }
+]

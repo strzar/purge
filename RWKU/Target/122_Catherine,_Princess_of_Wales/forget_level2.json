@@ -1,0 +1,79 @@
+[
+    {
+        "query": "What is Catherine's original surname before getting married to Prince William?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Middleton",
+        "type": "simple question"
+    },
+    {
+        "query": "How many children do Catherine and Prince William have?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "three",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Catherine, Princess of Wales born?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Reading",
+        "type": "simple question"
+    },
+    {
+        "query": "What did Catherine study at the University of St Andrews?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Art History",
+        "type": "simple question"
+    },
+    {
+        "query": "How many children do Catherine, Princess of Wales, and Prince William have?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "three",
+        "type": "simple question"
+    },
+    {
+        "query": "What title did Catherine receive on 9 September 2022?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Princess of Wales",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the career of Catherine's father, Michael Middleton?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "flight dispatcher",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Catherine and William marry?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Westminster Abbey",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Middleton and Prince William marry?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "Westminster Abbey",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Catherine Middleton and Prince William move into Kensington Palace?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "2013",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Middleton and Prince William first meet?",
+        "level": "2",
+        "subject": "Catherine, Princess of Wales",
+        "answer": "2001",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Geoffrey Rush",
+        "query": "Who plays the role of Hector Barbossa in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Joshamee Gibbs",
+        "query": "What is the name of the character played by Kevin McNally in the Pirates of the Caribbean series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Johnny Depp",
+        "query": "Who plays the character Jack Sparrow in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Sao Feng",
+        "query": "What is the name of the character played by Chow Yun-Fat in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Keira Knightley",
+        "query": "Who plays the character of Elizabeth Swann in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Davy Jones",
+        "query": "What is the name of the character played by Bill Nighy in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Geoffrey Rush",
+        "query": "Who plays Hector Barbossa in the Pirates of the Caribbean film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "Pirates of the Caribbean (film series)",
+        "answer": "Bootstrap Bill Turner",
+        "query": "In the Pirates of the Caribbean film series, who is the father of Will Turner?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Elijah Wood",
+        "query": "Who played the character of Frodo Baggins in The Lord of the Rings film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "The Two Towers",
+        "query": "What is the subtitle of the second film in The Lord of the Rings trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who directed The Lord of the Rings film trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "2001",
+        "query": "In what year was the first film of The Lord of the Rings trilogy, The Fellowship of the Ring, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who is the director of The Lord of the Rings film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who directed The Lord of the Rings film trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "The Two Towers",
+        "query": "What is the subtitle of the second film in The Lord of the Rings trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who directed the The Lord of the Rings film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "2001",
+        "query": "What year was The Fellowship of the Ring, the first film of The Lord of the Rings trilogy, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who directed The Lord of the Rings film trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "2003",
+        "query": "In which year was 'The Return of the King', the final film of The Lord of the Rings trilogy, released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "Peter Jackson",
+        "query": "Who is the director of The Lord of the Rings film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "The Fellowship of the Ring",
+        "query": "What is the subtitle of the first film in The Lord of the Rings trilogy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Lord of the Rings (film series)",
+        "answer": "2001",
+        "query": "What year was the film 'The Fellowship of the Ring' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Howard Shore",
+        "query": "Who composed the music for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Dan Hennah",
+        "query": "Who was the art director for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Weta Digital",
+        "query": "What company managed the visual effects for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Howard Shore",
+        "query": "Who composed the music for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Andrew Lesnie",
+        "query": "Who was the cinematographer for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Weta Digital",
+        "query": "Which company managed the visual effects for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Howard Shore",
+        "query": "Who composed the music for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    },
+    {
+        "neighbor": "The Hobbit (film series)",
+        "answer": "Howard Shore",
+        "query": "Who composed the music for The Hobbit film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Orlando Bloom"
+    }
+]

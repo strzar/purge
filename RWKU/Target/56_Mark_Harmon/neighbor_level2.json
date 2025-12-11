@@ -1,0 +1,98 @@
+[
+    {
+        "neighbor": "Tracy Nelson (actress)",
+        "answer": "Harriet Nelson",
+        "query": "Who starred in 'The Adventures of Ozzie and Harriet' related to Tracy Nelson?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Lawrence Kasdan",
+        "query": "Who directed and produced the film 'Wyatt Earp'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Dan Gordon",
+        "query": "Who co-wrote the film 'Wyatt Earp' with Lawrence Kasdan?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Kevin Costner",
+        "query": "Who played the role of lawman Wyatt Earp in the 1994 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Kevin Costner",
+        "query": "Who played the title role in the film 'Wyatt Earp'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Dan Gordon",
+        "query": "Who co-wrote the film 'Wyatt Earp' with Lawrence Kasdan?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Kevin Costner",
+        "query": "Who played the role of Wyatt Earp in the film 'Wyatt Earp'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Wyatt Earp (film)",
+        "answer": "Kevin Costner",
+        "query": "Who starred as Wyatt Earp in the eponymous 1994 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Leroy Jethro Gibbs",
+        "answer": "Leroy Jethro Gibbs",
+        "query": "What is the full name of the original protagonist in the CBS TV series NCIS?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Leroy Jethro Gibbs",
+        "answer": "Leroy Jethro Gibbs",
+        "query": "What is the full name of the character who serves as the original protagonist of NCIS?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Leroy Jethro Gibbs",
+        "answer": "Donald P. Bellisario",
+        "query": "Who is the series creator that developed the character of Leroy Jethro Gibbs?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    },
+    {
+        "neighbor": "Leroy Jethro Gibbs",
+        "answer": "Donald P. Bellisario",
+        "query": "Who is the series creator that developed the character Leroy Jethro Gibbs?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Mark Harmon"
+    }
+]

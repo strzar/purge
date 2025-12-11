@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In Mean Girls, the leader of the Plastics is named ___ George.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Regina"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls was directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Mean Girls is a 2004 American teen comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Mean Girls",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In 'The Parent Trap' (1998 film), the character Hallie Parker is portrayed by ___ Lohan.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "Lindsay"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift is credited along with Meyers and Shyer as co-writers of the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift is credited along with Meyers and Shyer as co-writers of the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In 'The Parent Trap', Dennis Quaid and ___ Richardson star as a divorced couple.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "Natasha"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift is credited along with Meyers and Shyer as co-writers of the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In the 1998 film 'The Parent Trap', Dennis Quaid and Natasha Richardson star as a ___ couple who separated shortly after their identical twin daughters' birth.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "divorced"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Dennis Quaid and Natasha Richardson star as a divorced couple who separated shortly after their identical twin daughters' birth in the film ___ ___",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "The Parent Trap"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift is credited along with Meyers and Shyer as the co-writers of the ___ version of the film 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift, along with Meyers and Shyer, is credited as a co-writer of the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift, along with Meyers and Shyer, are credited as co-writers of the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift, along with Meyers and Shyer, is credited as co-writers for the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "David Swift, along with Meyers and Shyer, are credited as co-writers for the ___ version of 'The Parent Trap'.",
+        "type": "cloze",
+        "neighbor": "The Parent Trap (1998 film)",
+        "level": "1",
+        "answer": "1998"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In Freaky Friday, the characters of the mother and daughter, whose bodies are switched, are played by Jamie Lee Curtis and ___ Lohan, respectively.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Lindsay"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "In Freaky Friday, the body-switching is triggered by a mysterious and magical Chinese ___ cookie.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "fortune"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday was directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Lindsay Lohan",
+        "query": "Freaky Friday is a 2003 American fantasy comedy film directed by ___ Waters.",
+        "type": "cloze",
+        "neighbor": "Freaky Friday (2003 film)",
+        "level": "1",
+        "answer": "Mark"
+    }
+]

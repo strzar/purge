@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Rob Cohen",
+        "query": "Who directed the 2002 film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "$277.4 million",
+        "query": "How much did the film 'XXX' gross worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Rob Cohen",
+        "query": "Who directed the 2002 film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Xander Cage",
+        "query": "What role does Vin Diesel play in the film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Vin Diesel",
+        "query": "Who played the role of Xander Cage in the film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Vin Diesel",
+        "query": "Who plays the role of Xander Cage in the 2002 film XXX?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Vin Diesel",
+        "query": "Who starred as Xander Cage in the 2002 film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "$277.4 million",
+        "query": "How much did the film 'XXX' gross worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Vin Diesel",
+        "query": "Who played the role of Xander Cage in the 2002 film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "$277.4 million",
+        "query": "How much did the film 'XXX' gross worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Vin Diesel",
+        "query": "Who stars as Xander Cage in the 2002 film XXX?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "$277.4 million",
+        "query": "How much did the film XXX gross worldwide?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "XXX (2002 film)",
+        "answer": "Rob Cohen",
+        "query": "Who directed the 2002 film 'XXX'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Quentin Tarantino",
+        "query": "Who is the director of the film 'Pulp Fiction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "1994",
+        "query": "What year was the film 'Pulp Fiction' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Roger Avary",
+        "query": "Who co-conceived the story of 'Pulp Fiction' with Quentin Tarantino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Roger Avary",
+        "query": "Who conceived the story of 'Pulp Fiction' along with Quentin Tarantino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "1994",
+        "query": "What year was the film 'Pulp Fiction' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Roger Avary",
+        "query": "Who co-conceived the story of 'Pulp Fiction' with Quentin Tarantino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Quentin Tarantino",
+        "query": "Who directed the film 'Pulp Fiction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Roger Avary",
+        "query": "Who co-conceived the story of 'Pulp Fiction' along with Quentin Tarantino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "1994",
+        "query": "In which year was 'Pulp Fiction' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Quentin Tarantino",
+        "query": "Who wrote and directed the film 'Pulp Fiction'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "1994",
+        "query": "What year was the film 'Pulp Fiction' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "Pulp Fiction",
+        "answer": "Roger Avary",
+        "query": "Who co-conceived the story of Pulp Fiction along with Quentin Tarantino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "The Marvels",
+        "answer": "Nia DaCosta",
+        "query": "Who directed 'The Marvels'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "The Marvels",
+        "answer": "Nia DaCosta",
+        "query": "Who directed 'The Marvels'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "The Marvels",
+        "answer": "Nia DaCosta",
+        "query": "Who directed the 2023 American superhero film 'The Marvels'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "The Marvels",
+        "answer": "Nia DaCosta",
+        "query": "Who directed the film 'The Marvels'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    },
+    {
+        "neighbor": "The Marvels",
+        "answer": "The Marvels",
+        "query": "What is the sequel to the film 'Captain Marvel'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Samuel L. Jackson"
+    }
+]

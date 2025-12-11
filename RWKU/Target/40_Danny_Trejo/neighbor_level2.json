@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who plays the career criminal in the film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who played the career criminal in the film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Michael Mann",
+        "query": "Who directed the movie 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Al Pacino",
+        "query": "Name one of the lead actors in the movie 'Heat' who plays an LAPD detective.",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who played the career criminal opposite Al Pacino's character in the film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who led the ensemble cast of the 1995 film 'Heat' alongside Al Pacino?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Al Pacino",
+        "query": "Who played the LAPD detective in the film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who played the role of the career criminal opposite Al Pacino in 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Robert De Niro",
+        "query": "Who plays the career criminal in the film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Heat (1995 film)",
+        "answer": "Michael Mann",
+        "query": "Who directed the 1995 crime film 'Heat'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Nicolas Cage",
+        "query": "Who starred in the lead role in the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Nicolas Cage",
+        "query": "Who stars as the lead actor in the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Scott Rosenberg",
+        "query": "Who wrote the screenplay for the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Simon West",
+        "query": "Who directed the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Simon West",
+        "query": "Who directed the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Con Air",
+        "query": "What is the name of the JPATS aircraft featured in the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Nicolas Cage",
+        "query": "Who stars in the lead role of the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "1997",
+        "query": "What year was the movie 'Con Air' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Simon West",
+        "query": "Who directed the action thriller film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Con Air",
+        "query": "In the film 'Con Air', what nickname is given to the JPATS aircraft?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Simon West",
+        "query": "Who directed the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Con Air",
+        "answer": "Con Air",
+        "query": "What is the nickname of the JPATS aircraft in the film 'Con Air'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "October 11, 2013",
+        "query": "When was the sequel 'Machete Kills' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "October 11, 2013",
+        "query": "When was the sequel 'Machete Kills' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "2013",
+        "query": "What year was the sequel to 'Machete' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "September 3, 2010",
+        "query": "When was the film 'Machete' released in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "Machete Kills",
+        "query": "What is the name of the sequel to the film 'Machete'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "September 3, 2010",
+        "query": "When was the film 'Machete' released in the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Machete (2010 film)",
+        "answer": "2013",
+        "query": "In what year was the sequel to 'Machete', titled 'Machete Kills', released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    },
+    {
+        "neighbor": "Runaway Train (film)",
+        "answer": "Andrei Konchalovsky",
+        "query": "Who directed the film 'Runaway Train'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Danny Trejo"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Bill Murray",
+        "query": "Ant-Man and the Wasp: Quantumania was directed by ___ Reed.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Peyton"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ant-Man and the Wasp: Quantumania, Scott Lang is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ant-Man and the Wasp: Quantumania was directed by ___ Reed.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Peyton"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ant-Man and the Wasp: Quantumania, Scott Lang is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ant-Man and the Wasp: Quantumania is a 2023 American superhero film based on ___ Comics.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Marvel"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ant-Man and the Wasp: Quantumania, the character Scott Lang / Ant-Man is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ant-Man and the Wasp: Quantumania was directed by ___ Reed.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Peyton"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ant-Man and the Wasp: Quantumania, Scott Lang is portrayed by ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ant-Man and the Wasp: Quantumania",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is directed by ___ Reitman",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the single mother and her children inherit a farm in ___",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Oklahoma"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is a 2021 American supernatural comedy film directed by ___ Reitman",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the family inherits a farm in ___ due to their relation to Egon Spengler.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Oklahoma"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is directed by Jason ___ from a screenplay he co-wrote with Gil Kenan.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Reitman"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the character Egon Spengler is described as a member of the original ___.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Ghostbusters"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife was directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the character Egon Spengler is referenced as the estranged father who left an Oklahoma farm to his family. Egon Spengler was a member of the original ___ team.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Ghostbusters"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is directed by Jason ___ from a screenplay he co-wrote with Gil Kenan.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Reitman"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the role of the estranged father Egon Spengler, a member of the original Ghostbusters, is a key element to the plot that involves his family moving to an Oklahoma farm they ___ from him.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "inherited"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife was directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the family moves to an Oklahoma farm inherited from Egon Spengler, who was a member of the ___ Ghostbusters.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "original"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is a 2021 American supernatural comedy film directed by Jason ___ from a screenplay he co-wrote with Gil Kenan.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Reitman"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "The film Ghostbusters: Afterlife stars Carrie Coon, Finn Wolfhard, Mckenna Grace, and ___ Rudd.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is a 2021 American supernatural comedy film directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the character Egon Spengler was one of the original members of the ___.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Ghostbusters"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is a 2021 American supernatural comedy film directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the character Egon Spengler is a member of the original ___",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Ghostbusters"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "Ghostbusters: Afterlife is a 2021 American supernatural comedy film directed by ___ Reitman.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Jason"
+    },
+    {
+        "subject": "Bill Murray",
+        "query": "In Ghostbusters: Afterlife, the character Egon Spengler is a member of the original ___.",
+        "type": "cloze",
+        "neighbor": "Ghostbusters: Afterlife",
+        "level": "1",
+        "answer": "Ghostbusters"
+    }
+]

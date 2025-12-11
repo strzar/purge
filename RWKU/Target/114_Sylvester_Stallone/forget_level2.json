@@ -1,0 +1,142 @@
+[
+    {
+        "query": "In which movie did Sylvester Stallone first depict the character John Rambo?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "First Blood",
+        "type": "simple question"
+    },
+    {
+        "query": "For what categories was Stallone nominated for Academy Awards in 1977?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Best Original Screenplay and Best Actor",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Sylvester Stallone start his iconic role as Rocky Balboa?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "1976",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film series did Sylvester Stallone play a boxer?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Rocky",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Sylvester Stallone receive a star on the Hollywood Walk of Fame?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "1984",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Sylvester Stallone portray that was nominated for two Academy Awards in 1977?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Rocky Balboa",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Sylvester Stallone receive a star on the Hollywood Walk of Fame?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "1984",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the films in which Sylvester Stallone portrayed John Rambo.",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "First Blood",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the character that Stallone played, which led to his critical and commercial breakthrough?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Rocky Balboa",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Sylvester Stallone play in the movie 'Creed'?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Rocky Balboa",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Sylvester Stallone's younger brother?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Frank Stallone",
+        "type": "simple question"
+    },
+    {
+        "query": "What film franchise did Sylvester Stallone launch in 2010?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "The Expendables",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Sylvester Stallone's younger brother?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Frank Stallone",
+        "type": "simple question"
+    },
+    {
+        "query": "What film series launched in 2010 has Sylvester Stallone starring as Barney Ross?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "The Expendables",
+        "type": "simple question"
+    },
+    {
+        "query": "What franchise did Sylvester Stallone launch in 2010 where he starred as Barney Ross?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "The Expendables",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Stallone reprise in 2006 and 2015 that originally brought him fame?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Rocky",
+        "type": "simple question"
+    },
+    {
+        "query": "In which Paramount+ series did Sylvester Stallone start acting in 2022?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "Tulsa King",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Stallone receive his Bachelor of Fine Arts degree?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "University of Miami",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university awarded Sylvester Stallone a Bachelor of Fine Arts degree in 1998?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "University of Miami",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university awarded Sylvester Stallone a Bachelor of Fine Arts degree in 1998?",
+        "level": "2",
+        "subject": "Sylvester Stallone",
+        "answer": "University of Miami",
+        "type": "simple question"
+    }
+]

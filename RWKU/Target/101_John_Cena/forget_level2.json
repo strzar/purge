@@ -1,0 +1,135 @@
+[
+    {
+        "query": "When did John Cena switch from bodybuilding to professional wrestling?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "1999",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times has John Cena been a world champion as recognized by WWE?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "16",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times has John Cena won the WWE Championship?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "16",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times has John Cena won the WWE World Championship?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "16",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times has John Cena been a world champion as recognized by WWE?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "16",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did John Cena star in the movie 'Ferdinand'?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "2017",
+        "type": "simple question"
+    },
+    {
+        "query": "What character does John Cena portray in 'The Suicide Squad' and its television series?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Peacemaker",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did John Cena portray in 'The Suicide Squad' (2021) and its subsequent TV series?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Peacemaker",
+        "type": "simple question"
+    },
+    {
+        "query": "In what movie did John Cena play the role of Jakob Toretto?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "F9",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the studio album released by John Cena in 2005?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "You Can't See Me",
+        "type": "simple question"
+    },
+    {
+        "query": "In what film did John Cena play the character Jakob Toretto?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "F9",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did John Cena play in The Suicide Squad and its television series?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Peacemaker",
+        "type": "simple question"
+    },
+    {
+        "query": "What charity is John Cena most associated with?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Make-A-Wish Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did John Cena attend before transferring to Cushing Academy?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Central Catholic High School",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did John Cena attend where he played football as a Division III All-American center?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Springfield College",
+        "type": "simple question"
+    },
+    {
+        "query": "What sport did John Cena play in college?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "football",
+        "type": "simple question"
+    },
+    {
+        "query": "What job did John Cena hold before he gained fame in wrestling?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "limousine driver",
+        "type": "simple question"
+    },
+    {
+        "query": "Which NCAA Division did John Cena play football in at college?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "Division III",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Cena's job before he became a professional wrestler?",
+        "level": "2",
+        "subject": "John Cena",
+        "answer": "limousine driver",
+        "type": "simple question"
+    }
+]

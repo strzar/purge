@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix began his career by appearing in television series in the early ___ with his brother River.",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Phoenix received a nomination for the Academy Award for Best Supporting Actor for his portrayal of ___ in the historical drama Gladiator (2000).",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Commodus"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix received critical acclaim and a nomination for the Academy Award for Best Supporting Actor for his portrayal of ___ in the historical drama Gladiator (2000).",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Commodus"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix had success with the horror film ___ (2002).",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Signs"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "During the early stage of his career, Joaquin Phoenix was credited as ___ Phoenix, a name he gave himself.",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Leaf"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix received a nomination for the Academy Award for Best Supporting Actor for his portrayal of Commodus in the historical drama ___ (2000).",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Gladiator"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix began his acting career by appearing in television series in the early ___ with his brother River.",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "1980s"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Joaquin Phoenix received a nomination for the Academy Award for Best Supporting Actor for his role as ___ in 'Gladiator'.",
+        "type": "cloze",
+        "neighbor": "Joaquin Phoenix",
+        "level": "1",
+        "answer": "Commodus"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Among the variety of artists Rick Rubin has produced for, one of the country artists mentioned is ___ Cash.",
+        "type": "cloze",
+        "neighbor": "Rick Rubin",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Rubin helped popularize hip hop by producing records for acts such as the Beastie Boys, Geto Boys, and ___-DMC.",
+        "type": "cloze",
+        "neighbor": "Rick Rubin",
+        "level": "1",
+        "answer": "Run"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Among the variety of other genres, Rubin has produced hit records for acts in alternative rock, including ___ Hot Chili Peppers.",
+        "type": "cloze",
+        "neighbor": "Rick Rubin",
+        "level": "1",
+        "answer": "Red"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Rubin produced hit records for the alternative rock band ___ Hot Chili Peppers.",
+        "type": "cloze",
+        "neighbor": "Rick Rubin",
+        "level": "1",
+        "answer": "Red"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Willie Nelson helped organize the first ___ Aid concert to benefit American farmers in 1985.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Farm"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Willie Nelson switched to Columbia Records in ___, where he recorded the album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "1975"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1985, Willie Nelson helped organize the first ___ concert to benefit American farmers.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Farm Aid"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the critically acclaimed album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the critically acclaimed album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the critically acclaimed album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Willie Nelson helped organize the first Farm Aid concert in ___ to benefit American farmers.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "1985"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Willie Nelson organized the first ___ concert in 1985 to benefit American farmers.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Farm Aid"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1975, Willie Nelson switched to ___ Records, where he recorded the album Red Headed Stranger.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Columbia"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Willie Nelson helped organize the first ___ Aid concert to benefit American farmers in 1985.",
+        "type": "cloze",
+        "neighbor": "Willie Nelson",
+        "level": "1",
+        "answer": "Farm"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Linda Ronstadt reached number one on the US Billboard Hot 100 with the single ___",
+        "type": "cloze",
+        "neighbor": "Linda Ronstadt",
+        "level": "1",
+        "answer": "You're No Good"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1985, Kristofferson joined fellow country artists Waylon Jennings, Willie Nelson, and ___ Cash in the country music supergroup The Highwaymen.",
+        "type": "cloze",
+        "neighbor": "Kris Kristofferson",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1985, Kristofferson joined fellow country artists Waylon Jennings, Willie Nelson and ___ Cash in the country music supergroup The Highwaymen.",
+        "type": "cloze",
+        "neighbor": "Kris Kristofferson",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Kris Kristofferson joined the country music supergroup The Highwaymen along with Waylon Jennings, Willie Nelson, and ___ Cash.",
+        "type": "cloze",
+        "neighbor": "Kris Kristofferson",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "In 1985, Kristofferson formed a supergroup named The Highwaymen with Waylon Jennings, Willie Nelson, and ___ Cash.",
+        "type": "cloze",
+        "neighbor": "Kris Kristofferson",
+        "level": "1",
+        "answer": "Johnny"
+    },
+    {
+        "subject": "Johnny Cash",
+        "query": "Valerie June Carter Cash was professionally known as ___ Carter before her marriage.",
+        "type": "cloze",
+        "neighbor": "June Carter Cash",
+        "level": "1",
+        "answer": "June"
+    }
+]

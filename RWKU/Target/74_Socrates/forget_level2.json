@@ -1,0 +1,107 @@
+[
+    {
+        "query": "Who were the primary sources for our knowledge of Socrates' teachings?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "What method is named after Socrates and involves a series of questions and answers?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Socratic method",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were the classical writers that recounted Socrates' teachings through dialogues?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "What method is associated with Socrates, involving questioning and answering?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Socratic method",
+        "type": "simple question"
+    },
+    {
+        "query": "Who are the classical writers known for documenting Socrates' ideas posthumously?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "What method is associated with Socrates' style of philosophical inquiry?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Socratic method",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Socrates sentenced to death?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "399 BC",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were the main sources for our knowledge of Socrates's teachings?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were the main sources of our knowledge about Socrates?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were the primary sources of information about Socrates's teachings?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were Socrates's pupils that provided accounts of his teachings?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato and Xenophon",
+        "type": "simple question"
+    },
+    {
+        "query": "Which of Xenophon's works defends Socrates from the accusations of corrupting the youth?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Memorabilia",
+        "type": "simple question"
+    },
+    {
+        "query": "Who wrote the comedy 'The Clouds' where Socrates is depicted as an absurd atheist?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Aristophanes",
+        "type": "simple question"
+    },
+    {
+        "query": "In which of Xenophon's works is a discussion on practical agricultural issues recounted?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Oeconomicus",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Aristotle's teacher?",
+        "level": "2",
+        "subject": "Socrates",
+        "answer": "Plato",
+        "type": "simple question"
+    }
+]

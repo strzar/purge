@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the screenplay for the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Ghostface",
+        "query": "What is the name of the serial killer in the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the screenplay for the 1996 film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the 1996 film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Ghostface",
+        "query": "What name is given to the serial killer in the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the 1996 film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Neve Campbell",
+        "query": "Who portrays Sidney Prescott in 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the screenplay for the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the screenplay for the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the screenplay for the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Woodsboro",
+        "query": "What is the name of the fictional town where 'Scream' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Scream (1996 film)",
+        "answer": "Kevin Williamson",
+        "query": "Who wrote the film 'Scream'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Steven Spielberg",
+        "query": "Who directed the film 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "1982",
+        "query": "In which year was the film 'E.T. the Extra-Terrestrial' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Melissa Mathison",
+        "query": "Who wrote the screenplay for 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "1982",
+        "query": "What year was 'E.T. the Extra-Terrestrial' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Melissa Mathison",
+        "query": "Who wrote the screenplay for 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Henry Thomas",
+        "query": "Who played the character Elliott in the movie 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "1982",
+        "query": "In what year was the movie 'E.T. the Extra-Terrestrial' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Melissa Mathison",
+        "query": "Who wrote the screenplay for 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Elliott",
+        "query": "What character befriends the extraterrestrial in the film 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Steven Spielberg",
+        "query": "Who directed the film 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Steven Spielberg",
+        "query": "Who directed the film 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "Melissa Mathison",
+        "query": "Who wrote the screenplay for 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "E.T. the Extra-Terrestrial",
+        "answer": "E.T.",
+        "query": "What is the name of the extraterrestrial character in the film 'E.T. the Extra-Terrestrial'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Frances Bean Cobain",
+        "answer": "Frances McKee",
+        "query": "Who was Frances Bean Cobain named after?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Donnie Darko",
+        "answer": "Richard Kelly",
+        "query": "Who wrote and directed the film 'Donnie Darko'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Donnie Darko",
+        "answer": "1988",
+        "query": "In what year is the film 'Donnie Darko' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Donnie Darko",
+        "answer": "Richard Kelly",
+        "query": "Who directed the film 'Donnie Darko'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    },
+    {
+        "neighbor": "Donnie Darko",
+        "answer": "Jake Gyllenhaal",
+        "query": "Who plays the role of Donnie Darko in the film 'Donnie Darko'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Drew Barrymore"
+    }
+]

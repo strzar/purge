@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill Dubuque and ___ Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by ___ Dubuque and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "In Ozark, the character Marty Byrde and his wife move their family to the Lake of the ___ to continue their work laundering money.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Ozarks"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is a television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "In the series Ozark, the Byrde family moves to the Lake of the ___ to continue their work laundering money.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Ozarks"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "In Ozark, the Byrde family move their family to the Lake of the ___ to continue their work laundering money for a Mexican drug cartel.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Ozarks"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "In Ozark, the family moves to the Lake of the ___ to continue their work laundering money for a Mexican drug cartel.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Ozarks"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by ___ Dubuque and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Bill"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill Dubuque and ___ Williams.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Mark"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "In the TV series Ozark, Marty and Wendy Byrde are laundering money for a ___ drug cartel.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Mexican"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is an American crime drama television series created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "Ozark is created by Bill ___ and Mark Williams for Netflix.",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Dubuque"
+    },
+    {
+        "subject": "Jason Bateman",
+        "query": "The character Marty Byrde in Ozark is portrayed by Jason ___",
+        "type": "cloze",
+        "neighbor": "Ozark (TV series)",
+        "level": "1",
+        "answer": "Bateman"
+    }
+]

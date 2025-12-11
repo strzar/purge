@@ -1,0 +1,65 @@
+[
+    {
+        "query": "At what age did Ryan Seacrest win his internship at WSTR in Atlanta?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "16",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Ryan Seacrest attend?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "University of Georgia",
+        "type": "simple question"
+    },
+    {
+        "query": "What show did Ryan Seacrest co-host with Kelly Ripa?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "Live with Kelly and Ryan",
+        "type": "simple question"
+    },
+    {
+        "query": "How much was Ryan Seacrest's deal with CKX in 2009 to continue hosting American Idol?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "$45 million",
+        "type": "simple question"
+    },
+    {
+        "query": "How much was Ryan Seacrest's deal with CKX in 2009 to continue hosting American Idol?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "$45 million",
+        "type": "simple question"
+    },
+    {
+        "query": "Which show did Ryan Seacrest co-host with Brian Dunkleman in 2002?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "American Idol",
+        "type": "simple question"
+    },
+    {
+        "query": "How much was Ryan Seacrest's deal worth when he signed to continue hosting American Idol in 2009?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "$45 million",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the reality show that Ryan Seacrest began co-hosting in 2002?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "American Idol",
+        "type": "simple question"
+    },
+    {
+        "query": "What amount was Ryan Seacrest's deal with CKX in July 2009 to continue hosting American Idol?",
+        "level": "2",
+        "subject": "Ryan Seacrest",
+        "answer": "$45 million",
+        "type": "simple question"
+    }
+]

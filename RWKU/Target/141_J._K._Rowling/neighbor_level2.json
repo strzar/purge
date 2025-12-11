@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Harry Potter (film series)",
+        "answer": "2011",
+        "query": "What year did the film 'Harry Potter and the Deathly Hallows \u2013 Part 2' release?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter (film series)",
+        "answer": "Warner Bros. Pictures",
+        "query": "What production company is responsible for distributing the Harry Potter film series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Lord Voldemort",
+        "query": "Who is the main antagonist in the Harry Potter series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Lord Voldemort",
+        "query": "Who is the main antagonist in the Harry Potter series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Hogwarts School of Witchcraft and Wizardry",
+        "query": "What is the name of the school that Harry Potter attends?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Hogwarts School of Witchcraft and Wizardry",
+        "query": "What is the name of the school Harry Potter attends?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Ministry of Magic",
+        "query": "What is the governing body of the wizarding world called in the Harry Potter series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Hogwarts School of Witchcraft and Wizardry",
+        "query": "What is the name of the school that Harry Potter and his friends attend?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Lord Voldemort",
+        "query": "Who is the main antagonist in the Harry Potter series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Lord Voldemort",
+        "query": "Who is the main antagonist that Harry Potter conflicts with in the series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Harry Potter",
+        "answer": "Ministry of Magic",
+        "query": "What is the name of the governing body of the wizard world in the Harry Potter series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "Mads Mikkelsen",
+        "query": "Who plays the role of Gellert Grindelwald in 'Fantastic Beasts: The Secrets of Dumbledore'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "Fantastic Beasts: The Secrets of Dumbledore",
+        "query": "What is the sequel to 'Fantastic Beasts: The Crimes of Grindelwald'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "Eddie Redmayne",
+        "query": "Who plays Newt Scamander in 'Fantastic Beasts: The Secrets of Dumbledore'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts: The Secrets of Dumbledore",
+        "answer": "Newt Scamander",
+        "query": "What character does Eddie Redmayne portray in the film 'Fantastic Beasts: The Secrets of Dumbledore'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Strike (TV series)",
+        "answer": "Robert Galbraith",
+        "query": "Under what pseudonym did J.K. Rowling write the Cormoran Strike series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Strike (TV series)",
+        "answer": "Robert Galbraith",
+        "query": "Under what pseudonym did J.K. Rowling write the Cormoran Strike series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Strike (TV series)",
+        "answer": "Robert Galbraith",
+        "query": "Under what pseudonym did J.K. Rowling write the Cormoran Strike series?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts and Where to Find Them (film)",
+        "answer": "2016",
+        "query": "What is the release year of the film 'Fantastic Beasts and Where to Find Them'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts and Where to Find Them (film)",
+        "answer": "2016",
+        "query": "What year was the film 'Fantastic Beasts and Where to Find Them' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts and Where to Find Them (film)",
+        "answer": "2016",
+        "query": "What year was the film 'Fantastic Beasts and Where to Find Them' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Fantastic Beasts and Where to Find Them (film)",
+        "answer": "2016",
+        "query": "What year was the film 'Fantastic Beasts and Where to Find Them' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "query": "In which book did Lord Voldemort first appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "query": "In which Harry Potter book did Lord Voldemort first appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Prisoner of Azkaban",
+        "query": "Which Harry Potter book and its film adaptation does not feature Lord Voldemort in person or in flashbacks?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "query": "In which book of the Harry Potter series did Lord Voldemort first appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Prisoner of Azkaban",
+        "query": "Which Harry Potter book and its film adaptation does not physically feature Lord Voldemort but only mentions him?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "query": "In which Harry Potter book did Lord Voldemort first appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Prisoner of Azkaban",
+        "query": "Which Harry Potter book does not feature Lord Voldemort in person or in flashbacks?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    },
+    {
+        "neighbor": "Lord Voldemort",
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "query": "In which book did Lord Voldemort first appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "J. K. Rowling"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "query": "What was the film that established Richard Gere as a leading man and a sex symbol?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "American Gigolo",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Richard Gere born?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Philadelphia",
+        "type": "simple question"
+    },
+    {
+        "query": "What film did Richard Gere play a leading role in 1980 that established him as a sex symbol?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "American Gigolo",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Richard Gere attend on a gymnastics scholarship?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "University of Massachusetts Amherst",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Richard Gere play in the film 'Chicago'?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Billy Flynn",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Richard Gere attend on a gymnastics scholarship?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "University of Massachusetts Amherst",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Richard Gere born?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Philadelphia",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Richard Gere play in the film 'Pretty Woman'?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Edward Lewis",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Richard Gere attend on a gymnastics scholarship?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "University of Massachusetts Amherst",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Richard Gere star in the film 'American Gigolo'?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "1980",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one of the films Richard Gere co-starred with Julia Roberts.",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Pretty Woman",
+        "type": "simple question"
+    },
+    {
+        "query": "Which 2002 film featured Richard Gere and won an Academy Award?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Chicago",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film reunited Richard Gere with his Pretty Woman co-star Julia Roberts?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "Runaway Bride",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Richard Gere banned from being an Academy Award presenter due to his political speech?",
+        "level": "2",
+        "subject": "Richard Gere",
+        "answer": "1993",
+        "type": "simple question"
+    }
+]

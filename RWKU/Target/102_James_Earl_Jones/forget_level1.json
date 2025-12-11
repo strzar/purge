@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was born on January ___, 1931.",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones won his first Tony Award for his role in ___",
+        "type": "cloze",
+        "answer": "The Great White Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was honored with the Honorary Academy Award in ___",
+        "type": "cloze",
+        "answer": "2011"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones won his first Tony Award in 1968 for his role in ___",
+        "type": "cloze",
+        "answer": "The Great White Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was honored with the National Medal of Arts in ___",
+        "type": "cloze",
+        "answer": "1992"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was born on January ___",
+        "type": "cloze",
+        "answer": "17"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones has been described as one of the ___ actors in American history.",
+        "type": "cloze",
+        "answer": "greatest"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was honored with the National Medal of Arts in ___",
+        "type": "cloze",
+        "answer": "1992"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones won his first Tony Award for his role in ___",
+        "type": "cloze",
+        "answer": "The Great White Hope"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "Jones won his second Tony Award in 1987 for his role in ___ Wilson's Fences.",
+        "type": "cloze",
+        "answer": "August"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "Jones received a Special Tony Award for ___ Achievement in 2017.",
+        "type": "cloze",
+        "answer": "Lifetime"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "Jones won his second Tony Award in 1987 for his role in August Wilson's ___",
+        "type": "cloze",
+        "answer": "Fences"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "Jones received a Special Tony Award for ___ in 2017.",
+        "type": "cloze",
+        "answer": "Lifetime Achievement"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "Jones won his second Tony Award in 1987 for his role in August Wilson's ___",
+        "type": "cloze",
+        "answer": "Fences"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "He received a Special Tony Award for ___ Achievement in 2017.",
+        "type": "cloze",
+        "answer": "Lifetime"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "He received a Special Tony Award for ___ Achievement in 2017.",
+        "type": "cloze",
+        "answer": "Lifetime"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones voiced Darth Vader in the ___ franchise.",
+        "type": "cloze",
+        "answer": "Star Wars"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones gained international fame for his voice role as ___ in the Star Wars franchise.",
+        "type": "cloze",
+        "answer": "Darth Vader"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "James Earl Jones was born in ___, Mississippi.",
+        "type": "cloze",
+        "answer": "Arkabutla"
+    },
+    {
+        "subject": "James Earl Jones",
+        "level": "1",
+        "query": "The voice of Darth Vader was performed by ___",
+        "type": "cloze",
+        "answer": "James Earl Jones"
+    }
+]

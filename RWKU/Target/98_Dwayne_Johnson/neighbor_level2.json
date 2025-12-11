@@ -1,0 +1,122 @@
+[
+    {
+        "neighbor": "Black Adam (film)",
+        "answer": "Jaume Collet-Serra",
+        "query": "Who directed the film 'Black Adam'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Black Adam (film)",
+        "answer": "Kahndaq",
+        "query": "Which ancient nation does Black Adam try to free from the crime syndicate Intergang in the film 'Black Adam'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Black Adam (film)",
+        "answer": "Jaume Collet-Serra",
+        "query": "Who directed the film 'Black Adam'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Black Adam (film)",
+        "answer": "Jaume Collet-Serra",
+        "query": "Who directed the film 'Black Adam'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Black Adam (film)",
+        "answer": "Jaume Collet-Serra",
+        "query": "Who directed the film 'Black Adam'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Dany Garcia",
+        "answer": "the University of Miami",
+        "query": "Which university did Dany Garcia graduate from?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Jumanji: The Next Level",
+        "answer": "Jeff Pinkner and Scott Rosenberg",
+        "query": "Who co-wrote the script for 'Jumanji: The Next Level' along with Jake Kasdan?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Jumanji: The Next Level",
+        "answer": "Jeff Pinkner and Scott Rosenberg",
+        "query": "Who co-wrote the script for the film 'Jumanji: The Next Level'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Jumanji: The Next Level",
+        "answer": "Jake Kasdan",
+        "query": "Who directed 'Jumanji: The Next Level'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "answer": "Jake Kasdan",
+        "query": "Who directed 'Jumanji: Welcome to the Jungle'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Jumanji: Welcome to the Jungle",
+        "answer": "2017",
+        "query": "What year was 'Jumanji: Welcome to the Jungle' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Red Notice (film)",
+        "answer": "Rawson Marshall Thurber",
+        "query": "Who directed the 2021 film 'Red Notice'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Red Notice (film)",
+        "answer": "Rawson Marshall Thurber",
+        "query": "Who directed the film 'Red Notice'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Red Notice (film)",
+        "answer": "2021",
+        "query": "What year was the film 'Red Notice' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    },
+    {
+        "neighbor": "Red Notice (film)",
+        "answer": "Rawson Marshall Thurber",
+        "query": "Who directed the film 'Red Notice'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Dwayne Johnson"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "query": "What is the nationality of Rebel Wilson?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Australian",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film series did Rebel Wilson gain wider recognition?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Pitch Perfect",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the musical comedy series written, produced, and starred in by Rebel Wilson in 2008?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Bogan Pride",
+        "type": "simple question"
+    },
+    {
+        "query": "What sitcom centered around Rebel Wilson aired for one season on ABC?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Super Fun Night",
+        "type": "simple question"
+    },
+    {
+        "query": "Which television sitcom written and starred by Rebel Wilson aired for one season on ABC?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Super Fun Night",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Rebel Wilson graduate from the Australian Theatre for Young People?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "2003",
+        "type": "simple question"
+    },
+    {
+        "query": "What Australian comedy series did Rebel Wilson appear in from 2003 to 2007?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Pizza",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the television sitcom Rebel Wilson wrote and starred in that aired in 2013?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Super Fun Night",
+        "type": "simple question"
+    },
+    {
+        "query": "What disease did Rebel Wilson contract while based in South Africa?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "malaria",
+        "type": "simple question"
+    },
+    {
+        "query": "Which disease did Rebel Wilson contract in South Africa?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "malaria",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Rebel Wilson win at the 2013 Teen Choice Awards?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Choice Movie Actress: Comedy",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Rebel Wilson portray in the film Bridesmaids?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Brynn",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Rebel Wilson's nationality?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Australian",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Rebel Wilson win at the 2013 Teen Choice Awards?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Choice Movie Actress: Comedy",
+        "type": "simple question"
+    },
+    {
+        "query": "Which agency did Rebel Wilson sign with when she moved to the United States in 2010?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "William Morris Endeavor",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Rebel Wilson portray in the film Pitch Perfect?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Fat Amy",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Rebel Wilson replace Casey Wilson in the movie Bachelorette, according to Borys Kit of The Hollywood Reporter?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "2011",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Rebel Wilson win at Tropfest in 2009?",
+        "level": "2",
+        "subject": "Rebel Wilson",
+        "answer": "Best Actress",
+        "type": "simple question"
+    }
+]

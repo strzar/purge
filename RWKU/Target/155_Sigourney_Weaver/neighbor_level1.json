@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is directed and co-produced by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "The sequel to Avatar (2009) and the second installment in the Avatar film series is called ___: The Way of Water.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Avatar"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is a 2022 American epic science fiction film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In the film Avatar: The Way of Water, who plays the role of Jake Sully?",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Sam Worthington"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is a 2022 American epic science fiction film directed and co-produced by James ___",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Cameron"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In the film Avatar: The Way of Water, Zoe Salda\u00f1a plays the role of a blue-skinned humanoid Na'vi named ___",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Neytiri"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is directed and co-produced by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In the film Avatar: The Way of Water, the character Jake Sully is portrayed by ___ Worthington.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Sam"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is a 2022 American epic science fiction film directed and co-produced by ___ Cameron",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is a 2022 American epic science fiction film directed by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is distributed by ___ Century Studios.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "20th"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar: The Way of Water is directed and co-produced by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In Avatar: The Way of Water, Sam Worthington portrays the character ___ Sully.",
+        "type": "cloze",
+        "neighbor": "Avatar: The Way of Water",
+        "level": "1",
+        "answer": "Jake"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In the film Avatar, humans are colonizing Pandora to mine the valuable mineral ___, the room-temperature superconductor mineral.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "unobtanium"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "The film Avatar was directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "In the film Avatar, humans are colonizing Pandora to mine the valuable mineral ___, the room-temperature superconductor.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "unobtanium"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar was directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar is a 2009 epic science fiction film directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar (2009 film)",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar 3 is directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar 3",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "Avatar 3 is directed, written, co-produced, and co-edited by ___ Cameron.",
+        "type": "cloze",
+        "neighbor": "Avatar 3",
+        "level": "1",
+        "answer": "James"
+    },
+    {
+        "subject": "Sigourney Weaver",
+        "query": "The third film in Cameron's Avatar franchise is also known as a sequel to ___: The Way of Water.",
+        "type": "cloze",
+        "neighbor": "Avatar 3",
+        "level": "1",
+        "answer": "Avatar"
+    }
+]

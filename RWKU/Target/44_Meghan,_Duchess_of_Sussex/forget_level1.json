@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan, Duchess of Sussex (; born Rachel Meghan ___; August 4, 1981) is an American member of the British royal family.",
+        "type": "cloze",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan, Duchess of Sussex (; born Rachel Meghan ___; August 4, 1981) is an American member of the British royal family.",
+        "type": "cloze",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "She played the part of Rachel Zane for seven seasons (2011\u20132018) in the American TV legal drama ___ .",
+        "type": "cloze",
+        "answer": "Suits"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan, Duchess of Sussex, was born Rachel Meghan ___",
+        "type": "cloze",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan started her acting career at ___ University.",
+        "type": "cloze",
+        "answer": "Northwestern"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan played Rachel Zane in the TV show ___ for seven seasons.",
+        "type": "cloze",
+        "answer": "Suits"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan, Duchess of Sussex (; born Rachel Meghan ___; August 4, 1981) is an American member of the British royal family.",
+        "type": "cloze",
+        "answer": "Markle"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan retired from acting upon her marriage to Prince Harry in ___ and became known as the Duchess of Sussex.",
+        "type": "cloze",
+        "answer": "2018"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan and Harry filmed a Netflix docuseries titled ___ which was released in December 2022.",
+        "type": "cloze",
+        "answer": "Harry & Meghan"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan retired from acting upon her marriage to Prince Harry in ___ and became known as the Duchess of Sussex.",
+        "type": "cloze",
+        "answer": "2018"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan released a picture book for children titled ___.",
+        "type": "cloze",
+        "answer": "The Bench"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan retired from acting upon her marriage to Prince Harry in ___ and became known as the Duchess of Sussex.",
+        "type": "cloze",
+        "answer": "2018"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan retired from acting upon her marriage to Prince Harry in 2018 and became known as the Duchess of ___",
+        "type": "cloze",
+        "answer": "Sussex"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "The couple stepped down as working royals in January ___, moved to Meghan's native Southern California.",
+        "type": "cloze",
+        "answer": "2020"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Markle's mother pursued her career, leaving Meghan to live full-time with her ___ from the age of nine.",
+        "type": "cloze",
+        "answer": "father"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan Markle reportedly has a close relationship with her ___",
+        "type": "cloze",
+        "answer": "mother"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Until the age of nine, Meghan was raised by both of her ___",
+        "type": "cloze",
+        "answer": "parents"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan Markle reportedly has a close relationship with her ___",
+        "type": "cloze",
+        "answer": "mother"
+    },
+    {
+        "subject": "Meghan, Duchess of Sussex",
+        "level": "1",
+        "query": "Meghan Markle lived full-time with her ___ from the age of nine.",
+        "type": "cloze",
+        "answer": "father"
+    }
+]

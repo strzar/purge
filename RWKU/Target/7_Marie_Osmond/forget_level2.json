@@ -1,0 +1,107 @@
+[
+    {
+        "query": "What is the name of the charity Marie Osmond helped found?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Children's Miracle Network",
+        "type": "simple question"
+    },
+    {
+        "query": "In which decade did Marie Osmond have her own syndicated variety show with her brother Donny?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "1970s",
+        "type": "simple question"
+    },
+    {
+        "query": "What charity did Marie Osmond help found?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Children's Miracle Network",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Marie Osmond make her television debut?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "What charitable organization did Marie Osmond help found?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Children's Miracle Network",
+        "type": "simple question"
+    },
+    {
+        "query": "Which show marked Marie Osmond's television debut?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "The Andy Williams Show",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Marie Osmond release her debut single?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "What charity organization did Marie Osmond help found?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Children's Miracle Network",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Marie Osmond start her career as a country recording artist?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "1973",
+        "type": "simple question"
+    },
+    {
+        "query": "Which record label did Marie Osmond sign with in 1985?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Capitol Records",
+        "type": "simple question"
+    },
+    {
+        "query": "What book did Marie Osmond write about her struggles with postpartum depression?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Behind the Smile: My Journey Out of Postpartum Depression",
+        "type": "simple question"
+    },
+    {
+        "query": "What album did Marie Osmond release in 2010 as a solo artist?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "I Can Do This",
+        "type": "simple question"
+    },
+    {
+        "query": "What book did Marie Osmond write about her struggles with postpartum depression?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Behind the Smile: My Journey Out of Postpartum Depression",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of Marie Osmond's solo studio album released in 2010?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "I Can Do This",
+        "type": "simple question"
+    },
+    {
+        "query": "What book did Marie Osmond write about her journey out of postpartum depression?",
+        "level": "2",
+        "subject": "Marie Osmond",
+        "answer": "Behind the Smile: My Journey Out of Postpartum Depression",
+        "type": "simple question"
+    }
+]

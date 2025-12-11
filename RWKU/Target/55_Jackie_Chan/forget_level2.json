@@ -1,0 +1,72 @@
+[
+    {
+        "query": "Jackie Chan is known for performing his own what in films?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "stunts",
+        "type": "simple question"
+    },
+    {
+        "query": "What nickname did Jackie Chan earn from his time as a construction worker in Australia?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Jackie",
+        "type": "simple question"
+    },
+    {
+        "query": "What nickname did Jackie Chan acquire during his time as a construction worker in Australia?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Jackie",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Jackie Chan's first major breakthrough film?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Snake in the Eagle's Shadow",
+        "type": "simple question"
+    },
+    {
+        "query": "Which director allowed Jackie Chan complete freedom over his stunt work in the film Snake in the Eagle's Shadow?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Yuen Woo-ping",
+        "type": "simple question"
+    },
+    {
+        "query": "Who helped Jackie Chan get his stunt choreography role in Lo Wei's films?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Sammo Hung",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film marked Jackie Chan's major breakthrough in 1978?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Snake in the Eagle's Shadow",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film won the Best Film at the 1986 Hong Kong Film Awards and featured Jackie Chan performing numerous stunts?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Police Story",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were Jackie Chan's co-stars in the 'Three Brothers' films during the mid-1980s?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "Sammo Hung and Yuen Biao",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Jackie Chan's first film in Hollywood?",
+        "level": "2",
+        "subject": "Jackie Chan",
+        "answer": "The Big Brawl",
+        "type": "simple question"
+    }
+]

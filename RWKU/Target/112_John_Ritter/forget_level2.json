@@ -1,0 +1,72 @@
+[
+    {
+        "query": "Who was John Ritter's father?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Tex Ritter",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did John Ritter voice on PBS children\u2019s program from 2000 to 2003?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Clifford the Big Red Dog",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was John Ritter's father?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Tex Ritter",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did John Ritter reprise on the spin-off show Three's a Crowd?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Jack Tripper",
+        "type": "simple question"
+    },
+    {
+        "query": "Which children's program did John Ritter voice the title character in from 2000 to 2003?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Clifford the Big Red Dog",
+        "type": "simple question"
+    },
+    {
+        "query": "Which TV show did John Ritter star in that led to a spin-off called Three's a Crowd?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Three's Company",
+        "type": "simple question"
+    },
+    {
+        "query": "Which sitcom did John Ritter star in that was based on the British series 'Man About the House'?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Three's Company",
+        "type": "simple question"
+    },
+    {
+        "query": "In which sitcom did John Ritter star that began in 1977?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Three's Company",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the title of the first regular television role John Ritter had after Three's Company?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Hooperman",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the first regular television role John Ritter took after Three's Company?",
+        "level": "2",
+        "subject": "John Ritter",
+        "answer": "Hooperman",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "query": "What year did Chris Brown release his album 'Exclusive'?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "2007",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Chris Brown assault in 2009?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Rihanna",
+        "type": "simple question"
+    },
+    {
+        "query": "What genre is Chris Brown primarily known for?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "R&B",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Chris Brown often referred to in relation to his influence in R&B music?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "King of R&B",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Chris Brown album earned him a Grammy Award for Best R&B Album?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "F.A.M.E.",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Chris Brown plead guilty to felony assault of his then-girlfriend?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "2009",
+        "type": "simple question"
+    },
+    {
+        "query": "What label did Chris Brown sign with in 2004?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Jive Records",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Chris Brown's album 'F.A.M.E.' top the Billboard 200?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "2011",
+        "type": "simple question"
+    },
+    {
+        "query": "Chris Brown's second Billboard Hot 100 number one single is titled what?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Kiss Kiss",
+        "type": "simple question"
+    },
+    {
+        "query": "What genre is Chris Brown most prominently associated with?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "R&B",
+        "type": "simple question"
+    },
+    {
+        "query": "What film did Chris Brown debut in 2007?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Stomp the Yard",
+        "type": "simple question"
+    },
+    {
+        "query": "Which song by Chris Brown featuring Young Thug broke his own record on Billboard's R&B/Hip-Hop Airplay chart?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Go Crazy",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Chris Brown release his album Indigo?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "2019",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Chris Brown make his on-screen feature film debut?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "2007",
+        "type": "simple question"
+    },
+    {
+        "query": "What movie marked Chris Brown's feature film debut?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Stomp the Yard",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Chris Brown's older sister?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Lytrell Bundy",
+        "type": "simple question"
+    },
+    {
+        "query": "In what town was Chris Brown born?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Tappahannock, Virginia",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Chris Brown's inspiration for music and dance?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Michael Jackson",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Chris Brown's older sister?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Lytrell Bundy",
+        "type": "simple question"
+    },
+    {
+        "query": "Who inspired Chris Brown to sing and dance?",
+        "level": "2",
+        "subject": "Chris Brown",
+        "answer": "Michael Jackson",
+        "type": "simple question"
+    }
+]

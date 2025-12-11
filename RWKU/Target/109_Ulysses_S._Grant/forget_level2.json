@@ -1,0 +1,72 @@
+[
+    {
+        "query": "Which war did Ulysses S. Grant lead the Union Army to victory in?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "American Civil War",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Grant receive his military education?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "West Point",
+        "type": "simple question"
+    },
+    {
+        "query": "Who did Grant fight during the Overland Campaign?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Robert E. Lee",
+        "type": "simple question"
+    },
+    {
+        "query": "When was Grant elected president of the United States?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "1868",
+        "type": "simple question"
+    },
+    {
+        "query": "When was Ulysses S. Grant elected president?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "1868",
+        "type": "simple question"
+    },
+    {
+        "query": "What major financial event did Grant's response fail to mitigate, leading to a long depression?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Panic of 1873",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the original full name given to Ulysses S. Grant at birth?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Hiram Ulysses Grant",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the original full name given to Ulysses S. Grant at birth?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Hiram Ulysses Grant",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Ulysses S. Grant's middle name at birth?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Ulysses",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the original name of Ulysses S. Grant at birth?",
+        "level": "2",
+        "subject": "Ulysses S. Grant",
+        "answer": "Hiram Ulysses Grant",
+        "type": "simple question"
+    }
+]

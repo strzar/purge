@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette made her feature film debut as Kristen Parker in ___",
+        "type": "cloze",
+        "answer": "A Nightmare on Elm Street 3: Dream Warriors"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "From 2005 to 2011, Patricia Arquette starred in the supernatural drama series ___",
+        "type": "cloze",
+        "answer": "Medium"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette made her feature film debut as Kristen Parker in ___",
+        "type": "cloze",
+        "answer": "A Nightmare on Elm Street 3: Dream Warriors"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette won the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series in ___ for her role in Medium.",
+        "type": "cloze",
+        "answer": "2005"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette (born April 8, 1968) is an American ___",
+        "type": "cloze",
+        "answer": "actress"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette made her feature film debut as Kristen Parker in ___",
+        "type": "cloze",
+        "answer": "A Nightmare on Elm Street 3: Dream Warriors"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "In the supernatural drama series ___ Patricia Arquette played the character based on the medium Allison DuBois.",
+        "type": "cloze",
+        "answer": "Medium"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "For playing a single mother in the film ___ (2014), Arquette won the Academy Award for Best Supporting Actress.",
+        "type": "cloze",
+        "answer": "Boyhood"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "In what year was Patricia Arquette born?",
+        "type": "cloze",
+        "answer": "1968"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "For playing a single mother in Boyhood, Arquette won the Academy Award for Best ___ Actress.",
+        "type": "cloze",
+        "answer": "Supporting"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "For playing a single mother in the coming-of-age film ___ (2014), Arquette won the Academy Award for Best Supporting Actress.",
+        "type": "cloze",
+        "answer": "Boyhood"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Arquette won the Primetime Emmy Award for Outstanding Supporting Actress for her role in the drama ___ (2019).",
+        "type": "cloze",
+        "answer": "The Act"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette starred in the Apple TV+ thriller series ___ (2022).",
+        "type": "cloze",
+        "answer": "Severance"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "For playing a single mother in the coming-of-age film Boyhood (2014), which was filmed from 2002 until 2014, Arquette won the Academy Award for Best ___",
+        "type": "cloze",
+        "answer": "Supporting Actress"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Arquette was born in ___, Illinois, in 1968 to Lewis Arquette, an actor and puppeteer, and Brenda Olivia 'Mardi' (n\u00e9e Nowak).",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette's paternal grandfather was comedian ___ Arquette.",
+        "type": "cloze",
+        "answer": "Cliff"
+    },
+    {
+        "subject": "Patricia Arquette",
+        "level": "1",
+        "query": "Patricia Arquette's paternal grandfather was comedian ___ Arquette.",
+        "type": "cloze",
+        "answer": "Cliff"
+    }
+]

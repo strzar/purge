@@ -1,0 +1,210 @@
+[
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "U.S. Steel Corporation",
+        "query": "What did Andrew Carnegie's company, Carnegie Steel Company, form the basis of after he sold it?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Dunfermline, Scotland",
+        "query": "Where was Andrew Carnegie born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Carnegie Steel Company",
+        "query": "What company did Andrew Carnegie build that formed the basis of the U.S. Steel Corporation?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Carnegie Steel Company",
+        "query": "What was the name of the steel company founded by Andrew Carnegie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Pittsburgh",
+        "query": "In which city did Andrew Carnegie start his career as a telegrapher?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Carnegie Steel Company",
+        "query": "What was the name of the steel company founded by Andrew Carnegie?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Pittsburgh",
+        "query": "In which city did Andrew Carnegie build his steel company?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Dunfermline, Scotland",
+        "query": "Where was Andrew Carnegie born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Steel",
+        "query": "What was the main industry focus of Carnegie's business that he built in Pittsburgh?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "Dunfermline, Scotland",
+        "query": "Where was Andrew Carnegie born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Andrew Carnegie",
+        "answer": "U.S. Steel Corporation",
+        "query": "What did Andrew Carnegie's company, Carnegie Steel Company, become a part of after being sold?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Nelson Rockefeller",
+        "answer": "Gerald Ford",
+        "query": "Which president did Nelson Rockefeller serve under as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Nelson Rockefeller",
+        "answer": "Gerald Ford",
+        "query": "Under which president did Nelson Rockefeller serve as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Nelson Rockefeller",
+        "answer": "Gerald Ford",
+        "query": "Which president did Nelson Rockefeller serve under as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Nelson Rockefeller",
+        "answer": "Gerald Ford",
+        "query": "Which president did Nelson Rockefeller serve under as vice president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Nelson Rockefeller",
+        "answer": "Republican Party",
+        "query": "What political party was Nelson Rockefeller affiliated with?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Rockefeller family",
+        "answer": "Germany",
+        "query": "From which country did the Rockefeller family originate before moving to the Americas?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Rockefeller family",
+        "answer": "Standard Oil",
+        "query": "Which company is a predecessor of ExxonMobil and Chevron Corporation, associated with the Rockefeller family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Rockefeller family",
+        "answer": "Rockefeller family",
+        "query": "Which family in New York had William A. Rockefeller Sr. as one of its first members?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Rockefeller family",
+        "answer": "late 19th and early 20th centuries",
+        "query": "During which time period did the Rockefeller family make their fortune in the petroleum industry?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "Rockefeller family",
+        "answer": "Chase Manhattan Bank",
+        "query": "Which bank was famously associated with the Rockefeller family?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "ExxonMobil",
+        "answer": "1999",
+        "query": "When did ExxonMobil take its present name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "ExxonMobil",
+        "answer": "1999",
+        "query": "In what year did Exxon and Mobil merge to form ExxonMobil?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "ExxonMobil",
+        "answer": "1999",
+        "query": "When did Exxon and Mobil merge to take the present name 'ExxonMobil'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "ExxonMobil",
+        "answer": "1999",
+        "query": "When did Exxon and Mobil merge to take the present name 'ExxonMobil'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    },
+    {
+        "neighbor": "ExxonMobil",
+        "answer": "New Jersey",
+        "query": "In which U.S. state is ExxonMobil officially incorporated?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "John D. Rockefeller"
+    }
+]

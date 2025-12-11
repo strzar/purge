@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara is known for her role as ___ Delgado-Pritchett in the ABC sitcom Modern Family.",
+        "type": "cloze",
+        "answer": "Gloria"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara is known for her role as Gloria Delgado-Pritchett in the ABC sitcom ___",
+        "type": "cloze",
+        "answer": "Modern Family"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara first gained prominence while co-hosting television shows for ___ in the late 1990s.",
+        "type": "cloze",
+        "answer": "Univision"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara is known for her role as ___ Delgado-Pritchett in the ABC sitcom Modern Family.",
+        "type": "cloze",
+        "answer": "Gloria"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Vergara has been a judge on the television talent show ___ since 2020.",
+        "type": "cloze",
+        "answer": "America's Got Talent"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara is known for her role as ___ Delgado-Pritchett in the ABC sitcom Modern Family.",
+        "type": "cloze",
+        "answer": "Gloria"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara acted in ___ (2013), a film directed by Robert Rodriguez.",
+        "type": "cloze",
+        "answer": "Machete Kills"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara was born in ___, to a Roman Catholic family.",
+        "type": "cloze",
+        "answer": "Barranquilla"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "In her first television appearance, Sof\u00eda Vergara appeared in a ___ commercial.",
+        "type": "cloze",
+        "answer": "Pepsi"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara was born to a Roman Catholic family in ___",
+        "type": "cloze",
+        "answer": "Barranquilla"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara was born in ___",
+        "type": "cloze",
+        "answer": "Barranquilla"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara's first appearance was in a ___ commercial.",
+        "type": "cloze",
+        "answer": "Pepsi"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara starred on the ABC sitcom ___ as Gloria Delgado-Pritchett.",
+        "type": "cloze",
+        "answer": "Modern Family"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Sof\u00eda Vergara starred on the sitcom ___ as Gloria Delgado-Pritchett.",
+        "type": "cloze",
+        "answer": "Modern Family"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Vergara received a star on the Hollywood Walk of Fame on ___ 7, 2015.",
+        "type": "cloze",
+        "answer": "May"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "She starred on the ABC sitcom Modern Family as Gloria ___-Pritchett.",
+        "type": "cloze",
+        "answer": "Delgado"
+    },
+    {
+        "subject": "Sof\u00eda Vergara",
+        "level": "1",
+        "query": "Vergara became a brand ambassador for the American anti-dandruff shampoo brand ___ & Shoulders.",
+        "type": "cloze",
+        "answer": "Head"
+    }
+]

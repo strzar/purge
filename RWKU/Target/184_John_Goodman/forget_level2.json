@@ -1,0 +1,79 @@
+[
+    {
+        "query": "Name a film where John Goodman collaborated with the Coen brothers in 2000?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "O Brother, Where Art Thou?",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did John Goodman star in the movie 'The Big Lebowski'?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "1998",
+        "type": "simple question"
+    },
+    {
+        "query": "Which award has John Goodman received among the following: an Oscar, a Primetime Emmy, or a Grammy?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "a Primetime Emmy",
+        "type": "multiple choice"
+    },
+    {
+        "query": "Name a film where John Goodman played a leading role in 1994.",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "The Flintstones",
+        "type": "simple question"
+    },
+    {
+        "query": "Which animated franchise has John Goodman been a part of since 2001?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "Monsters, Inc.",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did John Goodman voice a character in Bee Movie?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "2007",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did John Goodman play in the TV series 'Roseanne'?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "Dan Conner",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did John Goodman play in the ABC comedy series 'Roseanne'?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "Dan Conner",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Goodman's father's occupation?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "postal worker",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Goodman's father's profession?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "postal worker",
+        "type": "simple question"
+    },
+    {
+        "query": "What was John Goodman's father's occupation?",
+        "level": "2",
+        "subject": "John Goodman",
+        "answer": "postal worker",
+        "type": "simple question"
+    }
+]

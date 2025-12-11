@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "David Crosby",
+        "query": "In the original five-piece lineup of the band The Byrds, ___ Hillman was responsible for playing bass guitar and vocals.",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "Chris"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The original five-piece lineup of the band included McGuinn (lead guitar, vocals), Gene Clark (tambourine, vocals), ___ Crosby (rhythm guitar, vocals), Chris Hillman (bass guitar, vocals), and Michael Clarke (drums).",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "In what year did Chris Hillman and Gram Parsons exit the band The Byrds?",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "1968"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "In the original lineup of The Byrds, ___ Hillman played the bass guitar and provided vocals.",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "Chris"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The Byrds disbanded their final lineup in the year ___ to make way for a reunion of the original quintet.",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "1973"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "In The Byrds, the country rock pioneer who joined after Crosby and Clarke departed was ___ Parsons.",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "Gram"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The original five-piece lineup of The Byrds included McGuinn (lead guitar, vocals), Gene Clark (tambourine, vocals), ___ Crosby (rhythm guitar, vocals), Chris Hillman (bass guitar, vocals), and Michael Clarke (drums).",
+        "type": "cloze",
+        "neighbor": "The Byrds",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The debut album of Crosby, Stills & Nash won the trio a Grammy Award for ___",
+        "type": "cloze",
+        "neighbor": "Stephen Stills",
+        "level": "1",
+        "answer": "Best New Artist"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The album won the trio a Grammy Award for ___",
+        "type": "cloze",
+        "neighbor": "Stephen Stills",
+        "level": "1",
+        "answer": "Best New Artist"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Crosby, Stills & Nash (CSN) won a Grammy Award for ___ New Artist.",
+        "type": "cloze",
+        "neighbor": "Stephen Stills",
+        "level": "1",
+        "answer": "Best"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Buffalo Springfield was inducted into the Rock and Roll Hall of Fame in ___",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "1997"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Buffalo Springfield's third and final album is titled ___ Time Around.",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "Last"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Buffalo Springfield was inducted into the Rock and Roll Hall of Fame in ___",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "1997"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The group Buffalo Springfield disbanded in ___",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "1968"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Buffalo Springfield was inducted into the Rock and Roll Hall of Fame in ___",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "1997"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Buffalo Springfield was inducted into the Rock and Roll Hall of Fame in ___",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "1997"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The final album of Buffalo Springfield was titled ___ Time Around.",
+        "type": "cloze",
+        "neighbor": "Buffalo Springfield",
+        "level": "1",
+        "answer": "Last"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Cameron Crowe directed the psychological thriller ___ (2001).",
+        "type": "cloze",
+        "neighbor": "Cameron Crowe",
+        "level": "1",
+        "answer": "Vanilla Sky"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Cameron Crowe directed the psychological thriller ___ (2001).",
+        "type": "cloze",
+        "neighbor": "Cameron Crowe",
+        "level": "1",
+        "answer": "Vanilla Sky"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Cameron Crowe directed the psychological thriller ___ (2001).",
+        "type": "cloze",
+        "neighbor": "Cameron Crowe",
+        "level": "1",
+        "answer": "Vanilla Sky"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The Showtime series created by Cameron Crowe is called ___ (2016).",
+        "type": "cloze",
+        "neighbor": "Cameron Crowe",
+        "level": "1",
+        "answer": "Roadies"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Cameron Crowe directed the psychological thriller ___ Sky in 2001.",
+        "type": "cloze",
+        "neighbor": "Cameron Crowe",
+        "level": "1",
+        "answer": "Vanilla"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "If I Could Only Remember My Name is the debut solo album by American singer-songwriter ___ Crosby.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Guests on the album 'If I Could Only Remember My Name' include Jerry Garcia, Graham Nash, ___ Young, Joni Mitchell, and other prominent West Coast musicians.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "Neil"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Guests on the album 'If I Could Only Remember My Name' include Jerry Garcia, ___ Nash, Neil Young, Joni Mitchell, and other prominent West Coast musicians of the era.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "Graham"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Guests on the album 'If I Could Only Remember My Name' include Jerry Garcia, ___ Nash, Neil Young, Joni Mitchell, and other prominent West Coast musicians of the era.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "Graham"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "Guests on the album 'If I Could Only Remember My Name' include Jerry Garcia, ___ Nash, Neil Young, Joni Mitchell, and other prominent West Coast musicians of the era.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "Graham"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "If I Could Only Remember My Name is the debut solo album by American singer-songwriter ___ Crosby.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "David"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "The album 'If I Could Only Remember My Name' includes guest appearances by Jerry Garcia, ___ Nash, Neil Young, Joni Mitchell, and other musicians.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "Graham"
+    },
+    {
+        "subject": "David Crosby",
+        "query": "If I Could Only Remember My Name is the debut solo album by American singer-songwriter ___ Crosby.",
+        "type": "cloze",
+        "neighbor": "If I Could Only Remember My Name",
+        "level": "1",
+        "answer": "David"
+    }
+]

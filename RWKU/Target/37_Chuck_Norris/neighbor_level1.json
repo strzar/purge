@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a ___ actor by his father.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "child"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In 1959, Bruce Lee moved to ___.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "Seattle"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In which year did Bruce Lee move to Seattle?",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "1959"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The martial art style Wing Chun, that Bruce Lee trained in, was under ___ Man.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "Ip"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Born in San Francisco and raised in Hong Kong, Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In 1961, Bruce Lee enrolled at the ___ of Washington.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "University"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In 1964, Bruce Lee drew significant attention at the ___ International Karate Championships of California.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "Long Beach"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In what year did Bruce Lee move to Seattle?",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "1959"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Bruce Lee was introduced to the Hong Kong film industry as a child actor by his ___",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "father"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "In 1964, Bruce Lee drew significant attention at the ___ International Karate Championships of California.",
+        "type": "cloze",
+        "neighbor": "Bruce Lee",
+        "level": "1",
+        "answer": "Long Beach"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger is an American action crime television series created by Leslie Greif and ___ Haggis.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger was inspired by the film ___ Wolf McQuade.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Lone"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The show 'Walker, Texas Ranger' aired its first season on CBS in the spring of ___.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "1993"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The show Walker, Texas Ranger aired its first season consisting of three pilot episodes in the ___ of 1993.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "spring"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger is an American action crime television series created by Leslie Greif and ___ Haggis.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The show Walker, Texas Ranger aired on ___ in the spring of 1993.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "CBS"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The series Walker, Texas Ranger was inspired by the film ___ Wolf McQuade.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Lone"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger is an American action crime television series created by Leslie Greif and ___ Haggis.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger was inspired by the film ___ Wolf McQuade.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Lone"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger is a television series created by Leslie Greif and ___ Haggis.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Paul"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "The television film spawned from Walker, Texas Ranger is entitled 'Trial by ___'.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Fire"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger was inspired by the film ___ Wolf McQuade.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Lone"
+    },
+    {
+        "subject": "Chuck Norris",
+        "query": "Walker, Texas Ranger is an American action crime television series created by Leslie Greif and ___ Haggis.",
+        "type": "cloze",
+        "neighbor": "Walker, Texas Ranger",
+        "level": "1",
+        "answer": "Paul"
+    }
+]

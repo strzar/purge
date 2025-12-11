@@ -1,0 +1,65 @@
+[
+    {
+        "query": "Where did Jill Biden earn her bachelor's degree?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "University of Delaware",
+        "type": "simple question"
+    },
+    {
+        "query": "Which university did Jill Biden earn her bachelor's degree from?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "University of Delaware",
+        "type": "simple question"
+    },
+    {
+        "query": "Where has Jill Biden been a professor since 2009?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "Northern Virginia Community College",
+        "type": "simple question"
+    },
+    {
+        "query": "Which college has Jill Biden been a professor at since 2009?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "Northern Virginia Community College",
+        "type": "simple question"
+    },
+    {
+        "query": "What organization did Jill Biden found that focuses on breast health?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "Biden Breast Health Initiative",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year and place was Jill Biden born?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "June 3, 1951, in Hammonton, New Jersey",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Jill Biden's daughter?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "Ashley Biden",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Jill Biden born?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "1951",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Jill Biden's major during her time at the University of Delaware?",
+        "level": "2",
+        "subject": "Jill Biden",
+        "answer": "English",
+        "type": "simple question"
+    }
+]

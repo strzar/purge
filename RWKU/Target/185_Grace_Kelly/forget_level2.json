@@ -1,0 +1,100 @@
+[
+    {
+        "query": "What award did Grace Kelly receive for her role in 'The Country Girl'?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Academy Award for Best Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one charity organization founded by Grace Kelly.",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Princess Grace Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Grace Kelly win for her role in The Country Girl?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Academy Award for Best Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the foundation Grace Kelly established in 1964?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Princess Grace Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "In which Hitchcock film did Grace Kelly not appear: Rear Window, Dial M for Murder, or Psycho?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Psycho",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Grace Kelly receive for her role in 'The Country Girl'?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Academy Award for Best Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "In which Hitchcock film did Grace Kelly star that involved a plot around a stolen jewelry heist?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "To Catch a Thief",
+        "type": "simple question"
+    },
+    {
+        "query": "What foundation did Grace Kelly establish to support local artisans?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Princess Grace Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Grace Kelly's profession before she became a princess?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Grace Kelly die?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "1982",
+        "type": "simple question"
+    },
+    {
+        "query": "In what city was Grace Kelly born?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Philadelphia, Pennsylvania",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film 'Fourteen Hours' in which Grace Kelly played a minor role?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Henry Hathaway",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film 'Fourteen Hours' in which Grace Kelly had a minor role?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Henry Hathaway",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed the film 'Fourteen Hours' in which Grace Kelly had a minor role?",
+        "level": "2",
+        "subject": "Grace Kelly",
+        "answer": "Henry Hathaway",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "query": "What film earned Winona Ryder her first Academy Award nomination?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "The Age of Innocence",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie had Winona Ryder in a role alongside Johnny Depp?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Edward Scissorhands",
+        "type": "simple question"
+    },
+    {
+        "query": "What film marked the debut of Winona Ryder?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Lucas",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Winona Ryder play Lydia Deetz?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Beetlejuice",
+        "type": "simple question"
+    },
+    {
+        "query": "Which 1990 film featured Winona Ryder playing a character in a fantasy story alongside Johnny Depp?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Edward Scissorhands",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Winona Ryder make her film debut?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "1986",
+        "type": "simple question"
+    },
+    {
+        "query": "For what movie did Winona Ryder receive her first Academy Award nomination?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "The Age of Innocence",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Winona Ryder play in 'Little Women'?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Jo March",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the Netflix series in which Winona Ryder has played Joyce Byers since 2016?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Stranger Things",
+        "type": "simple question"
+    },
+    {
+        "query": "What psychological condition did Winona Ryder develop after nearly drowning?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "aquaphobia",
+        "type": "simple question"
+    },
+    {
+        "query": "What role does Winona Ryder play on 'Stranger Things'?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Joyce Byers",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the 1986 high school drama movie that Winona Ryder acted in?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Lucas",
+        "type": "simple question"
+    },
+    {
+        "query": "Which director cast Winona Ryder in the film Beetlejuice after seeing her performance in Lucas?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Tim Burton",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Winona Ryder star in the film Beetlejuice?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "1988",
+        "type": "simple question"
+    },
+    {
+        "query": "Which director cast Winona Ryder in the movie Beetlejuice after seeing her performance in Lucas?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "Tim Burton",
+        "type": "simple question"
+    },
+    {
+        "query": "Who directed Winona Ryder in the film Lucas?",
+        "level": "2",
+        "subject": "Winona Ryder",
+        "answer": "David Seltzer",
+        "type": "simple question"
+    }
+]

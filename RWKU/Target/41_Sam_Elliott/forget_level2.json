@@ -1,0 +1,51 @@
+[
+    {
+        "query": "In which film did Sam Elliott portray Virgil Earp?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "Tombstone",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Sam Elliott play the character of Virgil Earp?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "Tombstone",
+        "type": "simple question"
+    },
+    {
+        "query": "Which comedy film features Sam Elliott as the Stranger?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "The Big Lebowski",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Sam Elliott play the character of Virgil Earp?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "Tombstone",
+        "type": "simple question"
+    },
+    {
+        "query": "Which series starred Sam Elliott on Netflix from 2016 to 2020?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "The Ranch",
+        "type": "simple question"
+    },
+    {
+        "query": "What superhero film did Sam Elliott star in 2003?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "Hulk",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Sam Elliott born?",
+        "level": "2",
+        "subject": "Sam Elliott",
+        "answer": "Sacramento, California",
+        "type": "simple question"
+    }
+]

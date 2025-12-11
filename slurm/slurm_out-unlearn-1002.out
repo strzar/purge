@@ -1,0 +1,22 @@
+===============================
+Starting unlearning for: 1_Stephen_King
+===============================
+INFO 12-11 11:19:07 [__init__.py:243] Automatically detected platform cuda.
+========== TARGET: 1_Stephen_King | Device: cuda ==========
+Using 100 QA pairs for 1_Stephen_King
+[2025-12-11 11:20:21,633] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Warning: The cache directory for DeepSpeed Triton autotune, /home/stratis/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+-------------------------------
+Finished unlearning for: 1_Stephen_King
+-------------------------------
+===============================
+Starting unlearning for: 2_Confucius
+===============================
+INFO 12-11 11:20:34 [__init__.py:243] Automatically detected platform cuda.
+========== TARGET: 2_Confucius | Device: cuda ==========
+Using 100 QA pairs for 2_Confucius
+[2025-12-11 11:20:41,831] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Warning: The cache directory for DeepSpeed Triton autotune, /home/stratis/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+-------------------------------
+Finished unlearning for: 2_Confucius
+-------------------------------

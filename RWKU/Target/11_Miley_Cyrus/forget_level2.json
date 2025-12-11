@@ -1,0 +1,128 @@
+[
+    {
+        "query": "What is the title of Miley Cyrus's lead single from The Time of Our Lives?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Party in the U.S.A.",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Miley Cyrus song achieved her first Billboard Hot 100 number-one position?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Wrecking Ball",
+        "type": "simple question"
+    },
+    {
+        "query": "Which song by Miley Cyrus reached number one on the Billboard Hot 100 for the first time?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Wrecking Ball",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Miley Cyrus release the album Plastic Hearts?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "2020",
+        "type": "simple question"
+    },
+    {
+        "query": "What Disney Channel television series did Miley Cyrus star in as a teen?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Hannah Montana",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Miley Cyrus release her album 'Plastic Hearts'?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "2020",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Miley Cyrus's father?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Billy Ray Cyrus",
+        "type": "simple question"
+    },
+    {
+        "query": "Which single from Miley Cyrus was certified thirteen-times platinum by RIAA?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Party in the U.S.A.",
+        "type": "simple question"
+    },
+    {
+        "query": "What non-profit organization did Miley Cyrus found in 2014?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Happy Hippie Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Miley Cyrus have on the television show 'The Voice'?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "coach",
+        "type": "simple question"
+    },
+    {
+        "query": "What non-profit organization did Miley Cyrus found in 2014?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Happy Hippie Foundation",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Miley Cyrus first appear in the Time 100 list?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "2008",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Miley Cyrus appear briefly in 2017?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Guardians of the Galaxy Vol. 2",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Miley Cyrus's godmother?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Dolly Parton",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Miley Cyrus's godmother?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Dolly Parton",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Miley Cyrus's godmother?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Dolly Parton",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Miley Cyrus's parents get married?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "December 28, 1993",
+        "type": "simple question"
+    },
+    {
+        "query": "Who is Miley Cyrus\u2019s father?",
+        "level": "2",
+        "subject": "Miley Cyrus",
+        "answer": "Billy Ray Cyrus",
+        "type": "simple question"
+    }
+]

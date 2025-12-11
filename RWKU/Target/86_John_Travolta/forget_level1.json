@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Joseph Travolta (born February 18, 1954) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta earned nominations for the Academy Award for Best Actor for his roles in ___ and Pulp Fiction (1994).",
+        "type": "cloze",
+        "answer": "Saturday Night Fever"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Travolta won a ___ Globe Award.",
+        "type": "cloze",
+        "answer": "Golden"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Joseph Travolta (born February 18, 1954) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Joseph Travolta (born February 18, 1954) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Travolta starred in the sitcom ___ from 1975 to 1979.",
+        "type": "cloze",
+        "answer": "Welcome Back, Kotter"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Joseph Travolta (born February 18, 1954) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Travolta earned nominations for the Academy Award for Best Actor for his roles in ___ and Pulp Fiction (1994).",
+        "type": "cloze",
+        "answer": "Saturday Night Fever"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Travolta starred in the sitcom ___ from 1975 to 1979.",
+        "type": "cloze",
+        "answer": "Welcome Back, Kotter"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta returned to television portraying lawyer ___ Shapiro in the series The People v. O. J. Simpson: American Crime Story.",
+        "type": "cloze",
+        "answer": "Robert"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta is also a private ___.",
+        "type": "cloze",
+        "answer": "pilot"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "In the television series 'The People v. O. J. Simpson: American Crime Story', Travolta portrayed lawyer ___",
+        "type": "cloze",
+        "answer": "Robert Shapiro"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta returned to television portraying lawyer ___ Shapiro in the series The People v. O. J. Simpson: American Crime Story.",
+        "type": "cloze",
+        "answer": "Robert"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta starred in Grease: The Original Soundtrack from the Motion Picture (1978), which topped the ___ 200.",
+        "type": "cloze",
+        "answer": "Billboard"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "Travolta moved to ____, for professional reasons.",
+        "type": "cloze",
+        "answer": "Los Angeles"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "The first significant movie role of John Travolta was as Billy Nolan in ___",
+        "type": "cloze",
+        "answer": "Carrie"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "John Travolta's first significant movie role was as Billy Nolan in the horror film ___",
+        "type": "cloze",
+        "answer": "Carrie"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "In which musical did John Travolta play the character Danny Zuko?",
+        "type": "cloze",
+        "answer": "Grease"
+    },
+    {
+        "subject": "John Travolta",
+        "level": "1",
+        "query": "In 1978, John Travolta played the character ____ in the musical film Grease.",
+        "type": "cloze",
+        "answer": "Danny Zuko"
+    }
+]

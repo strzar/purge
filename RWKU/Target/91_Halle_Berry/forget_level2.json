@@ -1,0 +1,128 @@
+[
+    {
+        "query": "What role did Halle Berry play in the film Die Another Day?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Jinx",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Halle Berry portray in the movie Catwoman?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Catwoman",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Halle Berry play a Bond girl named Jinx?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Die Another Day",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Halle Berry born?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "1966",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Halle Berry play a Bond girl?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Die Another Day",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film earned Halle Berry an Academy Award for Best Actress?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Monster's Ball",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Halle Berry portray in the James Bond film 'Die Another Day'?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Jinx",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Halle Berry make her directorial debut with the film Bruised?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "2020",
+        "type": "simple question"
+    },
+    {
+        "query": "Which Revlon spokesmodel has also acted in the action films John Wick: Chapter 3 and Kingsman: The Golden Circle?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Halle Berry",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Halle Berry's production company?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "606 Films",
+        "type": "simple question"
+    },
+    {
+        "query": "Which series did Halle Berry perform in that was produced by her production company?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Extant",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Halle Berry's production company founded in 2014?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "606 Films",
+        "type": "simple question"
+    },
+    {
+        "query": "In which Netflix drama did Halle Berry make her directorial debut?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Bruised",
+        "type": "simple question"
+    },
+    {
+        "query": "What production company did Halle Berry launch in 2014?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "606 Films",
+        "type": "simple question"
+    },
+    {
+        "query": "Name one action film Halle Berry appeared in during 2019.",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "John Wick: Chapter 3 \u2013 Parabellum",
+        "type": "simple question"
+    },
+    {
+        "query": "Where did Halle Berry go to college?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Cuyahoga Community College",
+        "type": "simple question"
+    },
+    {
+        "query": "Which college did Halle Berry attend?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Cuyahoga Community College",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Halle Berry's legal name change at the age of five?",
+        "level": "2",
+        "subject": "Halle Berry",
+        "answer": "Halle Maria Berry",
+        "type": "simple question"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "query": "What is the name of the character Orlando Bloom portrayed in the Pirates of the Caribbean film series?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Will Turner",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Orlando Bloom play the character Paris?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Troy",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Orlando Bloom portray in 'The Lord of the Rings' film series?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Legolas",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Orlando Bloom first appear in 'The Lord of the Rings' film series?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "2001",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Orlando Bloom portray in The Lord of the Rings film series?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Legolas",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Orlando Bloom born?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "Which series did Orlando Bloom star in from 2019 to 2023?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Carnival Row",
+        "type": "simple question"
+    },
+    {
+        "query": "In which movie did Orlando Bloom portray Paris?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Troy",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the Amazon Prime Video series in which Orlando Bloom starred from 2019 to 2023?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Carnival Row",
+        "type": "simple question"
+    },
+    {
+        "query": "What play did Orlando Bloom star in on Broadway in 2013?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Romeo and Juliet",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Orlando Bloom born?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Orlando Bloom born?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Canterbury, Kent",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Orlando Bloom hold with UNICEF?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Goodwill Ambassador",
+        "type": "simple question"
+    },
+    {
+        "query": "What play did Orlando Bloom star in during the West End revival in 2018?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Killer Joe",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Orlando Bloom born?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "1977",
+        "type": "simple question"
+    },
+    {
+        "query": "Which organization named Orlando Bloom a Goodwill Ambassador in 2009?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "UNICEF",
+        "type": "simple question"
+    },
+    {
+        "query": "In which play did Orlando Bloom star in its West End revival in 2018?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Killer Joe",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Orlando Bloom's biological father?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Colin Stone",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was Orlando Bloom's biological father?",
+        "level": "2",
+        "subject": "Orlando Bloom",
+        "answer": "Colin Stone",
+        "type": "simple question"
+    }
+]

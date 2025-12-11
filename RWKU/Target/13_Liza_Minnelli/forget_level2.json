@@ -1,0 +1,72 @@
+[
+    {
+        "query": "With which famous pop duo did Liza Minnelli collaborate in 1989?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Pet Shop Boys",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Liza Minnelli win for her role in the film 'Cabaret'?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Academy Award for Best Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "Who are Liza Minnelli's famous parents?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Judy Garland and Vincente Minnelli",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the title of the album Liza Minnelli collaborated on with the Pet Shop Boys?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Results",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were Liza Minnelli's famous parents?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Judy Garland and Vincente Minnelli",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Liza Minnelli's half-brother from Judy Garland's marriage to Sid Luft?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Joey",
+        "type": "simple question"
+    },
+    {
+        "query": "Who were Liza Minnelli's parents?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Judy Garland and Vincente Minnelli",
+        "type": "simple question"
+    },
+    {
+        "query": "Which school did Liza Minnelli attend after moving to New York City in 1961?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "High School of Performing Arts",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Liza Minnelli's professional debut in an Off-Broadway musical?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Best Foot Forward",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the Off-Broadway musical Minnelli starred in at age 17?",
+        "level": "2",
+        "subject": "Liza Minnelli",
+        "answer": "Best Foot Forward",
+        "type": "simple question"
+    }
+]

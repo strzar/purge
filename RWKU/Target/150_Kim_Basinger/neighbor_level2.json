@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Eminem",
+        "query": "Who stars in the lead role of the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Eminem",
+        "query": "Who stars in his film debut in '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "8 Mile Road",
+        "query": "What road does the title '8 Mile' refer to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Curtis Hanson",
+        "query": "Who directed the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "2002",
+        "query": "What year was the film '8 Mile' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "8 Mile Road",
+        "query": "What road is the title '8 Mile' derived from?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Curtis Hanson",
+        "query": "Who directed the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Eminem",
+        "query": "Who made their film debut in '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "2002",
+        "query": "What year was the film '8 Mile' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "2002",
+        "query": "What year was the film '8 Mile' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "8 Mile Road",
+        "query": "What is the significant road mentioned in the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Scott Silver",
+        "query": "Who wrote the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "2002",
+        "query": "What year was the film '8 Mile' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "Curtis Hanson",
+        "query": "Who directed the film '8 Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "8 Mile (film)",
+        "answer": "8 Mile Road",
+        "query": "What road is the title '8 Mile' derived from?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Jack Nicholson",
+        "query": "Who portrayed The Joker in the 1989 film 'Batman'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Michael Keaton",
+        "query": "Who stars as Batman in the 1989 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Michael Keaton",
+        "query": "Who played the role of Batman in the 1989 film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "The Joker",
+        "query": "Who was the archenemy of Batman in the 1989 Batman film?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Jack Nicholson",
+        "query": "Who played the role of The Joker in the 1989 film Batman?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Tim Burton",
+        "query": "Who directed the 1989 superhero film Batman?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Michael Keaton",
+        "query": "Who played the role of Batman in the 1989 film 'Batman'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    },
+    {
+        "neighbor": "Batman (1989 film)",
+        "answer": "Tim Burton",
+        "query": "Who directed the 1989 film 'Batman'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Kim Basinger"
+    }
+]

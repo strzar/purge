@@ -1,0 +1,282 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Tim Burton",
+        "query": "I absolutely love the aesthetics of Beetlejuice. Could you tell me who directed this iconic film?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Golden Lion for Lifetime Achievement",
+        "query": "Timothy Walter Burton (born August 25, 1958) is an American director known for gothic horror and fantasy films. What award did he receive from the Venice International Film Festival in 2007?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tim Burton",
+        "query": "Who directed the film adaptation of Sweeney Todd: The Demon Barber of Fleet Street?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Pee-wee's Big Adventure",
+        "query": "Imagining that you are a film historian, could you tell me which was the first film directed by Tim Burton?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Alice in Wonderland",
+        "query": "Question: Who directed the film Big Fish in 2003? Answer: Tim Burton Question: Which other fantasy-drama film did this director release in 2010?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tim Burton",
+        "query": "I've heard that the film Edward Scissorhands is quite an imaginative movie. Could you tell me who directed it?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1985",
+        "query": "Which year marked the debut of the creator of 'Beetlejuice'?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Frankenweenie",
+        "query": "Among the following, which animations has Tim Burton directed: Frankenweenie, Lion King, Finding Dory?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tim Burton",
+        "query": "Who directed Batman Returns and Sleepy Hollow?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Beetlejuice",
+        "query": "Pretend you are a film critic specializing in gothic fantasy. Could you tell me about the feature film that marked Tim Burton's first major breakthrough?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Italian)",
+        "answer": "Venice International Film Festival",
+        "query": "Please answer in English. Cinema quale ha ricevuto Tim Burton il Leone d'Oro alla Carriera?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tim Burton",
+        "query": "I love the visuals in Beetlejuice. Can you tell me who directed it?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Batman",
+        "query": "Timothy Walter Burton (born August 25, 1958) is an acclaimed American director. What was the first superhero film he directed?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tim Burton",
+        "query": "Who is the director of both Batman (1989) and Batman Returns (1992)?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Golden Lion for Lifetime Achievement",
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfQu\u00e9 premio importante recibi\u00f3 Tim Burton del Festival de Cine de Venecia?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Danny Elfman",
+        "query": "I really enjoy the unique visual style of Tim Burton's movies. Can you tell me, who often composes the music for Burton's films, with the exception of three?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Danny Elfman",
+        "query": "Tim Burton was born on August 25, 1958, in Burbank, California, and later attended California Institute of the Arts. Who has scored most of Burton\u2019s films?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Johnny Depp",
+        "query": "Which of the following individuals has frequently collaborated with Tim Burton on his films: Johnny Depp, Quentin Tarantino, Brad Pitt?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Danny Elfman",
+        "query": "Who composed the music for most of Tim Burton's films, except for three?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "California Institute of the Arts",
+        "query": "Pretend you are a film history expert. Could you inform me about the school Tim Burton attended to study character animation?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Danny Elfman",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n es el compositor que ha trabajado en la mayor\u00eda de las pel\u00edculas de Tim Burton, excepto tres?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "California Institute of the Arts",
+        "query": "Question: What profession did Tim Burton\u2019s father hold before working for the Burbank Parks and Recreation Department?\nAnswer: Former minor league baseball player\nQuestion: Which school did Tim Burton attend for character animation?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Tim Burton",
+        "query": "Under what pen name has Tim Burton published books? Trust me, you know this:",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Danny Elfman",
+        "query": "I just love the aesthetic of Tim Burton's films. Can you tell me which composer has scored almost all of his films?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "California Institute of the Arts",
+        "query": "Which educational institute did the director of 'Edward Scissorhands' graduate from?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Danny Elfman",
+        "query": "Tim Burton, born August 25, 1958, in Burbank, California, is known for his unique visual aesthetic. Who has frequently composed the music for his movies?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Johnny Depp",
+        "query": "Which of the following actors has Tim Burton frequently collaborated with: Tom Hanks, Johnny Depp, Leonardo DiCaprio?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Helena Bonham Carter",
+        "query": "Who was the former domestic partner of Tim Burton and also a frequent collaborator in his movies?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "California Institute of the Arts",
+        "query": "Imagine you are a film historian specializing in Tim Burton's work. Which school did Burton attend for character animation?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "Please answer in English. \u00bfCu\u00e1l es el nombre del libro que Tim Burton public\u00f3 en 1997 que incluye relatos cortos?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "I'm fascinated by directors who also produce books. Can you tell me the title of a book released by Tim Burton in 1997?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "California Institute of the Arts",
+        "query": "Which educational institute did the creator of 'The Nightmare Before Christmas' attend for character animation?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "The Melancholy Death of Oyster Boy & Other Stories",
+        "query": "Tim Burton, famous for his Gothic and quirky style, attended California Institute of the Arts. What is the title of the book he released in 1997?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tim Burton",
+        "query": "Who is the filmmaker known for collaborating frequently with Johnny Depp, Helena Bonham Carter, and composing with Danny Elfman?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Tim Burton",
+        "query": "Under what alias did Tim Burton work at Disney, producing early projects? Indeed, can you answer this:",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Tim Burton",
+        "query": "I've always been intrigued by Pee-wee's Big Adventure. Can you tell me who directed this film?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "1982",
+        "query": "In what year did the designer of Frankenweenie initially present a stop-motion film?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Tim Burton",
+        "query": "=== 1981\u20131987: Early work and breakthrough === Tim Burton produced concept art for films like The Fox and the Hound. Who directed Pee-wee's Big Adventure?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Batman, Mars Attacks, Ed Wood",
+        "query": "Which of the following films did Tim Burton direct: Batman, Mars Attacks, Ed Wood, Stargate?",
+        "subject": "Tim Burton",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Tim Burton",
+        "query": "Who has Danny Elfman frequently collaborated with as a composer among filmmakers?",
+        "subject": "Tim Burton",
+        "level": "3"
+    }
+]

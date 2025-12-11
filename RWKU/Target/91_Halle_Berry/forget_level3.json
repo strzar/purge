@@ -1,0 +1,275 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Academy Award for Best Actress",
+        "query": "I really enjoyed Halle Berry's performance in Monster's Ball. Can you tell me what award she won for this movie?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Storm",
+        "query": "Which character affiliated with the X-Men did the Cleveland-born actress portray?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who is the only African-American actress to win the Academy Award for Best Actress up until 2001?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Monster's Ball",
+        "query": "Question: What thriller featured Halle Berry in 2001 alongside John Travolta? Answer: Swordfish Question: What is the title of the romantic drama for which she won an Academy Award for Best Actress?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Halle Berry",
+        "query": "I absolutely love her performance in 'Monster's Ball.' Can you remind me who won the Academy Award for Best Actress for that film?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Introducing Dorothy Dandridge",
+        "query": "Halle Maria Berry (born Maria Halle Berry; August 14, 1966) is an American actress known for her diverse roles in film. For which television film did she win both a Primetime Emmy Award and a Golden Globe Award?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Monster's Ball",
+        "query": "Which of the following films did Halle Berry appear in: 'Monster's Ball', 'Pretty Woman', 'Titanic'?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who is recognized as the only African-American woman to have won the Academy Award for Best Actress as of 2001?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Boomerang",
+        "query": "Pretend you are an expert on Halle Berry's film career. What movie did she star in with Eddie Murphy that marked her breakout role?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "X-Men",
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfEn qu\u00e9 serie de pel\u00edculas Halle Berry interpret\u00f3 a un personaje llamado Tormenta?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Academy Award for Best Actress",
+        "query": "Halle Maria Berry (HAL-ee; born Maria Halle Berry; August 14, 1966) is an American actress. Which award did she win for her role in Monster's Ball?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Catwoman",
+        "query": "Which of these movies features Halle Berry in a leading role: Catwoman, The Notebook, Titanic?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who is the actress that won an Academy Award for her role in Monster's Ball?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Halle Berry",
+        "query": "As an expert on Oscar-winning performances, can you tell me who was the first woman of color to win the Academy Award for Best Actress?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Halle Berry",
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 a Jinx en la pel\u00edcula de James Bond Die Another Day?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Monster's Ball",
+        "query": "Question: What year did Halle Berry win the Academy Award for Best Actress? Answer: 2002 Question: What was the title of the film for which she received this award?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Revlon",
+        "query": "What brand has Halle Berry been consistently representing since 1996? Feel free to share, thanks:",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "606 Films",
+        "query": "Everyone loved her performance in Extant. Can you remind me what the name of Halle Berry's production company is?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "606 Films",
+        "query": "Halle Berry launched her production company, 606 Films, in 2014. What is the name of her production company?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Bruised",
+        "query": "Which of these films did Halle Berry direct: Bruised, Extant, Cloud Atlas?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "David Justice",
+        "query": "As a devoted fan of Halle Berry, can you tell me who she was married to first?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Halle Berry",
+        "query": "I was really inspired by the film Bruised. Could you tell me who directed this Netflix drama?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Halle Berry",
+        "query": "Which actor made their directing debut with the movie titled Bruised, released on Netflix in 2020?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Bruised",
+        "query": "Halle Berry launched 606 Films in 2014 and has directed a Netflix drama. What is the title of the drama she directed?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Eric Ben\u00e9t",
+        "query": "Among Halle Berry's ex-husbands, who is a singer-songwriter: David Justice, Eric Ben\u00e9t, or Olivier Martinez?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who is the mother of a child with Gabriel Aubry?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "606 Films",
+        "query": "Assuming you are an expert on Halle Berry's career, could you tell me the name of the production company she founded in 2014?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "1996",
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o Halle Berry comenz\u00f3 a ser modelo para Revlon?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "John Wick: Chapter 3 \u2013 Parabellum",
+        "query": "Which action-packed movie involving an assassin\u2019s guild did Halle Berry star in 2019?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Bruised",
+        "query": "Halle Berry has been a Revlon spokesmodel since 1996. What was her directorial debut with Netflix?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "David Justice",
+        "query": "Which of the following men was Halle Berry formerly married to: David Justice, Brad Pitt, or Tom Hanks?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who is the mother of a child with Gabriel Aubry?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "John Wick: Chapter 3 \u2013 Parabellum",
+        "query": "Pretend you are a fan of Halle Berry's filmography. Can you name one of the action films she starred in 2019?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Bedford High School",
+        "query": "Pretend you're a historian specializing in American cinema. Could you tell me which high school Halle Berry graduated from?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Cuyahoga Community College",
+        "query": "Question: What significant beauty pageant did Halle Berry enter in 1986 where she placed sixth overall?\nAnswer: Miss World\nQuestion: Where did Halle Berry pursue higher education?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Cleveland, Ohio",
+        "query": "Halle Berry\u2019s acting skills have always fascinated me. Could you remind me where she was born?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Miss Teen All American",
+        "query": "Which of the following titles did Halle Berry achieve: Miss Teen All American, Miss Usa, or Miss America?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Halle Berry",
+        "query": "Who changed their name from Maria Halle Berry to Halle Maria Berry?",
+        "subject": "Halle Berry",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "1986",
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfEn qu\u00e9 a\u00f1o fue Halle Berry subcampeona en el Miss USA?",
+        "subject": "Halle Berry",
+        "level": "3"
+    }
+]

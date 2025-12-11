@@ -1,0 +1,121 @@
+[
+    {
+        "query": "What nickname is Jennifer Lopez commonly known by?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "J.Lo",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film in 1997 helped establish Jennifer Lopez as the highest-paid Latin actress?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Selena",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Jennifer Lopez's nickname?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "J.Lo",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Jennifer Lopez release her debut album, On the 6?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "1999",
+        "type": "simple question"
+    },
+    {
+        "query": "Which film in 1997 helped establish Jennifer Lopez as the highest-paid Latin actress?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Selena",
+        "type": "simple question"
+    },
+    {
+        "query": "What nickname is Jennifer Lopez commonly known by?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "J.Lo",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Jennifer Lopez first rise to prominence as an actress?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Selena",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Jennifer Lopez's first album called?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "On the 6",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Jennifer Lopez begin her career as a dancer on television?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "1991",
+        "type": "simple question"
+    },
+    {
+        "query": "What album did Jennifer Lopez release in 2011?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Love?",
+        "type": "simple question"
+    },
+    {
+        "query": "What drama series did Jennifer Lopez star in from 2016 to 2018?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Shades of Blue",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year did Jennifer Lopez start her concert residency?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "2016",
+        "type": "simple question"
+    },
+    {
+        "query": "Which high school did Jennifer Lopez attend?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Preston High School",
+        "type": "simple question"
+    },
+    {
+        "query": "In what neighborhood was Jennifer Lopez raised?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Castle Hill",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Jennifer Lopez's mother?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Guadalupe Rodr\u00edguez",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Jennifer Lopez born?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "New York City",
+        "type": "simple question"
+    },
+    {
+        "query": "Which high school did Jennifer Lopez attend?",
+        "level": "2",
+        "subject": "Jennifer Lopez",
+        "answer": "Preston High School",
+        "type": "simple question"
+    }
+]

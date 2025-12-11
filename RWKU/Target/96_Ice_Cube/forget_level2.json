@@ -1,0 +1,142 @@
+[
+    {
+        "query": "Which album by Ice Cube contributed to the widespread popularity of gangsta rap?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Straight Outta Compton",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Ice Cube leave N.W.A?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "1989",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of Ice Cube's first rap group formed in 1986?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "C.I.A.",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Ice Cube inducted into the Rock and Roll Hall of Fame as a member of N.W.A?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "2016",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Ice Cube leave N.W.A?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "1989",
+        "type": "simple question"
+    },
+    {
+        "query": "Which album by Ice Cube contributed significantly to the popularity of gangsta rap?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Straight Outta Compton",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the real name of the artist known as Ice Cube?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "O'Shea Jackson",
+        "type": "simple question"
+    },
+    {
+        "query": "Name a biopic where Ice Cube served as an executive producer.",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Straight Outta Compton",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Ice Cube make his acting debut?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Boyz n the Hood",
+        "type": "simple question"
+    },
+    {
+        "query": "What year was Ice Cube born?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "1969",
+        "type": "simple question"
+    },
+    {
+        "query": "When did Ice Cube make his film debut?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "1991",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the 2015 biopic Ice Cube was an executive producer for?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Straight Outta Compton",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Ice Cube born?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Los Angeles",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Ice Cube make his directorial debut?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "1998",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Ice Cube play in the film Boyz n the Hood?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Doughboy",
+        "type": "simple question"
+    },
+    {
+        "query": "Name a film comedy franchise that Ice Cube co-wrote and starred in.",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Friday",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Ice Cube's first rap group before joining N.W.A?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "C.I.A.",
+        "type": "simple question"
+    },
+    {
+        "query": "Which rap group was Ice Cube a part of before his solo career?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "N.W.A",
+        "type": "simple question"
+    },
+    {
+        "query": "Who was the main ghostwriter for N.W.A's debut album Straight Outta Compton?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "Ice Cube",
+        "type": "simple question"
+    },
+    {
+        "query": "What was Ice Cube's debut solo album titled?",
+        "level": "2",
+        "subject": "Ice Cube",
+        "answer": "AmeriKKKa's Most Wanted",
+        "type": "simple question"
+    }
+]

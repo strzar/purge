@@ -1,0 +1,72 @@
+[
+    {
+        "query": "In which TV series did Jim Carrey gain wide recognition during the 1990s?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "In Living Color",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Jim Carrey portray in Sonic the Hedgehog movies?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Dr. Robotnik",
+        "type": "simple question"
+    },
+    {
+        "query": "Which series did Jim Carrey receive his seventh Golden Globe nomination for?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Kidding",
+        "type": "simple question"
+    },
+    {
+        "query": "What sketch comedy TV series did Jim Carrey gain wide recognition from in 1990?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "In Living Color",
+        "type": "simple question"
+    },
+    {
+        "query": "Which character did Jim Carrey portray in the Sonic the Hedgehog movie series?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Dr. Robotnik",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Jim Carrey play in the film Batman Forever?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "The Riddler",
+        "type": "simple question"
+    },
+    {
+        "query": "What television series did Jim Carrey gain wide recognition from?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "In Living Color",
+        "type": "simple question"
+    },
+    {
+        "query": "What is the name of the tragicomedy series Jim Carrey starred in from 2018 to 2020?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Kidding",
+        "type": "simple question"
+    },
+    {
+        "query": "What high school did Jim Carrey attend in Burlington, Ontario?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Aldershot High School",
+        "type": "simple question"
+    },
+    {
+        "query": "Which high school did Jim Carrey attend in Burlington, Ontario?",
+        "level": "2",
+        "subject": "Jim Carrey",
+        "answer": "Aldershot High School",
+        "type": "simple question"
+    }
+]

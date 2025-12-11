@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June ___ , 1993.",
+        "type": "cloze",
+        "answer": "26"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "The television series that brought Ariana Grande to prominence is ___",
+        "type": "cloze",
+        "answer": "Victorious"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera (born June 26, 1993) is an American ___",
+        "type": "cloze",
+        "answer": "singer"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "The successful single from Ariana Grande's debut album is called ___",
+        "type": "cloze",
+        "answer": "The Way"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera (born June 26, 1993) is an American ___",
+        "type": "cloze",
+        "answer": "singer, songwriter, and actress"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande signed with ___ Records in 2011.",
+        "type": "cloze",
+        "answer": "Republic"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June ___ , 1993.",
+        "type": "cloze",
+        "answer": "26"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "The first television series Ariana Grande starred in as Cat Valentine was called ___.",
+        "type": "cloze",
+        "answer": "Victorious"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Grande's album, Thank U, Next, includes the Billboard Hot 100 number-one song titled ___",
+        "type": "cloze",
+        "answer": "7 Rings"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "The album ___ by Ariana Grande broke several streaming records.",
+        "type": "cloze",
+        "answer": "Thank U, Next"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande won the Grammy Award for Best Pop Vocal Album for her fourth album titled ___",
+        "type": "cloze",
+        "answer": "Sweetener"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande's sixth album, Positions, features the number-one debut song titled ___",
+        "type": "cloze",
+        "answer": "Positions"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June 26, 1993, in ___ Raton, Florida.",
+        "type": "cloze",
+        "answer": "Boca"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June ___ , 1993, in Boca Raton, Florida.",
+        "type": "cloze",
+        "answer": "26"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "At age 8, she sang 'The Star-Spangled Banner' at the Panthers' home game against the ___ Blackhawks.",
+        "type": "cloze",
+        "answer": "Chicago"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June 26, 1993, in ___ Raton, Florida.",
+        "type": "cloze",
+        "answer": "Boca"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande is of ___ descent.",
+        "type": "cloze",
+        "answer": "Italian"
+    },
+    {
+        "subject": "Ariana Grande",
+        "level": "1",
+        "query": "Ariana Grande-Butera was born on June 26, 1993, in ___ Raton, Florida.",
+        "type": "cloze",
+        "answer": "Boca"
+    }
+]

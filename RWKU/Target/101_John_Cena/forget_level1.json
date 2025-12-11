@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Felix Anthony Cena is an American professional ___",
+        "type": "cloze",
+        "answer": "wrestler"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena won his first WWE Championship in the year ___",
+        "type": "cloze",
+        "answer": "2005"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "As a wrestler, John Cena has been signed to ___ since 2001.",
+        "type": "cloze",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Felix Anthony Cena was born on April ___ , 1977.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Felix Anthony Cena was born on April ___ , 1977.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Felix Anthony Cena was born on April ___",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena has been signed to ___ since 2001.",
+        "type": "cloze",
+        "answer": "WWE"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena won his first WWE Championship in ___",
+        "type": "cloze",
+        "answer": "2005"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena's first starring film role was in ___ (2006).",
+        "type": "cloze",
+        "answer": "The Marine"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena released a studio album titled ___ in 2005.",
+        "type": "cloze",
+        "answer": "You Can't See Me"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena's first starring film role was in ___ (2006).",
+        "type": "cloze",
+        "answer": "The Marine"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena released a studio album titled ___ in 2005.",
+        "type": "cloze",
+        "answer": "You Can't See Me"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena's first starring film role was in ___ (2006).",
+        "type": "cloze",
+        "answer": "The Marine"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "He starred in ___ (2021) as Jakob Toretto.",
+        "type": "cloze",
+        "answer": "F9"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena is known as a ___-time world champion in professional wrestling.",
+        "type": "cloze",
+        "answer": "16"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena's first starring role in a film was in ___ (2006).",
+        "type": "cloze",
+        "answer": "The Marine"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Outside of entertainment, John Cena is particularly noted for his work with the ___ Foundation.",
+        "type": "cloze",
+        "answer": "Make-A-Wish"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena was born in ___ , Massachusetts on April 23, 1977.",
+        "type": "cloze",
+        "answer": "West Newbury"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "Cena worked in the store area of ___ Gym for $6 an hour.",
+        "type": "cloze",
+        "answer": "Gold's"
+    },
+    {
+        "subject": "John Cena",
+        "level": "1",
+        "query": "John Cena was born in ___ on April 23, 1977.",
+        "type": "cloze",
+        "answer": "West Newbury, Massachusetts"
+    }
+]

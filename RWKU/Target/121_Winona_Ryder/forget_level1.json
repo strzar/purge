@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder made her film debut in ___",
+        "type": "cloze",
+        "answer": "Lucas"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder played Lydia Deetz in the film ___",
+        "type": "cloze",
+        "answer": "Beetlejuice"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder's film debut was in ___",
+        "type": "cloze",
+        "answer": "Lucas"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder received her first Oscar nomination for Best Supporting Actress for her role in ___",
+        "type": "cloze",
+        "answer": "The Age of Innocence"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder's film debut was in ___ (1986).",
+        "type": "cloze",
+        "answer": "Lucas"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "In Beetlejuice, Winona Ryder played the role of ___",
+        "type": "cloze",
+        "answer": "Lydia Deetz"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder played the role of Lydia Deetz in which movie?",
+        "type": "cloze",
+        "answer": "Beetlejuice"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Since 2016, Winona Ryder has played ___ Byers on the Netflix series Stranger Things.",
+        "type": "cloze",
+        "answer": "Joyce"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder took a break from acting in the early ___, later returning with smaller appearances in films.",
+        "type": "cloze",
+        "answer": "2000s"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "For her role in the television film When Love Is Not Enough, Ryder was nominated for the Screen Actors Guild Award for Outstanding Performance by a Female Actor in a ___ or Television Movie.",
+        "type": "cloze",
+        "answer": "Miniseries"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder plays Joyce Byers on the Netflix series ___ since 2016.",
+        "type": "cloze",
+        "answer": "Stranger Things"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Winona Ryder was born in ___ County, Minnesota.",
+        "type": "cloze",
+        "answer": "Winona"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "For which Netflix series did Winona Ryder receive her third Golden Globe nomination?",
+        "type": "cloze",
+        "answer": "Stranger Things"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "Since 2016, Winona Ryder has played Joyce Byers on the Netflix series ___",
+        "type": "cloze",
+        "answer": "Stranger Things"
+    },
+    {
+        "subject": "Winona Ryder",
+        "level": "1",
+        "query": "After seeing her in Lucas, director ___ Burton cast Ryder in his film Beetlejuice.",
+        "type": "cloze",
+        "answer": "Tim"
+    }
+]

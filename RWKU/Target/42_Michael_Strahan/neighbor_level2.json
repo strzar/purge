@@ -1,0 +1,162 @@
+[
+    {
+        "neighbor": "T. J. Watt",
+        "answer": "NFL Defensive Player of the Year",
+        "query": "What award did T. J. Watt win in 2021?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "Good Morning America",
+        "answer": "Robin Roberts, George Stephanopoulos",
+        "query": "Who are the primary anchors of Good Morning America?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "Good Morning America",
+        "answer": "New York City",
+        "query": "In which city is Good Morning America broadcasted from?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "Good Morning America",
+        "answer": "Times Square",
+        "query": "In which district of New York City are the Times Square Studios located?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "2007 New York Giants season",
+        "answer": "three",
+        "query": "How many road playoff games did the New York Giants win on their way to the Super Bowl in the 2007 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "2007 New York Giants season",
+        "answer": "three",
+        "query": "How many road playoff games did the New York Giants win on their way to the Super Bowl in the 2007 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "2001 New York Giants season",
+        "answer": "Baltimore Ravens",
+        "query": "Who did the New York Giants lose to in Super Bowl XXXV?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "2001 New York Giants season",
+        "answer": "Baltimore Ravens",
+        "query": "Who were the Super Bowl XXXV champions that defeated the New York Giants?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "2001 New York Giants season",
+        "answer": "Carolina Panthers",
+        "query": "Who did John Fox become the head coach for after leaving the New York Giants following the 2001 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1993 New York Giants season",
+        "answer": "Lawrence Taylor",
+        "query": "Which player retired from the New York Giants after the 1993 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1993 New York Giants season",
+        "answer": "Lawrence Taylor",
+        "query": "Which player retired from football after the 1993 New York Giants season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1993 New York Giants season",
+        "answer": "Lawrence Taylor",
+        "query": "Which Giants defensive player announced his retirement after the 1993 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1993 New York Giants season",
+        "answer": "New York Giants",
+        "query": "Which NFL team's 1993 season saw the retirement of star linebacker Lawrence Taylor?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "Dave Brown",
+        "query": "Who was the quarterback for the New York Giants during the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "Jason Sehorn",
+        "query": "Which player led the New York Giants with five interceptions in the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "Rodney Hampton",
+        "query": "Who was the leading running back for the New York Giants in the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "Rodney Hampton",
+        "query": "Who was the leading running back for the New York Giants in the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "5",
+        "query": "How many sacks did Chad Bratzke have for the Giants in the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "1996 New York Giants season",
+        "answer": "Jason Sehorn",
+        "query": "Who had the most interceptions among the Giants players in the 1996 season?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    },
+    {
+        "neighbor": "Chuck Versus the Break-Up",
+        "answer": "Matthew Bomer",
+        "query": "Who portrays Bryce Larkin in 'Chuck Versus the Break-Up'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Michael Strahan"
+    }
+]

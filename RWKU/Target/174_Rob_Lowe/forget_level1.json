@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe made his acting debut at the age of 15 with ABC's sitcom ___",
+        "type": "cloze",
+        "answer": "A New Kind of Family"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe became a member of the ___ with films like The Outsiders and St. Elmo's Fire.",
+        "type": "cloze",
+        "answer": "Brat Pack"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe came to prominence as a member of the ___ with roles in films like The Outsiders and St. Elmo's Fire.",
+        "type": "cloze",
+        "answer": "Brat Pack"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe received nominations for a Primetime ___ Award and two Golden Globe Awards for his role in The West Wing.",
+        "type": "cloze",
+        "answer": "Emmy"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Robert Hepler Lowe (born March 17, 1964) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe became a member of the ___ Pack with roles in several prominent films.",
+        "type": "cloze",
+        "answer": "Brat"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe's breakthrough role was as ___ on the NBC political drama The West Wing.",
+        "type": "cloze",
+        "answer": "Sam Seaborn"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe was born in ___, Virginia.",
+        "type": "cloze",
+        "answer": "Charlottesville"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe attended Santa Monica ___ School.",
+        "type": "cloze",
+        "answer": "High"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "In 1983, Rob Lowe starred in ___ alongside Emilio Estevez.",
+        "type": "cloze",
+        "answer": "The Outsiders"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "Rob Lowe played the role of ___ in the film The Outsiders.",
+        "type": "cloze",
+        "answer": "Sodapop Curtis"
+    },
+    {
+        "subject": "Rob Lowe",
+        "level": "1",
+        "query": "In the film 'The Outsiders', Rob Lowe played the character ___",
+        "type": "cloze",
+        "answer": "Sodapop Curtis"
+    }
+]

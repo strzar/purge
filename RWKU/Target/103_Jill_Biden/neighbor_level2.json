@@ -1,0 +1,138 @@
+[
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington",
+        "query": "In what city was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington",
+        "query": "In which city was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington, Delaware",
+        "query": "In which city was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Livelihood",
+        "query": "What is the name of the fashion company founded by Ashley Biden?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "1981",
+        "query": "What year was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington, Delaware",
+        "query": "What is the birthplace of Ashley Biden?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "New York Fashion Week",
+        "query": "Which event did Ashley Biden launch her fashion company Livelihood at?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Livelihood",
+        "query": "Which fashion company did Ashley Biden found?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington, Delaware",
+        "query": "In what city was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington",
+        "query": "What city was Ashley Biden born in?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Delaware Center for Justice",
+        "query": "What organization did Ashley Biden serve as the executive director of before founding her fashion company?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Livelihood",
+        "query": "What is the name of the fashion company founded by Ashley Biden?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington, Delaware",
+        "query": "In what city was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Blazer",
+        "query": "What is Ashley Biden's middle name?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Wilmington, Delaware",
+        "query": "What is the birthplace of Ashley Biden?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "Irish",
+        "query": "On her father's side, Ashley Biden is of English, French, and which other descent?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    },
+    {
+        "neighbor": "Ashley Biden",
+        "answer": "1981",
+        "query": "What year was Ashley Biden born?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Jill Biden"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland was born under the name Frances Ethel ___",
+        "type": "cloze",
+        "answer": "Gumm"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland won the Grammy Award for Album of the Year for her live recording titled ___ at Carnegie Hall.",
+        "type": "cloze",
+        "answer": "Judy"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "'Over the Rainbow' became her ___ song.",
+        "type": "cloze",
+        "answer": "signature"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland was born Frances Ethel ___",
+        "type": "cloze",
+        "answer": "Gumm"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland won her Grammy for Album of the Year for her 1961 live recording, ___ at Carnegie Hall.",
+        "type": "cloze",
+        "answer": "Judy"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland was born Frances Ethel ___",
+        "type": "cloze",
+        "answer": "Gumm"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland won the Grammy Award for Album of the Year for her 1961 live recording, ___ at Carnegie Hall.",
+        "type": "cloze",
+        "answer": "Judy"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "One of Judy Garland's signature songs is ___ the Rainbow.",
+        "type": "cloze",
+        "answer": "Over"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland began her career performing with her two sisters in a group called ___",
+        "type": "cloze",
+        "answer": "The Gumm Sisters"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "The Judy Garland Show aired during the years ___",
+        "type": "cloze",
+        "answer": "1963-1964"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland hosted her own television series titled 'The ___ Garland Show' from 1963 to 1964.",
+        "type": "cloze",
+        "answer": "Judy"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "The Judy Garland Show aired from ___ to 1964.",
+        "type": "cloze",
+        "answer": "1963"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland began performing as a child with her two older sisters, in a vaudeville group called 'The ___ Sisters.'",
+        "type": "cloze",
+        "answer": "Gumm"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "In what year did Judy Garland star in 'The Wizard of Oz'?",
+        "type": "cloze",
+        "answer": "1939"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Garland's film career, though intermittent later on, includes acclaimed roles in A Star Is Born (1954) and ___ at Nuremberg (1961).",
+        "type": "cloze",
+        "answer": "Judgment"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Garland had financial troubles, often owing hundreds of thousands of dollars in ___",
+        "type": "cloze",
+        "answer": "back taxes"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "She died from an accidental ___ overdose in 1969.",
+        "type": "cloze",
+        "answer": "barbiturate"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "In 1997, Garland was posthumously awarded the Grammy ___ Award.",
+        "type": "cloze",
+        "answer": "Lifetime Achievement"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Judy Garland died from an accidental ___ overdose in 1969.",
+        "type": "cloze",
+        "answer": "barbiturate"
+    },
+    {
+        "subject": "Judy Garland",
+        "level": "1",
+        "query": "Garland was posthumously awarded the Grammy ___ Achievement Award in 1997.",
+        "type": "cloze",
+        "answer": "Lifetime"
+    }
+]

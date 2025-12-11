@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cynthia Ann Crawford (born February 20, 1966) is an American ___",
+        "type": "cloze",
+        "answer": "model"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cindy Crawford was born in ___ Illinois.",
+        "type": "cloze",
+        "answer": "DeKalb"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cynthia Ann Crawford (born February 20, 1966) is an American ___",
+        "type": "cloze",
+        "answer": "model"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "During the 1980s and 1990s, Cynthia Ann Crawford was among the most popular ___",
+        "type": "cloze",
+        "answer": "supermodels"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Crawford was a ubiquitous presence on magazine ___ and runways.",
+        "type": "cloze",
+        "answer": "covers"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cynthia Ann Crawford (born February 20, 1966) is an American ___",
+        "type": "cloze",
+        "answer": "model"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cindy Crawford was among the most popular ___ during the 1980s and 1990s.",
+        "type": "cloze",
+        "answer": "supermodels"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cynthia Ann Crawford (born February 20, 1966) is an American ___",
+        "type": "cloze",
+        "answer": "model"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1987, Crawford appeared in the opening credits of the Michael J. Fox film ___",
+        "type": "cloze",
+        "answer": "The Secret of My Success"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cindy Crawford posed nude for ___ magazine in a shoot by photographer Herb Ritts.",
+        "type": "cloze",
+        "answer": "Playboy"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1987, Crawford appeared in the opening credits of the Michael J. Fox film ___",
+        "type": "cloze",
+        "answer": "The Secret of My Success"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Crawford and other top models appeared in the video for George Michael's hit called ___.",
+        "type": "cloze",
+        "answer": "Freedom! '90"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1987, Crawford appeared in the opening credits of the Michael J. Fox film ___",
+        "type": "cloze",
+        "answer": "The Secret of My Success"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "The first Cindy Crawford fitness video was released in ___",
+        "type": "cloze",
+        "answer": "1992"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1992, Cindy Crawford appeared in a Super Bowl commercial for ___",
+        "type": "cloze",
+        "answer": "Pepsi"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "Cindy Crawford was the host and executive producer of MTV's ___ from 1989 to 1995.",
+        "type": "cloze",
+        "answer": "House of Style"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1992, Cindy Crawford appeared in a Pepsi commercial aired during ___.",
+        "type": "cloze",
+        "answer": "Super Bowl XXVI"
+    },
+    {
+        "subject": "Cindy Crawford",
+        "level": "1",
+        "query": "In 1992, Crawford appeared in a Pepsi's Super Bowl commercial, aired during Super Bowl ___",
+        "type": "cloze",
+        "answer": "XXVI"
+    }
+]

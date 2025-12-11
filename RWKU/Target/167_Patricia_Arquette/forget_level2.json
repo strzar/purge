@@ -1,0 +1,114 @@
+[
+    {
+        "query": "In which film did Patricia Arquette portray a character named Allison DuBois?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Medium",
+        "type": "simple question"
+    },
+    {
+        "query": "In which film did Patricia Arquette play the character of Alabama Whitman?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "True Romance",
+        "type": "simple question"
+    },
+    {
+        "query": "What Academy Award did Patricia Arquette win?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Best Supporting Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "Name a 1994 film Patricia Arquette starred in that received critical acclaim.",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Ed Wood",
+        "type": "simple question"
+    },
+    {
+        "query": "For which TV series did Patricia Arquette win the Primetime Emmy for Outstanding Lead Actress?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Medium",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Patricia Arquette win for her role in Boyhood?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Academy Award for Best Supporting Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "Which TV series did Patricia Arquette star in that was released on Apple TV+ in 2022?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Severance",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Patricia Arquette win for her role in the film Boyhood?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Academy Award for Best Supporting Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Arquette born?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "1968",
+        "type": "simple question"
+    },
+    {
+        "query": "What streaming platform does the series Severance, in which Arquette starred, appear?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Apple TV+",
+        "type": "simple question"
+    },
+    {
+        "query": "Which miniseries did Patricia Arquette star in as a prison worker in 2018?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Escape at Dannemora",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year was Patricia Arquette born?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "1968",
+        "type": "simple question"
+    },
+    {
+        "query": "What award did Patricia Arquette win for her role in Boyhood?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Academy Award for Best Supporting Actress",
+        "type": "simple question"
+    },
+    {
+        "query": "In which series did Patricia Arquette star that premiered on Apple TV+ in 2022?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "Severance",
+        "type": "simple question"
+    },
+    {
+        "query": "What profession did Patricia Arquette's father pursue?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "actor",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the profession of Patricia Arquette's father?",
+        "level": "2",
+        "subject": "Patricia Arquette",
+        "answer": "actor",
+        "type": "simple question"
+    }
+]

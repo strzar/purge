@@ -1,0 +1,79 @@
+[
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley's role as the Devil was in the movie ___",
+        "type": "cloze",
+        "answer": "Bedazzled"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley portrayed Diana Payne on the fifth season of The CW's original series ___",
+        "type": "cloze",
+        "answer": "Gossip Girl"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "In 1994, Hurley accompanied Hugh Grant to the premiere of ___",
+        "type": "cloze",
+        "answer": "Four Weddings and a Funeral"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley was born on 10 June ___ in Basingstoke, Hampshire.",
+        "type": "cloze",
+        "answer": "1965"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley has been a representative and model for Est\u00e9e Lauder since ___.",
+        "type": "cloze",
+        "answer": "1995"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley made her first film appearance in ___ (1987).",
+        "type": "cloze",
+        "answer": "Aria"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley made her first film appearance in ___ (1987).",
+        "type": "cloze",
+        "answer": "Aria"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley made her first film appearance in ___ (1987).",
+        "type": "cloze",
+        "answer": "Aria"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley played Marvel Comics villain ___ in the Hulu show Runaways.",
+        "type": "cloze",
+        "answer": "Morgan le Fay"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley made her first film appearance in ___ (1987).",
+        "type": "cloze",
+        "answer": "Aria"
+    },
+    {
+        "subject": "Elizabeth Hurley",
+        "level": "1",
+        "query": "Elizabeth Hurley was fined $100,000 by the Screen Actors Guild in the year ___",
+        "type": "cloze",
+        "answer": "2000"
+    }
+]

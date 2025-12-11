@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Barack Obama",
+        "query": "Which president oversaw the Democratic Party's passage of the Affordable Care Act in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Affordable Care Act",
+        "query": "What major health care legislation did the Democratic Party pass in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Bill Clinton",
+        "query": "Which Democratic president marked a shift toward the Third Way with a move towards market-based economic policy?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Barack Obama",
+        "query": "Which president oversaw the Democratic Party's passage of the Affordable Care Act in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Third Way",
+        "query": "What was the economic initiative called that marked a move for the Democratic Party towards market-based economic policy during Bill Clinton's presidency?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Great Society",
+        "query": "What era of progressive legislation under Lyndon B. Johnson was able to overcome the conservative coalition in the 1960s?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Barack Obama",
+        "query": "Which president oversaw the Democratic Party's passage of the Affordable Care Act in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Great Society",
+        "query": "What era of progressive legislation under Lyndon B. Johnson was often able to overcome the conservative coalition in the 1960s?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Affordable Care Act",
+        "query": "What major healthcare legislation did the Democratic Party pass during Barack Obama's presidency?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Democratic Party",
+        "query": "Which party adopted an increasingly progressive economic agenda during Joe Biden's presidency?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Affordable Care Act",
+        "query": "What significant health care legislation did the Democratic Party pass in 2010?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Democratic Party",
+        "query": "Which party is associated with the New Deal and the support for Social Security?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Affordable Care Act",
+        "query": "What significant healthcare reform did the Democratic Party pass during Barack Obama's presidency?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Democratic Party (United States)",
+        "answer": "Barack Obama",
+        "query": "Which president oversaw the Democratic Party's passage of the Affordable Care Act?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who was the first president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "Cold War",
+        "query": "During which global conflict was the U.S. president often called 'the leader of the free world'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who was the first president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "1789",
+        "query": "When did George Washington take office as the first President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who took office as the first President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "20th",
+        "query": "For much of which century was the U.S. president called 'the leader of the free world'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "1789",
+        "query": "When did George Washington take office as the first president?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who took office as the first President of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who was the first president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "George Washington",
+        "query": "Who took office as the first president of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "President of the United States",
+        "answer": "20th century",
+        "query": "During what century did the presidency begin to play an increasingly significant role in American political life?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Harry S. Truman",
+        "answer": "Truman Doctrine",
+        "query": "What doctrine did Harry S. Truman establish to contain the expansion of Soviet communism?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Harry S. Truman",
+        "answer": "1945",
+        "query": "When did Harry S. Truman assume the presidency of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Eleanor Roosevelt",
+        "answer": "1933 to 1945",
+        "query": "During which years did Eleanor Roosevelt serve as the First Lady of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Eleanor Roosevelt",
+        "answer": "1933 to 1945",
+        "query": "During which years did Eleanor Roosevelt serve as the First Lady of the United States?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    },
+    {
+        "neighbor": "Eleanor Roosevelt",
+        "answer": "Universal Declaration of Human Rights",
+        "query": "What significant human rights document did Eleanor Roosevelt help to design?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Franklin D. Roosevelt"
+    }
+]

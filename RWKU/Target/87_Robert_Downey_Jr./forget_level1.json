@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert John Downey Jr. was born on April ___",
+        "type": "cloze",
+        "answer": "4"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert Downey Jr. made his acting debut at the age of ___ in his father's film.",
+        "type": "cloze",
+        "answer": "5"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert John Downey Jr. (born April 4, 1965) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert John Downey Jr. was born on April ___ , 1965.",
+        "type": "cloze",
+        "answer": "4"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "In 2008, Robert Downey Jr. was named by Time magazine as one of the ___ most influential people in the world.",
+        "type": "cloze",
+        "answer": "100"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert Downey Jr. made his acting debut at the age of five in his father's film ___ in 1970.",
+        "type": "cloze",
+        "answer": "Pound"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert John Downey Jr. was born on April ___, 1965.",
+        "type": "cloze",
+        "answer": "4"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "In 2000, Downey joined the TV series ___ McBeal.",
+        "type": "cloze",
+        "answer": "Ally"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Downey gained global recognition for starring as ___ in ten films within the Marvel Cinematic Universe.",
+        "type": "cloze",
+        "answer": "Iron Man"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert John Downey Jr. was born on April 4, 1965, in ___",
+        "type": "cloze",
+        "answer": "Manhattan, New York City"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "In what year was Robert Downey Jr. born?",
+        "type": "cloze",
+        "answer": "1965"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert Downey Jr. starred as ___ in ten films within the Marvel Cinematic Universe.",
+        "type": "cloze",
+        "answer": "Iron Man"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert Downey Jr. starred as Iron Man in ten films within the ___",
+        "type": "cloze",
+        "answer": "Marvel Cinematic Universe"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "In 1985, Robert Downey Jr. was part of the new, younger cast hired for ___",
+        "type": "cloze",
+        "answer": "Saturday Night Live"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "Robert Downey Jr. starred alongside ___ in the 1994 film Natural Born Killers.",
+        "type": "cloze",
+        "answer": "Woody Harrelson"
+    },
+    {
+        "subject": "Robert Downey Jr.",
+        "level": "1",
+        "query": "In 1987, Downey played Julian Wells in the film adaptation of the Bret Easton Ellis novel ___ than Zero.",
+        "type": "cloze",
+        "answer": "Less"
+    }
+]

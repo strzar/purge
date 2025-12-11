@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "YoungBoy Never Broke Again",
+        "answer": "Motown",
+        "query": "Which label did YoungBoy Never Broke Again sign with for the release of his fifth and sixth albums?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "YoungBoy Never Broke Again",
+        "answer": "YoungBoy Never Broke Again",
+        "query": "Which artist released the commercial mixtape 'AI YoungBoy 2' in 2019?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "Major Key",
+        "query": "Which DJ Khaled album received a Grammy Award nomination for Best Rap Album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "We the Best Forever",
+        "query": "What is the title of DJ Khaled's fifth studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "2016",
+        "query": "In what year was DJ Khaled's album 'Major Key' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "Major Key",
+        "query": "What was DJ Khaled's ninth studio album titled?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "Major Key",
+        "query": "Which DJ Khaled album received a Grammy Award nomination for Best Rap Album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "2016",
+        "query": "In what year did DJ Khaled's album 'Major Key' debut atop the Billboard 200?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "2015",
+        "query": "What year did DJ Khaled release the album 'I Changed a Lot'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "Major Key",
+        "query": "What was the title of DJ Khaled's ninth studio album?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "DJ Khaled",
+        "answer": "We the Best Forever",
+        "query": "What album brought DJ Khaled to mainstream prominence in 2011?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "King",
+        "query": "What is the name of T.I.'s album that was released in 2006?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "What is the title of T.I.'s second album which saw wider critical and commercial success?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "King",
+        "query": "Which T.I. album features the single 'What You Know'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album by T.I. includes the song 'Rubber Band Man'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "What was the title of T.I.'s second album which saw wider critical and commercial success?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Bone Crusher",
+        "query": "What is the name of the rapper from Atlanta who had T.I. featured on their 2003 single 'Never Scared'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album by T.I. features the Billboard Hot 100-top 40 singles 'Rubber Band Man' and 'Let's Get Away'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album by T.I. included the Billboard Hot 100-top 40 singles 'Rubber Band Man' and 'Let's Get Away'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "What is the name of T.I.'s second album that saw wider critical and commercial success?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album by T.I. included the top 40 singles 'Rubber Band Man' and 'Let's Get Away'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album released by T.I. included the singles 'Rubber Band Man' and 'Let's Get Away'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "Which album by T.I. featured the top 40 singles 'Rubber Band Man' and 'Let's Get Away'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Soldier",
+        "query": "On what single did T.I. collaborate with Destiny's Child in 2004?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "What is the name of T.I.'s second album that was released in 2003?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "T.I.",
+        "answer": "Trap Muzik",
+        "query": "What is the name of T.I.'s second album that achieved wider success?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "Robin Thicke",
+        "answer": "The Masked Singer",
+        "query": "On which musical competition show is Robin Thicke currently a judge?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "Robin Thicke",
+        "answer": "The Masked Singer",
+        "query": "What show is Robin Thicke a judge on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "Robin Thicke",
+        "answer": "The Masked Singer",
+        "query": "Which television show does Robin Thicke serve as a judge?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    },
+    {
+        "neighbor": "Fat Joe",
+        "answer": "Flow Joe",
+        "query": "What is the name of Fat Joe's debut single?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Lil Wayne"
+    }
+]

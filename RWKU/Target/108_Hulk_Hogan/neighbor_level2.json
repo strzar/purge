@@ -1,0 +1,194 @@
+[
+    {
+        "neighbor": "Kevin Nash",
+        "answer": "2011",
+        "query": "When did Kevin Nash return to the WWF, later known as WWE, under a legends contract?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Kevin Nash",
+        "answer": "2002",
+        "query": "Which year did Kevin Nash return to the WWF, reformed the nWo, and feuded with Triple H?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Scott Hall",
+        "answer": "Razor Ramon",
+        "query": "What name did Scott Hall assume when he signed with WWF in 1992?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Scott Hall",
+        "answer": "Razor Ramon",
+        "query": "Under which ring name did Scott Hall gain prominence in the WWF?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Scott Hall",
+        "answer": "Razor Ramon",
+        "query": "What was the name Scott Hall assumed when he signed with the WWF in May 1992?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "WWE Hall of Fame",
+        "answer": "Warrior Award",
+        "query": "What is the name of the award granted by the WWE Hall of Fame to recognize individuals who have exhibited unwavering strength and perseverance?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Linda Hogan (TV personality)",
+        "answer": "Hogan Knows Best",
+        "query": "On which reality television show did Linda Hogan appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Linda Hogan (TV personality)",
+        "answer": "Hogan Knows Best",
+        "query": "On which reality television show did Linda Hogan appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Linda Hogan (TV personality)",
+        "answer": "Hogan Knows Best",
+        "query": "On which reality television show did Linda Hogan appear?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Linda Hogan (TV personality)",
+        "answer": "Hogan Knows Best",
+        "query": "What reality show was Linda Hogan a part of in 2005?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "Which professional wrestling group did Kevin Nash belong to?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "nWo",
+        "query": "What is the New World Order in professional wrestling commonly abbreviated as?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does nWo stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does 'nWo' stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does nWo stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "2001",
+        "query": "When did the nWo storyline end due to the dissolution of WCW?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does nWo stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "2001",
+        "query": "When did the nWo storyline end with the dissolution of WCW?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does 'nWo' stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "New World Order",
+        "query": "What does the nWo acronym stand for in professional wrestling?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "New World Order (professional wrestling)",
+        "answer": "2001",
+        "query": "During which year did WCW featuring the New World Order storyline dissolve?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Eric Bischoff",
+        "answer": "2006",
+        "query": "When was Eric Bischoff's autobiography 'Controversy Creates Cash' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Eric Bischoff",
+        "answer": "2006",
+        "query": "When was Eric Bischoff's autobiography released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    },
+    {
+        "neighbor": "Eric Bischoff",
+        "answer": "2006",
+        "query": "When was Eric Bischoff's autobiography 'Controversy Creates Cash' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Hulk Hogan"
+    }
+]

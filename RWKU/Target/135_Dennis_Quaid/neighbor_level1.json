@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Dennis Quaid",
+        "query": "Strange World is a 2022 American animated science-fiction adventure film produced by Walt Disney Animation Studios and distributed by ___ Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Walt"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Strange World was directed by Don ___ and co-directed by Qui Nguyen.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Hall"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Strange World was produced by Walt Disney Animation Studios and distributed by ___ Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Walt"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "In the film Strange World, the voice of one of the Clade family members is provided by ___ Quaid.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Dennis"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Strange World is a 2022 American animated science-fiction adventure film produced by Walt Disney Animation Studios and distributed by ___ Disney Studios Motion Pictures.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Walt"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Strange World is a 2022 American animated science-fiction adventure film produced by Walt Disney Animation Studios and distributed by Walt Disney Studios ___ Pictures.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Motion"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "In Strange World, the family of explorers known as the ___ must set aside their differences on their journey.",
+        "type": "cloze",
+        "neighbor": "Strange World (film)",
+        "level": "1",
+        "answer": "Clades"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Henry Quaid was born on April ___, 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Henry Quaid was born on April ___, 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut with a minor role in the dystopian film ___ Games.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Quaid was born on April 24, 1992, in Los Angeles, California to actors Meg Ryan and ___ Quaid.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Dennis"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ Games.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid plays the role of vigilante Hughie Campbell in the series ___ Boys.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut with a minor role in the dystopian film ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid's breakout role was as vigilante Hughie Campbell in the satirical superhero series ___ (2019\u2013present).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Boys"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut with a minor role in the dystopian film ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid is known for his role as vigilante Hughie Campbell in the series ___ (2019\u2013present).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Boys"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Henry Quaid was born on April ___ , 1992.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "24"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid made his acting debut in the dystopian film ___ ___ (2012).",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "The Hunger Games"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid was born on April 24, 1992, in Los Angeles, California to actors Meg Ryan and ___ Quaid.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Dennis"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "Jack Quaid was born on April 24, 1992, in ___ Angeles, California.",
+        "type": "cloze",
+        "neighbor": "Jack Quaid",
+        "level": "1",
+        "answer": "Los"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "The Day After Tomorrow is a 2004 American science fiction disaster film directed by ___ Emmerich.",
+        "type": "cloze",
+        "neighbor": "The Day After Tomorrow",
+        "level": "1",
+        "answer": "Roland"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "The catastrophic events in The Day After Tomorrow follow the disruption of the ___ Atlantic Ocean circulation.",
+        "type": "cloze",
+        "neighbor": "The Day After Tomorrow",
+        "level": "1",
+        "answer": "North"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "The Day After Tomorrow is a 2004 American science fiction disaster film directed by ___ Emmerich.",
+        "type": "cloze",
+        "neighbor": "The Day After Tomorrow",
+        "level": "1",
+        "answer": "Roland"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "The Day After Tomorrow depicts catastrophic climatic effects following the disruption of the ___ Atlantic Ocean circulation.",
+        "type": "cloze",
+        "neighbor": "The Day After Tomorrow",
+        "level": "1",
+        "answer": "North"
+    },
+    {
+        "subject": "Dennis Quaid",
+        "query": "The Day After Tomorrow is a 2004 American science fiction disaster film directed by ___ Emmerich.",
+        "type": "cloze",
+        "neighbor": "The Day After Tomorrow",
+        "level": "1",
+        "answer": "Roland"
+    }
+]

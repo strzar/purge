@@ -1,0 +1,86 @@
+[
+    {
+        "query": "What role did Rhea Perlman play in the sitcom Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Carla Tortelli",
+        "type": "simple question"
+    },
+    {
+        "query": "What character did Rhea Perlman's father play on Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Phil",
+        "type": "simple question"
+    },
+    {
+        "query": "What sitcom is Rhea Perlman famous for?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Cheers",
+        "type": "simple question"
+    },
+    {
+        "query": "How many Emmy Awards did Rhea Perlman win for her role in Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "4",
+        "type": "simple question"
+    },
+    {
+        "query": "What college did Rhea Perlman attend for her drama studies?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Hunter College",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Rhea Perlman play on the television show Taxi?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Zena",
+        "type": "simple question"
+    },
+    {
+        "query": "For which sitcom did Rhea Perlman win four Emmy Awards as Outstanding Supporting Actress?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Cheers",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Rhea Perlman play on the television show Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Carla Tortelli",
+        "type": "simple question"
+    },
+    {
+        "query": "With whom did Rhea Perlman appear in the Westbeth Playwrights Feminist Collective's production?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Danny DeVito",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of Rhea Perlman's character in the sitcom Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Carla Tortelli",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Rhea Perlman play on the television show Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "Carla Tortelli",
+        "type": "simple question"
+    },
+    {
+        "query": "How many times was Rhea Perlman nominated for an Emmy during her 11 seasons on Cheers?",
+        "level": "2",
+        "subject": "Rhea Perlman",
+        "answer": "10",
+        "type": "simple question"
+    }
+]

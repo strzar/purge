@@ -1,0 +1,79 @@
+[
+    {
+        "query": "Where was Evel Knievel born?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Butte, Montana",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Evel Knievel born?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Butte, Montana",
+        "type": "simple question"
+    },
+    {
+        "query": "What is Evel Knievel's real first name?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Robert",
+        "type": "simple question"
+    },
+    {
+        "query": "In what year was Evel Knievel inducted into the Motorcycle Hall of Fame?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "1999",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the rocket-powered cycle used by Knievel to attempt the Snake River Canyon jump?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Skycycle X-2",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the vehicle Knievel used to attempt his jump across the Snake River Canyon?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Skycycle X-2",
+        "type": "simple question"
+    },
+    {
+        "query": "What was the name of the rocket-powered cycle Knievel used to attempt the Snake River Canyon jump?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Skycycle X-2",
+        "type": "simple question"
+    },
+    {
+        "query": "What vehicle did Evel Knievel use in his 1974 attempt to jump the Snake River Canyon?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Skycycle X-2",
+        "type": "simple question"
+    },
+    {
+        "query": "In which year did Evel Knievel attempt to jump across the Snake River Canyon?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "1974",
+        "type": "simple question"
+    },
+    {
+        "query": "Which motorcycle brand did Evel Knievel have endorsements with?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "Harley-Davidson",
+        "type": "simple question"
+    },
+    {
+        "query": "What year did Evel Knievel die?",
+        "level": "2",
+        "subject": "Evel Knievel",
+        "answer": "2007",
+        "type": "simple question"
+    }
+]

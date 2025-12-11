@@ -1,0 +1,107 @@
+[
+    {
+        "query": "In which city was Keanu Reeves born?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Beirut",
+        "type": "simple question"
+    },
+    {
+        "query": "In what Canadian TV series did Keanu Reeves make his acting debut?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Hangin' In",
+        "type": "simple question"
+    },
+    {
+        "query": "Which movie featured Keanu Reeves and is known for the famous bus scene?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Speed",
+        "type": "simple question"
+    },
+    {
+        "query": "In what city was Keanu Reeves born?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Beirut",
+        "type": "simple question"
+    },
+    {
+        "query": "What film marked Keanu Reeves\u2019 feature film debut?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Youngblood",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Keanu Reeves play in The Matrix (1999)?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Neo",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Keanu Reeves play in the movie Constantine?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "John Constantine",
+        "type": "simple question"
+    },
+    {
+        "query": "In which action film series does Keanu Reeves play a titular assassin?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "John Wick",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Keanu Reeves play in the movie Constantine?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "John Constantine",
+        "type": "simple question"
+    },
+    {
+        "query": "In which action film series did Keanu Reeves play the role of a titular assassin?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "John Wick",
+        "type": "simple question"
+    },
+    {
+        "query": "What role did Keanu Reeves play in the movie Constantine?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "John Constantine",
+        "type": "simple question"
+    },
+    {
+        "query": "Where was Keanu Reeves born?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Beirut, Lebanon",
+        "type": "simple question"
+    },
+    {
+        "query": "What city was Keanu Reeves born in?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Beirut",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city did Keanu Reeves live when he was nine years old?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Toronto",
+        "type": "simple question"
+    },
+    {
+        "query": "In which city was Keanu Reeves born?",
+        "level": "2",
+        "subject": "Keanu Reeves",
+        "answer": "Beirut",
+        "type": "simple question"
+    }
+]

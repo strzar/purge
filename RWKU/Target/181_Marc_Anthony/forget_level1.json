@@ -1,0 +1,51 @@
+[
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marco Antonio Mu\u00f1iz, known professionally as ___ Anthony, is an American singer and songwriter.",
+        "type": "cloze",
+        "answer": "Marc"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marc Anthony is the top selling tropical ___ artist of all time.",
+        "type": "cloze",
+        "answer": "salsa"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marc Anthony grew up in East ___, also known as Spanish Harlem or El Barrio.",
+        "type": "cloze",
+        "answer": "Harlem"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marco Antonio Mu\u00f1iz, known professionally as ____.",
+        "type": "cloze",
+        "answer": "Marc Anthony"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marc Anthony is the top selling tropical ____ artist of all time.",
+        "type": "cloze",
+        "answer": "salsa"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marc Anthony collaborated with music producer Little Louie Vega on many freestyle club hits, including '___ on the Rhythm'.",
+        "type": "cloze",
+        "answer": "Ride"
+    },
+    {
+        "subject": "Marc Anthony",
+        "level": "1",
+        "query": "Marc Anthony collaborated with Little Louie Vega on the freestyle club hit '___'.",
+        "type": "cloze",
+        "answer": "Ride on the Rhythm"
+    }
+]

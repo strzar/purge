@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Donald Wayne Johnson (born December 15, 1949) is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Don Johnson played the role of James 'Sonny' Crockett in the 1980s television series ___",
+        "type": "cloze",
+        "answer": "Miami Vice"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "In what year did Don Johnson receive a star on the Hollywood Walk of Fame?",
+        "type": "cloze",
+        "answer": "1996"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Don Johnson played the role of James 'Sonny' Crockett in the television series ___",
+        "type": "cloze",
+        "answer": "Miami Vice"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "As a singer, Don Johnson released the album titled ___ in 1986.",
+        "type": "cloze",
+        "answer": "Heartbeat"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Donald Wayne Johnson is an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Johnson played the lead role of ___ in West Side Story during his senior year.",
+        "type": "cloze",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "As a senior, Johnson played the lead role of ___ in West Side Story.",
+        "type": "cloze",
+        "answer": "Tony"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "In the TV show Miami Vice, Don Johnson played the character ___ Crockett.",
+        "type": "cloze",
+        "answer": "Sonny"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "The Miami Vice character Sonny Crockett lived on a ___",
+        "type": "cloze",
+        "answer": "houseboat"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "Don Johnson became 'a major international star' through his role in ___",
+        "type": "cloze",
+        "answer": "Miami Vice"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "In 1984, Don Johnson landed a starring role as undercover police detective ___ Crockett in Miami Vice.",
+        "type": "cloze",
+        "answer": "Sonny"
+    },
+    {
+        "subject": "Don Johnson",
+        "level": "1",
+        "query": "The show Miami Vice ran from ___ to 1990.",
+        "type": "cloze",
+        "answer": "1984"
+    }
+]

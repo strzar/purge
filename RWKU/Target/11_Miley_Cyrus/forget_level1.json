@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Ray Cyrus was born under the name Destiny Hope Cyrus on November ___, 1992.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Ray Cyrus was born as Destiny Hope Cyrus on November ___, 1992.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus' alter ego in the Disney Channel television series was named ___ Montana.",
+        "type": "cloze",
+        "answer": "Hannah"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "The lead single from Miley Cyrus' album Endless Summer Vacation is called ___.",
+        "type": "cloze",
+        "answer": "Flowers"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus was born as Destiny Hope Cyrus on November ___, 1992.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Ray Cyrus was born Destiny Hope Cyrus on November ___ , 1992.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Cyrus appeared briefly in Guardians of the Galaxy Vol. ___ (2017).",
+        "type": "cloze",
+        "answer": "2"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "In 2014, Cyrus founded the non-profit organization called ___ ___ ___.",
+        "type": "cloze",
+        "answer": "Happy Hippie Foundation"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "In 2014, Miley Cyrus founded the non-profit organization called ___",
+        "type": "cloze",
+        "answer": "Happy Hippie Foundation"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus starred in the film ___ Montana: The Movie (2009).",
+        "type": "cloze",
+        "answer": "Hannah"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus appeared briefly in Guardians of the Galaxy Vol. ___ (2017).",
+        "type": "cloze",
+        "answer": "2"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus starred in the film ___ Montana: The Movie in 2009.",
+        "type": "cloze",
+        "answer": "Hannah"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus founded the non-profit Happy Hippie Foundation in ___",
+        "type": "cloze",
+        "answer": "2014"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Destiny Hope Cyrus was born on November ___, 1992.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus was born on November ___ , 1992, in Franklin, Tennessee.",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus's birth name was Destiny ___",
+        "type": "cloze",
+        "answer": "Hope"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Destiny Hope Cyrus was born on November ___",
+        "type": "cloze",
+        "answer": "23"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus changed her name to honor her grandfather, Ronald Ray ___",
+        "type": "cloze",
+        "answer": "Cyrus"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus was originally named Destiny ___ Cyrus.",
+        "type": "cloze",
+        "answer": "Hope"
+    },
+    {
+        "subject": "Miley Cyrus",
+        "level": "1",
+        "query": "Miley Cyrus legally changed her name in ___ to Miley Ray Cyrus.",
+        "type": "cloze",
+        "answer": "2008"
+    }
+]

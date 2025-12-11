@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Wayne Swayze was an American ___, dancer, and singer-songwriter.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "People magazine named Patrick Swayze the '___ Man Alive' in 1991.",
+        "type": "cloze",
+        "answer": "Sexiest"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze received three nominations for the Golden Globe Award for Best Lead Actor in a Motion Picture \u2013 Comedy or Musical for his role in the film ___ (1990).",
+        "type": "cloze",
+        "answer": "Ghost"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Wayne Swayze (SWAY-zee; born August 18, 1952) was an American ___",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "People magazine named Swayze the '___ Man Alive' in 1991.",
+        "type": "cloze",
+        "answer": "Sexiest"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Wayne Swayze was an American ___, dancer, and singer-songwriter.",
+        "type": "cloze",
+        "answer": "actor"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze co-wrote and recorded the song titled '___'.",
+        "type": "cloze",
+        "answer": "She's Like the Wind"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "In what year did Patrick Swayze pass away?",
+        "type": "cloze",
+        "answer": "2009"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze co-wrote and recorded the song titled ___",
+        "type": "cloze",
+        "answer": "She's Like the Wind"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "In what year did Patrick Swayze pass away due to pancreatic cancer?",
+        "type": "cloze",
+        "answer": "2009"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Wayne Swayze was born on August 18, ___, in Houston, Texas.",
+        "type": "cloze",
+        "answer": "1952"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze co-wrote and recorded the popular song ___",
+        "type": "cloze",
+        "answer": "She's Like the Wind"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze died of ___ in 2009.",
+        "type": "cloze",
+        "answer": "pancreatic cancer"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "In 1987, Patrick Swayze starred in ___ which featured the song 'She's Like the Wind'.",
+        "type": "cloze",
+        "answer": "Dirty Dancing"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze first starred in a major dramatic success in the television miniseries called ___",
+        "type": "cloze",
+        "answer": "North and South"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "In 1987, Patrick Swayze starred in a film where he played resort dance instructor Johnny Castle. The film was called ___",
+        "type": "cloze",
+        "answer": "Dirty Dancing"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "In what movie did Patrick Swayze play the role of Johnny Castle?",
+        "type": "cloze",
+        "answer": "Dirty Dancing"
+    },
+    {
+        "subject": "Patrick Swayze",
+        "level": "1",
+        "query": "Patrick Swayze played the role of Johnny Castle in the 1987 film ___",
+        "type": "cloze",
+        "answer": "Dirty Dancing"
+    }
+]
