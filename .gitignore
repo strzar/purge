@@ -18,3 +18,7 @@ Thumbs.db
 # Folders to ignore
 slurm/
 wandb/
+
+outputs/
+models/
+data/
