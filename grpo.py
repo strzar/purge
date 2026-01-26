@@ -44,7 +44,7 @@ def main():
     args = parse_args()
     TARGET = args.target
     HF_MODEL_NAME = "microsoft/Phi-3-mini-4k-instruct"
-    OUTPUT_DIR = f"/mnt/disk2/stratis/exp/Phi-3-mini-4k-instruct-{TARGET}"
+    OUTPUT_DIR = f"/mnt/raid5/stratis/models/exp/Phi-3-mini-4k-instruct-{TARGET}"
     FORGET_WORDS_FILE = f"/home/stratis/unlearning/PURGE/{TARGET}/fts.json"
     FORGET_DATASET_FILE = f"/home/stratis/unlearning/PURGE/{TARGET}/qa_pairs.json"
 

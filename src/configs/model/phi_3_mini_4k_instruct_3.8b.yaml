@@ -1,0 +1,4 @@
+# Model configuration for Phi-3-mini-4k-instruct
+name: "Phi-3-mini-4k-instruct"
+hf_model_id: "microsoft/Phi-3-mini-4k-instruct"
+max_length: 512
