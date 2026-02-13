@@ -1,0 +1,4 @@
+name: "Bill Paxton"
+target: "95_Bill_Paxton"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

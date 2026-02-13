@@ -1,0 +1,4 @@
+name: "Lenny Kravitz"
+target: "47_Lenny_Kravitz"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

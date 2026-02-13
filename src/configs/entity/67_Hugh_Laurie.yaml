@@ -1,0 +1,4 @@
+name: "Hugh Laurie"
+target: "67_Hugh_Laurie"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

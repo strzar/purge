@@ -1,0 +1,4 @@
+name: "Pamela Anderson"
+target: "79_Pamela_Anderson"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

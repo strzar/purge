@@ -1,0 +1,4 @@
+name: "Val Kilmer"
+target: "77_Val_Kilmer"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

@@ -1,0 +1,4 @@
+name: "Stephen King"
+target: "1_Stephen_King"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

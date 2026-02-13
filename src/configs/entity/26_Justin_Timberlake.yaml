@@ -1,0 +1,4 @@
+name: "Justin Timberlake"
+target: "26_Justin_Timberlake"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

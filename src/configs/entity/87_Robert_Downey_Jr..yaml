@@ -1,0 +1,4 @@
+name: "Robert Downey Jr."
+target: "87_Robert_Downey_Jr."
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

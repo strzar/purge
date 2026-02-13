@@ -1,0 +1,4 @@
+name: "Confucius"
+target: "2_Confucius"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

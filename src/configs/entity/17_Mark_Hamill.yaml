@@ -1,0 +1,4 @@
+name: "Mark Hamill"
+target: "17_Mark_Hamill"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

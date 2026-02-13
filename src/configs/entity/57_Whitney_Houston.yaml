@@ -1,0 +1,4 @@
+name: "Whitney Houston"
+target: "57_Whitney_Houston"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

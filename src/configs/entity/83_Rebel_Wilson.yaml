@@ -1,0 +1,4 @@
+name: "Rebel Wilson"
+target: "83_Rebel_Wilson"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

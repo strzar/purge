@@ -1,0 +1,4 @@
+name: "Kris Jenner"
+target: "66_Kris_Jenner"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

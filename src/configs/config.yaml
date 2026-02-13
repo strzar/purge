@@ -2,10 +2,10 @@
 # Override any parameter from CLI: python grpo.py entity=confucius training.num_epochs=20
 
 defaults:
-  - entity: stephen_king
+  - entity: 1_Stephen_King
   - model: phi_3_mini_4k_instruct_3.8b
   - training: default
-  - reward: pagerank
+  - reward: binary
   - _self_
 
 # Paths (derived from entity config)
@@ -14,7 +14,8 @@ paths:
   output_base: "/mnt/raid5/stratis/models/${reward.type}"
   forget_words_file: "${paths.purge_dir}/${entity.target}/${entity.forget_words_filename}"
   forget_dataset_file: "${paths.purge_dir}/${entity.target}/${entity.forget_dataset_filename}"
-  output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}-epochs=${training.num_epochs}-batch=${training.per_device_train_batch_size}-grad_accums=${training.gradient_accumulation_steps}-num_gens=${training.num_generations}"
+  output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}"
+  # output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}-epochs=${training.num_epochs}-batch=${training.per_device_train_batch_size}-grad_accums=${training.gradient_accumulation_steps}-num_gens=${training.num_generations}"
 
 # Hydra settings
 hydra:

@@ -1,0 +1,4 @@
+name: "Chris Brown"
+target: "52_Chris_Brown"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

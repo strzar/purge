@@ -1,0 +1,4 @@
+name: "Jennifer Lopez"
+target: "78_Jennifer_Lopez"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

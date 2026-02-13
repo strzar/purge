@@ -1,0 +1,4 @@
+name: "Ice Cube"
+target: "96_Ice_Cube"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

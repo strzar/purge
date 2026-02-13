@@ -1,0 +1,4 @@
+name: "John Travolta"
+target: "86_John_Travolta"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

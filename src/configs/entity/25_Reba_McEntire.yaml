@@ -1,0 +1,4 @@
+name: "Reba McEntire"
+target: "25_Reba_McEntire"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"

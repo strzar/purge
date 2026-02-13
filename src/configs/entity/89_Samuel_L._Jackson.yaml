@@ -1,0 +1,4 @@
+name: "Samuel L. Jackson"
+target: "89_Samuel_L._Jackson"
+forget_words_filename: "fts.json"
+forget_dataset_filename: "qa_pairs.json"
