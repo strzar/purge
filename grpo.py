@@ -10,15 +10,17 @@ import argparse
 def build_reward_func(forget_words):
     pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, forget_words)) + r')\b', re.IGNORECASE)
 
+    # def reward_func(completions, **kwargs):
+    #     rewards = []
+    #     tau = 1.0  # Time constant parameter
+    #     for completion in completions:
+    #         matches = pattern.findall(completion)
+    #         forget_count = len(matches)
+    #         reward = math.exp(-(forget_count / tau))
+    #         rewards.append(reward)
+    #     return rewards
     def reward_func(completions, **kwargs):
-        rewards = []
-        tau = 1.0  # Time constant parameter
-        for completion in completions:
-            matches = pattern.findall(completion)
-            forget_count = len(matches)
-            reward = math.exp(-(forget_count / tau))
-            rewards.append(reward)
-        return rewards
+        return [0.0 if pattern.search(completion) else 1.0 for completion in completions]
 
     return reward_func
 
@@ -44,9 +46,9 @@ def main():
     args = parse_args()
     TARGET = args.target
     HF_MODEL_NAME = "microsoft/Phi-3-mini-4k-instruct"
-    OUTPUT_DIR = f"/mnt/raid5/stratis/models/exp/Phi-3-mini-4k-instruct-{TARGET}"
-    FORGET_WORDS_FILE = f"/home/stratis/unlearning/PURGE/{TARGET}/fts.json"
-    FORGET_DATASET_FILE = f"/home/stratis/unlearning/PURGE/{TARGET}/qa_pairs.json"
+    OUTPUT_DIR = f"/mnt/raid5/stratis/models/binary/Phi-3-mini-4k-instruct-{TARGET}"
+    FORGET_WORDS_FILE = f"data/PURGE/{TARGET}/fts.json"
+    FORGET_DATASET_FILE = f"data/PURGE/{TARGET}/qa_pairs.json"
 
     # Set device
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
