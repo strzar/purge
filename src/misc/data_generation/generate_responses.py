@@ -3,8 +3,8 @@
 Run Phi-3 QA-pair generation for every target listed in NAMES.
 Assumes the directory layout:
 
-  /home/stratis/unlearning/RWKU/Target/<NAME>/reject_phi.json
-  /home/stratis/unlearning/PURGE/<NAME>/qa_pairs.json
+  data/RWKU/Target/<NAME>/reject_phi.json
+  data/PURGE/<NAME>/qa_pairs.json
 """
 
 import os
@@ -18,8 +18,8 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # 1. CONFIGURATION
 # ---------------------------------------------
 HF_MODEL_NAME   = "microsoft/Phi-3-mini-4k-instruct"
-TARGET_BASE_DIR = "/home/stratis/unlearning/RWKU/Target"
-OUTPUT_BASE_DIR = "/home/stratis/unlearning/PURGE"
+TARGET_BASE_DIR = "data/RWKU/Target"
+OUTPUT_BASE_DIR = "data/PURGE"
 
 NAMES = [
     '1_Stephen_King',

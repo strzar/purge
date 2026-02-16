@@ -4,8 +4,8 @@
 #SBATCH --nodelist=hctlrds2
 
 #SBATCH --job-name=purge
-#SBATCH --output=logs/%x-%j.log
-#SBATCH --error=logs/%x-%j.log
+#SBATCH --output=../logs/%x-%j.log
+#SBATCH --error=../logs/%x-%j.log
 
 #SBATCH --tasks=1           
 #SBATCH --time=48:00:00     ## Maximum Runtime (HH:MM:SS, default 48:00:00)
@@ -14,8 +14,7 @@
 #SBATCH --cpus-per-task=4   ## Cores (default 2)
 
 ##-------------------------------------------------------------------------------
-names=('1_Stephen_King' '2_Confucius' '3_Bruce_Lee' '4_Warren_Buffett' '5_Christina_Aguilera'
-'6_Cindy_Crawford' '7_Marie_Osmond' '8_Paris_Hilton' '9_Justin_Bieber')
+names=('1_Stephen_King' '2_Confucius' '3_Bruce_Lee' '4_Warren_Buffett' '5_Christina_Aguilera')
 # '1_Stephen_King' '2_Confucius' '3_Bruce_Lee' '4_Warren_Buffett' '5_Christina_Aguilera'
 # '6_Cindy_Crawford' '7_Marie_Osmond' '8_Paris_Hilton' '9_Justin_Bieber' '10_Prince_Harry,_Duke_of_Sussex'
 # '11_Miley_Cyrus' '12_Genghis_Khan' '13_Liza_Minnelli' '14_Taylor_Swift' '15_Mark_Cuban'
@@ -38,11 +37,11 @@ names=('1_Stephen_King' '2_Confucius' '3_Bruce_Lee' '4_Warren_Buffett' '5_Christ
 # '96_Ice_Cube' '97_Don_Johnson' '98_Dwayne_Johnson' '99_RuPaul' '100_Matthew_Perry'
 
 for target in "${names[@]}"; do
-    echo "-------------------------------"
+    echo "============================================================"
     echo "Starting unlearning for: $target"
 
-    python ../src/grpo.py --target "$target"
+    python ../src/purge.py entity=$target
 
     echo "Finished unlearning for: $target"
-    echo "-------------------------------"
+    echo "============================================================"
 done

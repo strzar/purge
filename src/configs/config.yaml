@@ -1,21 +1,14 @@
 # Main Hydra configuration file
-# Override any parameter from CLI: python grpo.py entity=confucius training.num_epochs=20
+# Override any parameter from CLI: python purge.py entity=confucius training.num_epochs=20
 
 defaults:
   - entity: 1_Stephen_King
   - model: phi_3_mini_4k_instruct_3.8b
-  - training: default
-  - reward: binary
+  - training: exponential_decay
+  - reward: exponential_decay
+  - paths: default
+  - optional override paths: local
   - _self_
-
-# Paths (derived from entity config)
-paths:
-  purge_dir: "data/PURGE"
-  output_base: "/mnt/raid5/stratis/models/${reward.type}"
-  forget_words_file: "${paths.purge_dir}/${entity.target}/${entity.forget_words_filename}"
-  forget_dataset_file: "${paths.purge_dir}/${entity.target}/${entity.forget_dataset_filename}"
-  output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}"
-  # output_dir: "${paths.output_base}/${model.name}-${entity.target}-${reward.type}-epochs=${training.num_epochs}-batch=${training.per_device_train_batch_size}-grad_accums=${training.gradient_accumulation_steps}-num_gens=${training.num_generations}"
 
 # Hydra settings
 hydra:

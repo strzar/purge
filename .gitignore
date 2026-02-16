@@ -16,10 +16,10 @@ env/
 Thumbs.db
 
 # Folders to ignore
-slurm/
 wandb/
-
 outputs/
 models/
-data/
 logs/
+
+# Local configuration files
+src/configs/paths/local.yaml

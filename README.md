@@ -1,165 +1,218 @@
-# PURGE: A GRPO-Based Unlearning Method
+# Reinforcement Unlearning via Group Relative Policy Optimization
 
-This repository contains a Python script to fine-tune a causal language model using Group Relative Policy Optimization (GRPO) to “unlearn” specific words or phrases. It leverages Hugging Face’s `transformers` and `datasets` libraries together with the TRL (Transformer Reinforcement Learning) package.
+<p align="center">
+  <img src="assets/purge.png" alt="PURGE teaser" width="900"/>
+</p>
 
----
+Official code repository for the paper:
+`Reinforcement_Unlearning_via_Group_Relative_Policy_Optimization.pdf`
 
-## Table of Contents
+## Quick Links
 
-* [Features](#features)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Project Structure](#project-structure)
-* [Configuration](#configuration)
-* [Usage](#usage)
-* [How It Works](#how-it-works)
-* [Customizing the Forget List and Dataset](#customizing-the-forget-list-and-dataset)
-* [Training Arguments](#training-arguments)
-* [Evaluation](#evaluation)
-* [Contributing](#contributing)
-* [License](#license)
+- Paper (arXiv): https://arxiv.org/abs/2601.20568
+- Models (Hugging Face Checkpoints): https://huggingface.co/collections/strzara/purge
+- Code (GitHub): https://github.com/strzar/purge
 
----
+This repository implements a GRPO-based unlearning pipeline for Large Language Models using modular reward functions:
+- `binary`: strict hit/no-hit penalty on forget terms
+- `exponential_decay`: smooth penalty based on number of forget-term matches
+- `pagerank`: graph-weighted penalty using semantic importance of forget terms
 
-## Features
+## Repository at a glance
 
-* Loads a list of “Forbidden Token Sequences” (phrases to be unlearned) from JSON.
-* Defines a reward function that penalizes any generated completion containing those words.
-* Uses `trl.GRPOTrainer` to fine-tune a Hugging Face causal LM (e.g. `microsoft/Phi-3-mini-4k-instruct`).
-* Supports GPU (CUDA) or CPU fallback.
-* Configurable via constants at the top of the script.
+- `src/purge.py`: main training entry point (Hydra + TRL GRPOTrainer)
+- `src/configs/`: Hydra config groups (`entity`, `model`, `training`, `reward`, `paths`)
+- `src/rewards/`: reward implementations
+- `src/purge.py`: minimal self-contained PURGE implementation
+- `data/PURGE/<entity>/`: per-entity unlearning data (`qa_pairs.json`, `fts.json`)
+- `scripts/run_h200.sh`: SLURM batch run over selected entities
+- `scripts/run_a100.sh`: SLURM batch run over selected entities
+- `src/misc/`: helper scripts for data generation, token budgeting, and HF upload
 
-## Requirements
+## Environment setup
 
-* Python 3.8+
-* [`torch`](https://pytorch.org/)
-* [`datasets`](https://github.com/huggingface/datasets)
-* [`transformers`](https://github.com/huggingface/transformers)
-* [`trl`](https://github.com/huggingface/trl)
-
-## Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/strzar/PURGE.git
-   cd PURGE
-   ```
-
-2. **Create and activate a virtual environment**
-
-   ```bash
-   conda create -n purge
-   conda activate purge
-   pip install -r requirements.txt
-   ```
-
-3. **Install dependencies**
-
-   ```bash
-   pip install torch datasets transformers trl
-   ```
-
-## Project Structure
-
-```plaintext
-├── README.md
-├── grpo.py      # Main training script
-├── PURGE/
-│   └── 1_Stephen_King/
-│       ├── fts.json         # List of forbidden token sequences (JSON array)
-│       └── qa_pairs.json    # Forget Dataset of (prompt, completion) pairs
-└── outputs/
-    └── Phi-3-mini-4k-instruct-1_Stephen_King/  # Checkpoints & logs
-```
-
-## Configuration
-
-At the top of `grpo.py`, adjust the following constants:
-
-| Constant              | Description                                                               |
-| --------------------- | ------------------------------------------------------------------------- |
-| `TARGET`              | Name of the forget target (e.g. `"1_Stephen_King"`)                       |
-| `HF_MODEL_NAME`       | Hugging Face model identifier (e.g. `"microsoft/Phi-3-mini-4k-instruct"`) |
-| `OUTPUT_DIR`          | Local path for saving fine-tuned model checkpoints                        |
-| `FORGET_WORDS_FILE`   | Path to JSON file containing an array of words/phrases to forget          |
-| `FORGET_DATASET_FILE` | Path to JSON file containing QA pairs used for training                   |
-
-## Usage
-
-Run the training script directly:
+1. Clone and enter repo
 
 ```bash
-python grpo.py
+git clone https://github.com/strzar/purge.git
+cd purge
 ```
 
-* The script will detect GPU if available, otherwise it will use CPU.
-* It loads the first 100 examples from your QA dataset (adjustable via `dataset.select(range(100))`).
-* Training logs, checkpoints, and the final model will be saved under `OUTPUT_DIR`.
+2. Create environment (Python 3.10+ recommended)
 
-## How It Works
-
-1. **Load Forget Words**
-   Reads `fts.json` into a Python `set` for fast matching.
-
-2. **Define Reward Function**
-
-   ```python
-         def reward\_func(completions, \*\*kwargs):
-            pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, forget\_words)) + r')\b',re.IGNORECASE)
-            return \[0.0 if pattern.search(c) else 1.0 for c in completions]
-
-   ```
-   - If any forbidden word appears in a generated completion, that sample’s reward is 0.0; otherwise 1.0.
-
-3. **Prepare Dataset**  
-   Loads your QA JSON file into a Hugging Face `Dataset`, shuffles/splits if desired, and selects a subset.
-
-4. **Configure and Launch GRPO**  
-   Uses `trl.GRPOConfig` to specify training hyperparameters, then instantiates `GRPOTrainer` and calls `.train()`.
-
-Customizing the Forget List and Dataset
----------------------------------------
-
-- **Forget List (`fts.json`)**: Add or remove words/phrases you wish the model to unlearn.
-- **QA Dataset (`qa_pairs.json`)**: Curate the prompts and target completions used to guide the unlearning process.  
-
-You can also modify the `dataset.select(range(100))` call to include more or fewer examples, or implement a proper train/test split using `dataset.train_test_split()`.
-
-Training Arguments
-------------------
-
-Adjust these in the `GRPOConfig` block:
-
-| Argument                      | Default | Description                                       |
-|-------------------------------|---------|---------------------------------------------------|
-| `num_train_epochs`            | 40      | Number of epochs to train                         |
-| `per_device_train_batch_size` | 2       | Batch size per GPU/CPU                            |
-| `gradient_accumulation_steps` | 8       | Steps to accumulate gradients before update       |
-| `num_generations`             | 4       | Number of generations per input for reward eval   |
-| `logging_steps`               | 10      | Log training metrics every N steps                |
-| `save_strategy`               | steps   | When to save checkpoints (`"steps"` or `"epoch"`) |
-| `save_steps`                  | 500     | Save checkpoint every N steps                     |
-| `save_total_limit`            | 1       | Max number of saved checkpoints                   |
-
-Evaluation
-------------
-All the evaluation was done using the RWKU benchmark: https://github.com/jinzhuoran/RWKU
-In order to reproduce the results for this method, you need to follow the instructions on the RWKU benchmark, to setup their environment and test PURGE on the benchmark.
-
-Contributing
-------------
-
-Contributions, issues, and feature requests are welcome!  
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m 'Add YourFeature'`)  
-4. Push to the branch (`git push origin feature/YourFeature`)  
-5. Open a Pull Request
-
-License
--------
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+```bash
+conda create -n purge
+conda activate purge
+pip install -r requirements.txt
 ```
+
+3. Authenticate (if needed)
+
+```bash
+huggingface-cli login
+# optional
+wandb login
+```
+
+## Quick start
+
+Important: current default path configs are authored for running from `scripts/`.
+
+```bash
+cd scripts
+python ../src/purge.py training=fast entity=1_Stephen_King
+```
+
+That command runs a short debug job using:
+- model: `microsoft/Phi-3-mini-4k-instruct`
+- reward: `exponential_decay`
+- dataset subset: 20 samples (`training=fast`)
+
+## Running experiments
+
+### Single entity
+
+From `scripts/`:
+
+```bash
+python ../src/purge.py entity=74_Socrates
+```
+
+### Change reward function
+
+```bash
+python ../src/purge.py entity=74_Socrates reward=binary training=binary
+python ../src/purge.py entity=74_Socrates reward=exponential_decay training=exponential_decay
+python ../src/purge.py entity=74_Socrates reward=pagerank training=pagerank
+```
+
+### Change model
+
+```bash
+python ../src/purge.py model=qwen2.5-1.5b
+python ../src/purge.py model=qwen2.5-3b
+python ../src/purge.py model=llama3.2-1b
+```
+
+### Full-data training
+
+```bash
+python ../src/purge.py training=full
+```
+
+### Hydra sweeps (multi-run)
+
+```bash
+python ../src/purge.py --multirun \
+  entity=1_Stephen_King,2_Confucius \
+  reward=binary,exponential_decay
+```
+
+## Configuration system (Hydra)
+
+Main config: `src/configs/config.yaml`
+
+Default groups:
+- `entity`: one target identity (files in `src/configs/entity/`)
+- `model`: base model selection (files in `src/configs/model/`)
+- `training`: optimizer/runtime knobs (files in `src/configs/training/`)
+- `reward`: reward type parameters (files in `src/configs/reward/`)
+- `paths`: dataset/model output paths (files in `src/configs/paths/`)
+
+Examples:
+
+```bash
+python ../src/purge.py \
+  entity=24_Beyoncé \
+  training.num_epochs=20 \
+  training.per_device_train_batch_size=1 \
+  training.gradient_accumulation_steps=16
+```
+
+## Data format
+
+Each entity folder is expected at:
+
+`data/PURGE/<entity_target>/`
+
+Required files:
+- `fts.json`: list of forget terms/entities
+- `qa_pairs.json`: list of prompt-response objects used for GRPO training
+
+`qa_pairs.json` example:
+
+```json
+[
+  {"prompt": "...", "response": "..."},
+  {"prompt": "...", "response": "..."}
+]
+```
+
+## Cluster usage (SLURM)
+
+### H200 batch script
+
+```bash
+cd scripts
+sbatch run_h200.sh
+```
+
+- Edit `names=(...)` in `scripts/run_h200.sh` to choose entity subset.
+- Logs are written to `logs/`.
+
+### A100 script
+
+```bash
+cd scripts
+sbatch run_a100.sh
+```
+
+## Outputs and logging
+
+By default, trained checkpoints are written under:
+
+`models/<reward.type>/<model-name>-<entity>-<reward-type>`
+
+Hydra run metadata is written under timestamped `outputs/` and `multirun/` directories.
+
+If `wandb` is enabled, runs are tracked automatically. To disable online sync:
+
+```bash
+export WANDB_MODE=offline
+```
+
+## Utility scripts
+
+- `src/minimal.py`: lightweight non-Hydra prototype script for fast experimentation and integration
+- `src/misc/data_generation/generate_responses.py`: build `qa_pairs.json` from target prompts
+- `src/misc/data_generation/generate_forget_words.py`: create manual NER prompt files
+- `src/misc/huggingface_uploads/upload.py`: upload trained checkpoints (edit placeholder paths first)
+- `scripts/upload.sh`: batch upload loop over entities
+
+## Troubleshooting
+
+- `ModuleNotFoundError: No module named 'trl'`
+  - Install dependencies with `pip install -r requirements.txt` in the active environment.
+
+- `FileNotFoundError` for `../data/PURGE/...`
+  - Run training from `scripts/` as shown above, or override `paths.*` in Hydra.
+
+- CUDA OOM / slow runs
+  - Reduce `training.per_device_train_batch_size`, `training.num_generations`, or switch to `training=fast`.
+
+## Citation
+
+If you use this repository, please consider citing the paper:
+
+```bibtex
+@article{zaradoukas2026reinforcement,
+  title={Reinforcement Unlearning via Group Relative Policy Optimization},
+  author={Zaradoukas, Efstratios and Prenkaj, Bardh and Kasneci, Gjergji},
+  journal={arXiv preprint arXiv:2601.20568},
+  year={2026}
+}
+```
+
+## License
+
+This project is licensed under the MIT License.

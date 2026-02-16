@@ -1,0 +1,13 @@
+# Default GRPO training configuration
+num_epochs: 40
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 16
+num_generations: 4
+logging_steps: 10
+save_strategy: "steps"
+save_steps: 500
+save_total_limit: 1
+
+# Dataset options
+dataset_size: 100  # Number of samples to use (null for full dataset)
+

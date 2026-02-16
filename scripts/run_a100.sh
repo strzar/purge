@@ -14,4 +14,4 @@
 #SBATCH --cpus-per-task=4   ## Cores (default 2)
 
 ##-------------------------------------------------------------------------------
-python grpo.py
+python purge.py

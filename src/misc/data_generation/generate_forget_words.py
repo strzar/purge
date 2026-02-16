@@ -2,7 +2,7 @@
 """
 Prepare manual NER prompts for ChatGPT.
 
-For every directory under /home/stratis/unlearning/PURGE/<NAME>:
+For every directory under /purge/data/PURGE/<NAME>:
   • read qa_pairs.json
   • concatenate all 'response' entries into `context`
   • create ner_request_<NAME>.txt with:
@@ -21,7 +21,7 @@ import re
 from pathlib import Path
 from typing import List, Dict
 
-ROOT_DIR = Path("/home/stratis/unlearning/PURGE")
+ROOT_DIR = Path("data/PURGE")
 
 
 def human_readable(dir_name: str) -> str:

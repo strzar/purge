@@ -22,7 +22,7 @@ def main():
     # Upload the finetuned unlearning model folder
     upload_folder(
         repo_id=repo_id,
-        folder_path=f"/mnt/raid5/stratis/models/binary/Phi-3-mini-4k-instruct-{TARGET}",#here is missing a /checkpoint-1000
+        folder_path=f"/path/to/models/binary/Phi-3-mini-4k-instruct-{TARGET}",#here is missing a /checkpoint-1000
         commit_message="Upload finetuned unlearning model"
     )
 
